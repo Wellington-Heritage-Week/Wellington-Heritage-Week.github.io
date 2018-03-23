@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: Wellington-Heritage-Week/Wellington-Heritage-Week.github.io
+
+publish_mode: editorial_workflow
+media_folder: "assets/uploaded"
+
+collections:
+  - name: "events"
+    label: "Events"
+    folder: "_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "img", widget: "image"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Body"
+        name: "tag"
+        widget: "list"
+        field:
+          - {label: "Tag", name: "tag", widget: "string"}
