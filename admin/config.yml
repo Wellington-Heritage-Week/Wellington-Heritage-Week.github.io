@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: Wellington-Heritage-Week/Wellington-Heritage-Week.github.io
+  branch: master
+  base_url: https://wellington-heritage-week.herokuapp.com/
 
 publish_mode: editorial_workflow
 media_folder: "assets/uploaded"
