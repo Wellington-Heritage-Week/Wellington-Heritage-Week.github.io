@@ -10,10 +10,10 @@ host:
     Mt Victoria, Wellington boasting a spectacular view of Wellington harbour
     and the Capital City itself.
   email: new-zealand@icpe.org
-  image: /assets/uploaded/st gerards m.gif
+  image: /assets/uploaded/icpe.png
   name: ICPE Mission New Zealand
   phone: 04 801 7797
-  website: 'http://example.org'
+  website: 'http://www.icpe.org/newzealand'
 tag:
   - Free
   - Open Day
