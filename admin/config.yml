@@ -18,6 +18,17 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
       - {label: "Event date", name: "date", widget: "datetime"}
+      - {label: "Booked out", name: "booked_out", widget: "boolean"}
+      - label: "Host information"
+        name: "host"
+        widget: "object"
+        fields:
+          - {label: "Host image", name: "image", widget: "image"}
+          - {label: "Host name", name: "name", widget: "string"}
+          - {label: "Blurb", name: "blurb", widget: "string"}
+          - {label: "Email", name: "email", widget: "string"}
+          - {label: "Phone number", name: "phone", widget: "string"}
+          - {label: "Website (remember http://)", name: "website", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Tags"
         name: "tag"

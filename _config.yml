@@ -1,5 +1,4 @@
-
-title: Bef - Enjoy Freedom
+title: Wellington Heritage Week
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -10,13 +9,12 @@ url: ""
 sass:
   sass_dir: assets/css/sass
 
-
 # Banner settings
-banner-title: Wellington Heritage Week
-banner-desc: Something
+banner-title: ""
+banner-desc: ""
 
 # Logo settings
-logo: /assets/img/logo.png
+logo: /assets/img/logo.svg
 logodescription: Wellington Heritage  Weekend
 
 # Author settings
@@ -35,21 +33,27 @@ pinterest_url: # add url link
 dribbble_url:  # add url link
 facebook_url:  # add url link
 
-# Disqus
-discus_identifier: mr-brown # add your discus identifier
-
 # Tracker
 analytics:
-
-# Paginate
-paginate: 12
-paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
 
 include: [_pages]
 exclude: [".idea/", ".gitignore", "LICENSE.txt"]
+
+# Page defaults
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      booked_out: true
+      host:
+        name: "Host name"
+        blurb: "Host blurb"
+        email: "email@example.org"
+        phone: "027000000"
+        website: "https://example.org"

@@ -13,5 +13,8 @@ layout: main
       <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
       <h3 class="chapter_title">{{post.title}}</h3>
     </div>
+    {% if post.booked_out %}
+    <div class="ribbon"><span>Booked out</span></div>
+    {% endif %}
   </div>
 {% endfor %}
