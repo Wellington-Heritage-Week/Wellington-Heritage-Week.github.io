@@ -2,18 +2,18 @@
 layout: main
 ---
 
-{% for post in site.posts %}
+{% for event in site.events %}
   <div class="chapter">
-    <a href="{{post.url | prepend: site.baseurl}}">
-      {% if post.img %}
-      <img src={{ post.img | prepend: site.baseurl }} alt="{{post.title}}">
+    <a href="{{event.url | prepend: site.baseurl}}">
+      {% if event.img %}
+      <img src={{ event.img | prepend: site.baseurl }} alt="{{event.title}}">
       {% endif %}
     </a>
     <div class="chapter_inner">
-      <p class="chapter_number">{{post.date | date: '%Y, %b %d'}}</p>
-      <h3 class="chapter_title">{{post.title}}</h3>
+      <p class="chapter_number">{{event.event_date}}</p>
+      <h3 class="chapter_title">{{event.title}}</h3>
     </div>
-    {% if post.booked_out %}
+    {% if event.booked_out %}
     <div class="ribbon"><span>Booked out</span></div>
     {% endif %}
   </div>

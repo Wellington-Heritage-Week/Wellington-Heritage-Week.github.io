@@ -10,14 +10,14 @@ media_folder: "assets/uploaded"
 collections:
   - name: "events"
     label: "Events"
-    folder: "_posts/"
+    folder: "collections/_events/"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Image", name: "img", widget: "image"}
-      - {label: "Event date", name: "date", widget: "datetime"}
+      - {label: "Event date", name: "event_date", widget: "string"}
       - {label: "Booked out", name: "booked_out", widget: "boolean"}
       - label: "Host information"
         name: "host"

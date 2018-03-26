@@ -14,7 +14,7 @@ layout: default
       </div>
       <div class="post_description">
         <h1 class="post_title">{{page.title}}</h1>
-        <p class="post_meta">{{page.date | date: '%A %-d %B, %I:%M %p'}}</p>
+        <p class="post_meta">{{page.event_date}}</p>
       </div>
     </header> <!-- End Header -->
 
@@ -71,9 +71,9 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">Recent post</h2>
       <div class="recent_list">
-        {% for post in site.posts offset:0 limit:6 %}
-          {% if post.title %}
-            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ post.img | prepend: site.baseurl}} )"><span>{{ post.title }}</span></a>
+        {% for event in site.events offset:0 limit:6 %}
+          {% if event.title %}
+            <a href="{{ root_url }}{{ event.url }}" class="recent_item" style="background-image: url( {{ event.img | prepend: site.baseurl}} )"><span>{{ event.title }}</span></a>
           {% endif %}
         {% endfor %}
       </div>
