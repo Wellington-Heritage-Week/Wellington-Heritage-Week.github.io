@@ -35,3 +35,23 @@ collections:
         widget: "list"
         allow_add: false
         default: []
+  - name: "settings"
+    label: "Settings"
+    files:
+      - label: "Site settings"
+        name: "site"
+        file: "_config.yml"
+        fields:
+          - {label: "Site title", name: "title", widget: "text"}
+          - {label: "Homepage title", name: "banner-title", widget: "text"}
+          - {label: "Homepage description", name: "banner-desc", widget: "text"}
+          - {label: "Author image", name: "author-pic", widget: "image"}
+          - {label: "Author name", name: "author-name", widget: "text"}
+          - {label: "Author about", name: "about-author", widget: "text"}
+          - {label: "Author email", name: "email", widget: "text"}
+          - {label: "Phone", name: "phone", widget: "text"}
+          - {label: "Website", name: "website", widget: "text"}
+          - {label: "Facebook url", name: "facebook_url", widget: "text"}
+          - {label: "Instagram url", name: "instagram_url", widget: "text"}
+          - {label: "Analytics tracking tag", name: "analytics", widget: "text"}
+          - {label: "Show events", name: "show_events", widget: "boolean"}

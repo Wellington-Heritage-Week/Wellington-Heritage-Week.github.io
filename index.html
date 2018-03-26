@@ -2,6 +2,7 @@
 layout: main
 ---
 
+{% if site.show_events %}
 {% for event in site.events %}
   <div class="chapter">
     <a href="{{event.url | prepend: site.baseurl}}">
@@ -18,3 +19,4 @@ layout: main
     {% endif %}
   </div>
 {% endfor %}
+{% endif %}
