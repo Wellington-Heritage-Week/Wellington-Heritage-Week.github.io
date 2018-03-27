@@ -74,14 +74,10 @@ collections:
           - label: "Sponsors"
             name: "sponsors"
             widget: "list"
-            field:
-              - label: "Sponsor"
-                widget: "object"
-                fields:
-                  - label: "Sponsor name"
-                    name: "name"
-                    widget: "text"
-                  - label: "Sponsor logo"
-                    name: "logo"
-                    widget: "image"
-
+            fields:
+              - label: "Sponsor name"
+                name: "name"
+                widget: "text"
+              - label: "Sponsor logo"
+                name: "logo"
+                widget: "image"
