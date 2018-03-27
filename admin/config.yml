@@ -67,3 +67,21 @@ collections:
           - {required: false, label: "Email", name: "email", widget: "text"}
           - {required: false, label: "Phone", name: "phone", widget: "text"}
           - {required: false, label: "Website", name: "website", widget: "text"}
+      - label: "Sponsors"
+        name: "sponsors"
+        file: "_data/sponsors.yml"
+        fields:
+          - label: "Sponsors"
+            name: "sponsors"
+            widget: "list"
+            field:
+              - label: "Sponsor"
+                widget: "object"
+                fields:
+                  - label: "Sponsor name"
+                    name: "name"
+                    widget: "text"
+                  - label: "Sponsor logo"
+                    name: "logo"
+                    widget: "image"
+
