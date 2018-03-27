@@ -1,8 +1,9 @@
 ---
 layout: main
+permalink: /index.html
 ---
 
-{% if site.show_events %}
+{% if site.data.settings.show_events %}
 {% for event in site.events %}
   <div class="chapter">
     <a href="{{event.url | prepend: site.baseurl}}">

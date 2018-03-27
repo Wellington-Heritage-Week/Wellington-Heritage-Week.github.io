@@ -1,20 +1,23 @@
-title: Wellington Heritage Week
-banner-title: About Us
-banner-desc: .
-author-pic: /assets/uploaded/whw single logo.png
-author-name: Wellington Heritage Week Trust
-about-author: >-
-  Wellington Heritage Week Trust is a not for profit community trust which
-  organises Wellington Heritage Week. All organisers, hosts and supporters are
-  volunteers and we are thankful for their on-going support.
+baseurl: ""
+url: ""
+sass:
+  sass_dir: assets/css/sass
 
+# Logo settings
+logo: /assets/img/logo.svg
+logodescription: Wellington Heritage  Weekend
 
-  If you would like to support Wellington Heritage Week Trust, please get in
-  touch via info@wellingtonheritageweek.co.nz
-email: info@wellingtonheritageweek.co.nz
-phone: N/A
-website: wellingtonheritageweek.co.nz
-facebook_url: 'https://www.facebook.com/WellingtonHeritageWeek/'
-instagram_url: TBA
-analytics: TBA
-show_events: true
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+collections_dir: _collections
+
+collections:
+  events:
+    permalink: /event/:title/
+    output: true
+
+exclude: [".idea/", ".gitignore", "LICENSE.txt"]
+include: [_pages]
