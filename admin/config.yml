@@ -14,22 +14,22 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "img", widget: "image"}
-      - {label: "Event date", name: "event_date", widget: "string"}
-      - {label: "Booked out", name: "booked_out", widget: "boolean"}
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: false, label: "Image", name: "img", widget: "image"}
+      - {required: false, label: "Event date", name: "event_date", widget: "string"}
+      - {required: false, label: "Booked out", name: "booked_out", widget: "boolean"}
       - label: "Host information"
         name: "host"
         widget: "object"
         fields:
-          - {label: "Host image", name: "image", widget: "image"}
-          - {label: "Host name", name: "name", widget: "string"}
-          - {label: "Blurb", name: "blurb", widget: "string"}
-          - {label: "Email", name: "email", widget: "string"}
-          - {label: "Phone number", name: "phone", widget: "string"}
-          - {label: "Website (remember http://)", name: "website", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+          - {required: false, label: "Host image", name: "image", widget: "image"}
+          - {required: false, label: "Host name", name: "name", widget: "string"}
+          - {required: false, label: "Blurb", name: "blurb", widget: "string"}
+          - {required: false, label: "Email", name: "email", widget: "string"}
+          - {required: false, label: "Phone number", name: "phone", widget: "string"}
+          - {required: false, label: "Website (remember http://)", name: "website", widget: "string"}
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
       - label: "Tags"
         name: "tag"
         widget: "list"
@@ -42,28 +42,28 @@ collections:
         name: "site"
         file: "_data/settings.yml"
         fields:
-          - {label: "Site title", name: "title", widget: "text"}
-          - {label: "Analytics tracking tag", name: "analytics", widget: "text"}
-          - {label: "Show events", name: "show_events", widget: "boolean"}
-          - {label: "Homepage title", name: "banner-title", widget: "text"}
-          - {label: "Homepage description", name: "banner-desc", widget: "text"}
+          - {required: false, label: "Site title", name: "title", widget: "text"}
+          - {required: false, label: "Analytics tracking tag", name: "analytics", widget: "text"}
+          - {required: false, label: "Show events", name: "show_events", widget: "boolean"}
+          - {required: false, label: "Homepage title", name: "banner-title", widget: "text"}
+          - {required: false, label: "Homepage description", name: "banner-desc", widget: "text"}
       - label: "Social media settings"
         name: "social"
         file: "_data/social.yml"
         fields:
-          - {label: "Facebook url", name: "facebook_url", widget: "text"}
-          - {label: "Instagram url", name: "instagram_url", widget: "text"}
+          - {required: false, label: "Facebook url", name: "facebook_url", widget: "text"}
+          - {required: false, label: "Instagram url", name: "instagram_url", widget: "text"}
       - label: "About page settings"
         name: "about"
         file: "_data/about.yml"
         fields:
-          - {label: "Author image", name: "author-pic", widget: "image"}
-          - {label: "Author name", name: "author-name", widget: "text"}
-          - {label: "Author about", name: "about-author", widget: "text"}
+          - {required: false, label: "Author image", name: "author-pic", widget: "image"}
+          - {required: false, label: "Author name", name: "author-name", widget: "text"}
+          - {required: false, label: "Author about", name: "about-author", widget: "text"}
       - label: "Contact settings"
         name: "contact"
         file: "_data/contact.yml"
         fields:
-          - {label: "Email", name: "email", widget: "text"}
-          - {label: "Phone", name: "phone", widget: "text"}
-          - {label: "Website", name: "website", widget: "text"}
+          - {required: false, label: "Email", name: "email", widget: "text"}
+          - {required: false, label: "Phone", name: "phone", widget: "text"}
+          - {required: false, label: "Website", name: "website", widget: "text"}
