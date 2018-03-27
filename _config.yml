@@ -1,69 +1,20 @@
 title: Wellington Heritage Week
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+banner-title: About Us
+banner-desc: .
+author-pic: /assets/uploaded/whw single logo.png
+author-name: Wellington Heritage Week Trust
+about-author: >-
+  Wellington Heritage Week Trust is a not for profit community trust which
+  organises Wellington Heritage Week. All organisers, hosts and supporters are
+  volunteers and we are thankful for their on-going support.
 
-baseurl: ""
-url: ""
-sass:
-  sass_dir: assets/css/sass
 
-# Banner settings
-banner-title: ""
-banner-desc: ""
-
-# Logo settings
-logo: /assets/img/logo.svg
-logodescription: Wellington Heritage  Weekend
-
-# Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
-
-# Social link
-google_url:    # add url link
-twitter_url:   # add url link
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
-
-# Tracker
-analytics:
-
-#events switch
+  If you would like to support Wellington Heritage Week Trust, please get in
+  touch via info@wellingtonheritageweek.co.nz
+email: info@wellingtonheritageweek.co.nz
+phone: N/A
+website: wellingtonheritageweek.co.nz
+facebook_url: 'https://www.facebook.com/WellingtonHeritageWeek/'
+instagram_url: TBA
+analytics: TBA
 show_events: false
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-
-collections_dir: collections
-
-collections:
-  events:
-    permalink: /event/:title/
-    output: true
-
-exclude: [".idea/", ".gitignore", "LICENSE.txt"]
-include: [_pages]
-
-# Page defaults
-defaults:
-  -
-    scope:
-      type: "events"
-    values:
-      booked_out: true
-      host:
-        name: "Host name"
-        blurb: "Host blurb"
-        email: "email@example.org"
-        phone: "027000000"
-        website: "https://example.org"
