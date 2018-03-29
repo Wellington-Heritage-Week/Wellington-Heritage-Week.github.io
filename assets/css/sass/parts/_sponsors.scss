@@ -1,0 +1,17 @@
+.sponsors {
+  margin: 1rem 0 1rem 0;
+  padding: 1rem 0 1rem 0;
+  text-align: center;
+  color: white;
+  //background-color: lighten($dark_gray, 10%);
+
+  .sponsor-card {
+    display: inline-block;
+    margin: 5px;
+
+    img {
+      max-height: 120px;
+      max-width: 100%;
+    }
+  }
+}
