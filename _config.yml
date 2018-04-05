@@ -4,7 +4,6 @@ sass:
   sass_dir: assets/css/sass
 
 # Logo settings
-logo: /assets/img/logo.svg
 logodescription: Wellington Heritage  Weekend
 
 # Build settings

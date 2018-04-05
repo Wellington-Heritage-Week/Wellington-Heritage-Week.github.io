@@ -1,27 +1,27 @@
 ---
 layout: default
 ---
-  <!--{% include header.html %}-->
+{% include header.html %}
 
-  {% include banner.html %}
+{% include banner.html %}
 
-  <main class="page-content" aria-label="Content">
-      <section class="sponsors">
-          <div class="wrapper flex-row">
-              <h1>EXPERIENCE WELLINGTON’S PEOPLE, PLACES & STORIES</h1>
-              <h3>Organised by Wellington Heritage Week Trust with support from the following sponsors:</h3>
-          </div>
-          {% for sponsor in site.data.sponsors.sponsors %}
-          <div class="sponsor-card">
-            <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-          </div>
-          {% endfor %}
-      </section>
-      <section class="chapters cf">
-          <div class="wrapper flex-row">
-          {{ content }}
-          </div>
-      </section>
-  </main>
-  {% include contact.html %}
-  {% include footer.html %}
+<main class="page-content" aria-label="Content">
+  <section class="sponsors">
+      <div class="wrapper flex-row">
+          <h1>EXPERIENCE WELLINGTON’S PEOPLE, PLACES & STORIES</h1>
+          <h3>Organised by Wellington Heritage Week Trust with support from the following sponsors:</h3>
+      </div>
+      {% for sponsor in site.data.sponsors.sponsors %}
+      <div class="sponsor-card">
+        <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+      </div>
+      {% endfor %}
+  </section>
+  <section class="chapters cf">
+      <div class="wrapper flex-row">
+      {{ content }}
+      </div>
+  </section>
+</main>
+{% include contact.html %}
+{% include footer.html %}

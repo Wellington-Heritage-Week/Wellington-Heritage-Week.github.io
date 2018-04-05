@@ -1,12 +1,46 @@
 // - - - - - - - - - - Header Styles - - - - - - - - - - //
 
+.header-top
+  background-color: white
+
 .main_header
+  &.homepage
+    background-color: white
+    height: 125px
+    .logo
+      img
+        width: 150px
+        border-radius: 150px
+        background-color: white
+        padding: 5px
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+      top: 0
+
+    @media (max-width: 500px)
+      .hide-small
+        display: none
+
+    .event-banner
+      height: 100%
+      img
+        height: 100%
+    nav
+      a
+        color: black
+        text-decoration: none
+        margin-left: 2rem
+
+
   padding: 0.75rem
   display: flex
   justify-content: space-between
   align-items: center
   background-color: $dark
   z-index: 1
+
+
   .logo
     color: $white
     margin: 0
