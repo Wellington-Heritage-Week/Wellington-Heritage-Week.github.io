@@ -1,0 +1,35 @@
+// - - - - - - - - - - Header Styles - - - - - - - - - - //
+.white
+  background-color: white
+
+.header
+  height: 120px
+  @media (max-width: 500px)
+    height: 90px
+  display: flex
+  background-color: white
+  width: 100%
+  .logo-flex
+    flex: 0
+    .logo
+      height: 120%
+      margin-top: 5px
+      border: 5px white solid
+      border-radius: 100%
+  .flex
+    flex: 1
+    .header-event-banner
+      height: 100%
+      padding: 0 10px 0 0
+    &.nav
+      display: table
+      text-align: right
+      width: 100%
+      height: 100%
+      div
+        display: table-cell
+        vertical-align: middle
+        a
+          text-decoration: none
+          color: black
+          padding: 10px

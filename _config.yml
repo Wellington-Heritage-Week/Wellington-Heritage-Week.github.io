@@ -1,0 +1,22 @@
+baseurl: ""
+url: ""
+sass:
+  sass_dir: assets/css/sass
+
+# Logo settings
+logodescription: Wellington Heritage  Weekend
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+collections_dir: _collections
+
+collections:
+  events:
+    permalink: /event/:title/
+    output: true
+
+exclude: [".idea/", ".gitignore", "LICENSE.txt"]
+include: [_pages]

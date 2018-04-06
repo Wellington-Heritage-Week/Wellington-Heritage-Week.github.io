@@ -1,0 +1,85 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<main class="post_content">
+  <article class="post">
+    <header>
+      <div class="post_image">
+        <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
+        {% if page.booked_out %}
+        <div class="ribbon large"><span>Booked out</span></div>
+        {% endif %}
+      </div>
+      <div class="post_description">
+        <h1 class="post_title">{{page.title}}</h1>
+        <p class="post_meta">{{page.event_date}}</p>
+      </div>
+    </header> <!-- End Header -->
+
+    <div class="entry_content">
+      {{page.content | markdownify}}
+    </div>
+    
+    <div class="post_wrapper">
+      <footer class="post_footer cf">
+        <div class="post_share">
+          <span>Share:</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+        </div>
+        <div class="post_tag">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+          <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </footer>
+    </div>
+  </article> <!-- End Section Post -->
+
+  <section class="author cf">
+    <div class="post_wrapper">
+      {% if post.host.image %}
+      <div class="author_image">
+        <img src="{{site.baseurl}}/assets/img/{{ page.host.image }}" alt="Image of event host">
+      </div>
+      {% endif %}
+      <div class="{% if post.host.image %}author_info{% endif %}">
+        <h2 class="author_title">{{page.host.name}}</h2>
+        <p class="author_subtitle">{{page.host.blurb}}</p>
+        <div class="author_social">
+          {% if page.host.email %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{page.host.email}}">{{page.host.email}}</a></span>
+          {% endif %}
+
+          {% if page.host.phone %}
+          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{page.host.phone}}">{{page.host.phone}}</a></span>
+          {% endif %}
+
+          {% if page.host.website %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{page.host.website}}" target="_blank">{{page.host.website}}</a></span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section> <!-- End Section Author -->
+
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
+        {% for event in site.events offset:0 limit:6 %}
+          {% if event.title %}
+            <a href="{{ root_url }}{{ event.url }}" class="recent_item" style="background-image: url( {{ event.img | prepend: site.baseurl}} )"><span>{{ event.title }}</span></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section> <!-- End Section Recent Box -->
+  
+</main> <!-- End Section Post Content -->
+
+{% include footer.html %}

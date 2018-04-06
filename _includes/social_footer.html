@@ -1,0 +1,13 @@
+
+<ul class="social_footer">
+  {% if site.data.social.instagram_url %}
+  <li><a href="{{ site.data.social.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+  {% else %}
+  <li><a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+  {% endif %}
+  {% if site.data.social.facebook_url %}
+  <li><a href="{{ site.data.social.facebook_url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+  {% else %}
+  <li><a href="#" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+  {% endif %}
+</ul>

@@ -1,0 +1,19 @@
+<div class="section-title">
+    <h1>Events:</h1>
+</div>
+{% for event in site.events %}
+<div class="chapter">
+    <a href="{{event.url | prepend: site.baseurl}}">
+        {% if event.img %}
+        <img src={{site.baseurl}}{{ event.img }} alt="{{event.title}}">
+        {% endif %}
+        <div class="chapter_inner">
+            <p class="chapter_number">{{event.event_date}}</p>
+            <h3 class="chapter_title">{{event.title}}</h3>
+        </div>
+        {% if event.booked_out %}
+        <div class="ribbon"><span>Booked out</span></div>
+        {% endif %}
+    </a>
+</div>
+{% endfor %}

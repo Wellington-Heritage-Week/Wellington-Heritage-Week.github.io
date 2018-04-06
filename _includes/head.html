@@ -1,0 +1,22 @@
+<head>
+	<title>{% if page.title %}{{page.title}} - {{site.data.settings.title}}{% else %}{{site.data.settings.title}}{% endif %}</title>
+	<meta charset="utf-8">
+	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<meta property="og:image" content="{{ site.baseurl }}{% if page.img %}{{page.img}}{% else %}{{site.data.settings.banner}}{% endif %}">
+	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.data.settings.title}}{% else %}{{site.data.settings.title}}{% endif %}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ page.url }}" />
+
+	<meta name="theme-color" content="#10585e">
+	<meta name="msapplication-navbutton-color" content="#10585e">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#10585e">
+
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/css/sass/main.css" | prepend: site.baseurl }}">
+</head>
