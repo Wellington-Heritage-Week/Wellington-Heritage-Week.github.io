@@ -20,3 +20,5 @@ collections:
 
 exclude: [".idea/", ".gitignore", "LICENSE.txt"]
 include: [_pages]
+
+url: 'http://wellingtonheritageweek.co.nz'
