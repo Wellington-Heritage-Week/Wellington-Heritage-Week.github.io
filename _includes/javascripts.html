@@ -1,0 +1,36 @@
+<script type="application/javascript">
+    (function () {
+        var images = document.getElementsByClassName('banner-background');
+        var currentIndex = images.length - 1;
+
+        for (var a = 0;a < images.length; a++) {
+            images[a].style.left = a === currentIndex ? "0%" : "-100%";
+        }
+
+        function rotateImage() {
+            var newIndex = (currentIndex + 1) % images.length;
+            startAnimation(currentIndex, newIndex);
+            currentIndex = newIndex;
+        }
+
+        function startAnimation(oldIndex, newIndex) {
+            setPosition(oldIndex, 1, function () {
+                images[oldIndex].style.transition = "";
+                images[oldIndex].style.left = "-100%";
+            });
+            setPosition(newIndex, 0);
+        }
+
+        function setPosition(imageIndex, position, onAnimationComplete) {
+            images[imageIndex].style.transition = "left 1s";
+            images[imageIndex].style.left = (position * 100) + "%";
+            if (onAnimationComplete) {
+                setTimeout(onAnimationComplete, 1000);
+            }
+        }
+
+        if (images.length > 0) {
+            setInterval(rotateImage, {{ site.data.backgrounds.rollover_time }});
+        }
+    })();
+</script>

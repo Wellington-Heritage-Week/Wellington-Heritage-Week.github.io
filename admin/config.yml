@@ -83,3 +83,19 @@ collections:
               - label: "Sponsor logo"
                 name: "logo"
                 widget: "image"
+      - label: "Background Images"
+        name: "background"
+        file: "_data/backgrounds.yml"
+        fields:
+          - label: "Rollover time (milliseconds)"
+            name: "rollover_time"
+            widget: "number"
+            min: 1000
+            valueType: "int"
+          - label: "Background Images"
+            name: "images"
+            widget: "list"
+            field:
+              - label: "Image"
+                name: "image"
+                widget: "image"

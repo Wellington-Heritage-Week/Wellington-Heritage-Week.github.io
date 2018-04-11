@@ -1,3 +1,5 @@
 <section id="banner">
-  <div class="banner-background"></div>
+  {% for background in site.data.backgrounds.images %}
+  <div class="banner-background" style="background: url({{ background }}) center;"></div>
+  {% endfor %}
 </section>
