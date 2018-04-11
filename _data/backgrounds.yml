@@ -1,5 +1,5 @@
 images:
-  - '/assets/uploaded/boatsheds-waterfront.jpg'
-  - '/assets/uploaded/cable-car.jpg'
-  - '/assets/uploaded/zealandia-reservoir-tower.jpg'
+  - image: '/assets/uploaded/boatsheds-waterfront.jpg'
+  - image: '/assets/uploaded/cable-car.jpg'
+  - image: '/assets/uploaded/zealandia-reservoir-tower.jpg'
 rollover_time: 10000
