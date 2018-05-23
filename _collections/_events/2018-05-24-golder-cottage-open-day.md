@@ -20,6 +20,8 @@ The well preserved Cottage and outbuildings contain many interesting artifacts, 
 
 We will feature a special display collated by  respected researcher and genealogist Lynly Yates on Women's Suffrage as it has direct  links to the Cottage.
 
+No booking is required. 
+
 **Location:** 707 Fergusson Drive, Upper Hutt
 
 **Cost:** Free
