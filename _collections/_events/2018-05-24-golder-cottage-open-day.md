@@ -18,6 +18,8 @@ Upper Hutt's multi-award winning Pioneer cottage Museum, showcasing how  the fir
 
 The well preserved Cottage and outbuildings contain many interesting artifacts, most of them Golder- family-owned,  that are sure to evoke past memories for older visitors and have the youngsters marvelling at how children lived 142 years ago- without even their own bed and with no electricity for digital devices!
 
+We will feature a special display collated by  respected researcher and genealogist Lynly Yates on Women's Suffrage as it has direct  links to the Cottage.
+
 **Location:** 707 Fergusson Drive, Upper Hutt
 
 **Cost:** Free
