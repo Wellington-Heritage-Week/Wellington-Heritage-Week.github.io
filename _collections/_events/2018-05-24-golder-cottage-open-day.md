@@ -5,9 +5,7 @@ description: ''
 img: /assets/uploaded/p1030734.jpg
 event_date: '1:30-4pm Monday 22 Oct & 1:30-4pm Saturday 27th Oct'
 host:
-  blurb: >-
-    Golder Homestead Museum Society Committee is a community organisation which
-    manage and care for Golder Cottage.
+  blurb: ''
   email: vibranthv@gmail.com
   image: /assets/uploaded/p1080405.jpg
   name: Golder Homestead Museum Society Committee
