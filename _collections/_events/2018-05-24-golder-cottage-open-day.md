@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Golder Cottage Open Day
-description: ''
+description: Test
 img: /assets/uploaded/p1030734.jpg
 event_date: '1:30-4pm Mon 22 Oct & 1:30-4pm Sat 27th Oct'
 host:
