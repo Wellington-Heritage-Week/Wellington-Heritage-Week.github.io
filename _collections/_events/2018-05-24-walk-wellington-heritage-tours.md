@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Walk Wellington Heritage Tours
+img: /assets/uploaded/img_8424s.jpg
 event_date: '11am & 2pm Tues 23 Oct, 11am & 2pm Thurs 25 Oct'
 host:
   blurb: >-
