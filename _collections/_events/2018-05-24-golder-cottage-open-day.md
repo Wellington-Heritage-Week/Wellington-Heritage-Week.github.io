@@ -6,9 +6,12 @@ img: /assets/uploaded/p1030734.jpg
 event_date: '1:30-4pm Monday 22 October and 27th October'
 host:
   email: vibranthv@gmail.com
+  image: /assets/uploaded/p1080405.jpg
+  name: Golder Homestead Museum Society Committee
   phone: Yvonne Airey ph 027 684 3626 or 527 8285
   website: 'http://www.goldercottage.co.nz/'
-tag: []
+tag:
+  - Upper Hutt
 ---
 Location: 707 Fergusson Drive, Upper Hutt
 
