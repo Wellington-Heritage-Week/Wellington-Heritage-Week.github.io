@@ -29,6 +29,8 @@ You’ll get a chance to satisfy your taste buds with an array of international 
 
 It’ll be a fun time for kids & the young at heart with face painting, games etc. Bring your family and friends to have a memorable afternoon.
 
+**Bookings are essential. Contact new-zealand@icpe.org to book. **
+
 **Location:** 75 Hawker Street, Mount Victoria
 
 **Cost:** Free
