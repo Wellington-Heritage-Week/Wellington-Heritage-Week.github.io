@@ -25,7 +25,7 @@ Start at Civic Square, then walk over City to Sea Bridge, walk down waterfront a
 
 **Bookings are essential. Contact information@walkwellington.org.nz to book.**
 
-**Location: **This walk starts in Civic Square and terminates in the Old St Paul's Cathedral in Mulgrave St Thorndon.
+**Location:** This walk starts in Civic Square and terminates in the Old St Paul's Cathedral in Mulgrave St Thorndon.
 
 **Cost:** $10 each adult, $5 each child (6-16), under 5 (accompanied by adult) free.
  _These are half normal rates_.​
