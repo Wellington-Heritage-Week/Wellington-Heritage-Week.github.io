@@ -4,6 +4,9 @@ title: Archaeological Walking Tour
 img: /assets/uploaded/mary-okeefe-image-1.png
 event_date: 2pm Mon 22 October
 host:
+  blurb: >-
+    Heritage Solutions is a Wellington-based consultancy specialising in
+    archaeological and historic heritage matters
   email: mary@heritagesolutions.net.nz
   image: /assets/uploaded/heritage-solutions.png
   name: Heritage Solutions
