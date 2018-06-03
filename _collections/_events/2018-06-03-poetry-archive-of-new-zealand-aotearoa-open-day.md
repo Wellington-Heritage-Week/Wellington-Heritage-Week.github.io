@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poetry Archive of New Zealand Aotearoa Open Day
-img: /assets/uploaded/golders-cottage.png
+img: /assets/uploaded/placeholder.png
 event_date: 10am - 5pm Everyday
 host:
   blurb: >-
