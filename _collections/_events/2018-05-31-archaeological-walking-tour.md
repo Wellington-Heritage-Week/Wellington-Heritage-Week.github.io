@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Archaeological Walking Tour
-img: /assets/uploaded/walk-welly.png
+img: /assets/uploaded/placeholder1.png
 event_date: 2pm Mon 22 October
 host:
   blurb: >-
