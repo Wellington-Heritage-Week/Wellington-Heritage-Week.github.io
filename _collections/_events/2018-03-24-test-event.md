@@ -2,7 +2,7 @@
 layout: post
 title: St Gerard's Monastery Tours
 description: Test event description
-img: /assets/uploaded/sgm.jpg
+img: /assets/uploaded/img_8424s.jpg
 event_date: '2pm Tues 23 Oct to Fri 25 Oct, 10am-4pm Sat 26 Oct 10am-4pm'
 booked_out: false
 host:
