@@ -26,8 +26,8 @@ A reader’s table, paper, pencils, and comfortable reading chairs are provided 
 
 A visitors’ book is also kept for visitors to sign.
 
-**No booking is required. **
+**No booking is required.**
 
 **Location:** 1 Woburn Road, Northland, Wellington
 
-**Cost: **Entry is by koha or donation (which also buys you a free historical poetry book of your choice from the display table)
+**Cost:** Entry is by koha or donation (which also buys you a free historical poetry book of your choice from the display table)
