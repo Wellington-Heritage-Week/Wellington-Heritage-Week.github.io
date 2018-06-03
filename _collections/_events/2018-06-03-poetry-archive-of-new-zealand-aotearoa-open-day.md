@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poetry Archive of New Zealand Aotearoa Open Day
-img: /assets/uploaded/panz.png
+img: /assets/uploaded/panz-2.png
 event_date: 10am - 5pm Everyday
 host:
   blurb: >-
