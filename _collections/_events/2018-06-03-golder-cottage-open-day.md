@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Golder Cottage Open Day
-img: /assets/uploaded/p1030734.jpg
+img: /assets/uploaded/img_8424s.jpg
 host:
   blurb: asd
   email: sd
