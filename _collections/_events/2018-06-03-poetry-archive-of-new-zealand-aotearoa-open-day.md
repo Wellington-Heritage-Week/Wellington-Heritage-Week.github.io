@@ -4,12 +4,7 @@ title: Poetry Archive of New Zealand Aotearoa Open Day
 img: /assets/uploaded/placeholder3.png
 event_date: 10am - 5pm Everyday
 host:
-  blurb: >-
-    A unique archive of New Zealand published poetry, with around 5,000 titles
-    from the 19th century to the present day.  The archive also contains photos
-    and paintings of New Zealand poets, publishers’ catalogues, poetry ephemera,
-    posters, reproductions of book covers and other memorabilia related to New
-    Zealand poetry and poetry performance.
+  blurb: Poetry Archive of New Zealand Aoteatora is a Charitable Trust.
   email: nielwright@xtra.co.nz
   name: Poetry Archive of New Zealand Aotearoa
   phone: 04 475 8042
