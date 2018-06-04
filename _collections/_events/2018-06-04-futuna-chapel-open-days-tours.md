@@ -17,11 +17,11 @@ host:
 tag:
   - Wellington City
 ---
-The Futuna Trust is please to open Futuna Chapel to the public from 11am to 3pm everyday during Wellington Heritage Week 2018.
+The Futuna Trust is pleased to open Futuna Chapel to the public from 11am to 3pm everyday during Wellington Heritage Week 2018.
 
 On Saturday 27th October the Trust will host a guided tour of the Chapel from 11:00am to 11:30am.
 
-On Sunday 28th October the Trust will host a guided tour, a musical performance and a free public talk on contemporary heritage.
+On Sunday 28th October from 11:00am to 11:30am, the Trust will host a guided tour, a musical performance and a free public talk on contemporary heritage.
 
 Futuna Chapel, which opened in 1961, is a unique piece of New Zealand architecture. It was designed by John Scott, and received the inaugural 25 Year Award from the New Zealand Institute of Architects Award. 
 
