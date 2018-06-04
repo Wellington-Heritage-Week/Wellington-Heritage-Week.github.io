@@ -27,6 +27,6 @@ NB: If you have a large group that would like to attend a tour, you may need to 
 
 **Booking is required. Contact archives@wcc.govt.nz to book.**
 
-**Location: **28 Barker Street (off Cambridge Terrace), Wellington City
+**Location:** 28 Barker Street (off Cambridge Terrace), Wellington City
 
 **Cost:** Free
