@@ -1,29 +1,36 @@
 ---
 layout: post
-title: Archaeological Walking Tour
+title: Historic Thorndon Open Day
 img: /assets/uploaded/placeholder3.png
-event_date: 2pm Mon 22 October
+event_date: 1pm-5pm Sun 28 Oct
 host:
   blurb: >-
-    Heritage Solutions is a Wellington-based consultancy specialising in
-    archaeological and historic heritage matters.
-  email: mary@heritagesolutions.net.nz
-  image: /assets/uploaded/heritage-solutions.png
-  name: Heritage Solutions
+    Historic Randell Cottage in Wellington, New Zealand, has been a writers’
+    residency for New Zealand and French writers since 2001. The Randell Cottage
+    Writers Trust works in partnership with Creative New Zealand, the Embassy of
+    France, the New Zealand-France Friendship Fund and Wellington City Council.
+  email: info@randellcottage.co.nz
+  image: ''
+  name: Randell Cottage Writers Trust
+  phone: 021 485 422
   website: 'https://www.heritagesolutions.net.nz/'
 tag:
   - Wellington City
 ---
-“What Lies Beneath: Wellington’s archaeology”.
+_Literature, music and art in Thorndon: visit three historic creative residences in Thorndon. Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency._
 
-Mary O’Keeffe is an archaeologist and has been investigating Wellington’s archaeology for over 20 years.
+All three residences will be open to the public for the afternoon of Sunday 28 October.  Visitors will be able to walk through each one as they are very close.  A simple map will be available to show the route.  
 
-In this guided walk Mary will take you to various sites in inner-city Wellington that she’s explored over the years and share the stories that each site has revealed.
+The **Randell Cottage** (14 St Mary’s Street), a Category II historic place built in 1867, will be open for visits with readings by a writer and a casual afternoon tea from 2.30pm.
 
-**Bookings are essential. Contact mary@heritagesolutions.net.nz to book.**
+The **Lilburn Residence **(22 Ascot Street, Category I) will be open for visitors to explore the cottage where the composer Douglas Lilburn lived and worked, as well as the garden.  There will be music in the garden from 3.30pm.
 
-**Location:** Commencing from the Te Papa forecourt, finishing in the vicinity of the railway station
+The former residence of **Rita Angus** (194A Sydney Street West), constructed in 1877, will be open to visitors.   Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
 
-**Duration:** 1.5 hours
+See more at: https://www.randellcottage.co.nz/cottage/ ; http://www.lilburnresidence.org.nz/
+
+**No booking is required.**
+
+**Location:** Randell Cottage (14 St Mary’s Street); Lilburn Residence (22 Ascot Street); Rita Angus (194A Sydney Street West)
 
 **Cost:** Free
