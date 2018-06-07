@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poetry Archive of New Zealand Aotearoa Open Day
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/panz.png
 event_date: 10am - 5pm Everyday
 host:
   blurb: Poetry Archive of New Zealand Aoteatora is a Charitable Trust.
