@@ -18,11 +18,11 @@ tag:
 ---
 Discover fascinating stories about New Zealand’s capital at your own pace with a walk to some of our most important heritage places.
 
-Turn your mobile device into a personal guide by visiting: wellington.govt.nz/heritagetrails
+Turn your mobile device into a personal guide by visiting: [wellington.govt.nz/heritagetrails](https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/heritage-trails)
 
 Or pick up a brochure at Wellington City Council's offices at 101 Wakefield Street or the Wellington City Library at 65 Victoria Street. 
 
-The trails are: 
+Explore the following trails: 
 
 **Te Ara o Tupuna**
 
@@ -30,13 +30,20 @@ Immerse yourself in the history of Wellington’s original Māori residents whos
 
 **Maritime Trail**
 
-Starting at Shed 21 on Waterloo Quay, the trail follows the waterfront round to Oriental Bay, passing many former Wellington Harbour Board buildings. Highlights include the fine brickwork of Shed 21 (built in 1910), the late English Classical style Queens Wharf Offices, and the Art Deco Post and Telegraph Building on Herd Street.
-
-
+Starting at Shed 21 on Waterloo Quay, the trail follows
+ the waterfront round to Oriental Bay, passing many former
+ Wellington Harbour Board buildings.
+ Highlights include the fine brickwork of Shed 21 (built in
+ 1910), the late English Classical style Queens Wharf Offices
+, and the Art Deco Post and Telegraph Building on Herd Street.
 
 **Old Shoreline Trail**
 
-This trail takes you as close as possible to Wellington’s former shoreline. Start your walk at the seaward corner of Herd Street and Oriental Parade. Fourteen brass plaques set in the paving along the route show where the shoreline was in 1840.
+This trail takes you as close as possible to Wellington’s
+ former shoreline.
+ Start your walk at the seaward corner of Herd Street and
+ Oriental Parade. Fourteen brass plaques set in the paving
+ along the route show where the shoreline was in 1840.
 
 **Art Deco Trail**
 
@@ -48,9 +55,7 @@ Follow some World War 1 procession and parade routes in Wellington from the Parl
 
 _All trails are easily negotiated by wheelchair._
 
-
-
-**This is a self guided event through the app and the brochures. No booking is required.**
+**This is a self guided event through the online and physical brochures. No booking is required.**
 
 **Location:** All tours start in Wellington City
 
