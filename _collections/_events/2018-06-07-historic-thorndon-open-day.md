@@ -22,7 +22,7 @@ All three residences will be open to the public for the afternoon of Sunday 28 O
 
 The **Randell Cottage** (14 St Mary’s Street), a Category II historic place built in 1867, will be open for visits with readings by a writer and a casual afternoon tea from 2.30pm.
 
-The **Lilburn Residence **(22 Ascot Street, Category I) will be open for visitors to explore the cottage where the composer Douglas Lilburn lived and worked, as well as the garden.  There will be music in the garden from 3.30pm.
+The **Lilburn Residence** (22 Ascot Street, Category I) will be open for visitors to explore the cottage where the composer Douglas Lilburn lived and worked, as well as the garden.  There will be music in the garden from 3.30pm.
 
 The former residence of **Rita Angus** (194A Sydney Street West), constructed in 1877, will be open to visitors.   Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
 
