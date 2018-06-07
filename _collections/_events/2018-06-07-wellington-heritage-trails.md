@@ -50,8 +50,8 @@ _All trails are easily negotiated by wheelchair._
 
 
 
-**This is a self guided event through the app and the brochures. No booking is required. **
+**This is a self guided event through the app and the brochures. No booking is required.**
 
-**Location: **All tours start in Wellington City
+**Location:** All tours start in Wellington City
 
 **Cost:** Free
