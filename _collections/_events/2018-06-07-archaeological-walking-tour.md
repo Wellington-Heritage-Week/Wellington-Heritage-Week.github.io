@@ -2,7 +2,7 @@
 layout: post
 title: Archaeological Walking Tour
 img: /assets/uploaded/placeholder3.png
-event_date: 2pm Mon 22 October
+event_date: 2pm Mon 22 Oct
 host:
   blurb: >-
     Heritage Solutions is a Wellington-based consultancy specialising in
