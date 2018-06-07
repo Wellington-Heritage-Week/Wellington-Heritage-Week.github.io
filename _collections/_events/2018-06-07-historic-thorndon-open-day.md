@@ -26,8 +26,8 @@ The **Lilburn Residence** (22 Ascot Street, Category I) will be open for visitor
 
 The former residence of **Rita Angus** (194A Sydney Street West), constructed in 1877, will be open to visitors.   Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
 
-See more at: https://www.randellcottage.co.nz/cottage/
- ; http://www.lilburnresidence.org.nz/
+See more at: <https://www.randellcottage.co.nz/cottage/>
+ ; <http://www.lilburnresidence.org.nz/>
 
 **No booking is required.**
 
