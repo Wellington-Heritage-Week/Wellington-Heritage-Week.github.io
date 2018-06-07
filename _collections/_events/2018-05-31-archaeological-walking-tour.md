@@ -13,7 +13,7 @@ host:
   image: ''
   name: Randell Cottage Writers Trust
   phone: 021 485 422
-  website: 'https://www.heritagesolutions.net.nz/'
+  website: 'https://www.randellcottage.co.nz/'
 tag:
   - Wellington City
 ---
