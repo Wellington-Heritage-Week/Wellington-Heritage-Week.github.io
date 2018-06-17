@@ -19,7 +19,10 @@ Mary O’Keeffe is an archaeologist and has been investigating Wellington’s ar
 
 In this guided walk Mary will take you to various sites in inner-city Wellington that she’s explored over the years and share the stories that each site has revealed.
 
-**Bookings are essential. Contact mary@heritagesolutions.net.nz to book.**
+Limited to 12 people. 
+
+**Bookings are essential. Contact mary@heritagesolutions.net.nz to book.
+**
 
 **Location:** Commencing from the Te Papa forecourt, finishing in the vicinity of the railway station
 
