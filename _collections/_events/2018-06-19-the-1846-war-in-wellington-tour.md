@@ -17,6 +17,20 @@ The 1846 War in Wellington: a guide to sites app features walking and driving to
 
 The information in this guide is based on David Green 'Battlefields of the New Zealand Wars: A Visitor's Guide', Penguin, 2010. This book provides clear directions to sites around the country as well as interpretation by one of the top historians of the New Zealand Wars period.
 
+**Walking Tour **
+
+Though there were no battles fought in Wellington City during the New Zealand Wars, there are a number of significant sites that mark this important period in New Zealand's history.  Duration 4h 10m.
+
+**Driving Tour**
+
+A full day tour of sites in Wellington, the Hutt Valley, and Porirua relating to the New Zealand Wars. Duration 8h 20m. 
+
 [Click here to download for Andriod devices](https://play.google.com/store/apps/details?id=com.mytoursapp.android.app387)
 
 [Click here to download for iOS devices](https://itunes.apple.com/nz/app/1846-war-in-wellington-guide/id694881195?mt=8)
+
+**This is a self guided event through the online and physical brochures. No booking is required.**
+
+**Location:** Wellington City, the Hutt Valley, and Porirua 
+
+**Cost:** Free
