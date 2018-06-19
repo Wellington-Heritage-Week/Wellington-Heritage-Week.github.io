@@ -1,0 +1,19 @@
+---
+layout: post
+title: 'Roadside Stories: Wellington Harbour''s taniwha'
+event_date: Historical Video
+host:
+  blurb: >-
+    Roadside Stories are a series of audio guides to places of interest on major
+    road trips in New Zealand. Each guide tells the story of an attraction along
+    the way -- its people, its history, its cultural and natural significance.
+  email: info@mch.govt.nz
+  name: Ministry for Culture and Heritage
+  website: 'http://www.mch.govt.nz/roadside/'
+tag: []
+---
+Wellington's wind-buffeted airport is on land uplifted from the sea by earthquakes. 
+
+In Māori tradition, the harbour was once a lake occupied by two taniwha (supernatural creatures). One of the taniwha created the harbour entrance by breaking out to the open sea. Polynesian navigator Kupe is also believed to have visited Wellington Harbour.
+
+<iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/watch?v=VDCQGwqwrsM" frameborder="0" allowfullscreen></iframe>
