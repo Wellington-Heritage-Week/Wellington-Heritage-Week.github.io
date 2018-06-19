@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WCC Archives Open Day
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/wcc-archives.jpg
 event_date: 10am - 2pm Mon 22 Oct
 host:
   blurb: >-
