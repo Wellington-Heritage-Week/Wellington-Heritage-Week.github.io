@@ -4,7 +4,7 @@ title: Poetry Archive of New Zealand Aotearoa Open Day
 img: /assets/uploaded/panz.png
 event_date: 10am - 5pm Everyday
 host:
-  blurb: Poetry Archive of New Zealand Aoteatora is a Charitable Trust.
+  blurb: Poetry Archive of New Zealand Aotearoa is a Charitable Trust.
   email: nielwright@xtra.co.nz
   name: Poetry Archive of New Zealand Aotearoa
   phone: 04 475 8042
