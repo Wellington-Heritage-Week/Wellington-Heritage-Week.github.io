@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Roadside Stories: Wellington Harbour''s Taniwha'
+img: /assets/uploaded/placeholder3.png
 event_date: Historical Video
 host:
   blurb: >-
@@ -16,4 +17,5 @@ Wellington's wind-buffeted airport is on land uplifted from the sea by earthquak
 
 In Māori tradition, the harbour was once a lake occupied by two taniwha (supernatural creatures). One of the taniwha created the harbour entrance by breaking out to the open sea. Polynesian navigator Kupe is also believed to have visited Wellington Harbour.
 
-<iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/watch?v=VDCQGwqwrsM" frameborder="0" allowfullscreen></iframe>
+<iframe style="width: 100%; 
+height: 30.25vw;" src="//www.youtube.com/watch?v=VDCQGwqwrsM" frameborder="0" allowfullscreen></iframe>
