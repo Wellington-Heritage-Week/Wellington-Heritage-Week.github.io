@@ -9,7 +9,7 @@ host:
     road trips in New Zealand. Each guide tells the story of an attraction along
     the way -- its people, its history, its cultural and natural significance.
   email: info@mch.govt.nz
-  name: Ministry for Culture and Heritage
+  name: 'Ministry for Culture and Heritage: Roadside Stories'
   website: 'http://www.mch.govt.nz/roadside/'
 tag: []
 ---
@@ -19,3 +19,5 @@ In Māori tradition, the harbour was once a lake occupied by two taniwha (supern
 
 
 <iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/embed/VDCQGwqwrsM" frameborder="0" allowfullscreen></iframe>
+
+Roadside Stories was produced by Manatū Taonga, the Ministry for Culture and Heritage. Manatū Taonga works to enrich the lives of all New Zealanders by supporting our dynamic culture and preserving our heritage.
