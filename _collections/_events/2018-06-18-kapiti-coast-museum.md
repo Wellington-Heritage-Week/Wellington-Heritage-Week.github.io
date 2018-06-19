@@ -30,5 +30,5 @@ The displays will be to commemorate the 125th Anniversary of the gaining of the 
 
 **No booking is required.**
 
-**Location:** 9 Elizabeth Street, Waikanae **
-Cost:** Free - Donations are welcome.
+**Location:** 9 Elizabeth Street, Waikanae 
+**Cost:** Free - Donations are welcome.
