@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roadside Stories: Wellington Harbour''s taniwha'
+title: 'Roadside Stories: Wellington Harbour''s Taniwha'
 event_date: Historical Video
 host:
   blurb: >-
