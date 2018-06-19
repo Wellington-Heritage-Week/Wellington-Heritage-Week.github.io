@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roadside Stories: Wellington Harbour''s Taniwha'
+title: Wellington Harbour's Taniwha
 img: /assets/uploaded/placeholder3.png
 event_date: Historical Video
 host:
