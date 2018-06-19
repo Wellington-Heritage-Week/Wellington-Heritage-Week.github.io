@@ -25,7 +25,7 @@ Come to the Kapiti Coast Museum to see two special displays!
 
 The displays will be to commemorate the 125th Anniversary of the gaining of the vote for Women in New Zealand in 1893 and a display of the Waikanae Hack Racing Club that existed from 1904 to 1914.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe style="width: 100vw; height: 56.25vw;" src="//www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 **No booking is required. **
 
