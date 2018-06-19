@@ -9,7 +9,7 @@ host:
     road trips in New Zealand. Each guide tells the story of an attraction along
     the way -- its people, its history, its cultural and natural significance.
   email: info@mch.govt.nz
-  name: Ministry for Culture and Heritage
+  name: 'Ministry for Culture and Heritage: Roadside Stories'
   website: 'http://www.mch.govt.nz/roadside/'
 tag: []
 ---
