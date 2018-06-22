@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mahara Gallery: Suffrage 125 Exhibition'
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/mahara-gallery.jpg
 event_date: 10am-4pm Sat 27 Oct & Sun 28 Oct
 host:
   blurb: >-
