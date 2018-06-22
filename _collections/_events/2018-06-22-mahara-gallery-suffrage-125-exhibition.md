@@ -32,6 +32,6 @@ Sophie is an abstract painter who works from her home in Waikanae. Trained at th
 
 
 
-**Location: **Mahara Gallery, 20 Mahara Place, Waikanae
+**Location:** Mahara Gallery, 20 Mahara Place, Waikanae
 
 **Cost:** Free
