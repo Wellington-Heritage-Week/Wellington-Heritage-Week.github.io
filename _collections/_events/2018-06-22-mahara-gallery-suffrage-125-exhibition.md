@@ -10,7 +10,7 @@ host:
     gallery operates out of the original Waikanae library building, provided by
     the Kāpiti Coast District Council.
   email: director@maharagallery.org.nz
-  name: ''
+  name: Mahara Gallery
   phone: 04 902 6242
   website: 'http://www.maharagallery.org.nz/'
 tag:
