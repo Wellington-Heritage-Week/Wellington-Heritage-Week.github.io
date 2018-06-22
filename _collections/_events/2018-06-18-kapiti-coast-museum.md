@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kapiti Coast Museum
-img: /assets/uploaded/placeholder3.png
+title: Kapiti Coast Museum Tours
+img: /assets/uploaded/kapiti-museum.jpg
 event_date: '10am-4pm Fri 26 Oct - Sun 28 Oct '
 host:
   blurb: >-
@@ -21,9 +21,11 @@ host:
 tag:
   - Kapiti Coast
 ---
-Come to the Kapiti Coast Museum to see two special displays!
+Explore this grand old heritage listed building on Elizabeth Street, Waikanae which has stood for 110 years. During its life time, this building has seen countless people through its doors, and as you can imagine, there are more than a few stories it could tell.
 
-The displays will be to commemorate the 125th Anniversary of the gaining of the vote for Women in New Zealand in 1893 and a display of the Waikanae Hack Racing Club that existed from 1904 to 1914.
+Once home to the Waikanae Post Office from 1908 to 1981, the original Waikanae Museum was setup by a group of radio enthusiasts in 1984. The now named Kapiti Coast Museum has now extended its exhibitions and displays to embrace more of the local history and heritage of the region.
+
+On the tour you will get to hear the stories of the Museum and view the current display of the now extinct Waikanae Hack Racing Club which existed from 1904 through to 1914 along with a display that commemorates the 125th Anniversary of the gaining of the vote for women in New Zealand in 1893.
 
 **No booking is required.**
 
