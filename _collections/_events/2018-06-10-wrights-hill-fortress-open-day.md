@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wrights Hill Fortress Open Day
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/wrights-hill-fortress.jpg
 event_date: 10am-4pm Mon 22 Oct
 host:
   blurb: >-
