@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wellington Heritage Trails
-img: /assets/uploaded/wellington-heritage-trails.jpg
+img: /assets/uploaded/boat-sheds.jpg
 event_date: Everyday
 host:
   blurb: >-
