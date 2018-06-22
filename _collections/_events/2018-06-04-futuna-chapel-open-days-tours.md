@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Futuna Chapel Open Days & Tours
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/futuna-chapel.png
 event_date: 11am - 3pm Everyday
 host:
   blurb: >-
