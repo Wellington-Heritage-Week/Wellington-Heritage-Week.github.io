@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1846 War in Wellington Tour
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/wellington-war.png
 event_date: Self Guided Tour
 host:
   blurb: >-
