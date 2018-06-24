@@ -22,3 +22,5 @@ In Māori tradition, the harbour was once a lake occupied by two taniwha (supern
 
 
 Roadside Stories was produced by Manatū Taonga, the Ministry for Culture and Heritage. Manatū Taonga works to enrich the lives of all New Zealanders by supporting our dynamic culture and preserving our heritage.
+
+<a class="twitter-timeline" href="https://twitter.com/NZHistory?ref_src=twsrc%5Etfw">Tweets by NZHistory</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
