@@ -4,12 +4,12 @@ title: Golder Cottage Open Day
 img: /assets/uploaded/golders-cottage.png
 event_date: '1:30pm-4pm Mon 22 Oct & 1:30pm-4pm Sat 27 Oct'
 host:
-  blurb: 'The Golder Homestead Museum Society '
-  email: vibranthv@gmail.com
-  name: >-
-    Golder Homestead Museum Society ook over the management of the property in
-    1987. The Society undertook restoration work and now run the house and
+  blurb: >-
+    The Golder Homestead Museum Society took over the management of the property
+    in 1987. The Society undertook restoration work and now run the house and
     grounds as a museum.
+  email: vibranthv@gmail.com
+  name: Golder Homestead Museum Society
   phone: 027 684 3626
   website: 'http://www.goldercottage.co.nz/'
 tag:
