@@ -25,4 +25,4 @@ The well preserved Cottage and outbuildings contain many interesting artifacts, 
 
 **Location:** 707 Fergusson Drive, Upper Hutt
 
-**Cost:** Free
+**Cost:** Adults $4; Children and Students $2; Under 5's free
