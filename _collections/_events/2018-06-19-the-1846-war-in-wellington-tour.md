@@ -34,3 +34,5 @@ A full day tour of sites in Wellington, the Hutt Valley, and Porirua relating to
 **Location:** Wellington City, the Hutt Valley, and Porirua 
 
 **Cost:** Free
+
+<a class="twitter-timeline" href="https://twitter.com/NZHistory?ref_src=twsrc%5Etfw">Tweets by NZHistory</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
