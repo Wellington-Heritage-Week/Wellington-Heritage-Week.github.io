@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wellington Harbour's Taniwha
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/mch.jpg
 event_date: Historical Video
 host:
   blurb: >-
