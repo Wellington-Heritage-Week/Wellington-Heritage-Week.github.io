@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discover Historic Petone Tour
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/police-station-petone.jpg
 event_date: Self Guided Tour
 host:
   blurb: >-
