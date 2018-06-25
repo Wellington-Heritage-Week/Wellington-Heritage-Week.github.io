@@ -32,3 +32,10 @@ In addition to the inspiring architectural design, the Chapel contains many work
 **Location:** 67 Futuna Close, Karori, Wellington City
 
 **Cost:** Free
+
+
+<div class="fb-page" 
+  data-href="https://www.facebook.com/FutunaChapel"
+  data-width="380" 
+  data-hide-cover="false"
+  data-show-facepile="false"></div>
