@@ -11,7 +11,7 @@ host:
 tag:
   - Wellington City
 ---
-Visit the historic Dominion Observatory and see where New Zealand's time was determined using astronomical observations, a gun battery was built to ward off the threat of Russian invasion, and the site of New Zealand’s first seismic research.
+Visit the historic Dominion Observatory where New Zealand's time was determined using astronomical observations, a gun battery was built to ward off the threat of Russian invasion, and the site of New Zealand’s first seismic research.
 
 Built in 1907, this Edwardian Baroque style building is a fine example of our historic heritage after receiving a facelift in 2003 which included earthquake strengthening, structural repairs and refitting. 
 
