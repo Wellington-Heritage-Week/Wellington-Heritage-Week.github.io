@@ -9,7 +9,8 @@ host:
   name: Poetry Archive of New Zealand Aotearoa
   phone: 04 475 8042
   website: 'https://poetryarchivenz.wordpress.com'
-tag: []
+tag:
+  - Wellington City
 ---
 Visit a unique archive of New Zealand's published poetry, with around 5,000 titles from the 19th century to the present day.
 
