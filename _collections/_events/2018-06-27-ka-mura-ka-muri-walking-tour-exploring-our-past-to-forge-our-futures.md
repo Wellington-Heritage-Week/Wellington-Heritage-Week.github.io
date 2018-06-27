@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ka Mura, Ka Muri Walking Tour: Exploring our past to forge our futures'
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/whare-waka-poneke-tours-formatted.jpg
 event_date: '12pm Tues 23 Oct to Thurs 24 Oct '
 host:
   blurb: >-
