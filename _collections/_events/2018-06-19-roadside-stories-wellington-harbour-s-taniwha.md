@@ -11,7 +11,8 @@ host:
   email: info@mch.govt.nz
   name: 'Ministry for Culture and Heritage: Roadside Stories'
   website: 'http://www.mch.govt.nz/roadside/'
-tag: []
+tag:
+  - Wellington City
 ---
 Wellington's wind-buffeted airport is on land uplifted from the sea by earthquakes. 
 
