@@ -15,7 +15,8 @@ host:
   name: Wellington City Archives
   phone: 04 801 2096
   website: 'https://wellington.govt.nz/your-council/archives'
-tag: []
+tag:
+  - Wellington City
 ---
 Did you want to know more about the Wellington City Council Archives? Come along to a behind the scenes tour, followed up by a Q & A opportunity. 
 
