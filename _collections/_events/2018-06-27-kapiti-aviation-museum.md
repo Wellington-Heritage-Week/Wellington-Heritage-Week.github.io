@@ -13,7 +13,7 @@ host:
   name: 'Kapiti Coast Museum '
   phone: 021 037 1937
 tag:
-  - Kapiti Coast
+  - ''
 ---
 
 
