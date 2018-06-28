@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wellington Harbour's Taniwha
+location: Wellington City
 img: /assets/uploaded/mch1.jpg
 event_date: Historical Video
 host:
