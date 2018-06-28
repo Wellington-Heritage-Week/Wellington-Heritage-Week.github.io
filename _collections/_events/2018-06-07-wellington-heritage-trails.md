@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wellington Heritage Trails
+location: Wellington City
 img: /assets/uploaded/boat-sheds.jpg
 event_date: Everyday
 host:
