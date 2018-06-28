@@ -1,7 +1,8 @@
 ---
 layout: post
 title: St Gerard's Monastery Tours
-description: Test event description
+location: Wellington City
+description: ''
 img: /assets/uploaded/sgm.png
 event_date: '2pm Tues 23 Oct to Fri 25 Oct, 10am-4pm Sat 26 Oct'
 booked_out: false
@@ -16,8 +17,7 @@ host:
   phone: 04 801 7797
   website: 'http://www.icpe.org/newzealand'
 tag:
-  - Free
-  - Open Day
+  - Wellington City
 ---
 St Gerard’s Monastery Tours are back!
 
