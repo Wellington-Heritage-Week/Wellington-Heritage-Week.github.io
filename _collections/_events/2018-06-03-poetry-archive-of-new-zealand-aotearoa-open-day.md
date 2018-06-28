@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Poetry Archive of New Zealand Aotearoa Open Day
+location: Wellington City
 img: /assets/uploaded/panz.png
 event_date: 10am - 5pm Everyday
 host:
