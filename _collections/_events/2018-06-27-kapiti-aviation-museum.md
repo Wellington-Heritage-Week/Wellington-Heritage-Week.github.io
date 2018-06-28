@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kapiti Aviation Museum
+location: Kapiti
 img: /assets/uploaded/wellington-aviation-museum.png
 event_date: 10am-4pm Sat 27 Oct - Sun 28 Oct
 host:
