@@ -15,6 +15,7 @@ host:
   website: 'https://geographx.co.nz/'
 tag:
   - Wellington City
+location: Wellington City
 ---
 Visit the historic Dominion Observatory where New Zealand's time was determined using astronomical observations, a gun battery was built to ward off the threat of Russian invasion, and the site of New Zealand’s first seismic research.
 

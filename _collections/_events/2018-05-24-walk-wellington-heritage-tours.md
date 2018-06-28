@@ -18,6 +18,7 @@ host:
   website: 'http://www.walkwellington.org.nz/'
 tag:
   - Wellington City
+location: Wellington City
 ---
 Wellington's extensive 19th and 20th century heritage is one of the most fascinating of any place in New Zealand.  Get to know about Wellington's waterfront, downtown, courts and parliamentary areas in an easy walk of 2 to 2.5 hours duration. There is more to discover than most Wellington residents realise!
 

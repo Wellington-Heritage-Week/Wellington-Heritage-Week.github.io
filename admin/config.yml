@@ -16,6 +16,7 @@ collections:
     fields:
       - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: true, label: "Location", name: "location", widget: "string", default: "Wellington City"}
       - {required: false, label: "Short description (for facebook)", name: "description", widget: "text"}
       - {required: false, label: "Image", name: "img", widget: "image"}
       - {required: false, label: "Event date", name: "event_date", widget: "string"}

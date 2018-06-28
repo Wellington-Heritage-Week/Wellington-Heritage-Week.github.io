@@ -14,6 +14,7 @@ host:
   website: 'http://www.goldercottage.co.nz/'
 tag:
   - Upper Hutt
+location: Upper Hutt
 ---
 "A time capsule in our own backyard". 
 
