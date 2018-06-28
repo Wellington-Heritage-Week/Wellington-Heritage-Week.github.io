@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Historic Thorndon Open Day
+location: Wellington City
 img: /assets/uploaded/randell-cottage.jpg
 event_date: 1pm-5pm Sun 28 Oct
 host:
