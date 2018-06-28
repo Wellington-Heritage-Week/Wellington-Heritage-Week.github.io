@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Discover Historic Petone Tour
+location: Lower Hutt
 img: /assets/uploaded/police-station-petone.jpg
 event_date: Self Guided Tour
 host:
