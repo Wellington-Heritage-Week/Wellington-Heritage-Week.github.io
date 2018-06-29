@@ -15,7 +15,7 @@ host:
   phone: 021 485 422
   website: 'https://www.randellcottage.co.nz/'
 tag:
-  - Wellington City
+  - Open Day
 ---
 _Visit three historic residences in Thorndon. Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency._
 
