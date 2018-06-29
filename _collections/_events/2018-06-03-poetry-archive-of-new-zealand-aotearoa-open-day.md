@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poetry Archive of New Zealand Aotearoa Open Day
+title: Poetry Archive of New Zealand Aotearoa Exhibition
 location: Wellington City
 img: /assets/uploaded/panz.png
 event_date: 10am - 5pm Everyday
@@ -11,7 +11,7 @@ host:
   phone: 04 475 8042
   website: 'https://poetryarchivenz.wordpress.com'
 tag:
-  - Wellington City
+  - Open Day
 ---
 Visit a unique archive of New Zealand's published poetry, with around 5,000 titles from the 19th century to the present day.
 
