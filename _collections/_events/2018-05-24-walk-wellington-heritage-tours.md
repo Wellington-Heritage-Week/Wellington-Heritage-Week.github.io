@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Walk Wellington Heritage Tours
+location: Wellington City
 img: /assets/uploaded/walk-welly.png
 event_date: '11am & 2pm Tues 23 Oct, 11am & 2pm Thurs 25 Oct'
 host:
@@ -17,8 +18,7 @@ host:
   phone: (04) 473 3145
   website: 'http://www.walkwellington.org.nz/'
 tag:
-  - Wellington City
-location: Wellington City
+  - Walking Tour
 ---
 Wellington's extensive 19th and 20th century heritage is one of the most fascinating of any place in New Zealand.  Get to know about Wellington's waterfront, downtown, courts and parliamentary areas in an easy walk of 2 to 2.5 hours duration. There is more to discover than most Wellington residents realise!
 
