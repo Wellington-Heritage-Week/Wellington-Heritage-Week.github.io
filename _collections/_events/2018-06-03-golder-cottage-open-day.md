@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Golder Cottage Open Day
+location: Upper Hutt
 img: /assets/uploaded/golders-cottage.png
 event_date: '1:30pm-4pm Mon 22 Oct & 1:30pm-4pm Sat 27 Oct'
 host:
@@ -13,8 +14,7 @@ host:
   phone: 027 684 3626
   website: 'http://www.goldercottage.co.nz/'
 tag:
-  - Upper Hutt
-location: Upper Hutt
+  - Open Day
 ---
 "A time capsule in our own backyard". 
 
