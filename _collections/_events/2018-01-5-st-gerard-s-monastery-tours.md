@@ -2,7 +2,7 @@
 layout: post
 title: St Gerard's Monastery Tours
 location: Wellington City
-img: /assets/uploaded/sgm.jpg
+img: /assets/uploaded/sgm.png
 event_date: '2PM TUES 23 OCT TO FRI 25 OCT, 10AM-4PM SAT 26 OCT'
 host:
   blurb: >-
