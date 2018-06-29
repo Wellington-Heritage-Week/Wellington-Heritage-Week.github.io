@@ -12,7 +12,7 @@ host:
   name: Ministry for Culture and Heritage
   website: 'https://mch.govt.nz'
 tag:
-  - Wellington City
+  - Walking Tour
 ---
 The 1846 War in Wellington: a guide to sites app features walking and driving tours of sites relating to the New Zealand Wars in and around Wellington. 
 
