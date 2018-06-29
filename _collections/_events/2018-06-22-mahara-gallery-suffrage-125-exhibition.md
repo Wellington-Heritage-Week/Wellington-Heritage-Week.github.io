@@ -15,7 +15,7 @@ host:
   phone: 04 902 6242
   website: 'http://www.maharagallery.org.nz/'
 tag:
-  - Kapiti Coast
+  - Exhibition
 ---
 To mark the 125th anniversary of women's suffrage in New Zealand Mahara Gallery is mounting three special shows dedicated to women artists with a Kapiti connection. 
 
