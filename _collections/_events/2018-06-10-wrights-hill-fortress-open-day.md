@@ -20,7 +20,7 @@ host:
   phone: 04 476 8593
   website: 'http://wrightshillfortress.org.nz/'
 tag:
-  - Wellington City
+  - Open Day
 ---
 **Location:**
 
