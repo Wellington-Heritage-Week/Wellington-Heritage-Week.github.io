@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Otaki Museum: Heritage Bank Building 100 years'
+title: 'Otaki Museum: Heritage Bank Building 100 Years'
 location: Kapiti Coast
 img: /assets/uploaded/placeholder3.png
 event_date: 10am-2pm Thurs 25 Oct to Sat 28 Oct
@@ -15,7 +15,7 @@ host:
   phone: 06 364 6886
   website: 'http://www.otakimuseum.co.nz/'
 tag:
-  - Kapiti Coast
+  - Exhibition
 ---
 Otaki Museum will be hosting a new exhibition: _Heritage Bank Building: 100 years_.
 
