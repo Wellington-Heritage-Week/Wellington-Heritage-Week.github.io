@@ -17,7 +17,7 @@ host:
   phone: 04 801 7797
   website: 'http://www.icpe.org/newzealand'
 tag:
-  - Wellington City
+  - Open Day
 ---
 St Gerard’s Monastery Tours are back!
 
