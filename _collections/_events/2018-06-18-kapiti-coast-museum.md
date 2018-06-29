@@ -20,7 +20,7 @@ host:
   phone: 04 905 6313
   website: 'http://www.kapiticoastmuseum.org.nz/'
 tag:
-  - Kapiti Coast
+  - Exhibition
 ---
 Explore this grand old heritage listed building on Elizabeth Street, Waikanae which has stood for 110 years. During its life time, this building has seen countless people through its doors, and as you can imagine, there are more than a few stories it could tell.
 
