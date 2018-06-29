@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dominion Observatory Open Day
+location: Wellington City
 img: /assets/uploaded/dominion_observatory.jpg
 event_date: 10am-2pm Mon 22 Oct
 host:
@@ -14,8 +15,7 @@ host:
   name: Geographx Ltd
   website: 'https://geographx.co.nz/'
 tag:
-  - Wellington City
-location: Wellington City
+  - Open Day
 ---
 Visit the historic Dominion Observatory where New Zealand's time was determined using astronomical observations, a gun battery was built to ward off the threat of Russian invasion, and the site of New Zealand’s first seismic research.
 
