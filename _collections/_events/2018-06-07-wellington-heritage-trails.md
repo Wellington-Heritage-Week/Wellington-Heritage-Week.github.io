@@ -15,7 +15,7 @@ host:
   phone: 04 499 4444
   website: 'https://wellington.govt.nz/services/community-and-culture/heritage'
 tag:
-  - Wellington City
+  - Walking Tour
 ---
 Discover fascinating stories about New Zealand’s capital at your own pace with a walk to some of our most important heritage places.
 
