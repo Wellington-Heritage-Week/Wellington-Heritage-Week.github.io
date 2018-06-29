@@ -11,7 +11,7 @@ host:
   phone: 04 475 8042
   website: 'https://poetryarchivenz.wordpress.com'
 tag:
-  - Open Day
+  - Exhibition
 ---
 Visit a unique archive of New Zealand's published poetry, with around 5,000 titles from the 19th century to the present day.
 
