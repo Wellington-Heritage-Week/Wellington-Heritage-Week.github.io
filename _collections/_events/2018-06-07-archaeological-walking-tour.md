@@ -12,7 +12,7 @@ host:
   name: Heritage Solutions
   website: 'https://www.heritagesolutions.net.nz/'
 tag:
-  - Wellington City
+  - Walking Tour
 ---
 “What Lies Beneath: Wellington’s archaeology”.
 
