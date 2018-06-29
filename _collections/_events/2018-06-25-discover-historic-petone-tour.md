@@ -15,7 +15,7 @@ host:
   phone: +64 4 939 2811
   website: 'https://www.jacksonstreet.co.nz/'
 tag:
-  - Lower Hutt
+  - Walking Tour
 ---
 Enjoy historic Petone at your own pace and learn about how Petone became the first European settlement in New Zealand. 
 
