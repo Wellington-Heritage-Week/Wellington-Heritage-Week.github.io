@@ -17,7 +17,7 @@ host:
   phone: (+64) 04 901 3333
   website: 'http://www.facebook.com/tewharewakaoponeke/'
 tag:
-  - Wellington City
+  - Walking Tour
 ---
 Let Te Wharewaka o Pōneke‘s expert Kaiārahi (guides) take you on a journey, exploring the layers of development diving back to nineteenth century Wellington during Wellington Heritage Week 2018.
 
