@@ -31,6 +31,8 @@ Take the tour with you and download the Petone Tours app on Google Play or iTune
 
 [Download the app for iOS / Apple here](https://itunes.apple.com/us/app/tour-petone/id1166368185?mt=8)
 
+**This is a self guided event through the online and physical brochures. No booking is required.**
+
 **Location:** All tours start in Petone, Lower Hutt
 
 **Cost:** Free
