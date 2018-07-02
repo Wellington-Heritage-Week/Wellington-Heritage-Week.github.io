@@ -3,7 +3,7 @@ layout: post
 title: Wellington Heritage Trails
 location: Wellington City
 img: /assets/uploaded/boat-sheds.jpg
-event_date: Everyday
+event_date: Self Guided Tour
 host:
   blurb: >-
     Wellington is New Zealand's centre of government and the world's
