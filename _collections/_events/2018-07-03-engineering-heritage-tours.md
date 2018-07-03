@@ -2,7 +2,7 @@
 layout: post
 title: Engineering Heritage Tours
 location: Wellington City
-img: /assets/uploaded/enz-2.png
+img: /assets/uploaded/enz-3.png
 event_date: Self Guided Tour
 host:
   blurb: >-
