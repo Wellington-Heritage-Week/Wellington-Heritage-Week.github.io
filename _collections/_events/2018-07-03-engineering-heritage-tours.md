@@ -2,7 +2,7 @@
 layout: post
 title: Engineering Heritage Tours
 location: Wellington City
-img: /assets/uploaded/calbe-car-eng-1.png
+img: /assets/uploaded/enz-2.png
 event_date: Self Guided Tour
 host:
   blurb: >-
@@ -14,7 +14,7 @@ host:
 tag:
   - Walking Tour
 ---
-**Wellington Heritage Walking Tour **(approximately 2 hours)
+**Wellington Heritage Walking Tour** (approximately 2 hours)
 
 Engineering has been important in creating Wellington – a geographically constricted capital city on shaky ground.
 
