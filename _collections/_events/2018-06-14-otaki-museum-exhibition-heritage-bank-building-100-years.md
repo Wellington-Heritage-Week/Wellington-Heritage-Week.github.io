@@ -2,7 +2,7 @@
 layout: post
 title: 'Otaki Museum: Heritage Bank Building 100 Years'
 location: Kapiti Coast
-img: /assets/uploaded/otaki-2.png
+img: /assets/uploaded/otaki-3.png
 event_date: 10am-2pm Thurs 25 Oct to Sat 28 Oct
 host:
   blurb: >-
