@@ -14,7 +14,7 @@ host:
 tag:
   - Walking Tour
 ---
-**Wellington Heritage Walking Tour **(approximately 2 hours)
+**Wellington Heritage Walking Tour** (approximately 2 hours)
 
 Engineering has been important in creating Wellington – a geographically constricted capital city on shaky ground.
 
