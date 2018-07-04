@@ -7,7 +7,7 @@ event_date: Self Guided Tour
 host:
   blurb: >-
     Engineering New Zealand is a non-profit membership organisation that
-    promotes the integrity and interests of our members, the profession, and the
+    promotes the integrity and interests of its members, the profession, and the
     industry.
   name: Engineering New Zealand
   website: 'https://www.engineeringnz.org/'
