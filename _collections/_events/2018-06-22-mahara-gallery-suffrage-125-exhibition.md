@@ -31,10 +31,12 @@ This show presents three paintings by Frances Hodgkins (1869 -1947) which explor
 
 Sophie is an abstract painter who works from her home in Waikanae. Trained at the Elam School of Fine Arts, University of Auckland (MFA Painting 1992), her main interests are colour, shape and the communication of a sense of the ineffable.
 
-
+**No booking is required.**
 
 **Location:** Mahara Gallery, 20 Mahara Place, Waikanae
 
 **Cost:** Free
+
+
 
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaharagallery%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
