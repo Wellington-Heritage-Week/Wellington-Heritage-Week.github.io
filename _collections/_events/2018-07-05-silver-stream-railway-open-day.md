@@ -14,7 +14,7 @@ host:
 tag:
   - Open Day
 ---
-See and ride a vintage steam train on the Silver Stream Railway Open Day 11am-4pm Monday 22 October. 
+See and ride a vintage train on the Silver Stream Railway Open Day 11am-4pm Monday 22 October. 
 
 Silver Stream Railway (named after the silver coloured stream {Hull's Creek} that runs beside the railway) is a heritage railway near the suburb of Silverstream in the Hutt Valley 30km from Wellington, New Zealand. It regularly operates former New Zealand Goverment Railway and ex industrial steam and diesel locomotives along a restored section of the Wellington to Upper Hutt railway that was bypassed in 1954.
 
