@@ -2,7 +2,7 @@
 layout: post
 title: 'Mahara Gallery: Suffrage 125 Exhibition'
 location: Kapiti Coast
-img: /assets/uploaded/mahara-gallery.jpg
+img: /assets/uploaded/wellington-cable-car-2.jpg
 event_date: 10am-4pm Sat 27 Oct & Sun 28 Oct
 host:
   blurb: >-
