@@ -28,7 +28,9 @@ For complete offline accessibility simply download the tours you are interested 
 
 Download the app for:
 
-[Android devices (www.play.google.com)
+[Android devices (www.play.google.com)](https://play.google.com/store/apps/details?id=com.mytoursapp.android.app741&hl=en)
+
+[
 ](https://play.google.com/store/apps/details?id=com.mytoursapp.android.app741&hl=en)[Apple devices (www.itunes.apple.com)](https://itunes.apple.com/us/app/ipenz-engineering-tours/id988589968?mt=8)
 
 **This is a self guided event through the app. No booking is required.**
