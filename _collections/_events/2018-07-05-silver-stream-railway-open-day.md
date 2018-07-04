@@ -24,14 +24,9 @@ Eftpos is available (no credit card)
 
 **No booking is required.**
 
-**Location: **
+**Location:**
 
-**Cost: **
-
-* Adult: $14; 
-* Children 14 and under: $8; 
-* Children under 5: $4: 
-* Children under 2: Free
-* Families (2 adults and 2 children): $40
+**Cost:**
+Adult: $14; Children 14 and under: $8; Children under 5: $4; Children under 2: Free; Families (2 adults and 2 children): $40
 
 Tickets enable visitors to ride on our trains as many times as you like.
