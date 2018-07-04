@@ -24,9 +24,11 @@ Eftpos is available (no credit card)
 
 **No booking is required.**
 
-**Location:**
+**Location:** Reynolds Bach Dr (off Eastern Hutt Road), Silverstream, Upper Hutt
 
 **Cost:**
 Adult: $14; Children 14 and under: $8; Children under 5: $4; Children under 2: Free; Families (2 adults and 2 children): $40
 
 Tickets enable visitors to ride on our trains as many times as you like.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilverstreamrailway&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
