@@ -24,7 +24,7 @@ Wellington's extensive 19th and 20th century heritage is one of the most fascina
 
 Start at Civic Square, then walk over City to Sea Bridge, walk down waterfront and turn left towards Wellington Museum. Walk to and through Old BNZ to Lambton Quay, then down Lambton Quay to Old Government Building. Cross to Parliament Precinct the possibly visit National Library exhibition and on to Old St Pauls to finish.
 
-**Bookings are essential. Contact information@walkwellington.org.nz to book.**
+**Bookings are essential. Email _information@walkwellington.org.nz_ to book. Put 'Heritage Week Walk' as the subject for your email.**
 
 **Location:** This walk starts in Civic Square and terminates in the Old St Paul's Cathedral in Mulgrave St Thorndon.
 
