@@ -20,15 +20,16 @@
     left: 0
     bottom: 0
     width: 100%
+    background-color: rgba(black, .7)
     .chapter_number, .chapter_title
       color: $white
       margin: 0
-      background-color: rgba($highlight, .4)
+      //background-color: rgba(black, .4)
     .chapter_number
       font-size: 0.9rem
       text-transform: uppercase
-      margin: 0 0 1rem 0
-      visibility: hidden
+      margin: 0 0 0 10px
+      //visibility: hidden
       &::after
         content: ""
         display: block
@@ -42,4 +43,3 @@
       //margin: 0 0 0.5rem 0
       margin: 0
       padding: 10px
-      background-color: rgba($highlight, .4)
