@@ -24,22 +24,18 @@
     .chapter_number, .chapter_title
       color: $white
       margin: 0
-      //background-color: rgba(black, .4)
     .chapter_number
       font-size: 0.9rem
       text-transform: uppercase
-      margin: 0 0 0 10px
-      //visibility: hidden
+      margin: 0 0 0 10px !important
+    .chapter_title
+      font-size: 1.75rem
+      font-weight: 400
+      margin: 0
+      padding: 10px
       &::after
         content: ""
         display: block
         width: 40px
-        margin-top: 0.3rem
+        margin-top: 1rem
         border-top: 3px solid $border_red
-
-    .chapter_title
-      font-size: 1.75rem
-      font-weight: 400
-      //margin: 0 0 0.5rem 0
-      margin: 0
-      padding: 10px
