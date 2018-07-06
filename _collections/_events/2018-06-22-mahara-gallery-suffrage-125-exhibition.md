@@ -37,6 +37,6 @@ Sophie is an abstract painter who works from her home in Waikanae. Trained at th
 
 **Cost:** Free
 
-
-
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaharagallery%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+Image Credit: Frances Hodgkins, The Black Scarf, Maori Woman's Head, (1913) Courtesy of the Field Collection Trust, Photography by Paddy Riley
