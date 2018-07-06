@@ -28,3 +28,5 @@ Visitors will see equipment and furniture used during the bank's life and read s
 **Location:** 49 Main Street, Otaki
 
 **Cost:** Free
+
+**Regular Open Hours:** Thursday - Saturday 10am - 2pm
