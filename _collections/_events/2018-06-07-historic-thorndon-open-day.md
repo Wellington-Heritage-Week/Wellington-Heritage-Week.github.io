@@ -25,7 +25,7 @@ The **Randell Cottage** located at 14 St Mary’s Street, a Category II historic
 
 The former home of one of the country's foremost composers, the **Lilburn Residence** located at 22 Ascot Street, will be open for visitors to explore the cottage where the composer Douglas Lilburn (1915-2002) lived and worked, as well as the garden. Described as a 'Mecca for composers, musicians, and artists alike', the house is of importance to those influenced by Lilburn and his contribution to the development of New Zealand music. There will be music in the garden from 3.30pm.
 
-The former residence of critically acclaimed artist **Rita Angus** (1908-1970) located at 194A Sydney Street West, constructed in 1877, will be open to visitors. Visitors will be given tours of the garden by the volunteer gardeners who care for it. The house, garden, Thorndon, and Wellington all feature in her work from this period, a physical reminder of the influence that these things had upon Angus. The house continues as a studio for an artist in residence program, and is a part of the legacy that Rita Angus has left to contemporary New Zealand Art. 
+The former residence of critically acclaimed artist **Rita Angus** (1908-1970) located at 194A Sydney Street West, constructed in 1877, will be open to visitors. Visitors will be given tours of the garden by the volunteer gardeners who care for it. The house, garden, Thorndon, and Wellington all feature in her work. The house continues as a studio for an artist in residence program, and is a part of the legacy that Rita Angus has left to contemporary New Zealand Art. 
 
 See more at: <https://www.randellcottage.co.nz/cottage/>
  ; <http://www.lilburnresidence.org.nz/>    
