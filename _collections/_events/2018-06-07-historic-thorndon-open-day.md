@@ -4,6 +4,7 @@ title: Historic Thorndon Open Day
 location: Wellington City
 img: /assets/uploaded/randell-cottage.jpg
 event_date: 1pm-5pm Sun 28 Oct
+booked_out: true
 host:
   blurb: >-
     Historic Randell Cottage in Wellington, New Zealand, has been a writers’
@@ -32,6 +33,6 @@ See more at: <https://www.randellcottage.co.nz/cottage/>
 
 **No booking is required.**
 
-**Location:** Randell Cottage (14 St Mary’s Street); Lilburn Residence (22 Ascot Street); Rita Angus (194A Sydney Street West)
+**Location:** Randell Cottage (14 St Mary Street); Lilburn Residence (22 Ascot Street); Rita Angus (194A Sydney Street West)
 
 **Cost:** Free
