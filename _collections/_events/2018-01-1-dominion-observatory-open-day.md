@@ -4,13 +4,11 @@ title: Dominion Observatory Open Day
 location: Wellington City
 img: /assets/uploaded/dominion_observatory.jpg
 event_date: 10am-2pm Mon 22 Oct
+booked_out: true
 host:
   blurb: >-
-    Geographx is a map design studio in Wellington, New Zealand. The name comes
-    from the Greek geo (the earth) and graphein (to write or paint). The
-    Geographx office and studio is the Dominion Observatory, a registered
-    historic building. It is located in the Wellington Botanic Garden on an
-    elevated site with commanding views over the city. 
+    The open day will be hosted by Geographx, the map design studio based in the
+    Dominion Observatory.
   email: ' roger@geographx.co.nz'
   name: Geographx Ltd
   website: 'https://geographx.co.nz/'
