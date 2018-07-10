@@ -4,6 +4,7 @@ title: Wellington Heritage Trails
 location: Wellington City
 img: /assets/uploaded/boat-sheds.jpg
 event_date: Self Guided Tour
+booked_out: true
 host:
   blurb: >-
     Wellington is New Zealand's centre of government and the world's
@@ -54,7 +55,7 @@ The inter-war period was a rich time for Wellington architecture, with 200 new n
 
 Follow some World War 1 procession and parade routes in Wellington from the Parliament precinct to the National War Memorial and Carillon, the Basin Reserve and beyond.
 
-_All trails are easily negotiated by wheelchair._
+_The city trails are easily negotiated by wheelchair. Part of Te Ara o Ngā Tupuna is a driving trail and some site visited on this trail have steps._
 
 **This is a self guided event through the online and physical brochures. No booking is required.**
 
