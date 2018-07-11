@@ -4,6 +4,7 @@ title: Silver Stream Railway Open Day
 location: Upper Hutt
 img: /assets/uploaded/silver-stream-railway-1.jpg
 event_date: 11am - 4pm Mon 22 Oct
+booked_out: true
 host:
   blurb: >-
     Silver Stream Railway's mission is to restore and preserve heritage railway
