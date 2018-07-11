@@ -4,6 +4,7 @@ title: Golder Cottage Open Days
 location: Upper Hutt
 img: /assets/uploaded/golders-cottage.png
 event_date: '1:30pm-4pm Mon 22 Oct & 1:30pm-4pm Sat 27 Oct'
+booked_out: true
 host:
   blurb: >-
     The Golder Homestead Museum Society took over the management of the property
@@ -26,7 +27,7 @@ There will be a special _Suffrage 125 Exhibition_ featuring names of all the wom
 
 **No booking is required.**
 
-**Location:** 707 Fergusson Drive, Upper Hutt
+**Location:** 707 Fergusson Drive, Upper Hutt 
 
 **Cost:** Adults $4; Children and Students $2; Under 5's free
 
