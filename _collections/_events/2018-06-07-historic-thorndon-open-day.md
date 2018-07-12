@@ -4,7 +4,7 @@ title: Historic Thorndon Open Day
 location: Wellington City
 img: /assets/uploaded/randell-cottage.jpg
 event_date: 1pm-5pm Sun 28 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Historic Randell Cottage in Wellington, New Zealand, has been a writers’
