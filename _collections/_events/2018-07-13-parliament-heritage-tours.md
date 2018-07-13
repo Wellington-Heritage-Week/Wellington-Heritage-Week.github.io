@@ -28,4 +28,6 @@ This 90 minute tour moves through Parliament’s historic buildings stopping to 
 _Brochures are also available for a self-guided outdoor tour of historic aspects of Parliament grounds. Brochure available free of charge from Parliament’s Visitor Centre. _
 
 **Location:** Parliament Buildings, Molesworth Street, Pipitea
+
+
 **Cost:** Free
