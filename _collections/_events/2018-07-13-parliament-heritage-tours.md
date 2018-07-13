@@ -17,7 +17,7 @@ Free guided tours of Parliament with a history theme at 10.30am and 1.30pm Monda
 
 This 90 minute tour follows the public tour route through Parliament’s historic buildings with a focus on the history of the buildings and our Parliament.
 
-**Portrait, Art and Objects Tour**
+**Portraits, Art and Objects Tour**
 
 Free guided art tour with an emphasis on portraiture, significant art and heritage objects from the Parliamentary Collection at 9am Friday 26 October (bookings required). 
 
