@@ -3,7 +3,7 @@ layout: post
 title: Parliament Heritage Tours
 location: Wellington City
 img: /assets/uploaded/heritage-week-postcard.png
-event_date: '10:30am and 1:30am Mon 22 Oct - Fri 25 Oct'
+event_date: '9am-1:30pm Mon 22 Oct - Fri 26 Oct'
 host:
   email: tour.desk@parliament.govt.nz
   phone: 04 817 950
@@ -13,13 +13,13 @@ tag:
 ---
 **History Tour**
 
-Free daily guided tours of Parliament with a history theme at 10.30am and 1.30pm (bookings required).
+Free guided tours of Parliament with a history theme at 10.30am and 1.30pm Monday to Thursday (bookings required).
 
 This 90 minute tour follows the public tour route through Parliament’s historic buildings with a focus on the history of the buildings and our Parliament.
 
 **Portrait, Art and Objects Tour**
 
-Free guided art tour with an emphasis on portraiture, significant art and heritage objects from the Parliamentary Collection (bookings required). 
+Free guided art tour with an emphasis on portraiture, significant art and heritage objects from the Parliamentary Collection at 9am Friday 26 October (bookings required). 
 
 This 90 minute tour moves through Parliament’s historic buildings stopping to view and learn more about some of the many historic objects from Parliament’s Collection.
 
