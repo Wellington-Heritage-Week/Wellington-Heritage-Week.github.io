@@ -25,7 +25,9 @@ This 90 minute tour moves through Parliament’s historic buildings stopping to 
 
 **Booking is required for all tours. To book please email tour.desk@parliament.govt.nz or call 04 817 9503**
 
-_Brochures are also available for a self-guided outdoor tour of historic aspects of Parliament grounds. Brochure available free of charge from Parliament’s Visitor Centre. _
+_Brochures are also available for a self-guided outdoor tour of historic aspects of Parliament grounds. Brochure available free of charge from Parliament’s Visitor Centre._
 
 **Location:** Parliament Buildings, Molesworth Street, Pipitea
+
+
 **Cost:** Free
