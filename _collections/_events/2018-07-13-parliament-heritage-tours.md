@@ -9,7 +9,7 @@ host:
   phone: 04 817 950
   website: 'https://www.parliament.nz/en/visit-and-learn/visit/'
 tag:
-  - Walking Tour
+  - Open Day / Property Tour
 ---
 **History Tour**
 
