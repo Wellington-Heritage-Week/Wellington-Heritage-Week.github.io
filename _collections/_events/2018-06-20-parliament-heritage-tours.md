@@ -2,7 +2,7 @@
 layout: post
 title: Parliament Heritage Tours
 location: Wellington City
-img: /assets/uploaded/heritage-week-postcard.png
+img: /assets/uploaded/heritage-week-postcard-4.png
 event_date: '9am-1:30pm Mon 22 Oct - Fri 26 Oct'
 host:
   email: tour.desk@parliament.govt.nz
