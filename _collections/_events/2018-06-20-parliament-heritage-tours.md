@@ -5,7 +5,14 @@ location: Wellington City
 img: /assets/uploaded/heritage-week-postcard-4.png
 event_date: '9am-1:30pm Mon 22 Oct - Fri 26 Oct'
 host:
+  blurb: >-
+    The Parliamentary Service, established in 1985, is headed by the General
+    Manager who is accountable to the Speaker for the running of the Service.
+    The Parliamentary Service provides a range of professional administrative
+    and support services to members of Parliament and the House of
+    Representatives.
   email: tour.desk@parliament.govt.nz
+  name: 'Parliamentary Service '
   phone: 04 817 950
   website: 'https://www.parliament.nz/en/visit-and-learn/visit/'
 tag:
