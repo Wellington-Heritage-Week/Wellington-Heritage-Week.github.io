@@ -5,7 +5,14 @@ location: Wellington City
 img: /assets/uploaded/heritage-week-postcard-4.png
 event_date: '9am-1:30pm Mon 22 Oct - Fri 26 Oct'
 host:
+  blurb: >-
+    The Parliamentary Service, established in 1985, is headed by the General
+    Manager who is accountable to the Speaker for the running of the Service.
+    The Parliamentary Service provides a range of professional administrative
+    and support services to members of Parliament and the House of
+    Representatives.
   email: tour.desk@parliament.govt.nz
+  name: 'Parliamentary Service '
   phone: 04 817 950
   website: 'https://www.parliament.nz/en/visit-and-learn/visit/'
 tag:
@@ -17,7 +24,7 @@ Free guided tours of Parliament with a history theme at 10.30am and 1.30pm Monda
 
 This 90 minute tour follows the public tour route through Parliament’s historic buildings with a focus on the history of the buildings and our Parliament.
 
-**Portraits, Art and Objects Tour**
+**Portraiture, Art and Objects Tour**
 
 Free guided art tour with an emphasis on portraiture, significant art and heritage objects from the Parliamentary Collection at 9am Friday 26 October (bookings required). 
 
@@ -28,6 +35,5 @@ This 90 minute tour moves through Parliament’s historic buildings stopping to 
 _Brochures are also available for a self-guided outdoor tour of historic aspects of Parliament grounds. Brochure available free of charge from Parliament’s Visitor Centre._
 
 **Location:** Parliament Buildings, Molesworth Street, Pipitea
-
 
 **Cost:** Free
