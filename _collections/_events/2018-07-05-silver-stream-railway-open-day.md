@@ -13,7 +13,7 @@ host:
   phone: (04) 563 7348
   website: 'https://www.silverstreamrailway.org.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 See and ride a vintage train on the Silver Stream Railway Open Day 11am-4pm Monday 22 October. 
 
