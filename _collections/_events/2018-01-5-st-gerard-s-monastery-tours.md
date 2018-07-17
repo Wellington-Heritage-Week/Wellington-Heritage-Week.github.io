@@ -14,7 +14,7 @@ host:
   phone: 04 801 7797
   website: 'http://www.icpe.org/newzealand'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 St Gerard’s Monastery Tours are back!
 
