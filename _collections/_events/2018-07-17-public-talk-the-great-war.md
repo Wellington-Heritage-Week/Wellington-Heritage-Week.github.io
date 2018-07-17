@@ -16,7 +16,7 @@ host:
   phone: 04 978 2500
   website: 'https://www.greatwarexhibition.nz/'
 tag:
-  - Exibition
+  - Exhibition
 ---
 **Profiteering, Patriotism and Peril: lesser known stories of the Great War**
 
