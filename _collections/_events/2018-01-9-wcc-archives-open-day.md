@@ -4,6 +4,7 @@ title: WCC Archives Open Day
 location: Wellington City
 img: /assets/uploaded/wcc-archives.jpg
 event_date: 10am - 2pm Mon 22 Oct
+booked_out: true
 host:
   blurb: >-
     Wellington City Archives is a primary information resource for the history
