@@ -21,7 +21,7 @@ host:
   phone: 04 476 8593
   website: 'http://wrightshillfortress.org.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 Built in 1942 to protect Wellington from Japanese bombardment, Wellington’s historic Wrights Hill Fortress in Karori will be open for public inspection again on Labour Day, Monday October 22nd.
 
