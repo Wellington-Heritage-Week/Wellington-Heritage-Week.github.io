@@ -13,7 +13,7 @@ host:
   name: Geographx Ltd
   website: 'https://geographx.co.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 Visit the historic Dominion Observatory where New Zealand's time was determined using astronomical observations, a gun battery was built to ward off the threat of Russian invasion, and the site of New Zealand’s first seismic research.
 
