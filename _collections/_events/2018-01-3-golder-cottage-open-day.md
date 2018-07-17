@@ -15,7 +15,7 @@ host:
   phone: 027 684 3626
   website: 'http://www.goldercottage.co.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 "A time capsule in our own backyard". 
 
