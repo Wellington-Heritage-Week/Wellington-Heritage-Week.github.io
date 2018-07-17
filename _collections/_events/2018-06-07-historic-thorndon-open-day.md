@@ -16,7 +16,7 @@ host:
   phone: 021 485 422
   website: 'https://www.randellcottage.co.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 _Visit three historic residences in Thorndon: a combined Open Day at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency._
 
