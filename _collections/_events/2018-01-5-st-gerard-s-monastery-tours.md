@@ -3,7 +3,7 @@ layout: post
 title: St Gerard's Monastery Tours
 location: Wellington City
 img: /assets/uploaded/sgm.png
-event_date: '2PM TUES 23 OCT TO FRI 25 OCT, 10AM-4PM SAT 26 OCT'
+event_date: 11AM & 2PM TUES 23 OCT & SAT 27 OCT
 host:
   blurb: >-
     The ICPE New Zealand Mission Centre is located at St Gerard's Monastery on
@@ -20,15 +20,14 @@ St Gerard’s Monastery Tours are back!
 
 Do take this opportunity to come and visit this iconic landmark on Mount Victoria, overseeing Wellington Harbour.
 
-Come to our Open Day on Saturday 28th October. There’ll be ample opportunities for photographs both within the buildings and of the spectacular views over Wellington harbour.
+Take a special free tour of these historic buildings on Tuesday October 23th and Saturday 27th October (tours at 11am and 2pm). 
 
-You’ll get a chance to satisfy your taste buds with an array of international cuisine on sale;
+The tour begins at the door of the Church, with its beautiful stained glass windows, before proceeding to the Monastery which provides a glimpse into a unique lifestyle. 
+
+There are ample opportunities for photographs both within the buildings and of the spectacular views over Wellington.
 
 
-It’ll be a fun time for kids & the young at heart with face painting, games etc. Bring your family and friends to have a memorable afternoon.
-
-**Bookings are essential. Contact new-zealand@icpe.org to book.
-**
+**Bookings are essential. Contact new-zealand@icpe.org to book.**
 
 **Location:** 75 Hawker Street, Mount Victoria
 
