@@ -16,7 +16,7 @@ host:
   phone: 027 445 3710
   website: 'http://www.futunatrust.org.nz/'
 tag:
-  - Open Day
+  - Open Day / Property Tour
 ---
 The Futuna Trust is pleased to open Futuna Chapel to the public from 11am to 3pm everyday during Wellington Heritage Week 2018.
 
