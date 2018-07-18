@@ -18,20 +18,40 @@ host:
 tag:
   - Open Day / Property Tour
 ---
+**Open Days - 11am-3pm Monday 22 Oct to Friday 26 Oct**
+
 The Futuna Trust is pleased to open Futuna Chapel to the public from 11am to 3pm everyday during Wellington Heritage Week 2018.
 
-On Saturday 27th October the Trust will host a guided tour of the Chapel from 11:00am to 11:30am.
+Futuna Chapel, which opened in 1961, is a unique piece of New Zealand architecture. It was designed by architect John Scott for the Society of Mary as a retreat chapel. It received the inaugural 25 Year Award from the New Zealand Institute of Architects Award and a Gold Medal for its architect.
 
-On Sunday 28th October from 11:00am to 11:30am, the Trust will host a guided tour, a musical performance and a free public talk on contemporary heritage.
+In addition to the inspiring architectural design, the Chapel contains works that form part of the building by artist Jim Allen, including the Stations of the Cross, the coloured windows, the light modulators and the hand carved Christ Figure.
 
-Futuna Chapel, which opened in 1961, is a unique piece of New Zealand architecture. It was designed by John Scott, and received the inaugural 25 Year Award from the New Zealand Institute of Architects Award. 
+**No booking is required for the Open Days.**
 
-In addition to the inspiring architectural design, the Chapel contains many works by artist Jim Allen, including the Stations of the Cross, and the Christ Figure.
+<br>
+
+**Tour - 3pm Saturday 27 Oct and 11am Sunday 28 Oct**
+
+A guided tour of the Chapel from 3:00pm to 3:30pm on Saturday 27 October, and from 11:00am to 11:30am on Sunday 28 October. The tour will be taken by Trust Chair and architect Nick Bevin co –editor of the 2016 book ‘Futuna – Life of a Building’
 
 **Booking is encouraged for the guided tours. Email nickbevin@gmail.com to book.**
 
-**Location:** 67 Futuna Close, Karori, Wellington City
+<br>
 
-**Cost:** Free
+**Musical Performance by Quintessential Brass - 1:30 to 2:30pm Sunday 28 Oct**
+
+Quintessential Brass (pictured below) was formed several years ago and is made up of local brass players in the Wellington region, including Hutt Valley and Wellington Chamber Orchestras. Four of the players are local to Karori. 
+
+Quintessential Brass play a wide selection of music, from classical, to popular music such as Pirates of the Caribbean, The Beatles and jazz. The Chapel is well known to the group as it is their regular rehearsal space.
+
+**No booking is encouraged for the musical performance.**
+
+<br>
+
+**Location:** 67 Futuna Close (off Friend Street), Karori, Wellington City
+
+**Cost:** A Koha would be appreciated but is voluntary.
+
+![null](/assets/uploaded/futuna1.jpg)
 
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFutunaChapel%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
