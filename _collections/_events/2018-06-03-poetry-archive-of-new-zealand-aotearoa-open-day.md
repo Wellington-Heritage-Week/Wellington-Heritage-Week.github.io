@@ -2,7 +2,7 @@
 layout: post
 title: Poetry Archive of New Zealand Aotearoa Exhibition
 location: Wellington City
-img: /assets/uploaded/panz-1.jpg
+img: /assets/uploaded/panz1.png
 event_date: 10am - 5pm Everyday
 host:
   blurb: Poetry Archive of New Zealand Aotearoa is a Charitable Trust.
