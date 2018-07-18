@@ -26,17 +26,13 @@ Futuna Chapel, which opened in 1961, is a unique piece of New Zealand architectu
 
 In addition to the inspiring architectural design, the Chapel contains works that form part of the building by artist Jim Allen, including the Stations of the Cross, the coloured windows, the light modulators and the hand carved Christ Figure.
 
-**No booking is required for the Open Days.**
-
-<br>
+_No booking is required for the Open Days._
 
 **Tour - 3pm Saturday 27 Oct and 11am Sunday 28 Oct**
 
 A guided tour of the Chapel from 3:00pm to 3:30pm on Saturday 27 October, and from 11:00am to 11:30am on Sunday 28 October. The tour will be taken by Trust Chair and architect Nick Bevin co –editor of the 2016 book ‘Futuna – Life of a Building’
 
-**Booking is encouraged for the guided tours. Email nickbevin@gmail.com to book.**
-
-<br>
+_Booking is encouraged for the guided tours. Email nickbevin@gmail.com to book._
 
 **Musical Performance by Quintessential Brass - 1:30 to 2:30pm Sunday 28 Oct**
 
@@ -44,9 +40,7 @@ Quintessential Brass (pictured below) was formed several years ago and is made u
 
 Quintessential Brass play a wide selection of music, from classical, to popular music such as Pirates of the Caribbean, The Beatles and jazz. The Chapel is well known to the group as it is their regular rehearsal space.
 
-**No booking is encouraged for the musical performance.**
-
-<br>
+_No booking is encouraged for the musical performance._
 
 **Location:** 67 Futuna Close (off Friend Street), Karori, Wellington City
 
