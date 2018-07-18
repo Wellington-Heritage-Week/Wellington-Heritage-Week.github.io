@@ -42,6 +42,14 @@ Quintessential Brass play a wide selection of music, from classical, to popular 
 
 _No booking is encouraged for the musical performance._
 
+**Public Talk: 'Can Heritage be Ugly?' - 2:45 to 3:30pm Sunday 28 Oct**
+
+In 2017 the Environment Court rejected Victoria University’s proposal to delist Wellington’s Gordon Wilson Flats from the city’s heritage schedule. The University wanted to demolish the building and had argued its heritage values were insufficient to retain it. The Court found otherwise. Many Wellingtonians were incredulous. Ninety-one percent of respondents to a Stuff poll agreed the Flats were an eyesore and not worth saving, a response that suggested a building needed to be beautiful to be regarded as heritage. This talk canvases the issue. New Zealand’s first heritage buildings were chosen for their historical rather than their architectural importance. Only later did architectural significance come into play. But is it now the case that architecture assumes too great an importance in deciding what is and isn’t heritage? Can an ugly building also be a heritage one?
+
+Ben Schrader is a Wellington public historian specialising in urban and built environment history. His books include: We Call it Home: A History of State Housing in New Zealand (Auckland, 2005) and the award winning The Big Smoke: New Zealand Cities, 1840-1920 (Wellington, 2016).
+
+_Booking is essential for the Public Talk. Booking is encouraged for the guided tours. Email nickbevin@gmail.com to book._
+
 **Location:** 67 Futuna Close (off Friend Street), Karori, Wellington City
 
 **Cost:** A Koha would be appreciated but is voluntary.
