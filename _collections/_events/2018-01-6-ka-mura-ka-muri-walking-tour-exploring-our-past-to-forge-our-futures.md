@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ka Mura, Ka Muri Walking Tour: Exploring our past to forge our futures'
+title: 'Ka Mura, Ka Muri Walking Tour'
 location: Wellington City
 img: /assets/uploaded/te-aro1.png
 event_date: '12pm Tues 23 Oct to Thurs 24 Oct '
