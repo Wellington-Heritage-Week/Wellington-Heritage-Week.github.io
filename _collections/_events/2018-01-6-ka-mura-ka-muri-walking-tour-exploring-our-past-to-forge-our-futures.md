@@ -19,6 +19,8 @@ host:
 tag:
   - Walking Tour
 ---
+**Walking Tour: Ka Mura, Ka Muri: Exploring our past to forge our futures**
+
 Let Te Wharewaka o Pōneke‘s expert Kaiārahi (guides) take you on a journey, exploring the layers of development diving back to nineteenth century Wellington during Wellington Heritage Week 2018.
 
 Te Wharewaka o Pōneke Wellington Heritage Week Walk Tour special will show you the history and taonga (treasures) of the past at three key sites buried just below the Wellington CBD and explore the narrative of how Wellington is fast becoming a convergence point of traditional and contemporary biculturalism, pathing the way for future generations.
