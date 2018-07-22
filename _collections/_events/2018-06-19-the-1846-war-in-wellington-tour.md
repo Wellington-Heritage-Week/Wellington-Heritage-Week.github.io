@@ -6,8 +6,8 @@ img: /assets/uploaded/wellington-war.png
 event_date: Self-Guided Tour
 host:
   blurb: >-
-    Manatū Taonga, the Ministry for Culture and Heritage works to enrich the
-    lives of all New Zealanders by promoting a confident and connected culture.
+    Manatū Taonga, the Ministry for Culture and Heritage. Promoting a confident
+    and connected culture.
   email: info@mch.govt.nz
   name: Ministry for Culture and Heritage
   website: 'https://mch.govt.nz'
