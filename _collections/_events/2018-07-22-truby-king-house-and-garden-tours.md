@@ -31,11 +31,7 @@ Unfortunately Truby King house is not wheelchair accessible, but for those with 
 
 **Cost:** Free
 
-<center>
-
 ![null](/assets/uploaded/truby-king.jpg)
-
-</center>
 
 
 
