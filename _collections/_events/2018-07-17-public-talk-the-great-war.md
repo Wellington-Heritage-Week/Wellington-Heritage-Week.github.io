@@ -24,6 +24,6 @@ Join us at The Great War Exhibition to hear three talks on the lesser known New 
 
 Presented by staff and volunteers of The Great War Exhibition, talks will include tales of fanatical patriotism that gripped New Zealand from the outset of war, thrilling tales of the medieval walls of Les Quesnay, and the stories of those who used the tragedy of war as a way to grow their personal fortune. 
 
-Supported from the Museum and Heritage Studies programme at Victoria University of Wellington, this event is free of charge on a first-come, first-served basis with the first talk commencing at 6.30pm.
+Supported by the Museum and Heritage Studies programme at Victoria University of Wellington, this event is free of charge on a first-come, first-served basis with the first talk commencing at 6.30pm.
 
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGreatWarExhibition%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
