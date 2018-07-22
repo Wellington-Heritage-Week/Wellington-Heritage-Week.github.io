@@ -12,7 +12,7 @@ host:
   email: 'Karl.Noldan@wcc.govt.nz '
   name: Wellington City Council
 tag:
-  - Open Day / Property Tours
+  - Open Day / Property Tour
 ---
 Visit the former home of Sir Truby King and Lady Isabella King, the founders of the Plunket Society. Sir Truby is widely remembered for his contribution to improving the health of children and the mentally ill.
 
