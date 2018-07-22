@@ -6,9 +6,9 @@ img: /assets/uploaded/truby-king-1-.jpg
 event_date: 10am-4pm Mon 22 Oct
 host:
   blurb: >-
-    The Truby King House and Garden Trust makes sure the property is maintained
-    as an accessible community asset. It was established in 2002 and works in
-    partnership with Wellington City Council.
+    The Truby King House and Garden Trust manages the property. The Trust makes
+    sure the property is maintained as an accessible community asset. It was
+    established in 2002 and works in partnership with Wellington City Council.
   email: 'Karl.Noldan@wcc.govt.nz '
   name: Wellington City Council
 tag:
