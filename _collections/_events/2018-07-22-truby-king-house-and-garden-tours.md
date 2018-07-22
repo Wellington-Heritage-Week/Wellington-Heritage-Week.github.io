@@ -33,6 +33,10 @@ Unfortunately Truby King house is not wheelchair accessible, but for those with 
 
 <center>
 
-![](/assets/uploaded/truby-king.jpg)
+![null](/assets/uploaded/truby-king.jpg)
+
+</center>
+
+
 
 _Study, Sir Frederic Truby King's house, Melrose, Wellington. Evening post (Newspaper. 1865-2002) :Photographic negatives and prints of the Evening Post newspaper. Ref: PAColl-6301-87. Alexander Turnbull Library, Wellington, New Zealand. /records/23056283_
