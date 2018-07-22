@@ -18,8 +18,8 @@ Visit the former home of Sir Truby King and Lady Isabella King, the founders of 
 
 Free guided tours of the property will by held on Monday 22 October between 10am to 12pm, then from 1pm to 4pm. 
 
-Truby King House and Garden is a 1.9 hectare heritage-listed estate in Melrose built in 1923 by pre-eminent Wellington architect William Gray Young. The tour will start in the house and finish with a stroll through the garden planted with pines, roses, rhododendrons and azaleas by King himself.
- The gardens offer a picturesque views over the city. 
+Truby King House and Garden is a 1.9 hectare heritage-listed estate in Melrose built in 1923 by pre-eminent Wellington architect William Gray Young. The tours will start in the house and finish with a stroll through the garden planted with pines, roses, rhododendrons and azaleas by King himself.
+ The gardens offer picturesque views over the city. 
 
 The entrance to the property is at 21 Manchester Street, Melrose. On-street parking will be available along Manchester Street. Please note that a five minute walk up a sloping driveway is required to reach the house as there is no on-site parking.
 
@@ -32,7 +32,5 @@ Unfortunately Truby King house is not wheelchair accessible, but for those with 
 **Cost:** Free
 
 ![null](/assets/uploaded/truby-king.jpg)
-
-
 
 _Study, Sir Frederic Truby King's house, Melrose, Wellington. Evening post (Newspaper. 1865-2002) :Photographic negatives and prints of the Evening Post newspaper. Ref: PAColl-6301-87. Alexander Turnbull Library, Wellington, New Zealand. /records/23056283_
