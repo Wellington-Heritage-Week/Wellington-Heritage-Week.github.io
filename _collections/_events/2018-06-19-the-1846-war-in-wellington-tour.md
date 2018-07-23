@@ -28,6 +28,8 @@ A full day tour of sites in Wellington, the Hutt Valley, and Porirua relating to
 
 [Click here to download for iOS devices](https://itunes.apple.com/nz/app/1846-war-in-wellington-guide/id694881195?mt=8)
 
+[Click here to download for Android devices](https://play.google.com/store/apps/details?id=com.mytoursapp.android.app387)
+
 **This is a self guided event through the app. No booking is required.**
 
 **Location:** Wellington City, the Hutt Valley, and Porirua 
