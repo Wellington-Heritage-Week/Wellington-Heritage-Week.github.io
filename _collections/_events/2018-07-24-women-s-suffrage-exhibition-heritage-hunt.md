@@ -30,4 +30,4 @@ A 1938 addition contains household implements, clothes, tools, photographs, and 
 
 **Cost:** Free
 
-![](/assets/uploaded/wainuiomata-museum-2.png)
+![null](/assets/uploaded/wainuiomata-museum-2.png)
