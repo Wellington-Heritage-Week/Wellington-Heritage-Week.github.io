@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WCC Archives Open Day
+title: WCC Archives Tours and Talks
 location: Wellington City
 img: /assets/uploaded/wcc-archives.jpg
 event_date: 10am - 2pm Mon 22 Oct
@@ -24,7 +24,7 @@ Did you want to know more about the Wellington City Council Archives? Come along
 
 There will be 4 tours throughout the day and some talks that will tell you a bit about the collection and some research advice.
 
-Tours (up to 10 people) leave at 10:00am, 11:00am, 1:00pm, & 2:00pm. 
+Tours (up to 10 people) leave at 10:00am, 11:00am, 1:00pm, & 2:00pm. Talks will be at 10:30, 11:30, and 1:30
 
 NB: If you have a large group that would like to attend a tour, you may need to make alternate arrangements with the Archives to attend on another day.
 
