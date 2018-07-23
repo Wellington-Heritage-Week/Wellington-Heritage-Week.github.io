@@ -21,6 +21,15 @@ In Māori tradition, the harbour was once a lake occupied by two taniwha (supern
 
 <iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/embed/VDCQGwqwrsM" frameborder="0" allowfullscreen></iframe>
 
-Roadside Stories was produced by Manatū Taonga, the Ministry for Culture and Heritage. Promoting a confident and connected culture.
+Roadside Stories was produced by Manatū Taonga, the Ministry for Culture and Heritage.
+ Promoting a confident and connected culture.
 
-<center><a class="twitter-timeline" data-width="600" data-height="500" data-theme="light" href="https://twitter.com/NZHistory?ref_src=twsrc%5Etfw">Tweets by NZHistory</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTeAraEncyclopedia%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+
+
+
+<br>
+
+<br>
+
+<center><a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/Te_Ara?ref_src=twsrc%5Etfw">Tweets by Te_Ara</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
