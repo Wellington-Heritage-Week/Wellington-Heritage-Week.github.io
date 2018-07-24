@@ -16,15 +16,17 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-Step back in time with costumed hosts and discover the history of the Wainuiomata Pioneer Church and Churchyard. 
+Step back in time with costumed hosts and discover the history of the Wainuiomata Pioneer Church and Churchyard.
 
 Learn about the recent extensive restoration and take part in a Heritage Hunt running between the Church and Wainuiomata Museum to be in to win prizes (adults & children).
 
-The Wainuiomata Coast Road Church is not only the third oldest Church in the Wellington Region, but the oldest of the original Methodist Churches in the region. It has a Category II listing with the New Zealand Historic Places Trust - one of only two listed buildings in Wainuiomata.
+The Wainuiomata Pioneer Church was built by pioneers in 1866 as a Wesleyan Church (Methodist). It not only the third oldest church in the Wellington region, but it’s also the oldest of the original Methodist Churches in the region.
 
-Built by the pioneers in 1866 as a Wesleyan Church (Methodist),  the Wainuiomata Coast Road Church is not only the third oldest Church in the Wellington Region, but the oldest of the original Methodist Churches in the region.It has a Category II listing with the New Zealand Historic Places Trust - one of only two listed buildings in Wainuiomata.
+It has a Category II listing with the New Zealand Historic Places Trust - one of only two listed buildings in Wainuiomata.
 
-It was used for regular services until the Congregation outgrew it and moved to the new St Stephens Church in 1957.
+The Churchyard is also recognised as an archaeological site with burials pre-dating 1900, and the first known burial dates from 1862.
+
+Wainuiomata Pioneer Church was used for regular services until the congregation outgrew it and moved to the new St Stephens Church in 1957. It’s now used for non-denominational services including weddings.
 
 **No booking required.**
 
