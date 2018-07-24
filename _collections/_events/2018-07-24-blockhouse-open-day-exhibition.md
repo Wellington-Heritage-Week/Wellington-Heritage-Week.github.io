@@ -9,7 +9,7 @@ host:
     helped preserve the building as part of our social history by arranging open
     days. 
   name: The Upper Hutt Roundtable
-  phone: .027 239 4499
+  phone: 027 239 4499
 tag:
   - Open Day / Property Tour
 ---
