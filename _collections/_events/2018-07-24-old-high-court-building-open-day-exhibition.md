@@ -29,6 +29,7 @@ _The main access to this building is by a set of 8 steps. If you require the use
 
 **No booking is required.**
 
-**Location:** Old High Court Building, Stout Street, Wellington (between Ballance and Whitmore Streets)
+**Location:** Old High Court Building, 36-42 Stout Street, Wellington
+ (between Ballance and Whitmore Streets)
 
 **Cost:** Free
