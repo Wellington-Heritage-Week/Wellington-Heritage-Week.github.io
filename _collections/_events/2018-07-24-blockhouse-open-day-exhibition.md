@@ -21,7 +21,7 @@ The exhibition explores the unique history of the Blockhouse, the site, and the 
 
 A visit to the National Rifle Association at Trentham is also recommended on Sunday 28 October to view NZ’s oldest sporting trophy – The Ballinger Belt –another Wellington Heritage Week 2018 event)
 
-**No booking is required.**
+**No booking is required.** _Booking is requested for groups larger than 10 people._ 
 
 **Location:** The Blockhouse, McHardie St, Upper Hutt
 
