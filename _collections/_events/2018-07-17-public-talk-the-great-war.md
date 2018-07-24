@@ -16,7 +16,7 @@ host:
   phone: 04 978 2500
   website: 'https://www.greatwarexhibition.nz/'
 tag:
-  - Exhibition
+  - Public Talk
 ---
 **Profiteering, Patriotism and Peril: lesser known stories of the Great War**
 
@@ -26,7 +26,7 @@ Presented by staff and volunteers of The Great War Exhibition, talks will includ
 
 Supported by the Museum and Heritage Studies programme at Victoria University of Wellington, this event is free of charge on a first-come, first-served basis with the first talk commencing at 6.30pm.
 
-**No booking is required.**
+**No booking is required.**
 
 **Location:** Dominion Museum Building, Pukeahu National War Memorial Park, Wellington
 
