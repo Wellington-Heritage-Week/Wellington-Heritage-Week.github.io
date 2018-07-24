@@ -9,6 +9,7 @@ host:
     Engineering New Zealand is a non-profit membership organisation that
     promotes the integrity and interests of its members, the profession, and the
     industry.
+  email: roy@sharp.kiwi.nz
   name: Engineering New Zealand
   website: 'https://www.engineeringnz.org/'
 tag:
