@@ -16,7 +16,7 @@ host:
   phone: 027 445 3710
   website: 'http://www.futunatrust.org.nz/'
 tag:
-  - Open Day / Property Tour
+  - Open Day / Property Tour ; Public Talk
 ---
 **Open Days - 11am-3pm Monday 22 Oct to Friday 26 Oct**
 
