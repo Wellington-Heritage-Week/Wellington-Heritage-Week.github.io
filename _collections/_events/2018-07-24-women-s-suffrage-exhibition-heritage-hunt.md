@@ -26,7 +26,7 @@ A 1938 addition contains household implements, clothes, tools, photographs, and 
 
 **No booking is required.**
 
-**Location:** Main Road, Wainuiomata (in the grounds of the Wainuiomata Primary School)
+**Location:** 1 Homedale Road, Wainuiomata (in the grounds of the Wainuiomata Primary School)
 
 **Cost:** Free
 
