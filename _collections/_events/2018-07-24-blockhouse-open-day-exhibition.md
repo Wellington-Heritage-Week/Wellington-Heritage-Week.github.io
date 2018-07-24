@@ -24,6 +24,6 @@ A visit to the National Rifle Association at Trentham is also recommended on Sun
 
 **No booking is required.** _Booking is requested for groups larger than 10 people._ 
 
-**Location:** The Blockhouse, McHardie St, Upper Hutt
+**Location:** Blockhouse Lane off McHardie St, Upper Hutt (in the grounds of Heretaunga College)
 
 **Cost:** Free
