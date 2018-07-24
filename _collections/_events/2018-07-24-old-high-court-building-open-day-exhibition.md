@@ -6,11 +6,13 @@ img: /assets/uploaded/high-court.jpg
 event_date: '5pm-7pm Tues 23 to Thurs 25 Oct, & 10am-5pm Sat 27 Oct'
 host:
   blurb: >-
-    The Supreme Court of New Zealand is the highest court and the court of last
-    resort of New Zealand. From 2004 the Privy Council was replaced as New
-    Zealand’s highest appellate court by a Supreme Court of New Zealand. 
+    The Supreme Court was established in 2004 and a permanent home for the court
+    opened in 2010.  The complex comprises of both the new building for the
+    court and the restored Old High Court building for judicial support staff. 
+    As part of Wellington Heritage Week the staff who work in the Old High Court
+    building are keen to share it with the public.
   email: lyn.eden@courts.govt.nz
-  name: Supreme Court of New Zealand
+  name: The Supreme Court of New Zealand  Te Kōti Mana Nui
   website: 'http://www.courtsofnz.govt.nz/'
 tag:
   - Open Day / Property Tour
