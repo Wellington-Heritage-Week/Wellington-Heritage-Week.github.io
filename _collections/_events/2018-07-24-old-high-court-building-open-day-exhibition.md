@@ -23,7 +23,7 @@ The Old High Court building opened in 1881. It was then known as the Supreme Cou
 
 When the courts were renamed in 1980 the then Supreme Court became known as the High Court. The building was the scene of many high-profile trials including the trials of 7 men who were convicted of murder and sentenced to death.
 
-In 1993 the High Court moved to its current location in Molesworth Street and the building was left vacant for 14 years and fell into disrepair. When the new Supreme Court was established in 2004 a new building was built for that court on the adjoining site. As part of the construction of the new Supreme Court building the Old High Court building which is a Category 1 Historic Building was fully restored opened in 2010.
+In 1993 the High Court moved to its current location in Molesworth Street and the building was left vacant for 14 years and fell into disrepair. When the new Supreme Court was established in 2004 a new building was built for that court on the adjoining site. As part of the construction of the new Supreme Court building the Old High Court building, which is a Category 1 Historic Building, was fully restored and reopened in 2010.
 
 The Old High Court building is now used as office space as part of the Supreme Court complex and the main courtroom is Wellington’s ceremonial courtroom. It is this grand courtroom with its kauri panelling, large canopy over the judge’s bench and portraits of the former Chief Justices that is being opened to the public for Heritage Week. The old cells underneath the building will not be open to the public on this occasion.
 
