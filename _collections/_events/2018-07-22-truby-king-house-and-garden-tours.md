@@ -8,7 +8,9 @@ host:
   blurb: >-
     Truby King House and Garden has been managed by Wellington City Council
     since 1990. The house is currently tenanted by Conservation Volunteers New
-    Zealand.
+    Zealand, Australasia’s largest practical volunteering organisation. CVNZ is
+    dedicated to bringing people together to connect with each other and to care
+    for the natural places we all cherish.
   email: 'Karl.Noldan@wcc.govt.nz '
   name: Wellington City Council
 tag:
