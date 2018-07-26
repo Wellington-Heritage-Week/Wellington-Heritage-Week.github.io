@@ -38,7 +38,7 @@ _Booking is required for all events. To book please email tour.desk@parliament.g
 
 **Heritage Lunch at Bellamy's by Logan Brown - 12pm Thursday 26 Oct**
 
-Have a set menu two course lunch in the iconic Beehive building. Bellamy's by Logan Brown will be offering lunch with a touch of history.(Menu to be confirmed). $45 per person. Menu to be confirmed. 
+Have a set menu two course lunch in the iconic Beehive building. Bellamy's by Logan Brown will be offering lunch with a touch of history. Menu to be confirmed. $45 per person. 
 
 _Booking is required. Email or call on bellamys_by_loganbrown@parliament.govt.nz +64 4 817 9678_
 
@@ -46,4 +46,4 @@ _Brochures are also available for a self-guided outdoor tour of historic aspects
 
 **Location:** Parliament Buildings, Molesworth Street, Pipitea
 
-**Cost:** Free
+**Cost:** Tours are free. Charges apply for the Heritage Lunch
