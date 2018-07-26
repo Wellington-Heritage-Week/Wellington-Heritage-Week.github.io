@@ -38,7 +38,7 @@ _Booking is required for all events. To book please email tour.desk@parliament.g
 
 **Heritage Lunch at Bellamy's by Logan Brown - 12pm Thursday 26 Oct**
 
-Have a two course lunch in the iconic Beehive building. Bellamys by Logan Brown will be offering lunch with a touch of history.(Menu to be confirmed). $45 per person. Menu to be confirmed. 
+Have a set menu two course lunch in the iconic Beehive building. Bellamy's by Logan Brown will be offering lunch with a touch of history.(Menu to be confirmed). $45 per person. Menu to be confirmed. 
 
 _Booking is required. Email or call on bellamys_by_loganbrown@parliament.govt.nz +64 4 817 9678_
 
