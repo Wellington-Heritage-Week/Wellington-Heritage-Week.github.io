@@ -20,7 +20,7 @@ Built in 1860 during the New Zealand Wars to protect colonial settlement in the 
 
 The exhibition explores the unique history of the Blockhouse, the site, and the New Zealand Wars in the Hutt Valley. The exhibition was curated by Expressions Arts and Entertainment Centre.
 
-A visit to the National Rifle Association at Trentham is also recommended on Sunday 28 October to view NZ’s oldest sporting trophy – The Ballinger Belt –another Wellington Heritage Week 2018 event)
+A visit to the National Rifle Association at Alexander Road, Trentham is also recommended on Sunday 28 October to view NZ’s oldest sporting trophy – The Ballinger Belt.
 
 **No booking is required.** _Booking is requested for groups larger than 10 people._ 
 
