@@ -4,6 +4,7 @@ title: Blockhouse Open Day & Exhibition
 location: Upper Hutt
 img: /assets/uploaded/blockhouse1.png
 event_date: 11am-3pm Sun 28 Oct
+booked_out: true
 host:
   blurb: >-
     The Upper Hutt Roundtable has used the building as club-rooms since 1977 and
