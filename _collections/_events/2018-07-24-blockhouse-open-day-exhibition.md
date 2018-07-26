@@ -2,7 +2,7 @@
 layout: post
 title: Blockhouse Open Day & Exhibition
 location: Upper Hutt
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/blockhouse1.png
 event_date: 11am-3pm Sun 28 Oct
 host:
   blurb: >-
