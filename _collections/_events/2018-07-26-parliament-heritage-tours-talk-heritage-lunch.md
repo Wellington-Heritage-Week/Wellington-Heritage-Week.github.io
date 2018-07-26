@@ -4,6 +4,7 @@ title: 'Parliament Heritage Tours, Talk & Heritage Lunch'
 location: Wellington City
 img: /assets/uploaded/heritage-week-postcard-4.png
 event_date: '9AM-1:30PM MON 22 OCT - FRI 26 OCT'
+booked_out: true
 host:
   blurb: >-
     The Parliamentary Service, established in 1985, is headed by the General
