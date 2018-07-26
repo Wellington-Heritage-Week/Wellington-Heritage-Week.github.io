@@ -2,7 +2,7 @@
 layout: post
 title: Futuna Chapel Open Days & Tours
 location: Wellington City
-img: /assets/uploaded/futuna-chapel.png
+img: /assets/uploaded/futuna-chapel-1.jpg
 event_date: 11am - 3pm Everyday
 host:
   blurb: >-
