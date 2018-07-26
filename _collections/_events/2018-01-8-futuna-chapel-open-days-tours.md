@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Futuna Chapel Open Days & Tours
+title: 'Futuna Chapel Open Days, Tours & Talk'
 location: Wellington City
 img: /assets/uploaded/futuna-chapel-1.jpg
 event_date: 11am - 3pm Everyday
+booked_out: true
 host:
   blurb: >-
     The Friends of Futuna Society has been established by the Trust with the aim
