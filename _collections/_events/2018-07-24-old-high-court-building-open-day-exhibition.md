@@ -4,6 +4,7 @@ title: Old High Court Building Open Day & Exhibition
 location: Wellington City
 img: /assets/uploaded/high-court.jpg
 event_date: '5pm-7pm Tues 23 to Thurs 25 Oct, & 10am-5pm Sat 27 Oct'
+booked_out: true
 host:
   blurb: >-
     The Supreme Court was established in 2004 and a permanent home for the court
