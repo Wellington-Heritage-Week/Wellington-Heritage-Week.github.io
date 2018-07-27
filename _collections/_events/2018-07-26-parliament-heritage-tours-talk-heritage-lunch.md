@@ -17,7 +17,7 @@ host:
   phone: 04 817 950
   website: 'https://www.parliament.nz/en/visit-and-learn/visit/'
 tag:
-  - Property Tour / Open Day
+  - Open Day / Property Tour
 ---
 **History Tour - 10:30am and 1:30pm Monday 22 to Thursday 25 Oct**
 
