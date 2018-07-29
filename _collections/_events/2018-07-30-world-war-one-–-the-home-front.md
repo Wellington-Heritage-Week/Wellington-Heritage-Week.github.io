@@ -16,7 +16,7 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-**First World War poetry readings - 6:00 pm to 8:00 pm Thursday, 25th October**
+**First World War poetry readings - 12:00 pm to 2:00 pm Wednesday 24 & Friday 26 October**
 
 Bring your favourite World War I poetry to read aloud or listen to our favourites, including Katherine Mansfield’s ode “To L. H. B. (1894-1915 )”
 
