@@ -3,7 +3,7 @@ layout: post
 title: Wainuiomata Pioneer Church & Churchyard Open Day & Heritage Hunt
 location: Lower Hutt
 img: /assets/uploaded/wainui-church.png
-event_date: 2pm-4pm Mon 22 Oct & Sun 28 Oct
+event_date: 2pm-4pm Mon 22 & Sun 28 Oct
 booked_out: true
 host:
   blurb: >-
