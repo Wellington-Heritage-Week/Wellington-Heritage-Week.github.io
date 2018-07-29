@@ -3,7 +3,7 @@ layout: post
 title: 'Ka Mura, Ka Muri Walking Tour'
 location: Wellington City
 img: /assets/uploaded/te-aro1.png
-event_date: '12pm Tues 23 Oct to Thurs 24 Oct '
+event_date: '12pm Tues 23 to Thurs 24 Oct '
 booked_out: true
 host:
   blurb: >-
