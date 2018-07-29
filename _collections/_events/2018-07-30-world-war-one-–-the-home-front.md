@@ -16,13 +16,11 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-\*\*First World War poetry readings - 6:00 pm to 8:00 pm Thursday, 25th October\*\*
+**First World War poetry readings - 6:00 pm to 8:00 pm Thursday, 25th October**
 
 Bring your favourite World War I poetry to read aloud or listen to our favourites, including Katherine Mansfield’s ode “To L. H. B. (1894-1915 )”
 
-**Spinners and Knitters**
-
-* 10:00 am to 3:00 pm Saturday 27 October
+**Spinners and Knitters - 10:00 am to 3:00 pm Saturday 27 October**
 
 Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war.  Have a go at spinning and/or knitting.  Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
 
