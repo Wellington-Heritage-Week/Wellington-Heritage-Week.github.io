@@ -3,7 +3,7 @@ layout: post
 title: St Gerard's Monastery Tours
 location: Wellington City
 img: /assets/uploaded/sgm.png
-event_date: 11AM & 2PM TUES 23 OCT & SAT 27 OCT
+event_date: 11AM & 2PM TUES 23 & SAT 27 OCT
 host:
   blurb: >-
     The ICPE New Zealand Mission Centre is located at St Gerard's Monastery on
