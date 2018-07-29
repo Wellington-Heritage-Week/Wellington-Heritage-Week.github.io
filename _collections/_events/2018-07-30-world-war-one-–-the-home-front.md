@@ -1,0 +1,54 @@
+---
+layout: post
+title: World War One – The Home Front
+location: Wellington City
+img: /assets/uploaded/halfway-house-np-5593-cropped.jpg
+event_date: 'Various times, Thurs 25 to Sun 29 Oct'
+host:
+  blurb: >-
+    The Glenside Progressive Association Inc. (GPA) is the body empowered by the
+    Glenside community to act on its behalf in working to maintain its
+    identified core values.
+  email: info@glenside.org.nz
+  name: Glenside Progressive Assn. Inc.
+  phone: 022 186 5714
+  website: www.glenside.org.nz
+tag:
+  - Open Day / Property Tour
+---
+**First World War poetry readings - 6:00 pm to 8:00 pm Thursday, 25th October**
+
+Bring your favourite World War I poetry to read aloud or listen to our favourites, including Katherine Mansfield’s ode “To L. H. B. (1894-1915 )”
+
+**Spinners and Knitters**- 10:00 am to 3:00 pm Saturday 27 October
+
+Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war.  Have a go at spinning and/or knitting.  Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
+
+**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October 2018**
+
+Stories, song and drama about life on the home front during the War. Free entry. Old style children’s games. First World War sing-along; “Show and tell” your WWI memorabilia; Heritage Gardeners plant stall. Twigland Gardeners World - pot up an heirloom tomato. Historic house tours (koha/donation entry). Food and drinks of the WWI era available to purchase.
+
+Programme:
+
+10:00 Prayer and blessing. Welcome from hosts Challenge 2000 and Glenside Progressive Assn. Inc.
+
+11:00 Children’s games from the World War One era. Lots of fun! 
+
+11:30 Your WWI memorabilia - show and tell
+
+* Charles Trevethick and his sweet peas
+* Pressed flowers from Palestine
+
+12:00 Picnic lunch – Bring your own
+
+1:00 pm An outdoor WWI drama presented by Challenge 2000
+
+2:00 pm New Zealand World War songs. An historic talk and sing along by David Dell of the NZ Music Archive.
+
+3:00 Farewell and closing prayer
+
+**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
+
+**Cost:** Koha/donation entry
+
+**No booking is required.**
