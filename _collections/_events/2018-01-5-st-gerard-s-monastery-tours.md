@@ -20,12 +20,11 @@ St Gerard’s Monastery Tours are back!
 
 Do take this opportunity to come and visit this iconic landmark on Mount Victoria, overseeing Wellington Harbour.
 
-Take a special free tour of these historic buildings on Tuesday October 23th and Saturday 27th October (tours at 11am and 2pm). 
+Take a special free tour of these historic buildings on at 2pm on Tuesday 23th to Thursday 25 October, and every hour between 10am-4pm on Friday 26 October.
 
 The tour begins at the door of the Church, with its beautiful stained glass windows, before proceeding to the Monastery which provides a glimpse into a unique lifestyle. 
 
 There are ample opportunities for photographs both within the buildings and of the spectacular views over Wellington.
-
 
 **Bookings are essential. Contact new-zealand@icpe.org to book.**
 
