@@ -32,7 +32,7 @@ Bring your favourite World War I poetry to read aloud or listen to our favourite
 
 Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war. Have a go at spinning and/or knitting. Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
 
-**Location: **Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
+**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
 
 **No booking is required.**
 
