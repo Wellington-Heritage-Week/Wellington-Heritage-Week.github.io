@@ -34,3 +34,9 @@ We’ll be finishing with a cuppa and bikkie in either the hall of memories or f
 **Cost:** Free / Koha welcome
 
 **Duration:** 30min
+
+_Take a free walking tour of historic Petone at your own pace and download the Petone Tours app. Listen or read two self guided tours of the fascinating stories behind New Zealand’s first organised European settlement via the links below:_
+
+[Download the app for Android / Google here](https://play.google.com/store/apps/details?id=com.mytoursapp.android.app1001)
+
+[Download the app for iOS / Apple here](https://itunes.apple.com/us/app/tour-petone/id1166368185?mt=8)
