@@ -24,7 +24,7 @@ Bring your favourite World War I poetry to read aloud or listen to our favourite
 
 **No booking is required.**
 
-**Contact:** Gabby Lawson, Challenge 2000, Mobile: 0211318489.
+**Contact: **Gabby Lawson, Challenge 2000, Mobile: 0211318489.
 
 <br>
 
@@ -32,7 +32,7 @@ Bring your favourite World War I poetry to read aloud or listen to our favourite
 
 Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war. Have a go at spinning and/or knitting. Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
 
-**Location: **Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
+**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
 
 **No booking is required.**
 
@@ -40,8 +40,7 @@ Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild a
 
 <br>
 
-**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October
-**
+**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October**
 
 Stories, song and drama about life on the home front during the War. Free entry. Old style children’s games. First World War sing-along; “Show and tell” your WWI memorabilia; Heritage Gardeners plant stall. Twigland Gardeners World - pot up an heirloom tomato. Historic house tours (koha/donation entry). Food and drinks of the WWI era available to purchase.
 
@@ -77,7 +76,6 @@ Your WWI memorabilia - show and tell.
 
 **Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. No onsite parking.
 
-**No booking is required.
-**
+**No booking is required.**
 
 **Contact:** Claire Bibby, Glenside Progressive Assn. Inc. Mobile: 022 186 5714
