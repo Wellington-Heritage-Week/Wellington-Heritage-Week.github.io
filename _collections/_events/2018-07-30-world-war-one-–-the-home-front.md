@@ -40,8 +40,7 @@ Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild a
 
 <br>
 
-**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October
-**
+**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October**
 
 Stories, song and drama about life on the home front during the War. Free entry. Old style children’s games. First World War sing-along; “Show and tell” your WWI memorabilia; Heritage Gardeners plant stall. Twigland Gardeners World - pot up an heirloom tomato. Historic house tours (koha/donation entry). Food and drinks of the WWI era available to purchase.
 
