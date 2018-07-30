@@ -24,7 +24,7 @@ Bring your favourite World War I poetry to read aloud or listen to our favourite
 
 **No booking is required.**
 
-**Contact: **Gabby Lawson, Challenge 2000, Mobile: 0211318489.
+**Contact:** Gabby Lawson, Challenge 2000, Mobile: 0211318489.
 
 <br>
 
