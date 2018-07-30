@@ -18,39 +18,66 @@ tag:
 ---
 **First World War poetry readings - 12:00 pm to 2:00 pm Wednesday 24 & Friday 26 October**
 
-Bring your favourite World War I poetry to read aloud or listen to our favourites, including Katherine Mansfield’s ode “To L. H. B. (1894-1915 )”
+**
+**Bring your favourite World War I poetry to read aloud or listen to our favourites, including Katherine Mansfield’s ode “To L. H. B. (1894-1915 )”.
 
-**Spinners and Knitters**
+**Location: **Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
 
-* 10:00 am to 3:00 pm Saturday 27 October
+**
+No booking is required.**
 
-Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war.  Have a go at spinning and/or knitting.  Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
+**Contact: **Gabby Lawson, Challenge 2000, Mobile: 0211318489.
 
-**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October 2018**
+<br>
+
+**Spinners and Knitters- 10:00 am to 3:00 pm Saturday 27 October**
+
+Traditional spinning and hand knitting by women of the Onslow Fibrecraft Guild and Tawa Fibrecrafts. Honouring the women and school children who knitted scarves and socks for the troops at war. Have a go at spinning and/or knitting. Handcrafts for sale. Free entry. Cup of tea and Anzac biscuit available (koha/donation to cover costs).
+
+**Location: **Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
+
+**No booking is required.**
+
+**Contact:** Esther van der Voorn 0277119501
+
+<br>
+
+**A Peace Celebration - 10:00 am to 3:00 pm Sunday 28th October**
 
 Stories, song and drama about life on the home front during the War. Free entry. Old style children’s games. First World War sing-along; “Show and tell” your WWI memorabilia; Heritage Gardeners plant stall. Twigland Gardeners World - pot up an heirloom tomato. Historic house tours (koha/donation entry). Food and drinks of the WWI era available to purchase.
 
-Programme:
+**Programme:**
 
-10:00 Prayer and blessing. Welcome from hosts Challenge 2000 and Glenside Progressive Assn. Inc.
+10:00 am Prayer and blessing. Welcome from hosts Challenge 2000 and Glenside Progressive Assn. Inc.
 
-11:00 Children’s games from the World War One era. Lots of fun! 
+Your WWI memorabilia - show and tell
 
-11:30 Your WWI memorabilia - show and tell
+* Boer War horse blanket
+* Brass shell soldier craft
+* Italian baking ware of the Mazolla family
+* John Clegg’s rousing patriotic speech
+
+11:00 am Children’s games from the World War One era. Lots of fun!
+
+11:30 am Your WWI memorabilia - show and tell.
 
 * Charles Trevethick and his sweet peas
 * Pressed flowers from Palestine
 
-12:00 Picnic lunch – Bring your own
+12:00 pm Picnic lunch – Bring your own.
 
-1:00 pm An outdoor WWI drama presented by Challenge 2000
+Your WWI memorabilia - show and tell.
+
+1:00 pm An outdoor WWI drama presented by Challenge 2000.
 
 2:00 pm New Zealand World War songs. An historic talk and sing along by David Dell of the NZ Music Archive.
 
-3:00 Farewell and closing prayer
+Your WWI memorabilia - show and tell.
 
-**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. Onsite parking.
+3:00 pm Farewell and closing prayer.
 
-**Cost:** Koha/donation entry
+**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. No onsite parking.
 
-**No booking is required.**
+**No booking is required.**
+
+**Contact:** Claire Bibby, Glenside Progressive Assn. Inc. Mobile: 022 186 5714
