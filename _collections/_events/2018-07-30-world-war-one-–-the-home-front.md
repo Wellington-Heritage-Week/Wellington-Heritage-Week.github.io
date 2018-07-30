@@ -76,7 +76,6 @@ Your WWI memorabilia - show and tell.
 
 **Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Rd, Glenside. No onsite parking.
 
-**No booking is required.
-**
+**No booking is required.**
 
 **Contact:** Claire Bibby, Glenside Progressive Assn. Inc. Mobile: 022 186 5714
