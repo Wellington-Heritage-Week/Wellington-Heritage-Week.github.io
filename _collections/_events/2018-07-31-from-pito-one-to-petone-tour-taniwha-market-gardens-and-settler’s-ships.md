@@ -24,7 +24,7 @@ Join us in our heritage building to share stories of our past – and a lovely c
 
 We’ll finish with a cuppa and bikkie and an opportunity to share memories of our personal Petone.
 
-**Booking is essential. **[**Book via Eventbrite HERE**](https://www.eventbrite.co.nz/e/from-pito-one-to-petone-a-history-tour-tickets-48575100433)**.**
+**Booking is essential. [**Book via Eventbrite HERE**](https://www.eventbrite.co.nz/e/from-pito-one-to-petone-a-history-tour-tickets-48575100433)**.
 
 **Location:** Petone Settlers Museum, The Esplanade, Petone, Lower Hutt
 
