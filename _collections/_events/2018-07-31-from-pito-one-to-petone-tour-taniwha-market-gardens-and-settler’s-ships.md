@@ -4,6 +4,7 @@ title: 'From Pito-one to Petone Tour: taniwha, market gardens and settler’s sh
 location: Lower Hutt
 img: /assets/uploaded/psm-exterior-2016-edited-.jpg
 event_date: 12pm Tues 23 & Thurs 25 Oct
+booked_out: true
 host:
   blurb: >-
     Petone Settlers Museum is a local history museum located in the Wellington
