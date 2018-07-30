@@ -2,7 +2,7 @@
 layout: post
 title: World War One – The Home Front
 location: Wellington City
-img: /assets/uploaded/halfway-house-np-5593-cropped.jpg
+img: /assets/uploaded/halfway-house-1.jpg
 event_date: 'Various times, Thurs 25 to Sun 29 Oct'
 host:
   blurb: >-
