@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Pito-one to Petone Tour: taniwha, market gardens and settler’s ships'
+title: From Pito-one to Petone Tour
 location: Lower Hutt
 img: /assets/uploaded/psm-exterior-2016-edited-.jpg
 event_date: 12pm Tues 23 & Thurs 25 Oct
@@ -16,6 +16,8 @@ host:
 tag:
   - Walking Tour
 ---
+**From Pito-one to Petone Tour: taniwha, market gardens and settler’s ships**
+
 A free heritage tour on the history of Petone from the 1800’s to today.
 
 Join us in our heritage building to share stories of our past – and a lovely cup of tea. Together we’ll step back in time and tour through industrialisation, the settler’s ship Brittania and Te Atiawa’s long standing settlements around our beautiful harbour.
