@@ -2,7 +2,7 @@
 layout: post
 title: Magical Mystery Drawing Tour
 location: Wellington City
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/drawingtour-1.jpg
 event_date: '1pm-4:30pm Sun 28 Oct'
 host:
   blurb: >-
