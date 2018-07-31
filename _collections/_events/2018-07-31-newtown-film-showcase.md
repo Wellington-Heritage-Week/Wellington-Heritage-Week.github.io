@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newtown Film Showcase
+title: Newtown on Film
 location: Wellington City
 img: /assets/uploaded/newtown-on-film.jpg
 event_date: 2pm & 6pm Tues 23 Oct
