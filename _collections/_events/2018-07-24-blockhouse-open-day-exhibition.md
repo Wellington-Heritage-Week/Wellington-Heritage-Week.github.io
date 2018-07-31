@@ -28,8 +28,6 @@ The exhibition explores the unique history of the Blockhouse, the site, and the 
 
 **Cost:** Free
 
-<br>
-
 _A visit to the National Rifle Association at Alexander Road , Trentham is also recommended on between 11am-3pm Sunday 28 October to view NZ’s oldest sporting trophy – The Ballinger Belt –another Wellington Heritage Week 2018 event._
 
 Structured long range target shooting matches started in 1862 and Trentham still hosts the annual National Championships for the Ballinger Belt. In late January 2019 the Ballinger Belt Championship will be followed by the World Championships (the Palma Trophy) when 7 possibly 8 countries will compete. The Belt and other trophies together with photos of past winners including coverage of the 1995 Palma Trophy held at Trentham will be on display. An external overview of the range will be included.
