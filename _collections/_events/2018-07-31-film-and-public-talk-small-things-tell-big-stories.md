@@ -15,7 +15,7 @@ host:
 tag:
   - Film
 ---
-**Small things tell big stories. **
+**Small things tell big stories.**
 
 Delve beneath the streets and buildings of Wellington to learn about our past with this illustrated talk by Wellington archaeologist Mary O’Keefe. 
 
