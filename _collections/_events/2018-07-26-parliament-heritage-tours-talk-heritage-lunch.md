@@ -37,7 +37,7 @@ Historian John Martin, author of ‘Our House –New Zealand’s House of Repres
 
 _Booking is required for all events. To book please email tour.desk@parliament.govt.nz or call 04 817 9503._
 
-**Heritage Lunch at Bellamy’s by Logan Brown - 12pm Thursday 26 Oct**
+**Heritage Lunch at Bellamy’s by Logan Brown - 12pm Friday 26 Oct**
 
 Have a set menu two course lunch in the iconic Beehive building. Bellamy’s by Logan Brown will be offering lunch with a touch of history.Menu to be confirmed. $45 per person. 
 
