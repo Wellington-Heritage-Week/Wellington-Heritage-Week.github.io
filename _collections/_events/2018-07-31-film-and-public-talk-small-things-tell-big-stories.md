@@ -13,7 +13,7 @@ host:
   name: Nga Taonga Sound & Vision and Mary O’Keefe
   website: 'https://www.ngataonga.org.nz/'
 tag:
-  - Public Talk
+  - Film
 ---
 **Small things tell big stories. **
 
