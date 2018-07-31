@@ -6,11 +6,14 @@ img: /assets/uploaded/placeholder3.png
 event_date: '6:30pm THURS 25 Oct'
 host:
   blurb: >-
-    The Great War Exhibition is run by the National Military Heritage Charitable
-    Trust. The Exhibition tells the story of the First World War in brilliant
-    colour. It brings the ordeals of this pivotal time in history into the
-    modern day, melting away 100 years, and helping us to understand the
-    hardship endured by those served and those who stayed behind.
+    Sense the hardship, heroism and tragedy of World War I. The Great War
+    Exhibition includes a remarkable collection of objects, hundreds of
+    colourised photographs, miniature models and movie-like sets to tell the
+    story of this terrible war.  Challenge yourself in The Trench Experience! In
+    this extraordinary re-creation of the trenches at Quinn’s Post, experience
+    what it was like for the Anzac troops at Gallipoli. Created by Sir Peter
+    Jackson and supported by ANZ, exhibition is open daily 9am–6pm. Admission
+    charges apply. 
   email: info@GreatWarExhibition.nz
   name: 'The Great War Exhibition '
   phone: 04 978 2500
