@@ -4,6 +4,7 @@ title: 'Nairn St Cottage: A Fresh Story'
 location: Wellington City
 img: /assets/uploaded/nairn-st-1.jpg
 event_date: 12pm-4pm Sat 27 Oct
+booked_out: true
 host:
   blurb: >-
     Beautifully presented and rich with history, Nairn Street Cottage was built
