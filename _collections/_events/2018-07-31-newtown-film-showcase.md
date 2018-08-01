@@ -2,7 +2,7 @@
 layout: post
 title: Newtown on Film
 location: Wellington City
-img: /assets/uploaded/newtown-on-film.jpg
+img: /assets/uploaded/newtown-on-film1.jpg
 event_date: 2pm & 6pm Tues 23 Oct
 host:
   blurb: >-
