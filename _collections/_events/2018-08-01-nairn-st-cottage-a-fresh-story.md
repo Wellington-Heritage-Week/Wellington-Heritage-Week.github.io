@@ -16,8 +16,7 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-**Nairn St Cottage: A Fresh Story
-**
+**Nairn St Cottage: A Fresh Story**
 
 Come to Nairn St Cottage to celebrate and explore the new interior outfit. Uncover fresh stories of Wellington from 1857 to the late 1970s through four members of the Wallis family: Catherine, William, Clara and Win.
 
