@@ -7,11 +7,11 @@ event_date: 12pm-4pm Sat 27 Oct
 host:
   blurb: >-
     Beautifully presented and rich with history, Nairn Street Cottage was built
-    in 1858 by William Wallis and is believed to be the oldest house in
-    Wellington.
-  email: racheli@experiencewellington.org.nz
-  name: Wellington Museum
-  phone: 04 4961943
+    in 1858 by William Wallis and is believed to be Wellington’s oldest original
+    cottage.
+  email: museumtours@experiencewellington.org.nz
+  name: Nairn Street Cottage
+  phone: 04 472 8904
   website: 'https://www.museumswellington.org.nz/nairn-street-cottage/'
 tag:
   - Open Day / Property Tour
