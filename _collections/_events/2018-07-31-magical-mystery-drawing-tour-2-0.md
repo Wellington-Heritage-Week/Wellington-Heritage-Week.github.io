@@ -4,6 +4,7 @@ title: Magical Mystery Drawing Tour
 location: Wellington City
 img: /assets/uploaded/drawingtour-1.jpg
 event_date: '1pm-4:30pm Sun 28 Oct'
+booked_out: true
 host:
   blurb: >-
     Formerly the Bond Store and Head Office for the Wellington Harbour Board,
@@ -11,7 +12,7 @@ host:
     home to many precious objects that trace this region’s past, present and
     future. It is the only museum devoted to sharing this region’s stories, from
     the first adventurers, to the adventurous spirits that still call it home.
-  email: RachelI@experiencewellington.org.nz
+  email: museumtours@experiencewellington.org.nz
   name: Wellington Museum
   phone: 04 472 8904
   website: 'https://www.museumswellington.org.nz/'
