@@ -23,9 +23,10 @@ Join us to take a step back in time to how Wellington used to be. Home movies, d
 
 There will be two screenings of the films:
 
-* 2pm & 6pm Tuesday 23 October at the Newtown Community and Cultural Centre Hall (Cnr Rintoul & Colombo Sts) 
-* 4:30pm Saturday 27 October at Nga Taonga Sound and Vision (84 Taranaki St, Te Aro, Wellington)
+2pm & 6pm Tuesday 23 October at the Newtown Community and Cultural Centre Hall (Cnr Rintoul & Colombo Sts) 
 
-**Booking via Eventfinda. Door sales are available. **
+4:30pm Saturday 27 October at Nga Taonga Sound and Vision (84 Taranaki St, Te Aro, Wellington)
+
+**Booking via Eventfinda. Door sales are available.**
 
 **Cost:** $5
