@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Film and Public Talk: Small Things tell Big Stories'
+title: 'Illustrated Talk: Small Things tell Big Stories'
 location: Wellington City
 img: /assets/uploaded/smallthings.jpg
 event_date: 6pm Thurs 25 Oct
