@@ -3,6 +3,7 @@ layout: post
 title: 'Talk: Can Heritage Be Ugly?'
 location: Wellington City
 img: /assets/uploaded/gwf-1.png
+event_date: '2:45pm Sun 28 Oct'
 host:
   blurb: >-
     The Friends of Futuna Society has been established by the Trust with the aim
