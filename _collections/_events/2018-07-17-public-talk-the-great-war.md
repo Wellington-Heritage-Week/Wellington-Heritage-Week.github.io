@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Public Talk: The Great War'
+title: 'The Great War: Profiteering, Patriotism & Peril Talk'
 location: Wellington City
 img: /assets/uploaded/placeholder3.png
 event_date: '6:30pm THURS 25 Oct'
