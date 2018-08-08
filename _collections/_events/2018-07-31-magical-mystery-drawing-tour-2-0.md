@@ -23,11 +23,10 @@ Join our renowned mystery painter for a special Heritage Week drawing session. B
 
 In the week before we’ll send you heritage clues that will disclose the meet up spot.
 
+_Hints: The mystery location will be within Wellington City but not in the Central Business District. The site can be reached within a 15 minute walk. Parking will be available (at no cost)._ 
+
 **Booking is essential.** [Book through the Museums Wellington website here.](https://www.museumswellington.org.nz/whats-on/)
 
-
-
 **Location:** Mystery location in Wellington City
-
 
 **Cost:** $20
