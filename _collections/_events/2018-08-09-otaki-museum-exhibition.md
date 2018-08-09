@@ -18,13 +18,13 @@ host:
 tag:
   - Exhibition
 ---
-**Otaki women and the fight for the vote **
+**Otaki women and the fight for the vote**
 
 On the 19th September 1893, New Zealand became the first nation in the world to grant women the right to vote in the national elections. From the 13th of September this year, the Otaki Museum will be staging an exhibition to celebrate that historic event and the women of Otaki who participated in it.
 
 Otaki Museum is a small local museum on Otaki's Main Street.  Changing exhibitions display the town's rich past.
 
-**No booking is required.**
+**No booking is required.**
 
 **Location:** 49 Main Street, Otaki
 
