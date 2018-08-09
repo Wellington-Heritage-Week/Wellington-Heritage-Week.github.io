@@ -3,7 +3,7 @@ layout: post
 title: World War One – The Home Front
 location: Wellington City
 img: /assets/uploaded/halfway-house-1.jpg
-event_date: 'Various times, Thurs 25 to Sun 29 Oct'
+event_date: 'Various times, Thurs 25 to Sun 28 Oct'
 host:
   blurb: >-
     The Glenside Progressive Association Inc. (GPA) is the body empowered by the
