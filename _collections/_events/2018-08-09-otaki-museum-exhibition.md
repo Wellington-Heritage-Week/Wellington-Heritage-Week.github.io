@@ -3,7 +3,7 @@ layout: post
 title: Otaki Museum Exhibition
 location: Kapiti Coast
 img: /assets/uploaded/otaki-museum.png
-event_date: 10am-2pm Thurs 25 to Sat 28 Oct
+event_date: 10am-2pm Thurs 25 to Sat 27 Oct
 booked_out: true
 host:
   blurb: >-
