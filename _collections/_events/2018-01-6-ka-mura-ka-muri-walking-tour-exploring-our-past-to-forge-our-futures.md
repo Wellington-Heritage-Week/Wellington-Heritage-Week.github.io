@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ka Mura, Ka Muri Walking Tour'
+title: 'Ka Mura, Ka Muri Walking Tours'
 location: Wellington City
 img: /assets/uploaded/te-aro1.png
 event_date: '12pm Tues 23 to Thurs 24 Oct '
