@@ -31,7 +31,7 @@ Supported by the Museum and Heritage Studies programme at Victoria University of
 
 [Click here to book for Profiteering, Patriotism and Peril Talk](https://greatwarexhibition.rezdy.com/259998/profiteering-patriotism-and-peril-lesser-known-stories-of-the-great-war)
 
-**No booking is requested but not required. **
+**No booking is requested but not required.**
 
 **Location:** Dominion Museum Building, Pukeahu National War Memorial Park, Wellington
 
@@ -39,8 +39,7 @@ Supported by the Museum and Heritage Studies programme at Victoria University of
 
 <br>
 
-**Free Pukeahu Heritage Tours - also available during Wellington Heritage Week
-**
+**Free Pukeahu Heritage Tours - also available during Wellington Heritage Week**
 
 Join our Pukeahu Heritage Tours. Knowledgeable tour guides from The Great War Exhibition will take you on a journey through layers of fascinating history at Pukeahu National War Memorial Park. Understand the history at Pukeahu, Mt Cook, in the heart of the city and how it was transformed from a site of Maori occupation, to a military barracks, and now a site of national remembrance. 
 
