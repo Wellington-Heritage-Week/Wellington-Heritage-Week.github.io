@@ -3,7 +3,7 @@ layout: post
 title: Newtown on Film
 location: Wellington City
 img: /assets/uploaded/newtown-on-film1.jpg
-event_date: '2pm & 6pm Tues 23 & 4:30pm Sat 27 Oct'
+event_date: 2pm & 6pm Tues 23 & 7pm Sat 27 Oct
 host:
   blurb: >-
     Ngā Taonga Sound & Vision is a charitable trust. We care for an ever-growing
@@ -25,7 +25,7 @@ There will be two screenings of the films:
 
 2pm & 6pm Tuesday 23 October at the Newtown Community and Cultural Centre Hall (Cnr Rintoul & Colombo Sts) 
 
-4:30pm Saturday 27 October at Nga Taonga Sound and Vision (84 Taranaki St, Te Aro, Wellington)
+7pm Saturday 27 October at Nga Taonga Sound and Vision (84 Taranaki St, Te Aro, Wellington)
 
 **Booking via Eventfinda. Door sales are available.**
 
