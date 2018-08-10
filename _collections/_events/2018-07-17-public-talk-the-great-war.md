@@ -39,11 +39,12 @@ Supported by the Museum and Heritage Studies programme at Victoria University of
 
 <br>
 
-**Free Pukeahu Heritage Tours - also available during Wellington Heritage Week**
+**Free Pukeahu Heritage Tours - also available during Wellington Heritage Week
+**
 
 Join our Pukeahu Heritage Tours. Knowledgeable tour guides from The Great War Exhibition will take you on a journey through layers of fascinating history at Pukeahu National War Memorial Park. Understand the history at Pukeahu, Mt Cook, in the heart of the city and how it was transformed from a site of Maori occupation, to a military barracks, and now a site of national remembrance. 
 
-Pukeahu Historic Tours are free – Receive a complimentary $10 Guided Tour Voucher of The Great War Exhibition to use on the day. ($15 admission into the exhibition still applies). 
+Pukeahu Historic Tours are free – Receive a complimentary $10 Guided Tour Voucher of The Great War Exhibition to use on the day. ($15 admission into the exhibition still applies).
 
 Tours depart at 11.00am daily 22nd – 28th  October.  Or timing by arrangement for group of 10+. Tour lasts 50 minutes. Bookings are essential. 
 
@@ -51,10 +52,6 @@ Tours depart at 11.00am daily 22nd – 28th  October.  Or timing by arrangement 
 
 **Please book online or contact our friendly staff by emailing info@greatwarexhibition.nz**
 
-
-
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGreatWarExhibition%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
 
-
-
-![](/assets/uploaded/gwe-2.png)
+![null](/assets/uploaded/gwe-2.png)
