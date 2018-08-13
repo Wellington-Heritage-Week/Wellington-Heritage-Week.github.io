@@ -4,7 +4,7 @@ title: Blockhouse & National Rifle Association Open Day
 location: Upper Hutt
 img: /assets/uploaded/blockhouse1.png
 event_date: 11am-3pm Sun 28 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     The Upper Hutt Roundtable has used the Blockhouse as club-rooms since 1977
