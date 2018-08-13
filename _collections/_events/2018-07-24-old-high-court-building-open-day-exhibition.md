@@ -18,7 +18,7 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-Visit the Old High Court (former Supreme Court) of New Zealand between 5pm - 7pm on Tuesday 23 Oct and Thursday 25 Oct, and 10am and 5pm on Saturday 27 Oct. 
+Visit the Old High Court (former Supreme Court) of New Zealand between 5pm - 7pm on Tuesday 23 Oct to Thursday 25 Oct, and 10am and 5pm on Saturday 27 Oct. 
 
 The Old High Court building opened in 1881. It was then known as the Supreme Court as the plaster work on the outside shows along with the date 1879 when the foundation stone was laid. It was the second building built on the newly reclaimed land and the first public building in the capital to be built of a material other than timber.
 
