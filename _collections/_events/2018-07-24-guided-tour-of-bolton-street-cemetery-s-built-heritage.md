@@ -27,7 +27,7 @@ Find out about the original mortuary chapel – now replaced by the replica chap
 
 We have permission for our tour to include a guided visit to this heritage building. An educational and entertaining event! Our guides will also talk about the disruption caused by the construction of Wellington’s urban motorway in the 1960s.
 
-**Booking required through Eventfinda.** [Click here to book.](https://www.eventfinda.co.nz/2018/guided-tour-of-bolton-street-cemeteryrs-built-heritage2/wellington?utm_campaign=were-you-looking-for-events&utm_medium=click-through&utm_source=2018%2Fguided-tour-of-bolton-street-cemeteryrs-built-heritage%2Fwellington)
+**Booking required through Eventfinda.**  [Click here to book.](https://www.eventfinda.co.nz/2018/guided-tour-of-bolton-street-cemeteryrs-built-heritage2/wellington?utm_campaign=were-you-looking-for-events&utm_medium=click-through&utm_source=2018%2Fguided-tour-of-bolton-street-cemeteryrs-built-heritage%2Fwellington)
 
 **Location:** Meeting point will be at the Kinross Street entrance to the Cemetery.
 
