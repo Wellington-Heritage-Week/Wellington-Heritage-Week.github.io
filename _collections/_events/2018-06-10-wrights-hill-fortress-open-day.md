@@ -37,7 +37,7 @@ All proceeds go to the continuing restoration of the Fortress.
 
 **No booking is required.**
 
-**Location:** Access is via Karori Road, Campbell Street, and Wrights Hill Road. There is limited car parking at the summit of the Hill.
+**Location:** 50 Wrights Hill Road. Access is via Karori Road, Campbell Street, and Wrights Hill Road. There is limited car parking at the summit of the Hill.
 
 **Cost:** $8 per adult; $5 per child. $20 for a family of two adults and three children under 15.
 
