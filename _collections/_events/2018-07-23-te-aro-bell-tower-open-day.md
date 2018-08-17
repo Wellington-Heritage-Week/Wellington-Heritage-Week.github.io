@@ -4,7 +4,7 @@ title: Te Aro Bell Tower Open Day
 location: Wellington City
 img: /assets/uploaded/bells.jpg
 event_date: 10am-3pm Sat 27 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     St Peter's on Willis is a progressive Anglican Church that has stood watch
