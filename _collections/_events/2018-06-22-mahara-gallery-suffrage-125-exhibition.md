@@ -4,7 +4,7 @@ title: 'Mahara Gallery: Suffrage 125 Exhibition'
 location: Kapiti Coast
 img: /assets/uploaded/mahara-5.png
 event_date: 10am-4pm Sat 27 & Sun 28 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     The Mahara Gallery is the district public gallery for the Kāpiti Coast. It
