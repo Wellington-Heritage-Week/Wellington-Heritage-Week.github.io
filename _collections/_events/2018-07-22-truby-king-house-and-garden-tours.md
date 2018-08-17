@@ -4,7 +4,7 @@ title: Truby King House and Garden Tours
 location: Wellington City
 img: /assets/uploaded/truby-king-1.png
 event_date: 10am-4pm Mon 22 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Truby King House and Garden has been managed by Wellington City Council
@@ -21,14 +21,13 @@ Visit the former home of Sir Truby King and Lady Isabella King, the founders of 
 
 Free guided tours of the property will be held on Monday 22 October between 10am to 12pm, then from 1pm to 4pm. 
 
-Truby King House and Garden is a 1.9 hectare heritage-listed estate in Melrose built in 1923 by pre-eminent Wellington architect William Gray Young. The tours will start in the house and finish with a stroll through the garden planted with pines, roses, rhododendrons and azaleas by King himself.
- The gardens offer picturesque views over the city. 
+Truby King House and Garden is a 1.9 hectare heritage-listed estate in Melrose built in 1923 by pre-eminent Wellington architect William Gray Young. The tours will start in the house and finish with a stroll through the garden planted with pines, roses, rhododendrons and azaleas by King himself. The gardens offer picturesque views over the city. 
 
 The entrance to the property is at 21 Manchester Street, Melrose. On-street parking will be available along Manchester Street. Please note that a five minute walk up a sloping driveway is required to reach the house as there is no on-site parking.
 
-Unfortunately Truby King house is not wheelchair accessible, but for those with limited mobility arrangements can be made to facilitate access. Please contact Karl Noldan at the Wellington City Council for more information, Karl.Noldan@wcc.govt.nz 
+Unfortunately, Truby King house is not wheelchair accessible, but for those with limited mobility, arrangements can be made to facilitate access. Please contact the Treehouse Visitor Centre at the Wellington City Council for more information: 04 499 1400
 
-**Booking is required. Please book through Eventfinda.**
+**Booking is required. **[**Click here to book through Eventfinda.**](https://www.eventfinda.co.nz/2018/truby-king-house-and-garden-tours/wellington-region)
 
 **Location:** 21 Manchester Street, Melrose, Wellington
 
