@@ -4,7 +4,7 @@ title: WCC Archives Tours and Talks
 location: Wellington City
 img: /assets/uploaded/wcc-archives.jpg
 event_date: 10am - 2pm Mon 22 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Wellington City Archives is a primary information resource for the history
