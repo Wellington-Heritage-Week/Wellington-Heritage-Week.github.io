@@ -27,7 +27,7 @@ The entrance to the property is at 21 Manchester Street, Melrose. On-street park
 
 Unfortunately, Truby King house is not wheelchair accessible, but for those with limited mobility, arrangements can be made to facilitate access. Please contact the Treehouse Visitor Centre at the Wellington City Council for more information: 04 499 1400
 
-**Booking is required. **[**Click here to book through Eventfinda.**](https://www.eventfinda.co.nz/2018/truby-king-house-and-garden-tours/wellington-region)
+**Booking is required.** [**Click here to book through Eventfinda.**](https://www.eventfinda.co.nz/2018/truby-king-house-and-garden-tours/wellington-region)
 
 **Location:** 21 Manchester Street, Melrose, Wellington
 
