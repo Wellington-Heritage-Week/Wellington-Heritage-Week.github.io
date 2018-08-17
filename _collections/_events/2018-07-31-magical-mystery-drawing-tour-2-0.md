@@ -4,7 +4,7 @@ title: Magical Mystery Drawing Tour
 location: Wellington City
 img: /assets/uploaded/drawingtour-1.jpg
 event_date: '1pm-4:30pm Sun 28 Oct'
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Formerly the Bond Store and Head Office for the Wellington Harbour Board,
