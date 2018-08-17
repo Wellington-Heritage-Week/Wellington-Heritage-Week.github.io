@@ -4,7 +4,7 @@ title: Guided Tour of Bolton Street Cemetery's Built Heritage
 location: Wellington City
 img: /assets/uploaded/cottage_bolton_street.jpg
 event_date: '5:30pm Fri 26 Oct'
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     The Friends of Bolton Street Cemetery is a voluntary society which works
