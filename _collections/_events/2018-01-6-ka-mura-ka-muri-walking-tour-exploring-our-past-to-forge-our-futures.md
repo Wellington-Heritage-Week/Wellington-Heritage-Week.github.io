@@ -4,7 +4,7 @@ title: 'Ka Mura, Ka Muri Walking Tours'
 location: Wellington City
 img: /assets/uploaded/te-aro1.png
 event_date: '12pm Tues 23 to Thurs 24 Oct '
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Wellington’s rich and diverse Māori history is uncovered with Te Wharewaka o
