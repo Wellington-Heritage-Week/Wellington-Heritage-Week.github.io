@@ -4,7 +4,7 @@ title: Kapiti Coast Museum Tours
 location: Kapiti Coast
 img: /assets/uploaded/kapiti-museum.jpg
 event_date: '10am-4pm Fri 26 to Sun 28 Oct '
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Housed in the old Waikanae Post Office is the Kapiti Coast Museum. Its
