@@ -4,7 +4,7 @@ title: Dominion Observatory Open Day
 location: Wellington City
 img: /assets/uploaded/dominion_observatory.jpg
 event_date: 10am-2pm Mon 22 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     The open day will be hosted by Geographx, the map design studio based in the
