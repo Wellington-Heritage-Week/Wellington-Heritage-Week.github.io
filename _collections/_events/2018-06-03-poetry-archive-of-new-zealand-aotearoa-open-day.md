@@ -6,7 +6,10 @@ img: /assets/uploaded/panz1.png
 event_date: 10am - 5pm Everyday
 booked_out: false
 host:
-  blurb: Poetry Archive of New Zealand Aotearoa is a Charitable Trust.
+  blurb: >-
+    Poetry Archive of New Zealand Aotearoa is a Charitable Trust. Around 5,000
+    titles are in PANZA’s online catalogue. The Poetry Archive is situated in a
+    brand new weatherproof garage in Northland, Wellington.
   email: nielwright@xtra.co.nz
   name: Poetry Archive of New Zealand Aotearoa
   phone: 04 475 8042
