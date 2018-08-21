@@ -26,7 +26,7 @@ The tour begins at the door of the Church, with its beautiful stained glass wind
 
 There are ample opportunities for photographs both within the buildings and of the spectacular views over Wellington.
 
-**Bookings are essential. Contact new-zealand@icpe.org to book.**
+**No booking is required.**
 
 **Location:** 75 Hawker Street, Mount Victoria
 
