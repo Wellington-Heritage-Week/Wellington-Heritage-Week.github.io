@@ -20,7 +20,7 @@ tag:
 
 A free heritage tour on the history of Petone from the 1800’s to today.
 
-Join us in our heritage building to share stories of our past – and a lovely cup of tea. Together we’ll step back in time and tour through industrialisation, the settler’s ship Britannia and Te Atiawa’s long standing settlements around our beautiful harbour.
+Join us in our heritage building to share stories of our past – and a lovely cup of tea. Together we’ll step back in time and tour through industrialisation, the settler’s ship Aurora and Te Atiawa’s long standing settlements around our beautiful harbour.
 
 We’ll finish with a cuppa and bikkie and an opportunity to share memories of our personal Petone.
 
