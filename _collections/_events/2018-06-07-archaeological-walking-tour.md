@@ -15,6 +15,8 @@ host:
 tag:
   - Walking Tour
 ---
+**This event is booked out!**
+
 “What Lies Beneath: Wellington’s archaeology”.
 
 Mary O’Keeffe is an archaeologist and has been investigating Wellington’s archaeology for over 20 years.
@@ -23,7 +25,7 @@ In this guided walk Mary will take you to various sites in inner-city Wellington
 
 Limited to 12 people. 
 
-**Bookings are essential. Contact mary@heritagesolutions.net.nz to book.**
+**Bookings are essential.**
 
 **Location:** Commencing from the Te Papa forecourt, finishing in the vicinity of the railway station
 
