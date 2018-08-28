@@ -27,6 +27,8 @@ There will be two screenings of the films:
 
 7pm Saturday 27 October at Nga Taonga Sound and Vision (84 Taranaki St, Te Aro, Wellington)
 
-**Booking via Eventfinda. Door sales are available.**
+[**Click here to book for the screening at Newtown Community and Cultural Centre Hall.**](https://www.eventfinda.co.nz/2018/newtown-on-film-wellington-heritage-week/wellington)
+
+[**Click here to book for the screening at Nga Taonga Sound & Vision** ](https://www.eventfinda.co.nz/2018/newtown-on-film-wellington-heritage-week2/wellington)
 
 **Cost:** $5
