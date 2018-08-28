@@ -29,6 +29,6 @@ There will be two screenings of the films:
 
 [**Click here to book for the screening at Newtown Community and Cultural Centre Hall.**](https://www.eventfinda.co.nz/2018/newtown-on-film-wellington-heritage-week/wellington)
 
-[**Click here to book for the screening at Nga Taonga Sound & Vision** ](https://www.eventfinda.co.nz/2018/newtown-on-film-wellington-heritage-week2/wellington)
+[**Click here to book for the screening at Nga Taonga Sound & Vision.** ](https://www.eventfinda.co.nz/2018/newtown-on-film-wellington-heritage-week2/wellington)
 
 **Cost:** $5
