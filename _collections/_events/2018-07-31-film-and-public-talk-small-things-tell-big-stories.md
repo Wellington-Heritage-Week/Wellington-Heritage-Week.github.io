@@ -25,7 +25,7 @@ This talk will be supported by historic audiovisual clips of early Wellington fr
 
 [Hear an interview on Radio NZ with Mary O’Keefe here.](https://www.radionz.co.nz/national/programmes/standing-room-only/audio/201833786/archaeologist-mary-o'keefe-looks-for-hidden-treasure)
 
-**Booking via Eventfinda. Door sales are available.** 
+[**Click here to book via Eventfinda. Door sales are available.** ](https://www.eventfinda.co.nz/2018/small-things-tell-big-stories/wellington)
 
 **Location:** Nga Taonga Sound and Vision 84 Taranaki St, Te Aro, Wellington
 
