@@ -17,7 +17,7 @@ tag:
 ---
 **Small things tell big stories.**
 
-Delve beneath the streets and buildings of Wellington to learn about our past with this illustrated talk by Wellington archaeologist Mary O’Keefe. 
+Delve beneath the streets and buildings of Wellington to learn about our past with this illustrated talk by Wellington archaeologist Mary O’Keeffe. 
 
 Mary will share some of her discoveries from significant heritage sites in the city and the stories these small treasures can tell about Wellington’s history. 
 
