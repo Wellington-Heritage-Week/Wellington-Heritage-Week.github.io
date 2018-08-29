@@ -2,7 +2,7 @@
 layout: post
 title: 'The Great War: Profiteering, Patriotism & Peril Talk'
 location: Wellington City
-img: /assets/uploaded/gwe-1.png
+img: /assets/uploaded/gwe-2.jpg
 event_date: '6:30pm THURS 25 Oct'
 host:
   blurb: >-
