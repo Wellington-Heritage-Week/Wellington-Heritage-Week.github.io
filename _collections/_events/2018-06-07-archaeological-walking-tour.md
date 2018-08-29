@@ -2,7 +2,7 @@
 layout: post
 title: Archaeological Walking Tour
 location: Wellington City
-img: /assets/uploaded/arch-walking-2.png
+img: /assets/uploaded/arch-walking3.jpg
 event_date: 2pm Mon 22 Oct
 booked_out: true
 host:
