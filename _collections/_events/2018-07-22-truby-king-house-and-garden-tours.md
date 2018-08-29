@@ -2,7 +2,7 @@
 layout: post
 title: Truby King House and Garden Tours
 location: Wellington City
-img: /assets/uploaded/truby-king-1.png
+img: /assets/uploaded/truby-king-1-.jpg
 event_date: 10am-4pm Mon 22 Oct
 booked_out: false
 host:
