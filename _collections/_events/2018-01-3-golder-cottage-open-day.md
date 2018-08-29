@@ -2,7 +2,7 @@
 layout: post
 title: Golder Cottage Open Days
 location: Upper Hutt
-img: /assets/uploaded/golders-cottage.png
+img: /assets/uploaded/golders-cottage-2.jpg
 event_date: '1:30pm-4pm Mon 22 & Sat 27 Oct'
 booked_out: false
 host:
