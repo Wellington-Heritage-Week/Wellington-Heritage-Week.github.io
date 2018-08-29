@@ -2,7 +2,7 @@
 layout: post
 title: Walk Wellington Heritage Tours
 location: Wellington City
-img: /assets/uploaded/walk-welly.png
+img: /assets/uploaded/walk-welly1.jpg
 event_date: 11am & 2pm Tues 23 & Thurs 25 Oct
 booked_out: false
 host:
