@@ -2,7 +2,7 @@
 layout: post
 title: From Pito-one to Petone Tour
 location: Lower Hutt
-img: /assets/uploaded/petone-1.png
+img: /assets/uploaded/petone-2.jpg
 event_date: 12pm Tues 23 & Thurs 25 Oct
 booked_out: false
 host:
