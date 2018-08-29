@@ -2,7 +2,7 @@
 layout: post
 title: Women's Suffrage Exhibition & Heritage Hunt
 location: Lower Hutt
-img: /assets/uploaded/wainuiomata-museum.png
+img: /assets/uploaded/wainui-1.jpg
 event_date: 2pm-4pm Mon 22 & Sun 28 Oct
 booked_out: false
 host:
