@@ -21,9 +21,9 @@ Step back in time with costumed hosts and discover the history of the Wainuiomat
 
 Learn about the recent extensive restoration and take part in a Heritage Hunt running between the Church and Wainuiomata Museum to be in to win prizes (adults & children).
 
-The Wainuiomata Pioneer Church was built by pioneers in 1866 as a Wesleyan Church (Methodist). It not only the third oldest church in the Wellington region, but it’s also the oldest of the original Methodist Churches in the region.
+The Wainuiomata Pioneer Church was built by pioneers in 1866 as a Wesleyan Church (Methodist). It is not only the third oldest church in the Wellington region, but it’s also the oldest of the original Methodist Churches in the region.
 
-It has a Category II listing with the New Zealand Historic Places Trust - one of only two listed buildings in Wainuiomata.
+It has a Category II listing with the Heritage New Zealand - one of only two listed buildings in Wainuiomata.
 
 The Churchyard is also recognised as an archaeological site with burials pre-dating 1900, and the first known burial dates from 1862.
 
