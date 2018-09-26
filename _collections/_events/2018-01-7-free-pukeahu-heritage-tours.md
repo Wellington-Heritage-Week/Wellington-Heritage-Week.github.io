@@ -2,7 +2,7 @@
 layout: post
 title: Free Pukeahu Heritage Tours
 location: Wellington City
-img: /assets/uploaded/war_memorial_and_museum_early_photo_lg.jpg
+img: /assets/uploaded/gwe1.png
 event_date: 11am 22-28 Oct
 host:
   blurb: >-
