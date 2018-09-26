@@ -3,7 +3,7 @@ layout: post
 title: Free Pukeahu Heritage Tours
 location: Wellington City
 img: /assets/uploaded/gwe1.png
-event_date: 11am 22-28 Oct
+event_date: 11am Everyday
 host:
   blurb: >-
     Sense the hardship, heroism and tragedy of World War I. The Great War
