@@ -25,7 +25,7 @@ In the week before we’ll send you heritage clues that will disclose the meet u
 
 _Hints: The mystery location will be within Wellington City but not in the Central Business District. The site can be reached within a 15 minute walk. Parking will be available (at no cost)._ 
 
-**Booking is essential.** [Book through the Museums Wellington website here.](https://www.museumswellington.org.nz/magical-mystery-drawing-tour-2-0/)
+**Booking is essential.** [Book through the Museums Wellington website here.](https://www.museumswellington.org.nz/event/magical-mystery-drawing-tour-2-0/)
 
 **Location:** Mystery location in Wellington City
 
