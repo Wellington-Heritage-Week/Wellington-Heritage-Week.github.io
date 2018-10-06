@@ -16,7 +16,7 @@ host:
 tag:
   - Open Day / Property Tour
 ---
-St Peter's on Willis would like to invite Wellingtonian's and the public to an Open Day that will include a tour of the church's ringing room and an opportunity for visitors to ring the bells.  
+St Peter's on Willis would like to invite Wellingtonians and the public to an Open Day that will include a tour of the church's ringing room and an opportunity for visitors to ring the bells.  
 
 St Peters on Willis was built 136 years ago to act as a temporary building to replace the original church which was destroyed by fire until a permanent structure could be built. We think they had visions of a traditional stone church. The temporary building is still going strong.
 
