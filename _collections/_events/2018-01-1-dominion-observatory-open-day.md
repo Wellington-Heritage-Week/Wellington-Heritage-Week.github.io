@@ -23,7 +23,7 @@ Situated in Wellington's Botanic Gardens the wider site includes the cable car, 
 
 <iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/embed/5izgDyUcS3Y" frameborder="0" allowfullscreen></iframe>
 
-<br>**No booking is required.** 
+<br><br/>**No booking is required.** 
 
 **Location:** Wellington Botanic Gardens, 34 Salamanca Road, Wellington.
 
