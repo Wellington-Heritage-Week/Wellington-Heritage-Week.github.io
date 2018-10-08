@@ -21,6 +21,8 @@ Built in 1907, this Edwardian Baroque style building is a fine example of our hi
 
 Situated in Wellington's Botanic Gardens the wider site includes the cable car, views over Wellington City and the harbour, a World War One German Krupp gun, and Space Place at the Carter Observatory. 
 
+<iframe style="width: 100%; height: 30.25vw;" src="//www.youtube.com/embed/5izgDyUcS3Y" frameborder="0" allowfullscreen></iframe>
+
 **No booking is required.** 
 
 **Location:** Wellington Botanic Gardens, 34 Salamanca Road, Wellington.
