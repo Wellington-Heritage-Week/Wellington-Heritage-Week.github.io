@@ -4,7 +4,7 @@ title: Truby King House and Garden Tours
 location: Wellington City
 img: /assets/uploaded/truby-king-1-.jpg
 event_date: 10am-4pm Mon 22 Oct
-booked_out: false
+booked_out: true
 host:
   blurb: >-
     Truby King House and Garden has been managed by Wellington City Council
