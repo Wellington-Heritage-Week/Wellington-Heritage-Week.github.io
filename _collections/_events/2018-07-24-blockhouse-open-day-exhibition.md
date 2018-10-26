@@ -36,7 +36,7 @@ At 2pm, Howard Weddell –author of recently published –Trentham Camp and Uppe
 
 **No booking is required.**
 
-**Location:** National Rifle Association, Alexander Road, Trentham, Upper Hutt
+**Location:** National Rifle Association, Alexander Road / Cnr Freyberg Road and Messines Ave, Trentham, Upper Hutt
 
 **Cost:** Free
 
