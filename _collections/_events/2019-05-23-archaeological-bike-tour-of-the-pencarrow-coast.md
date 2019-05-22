@@ -6,7 +6,8 @@ description: >-
   Follow the spectacular coastline to visit the best archaeological sites along
   the Pencarrow Coast dating from the Maori occupation of the area until World
   War Two. 
-img: /assets/uploaded/placeholder3.png
+img: >-
+  /assets/uploaded/pencarrow-lighthouse-pencarrow-aerial-view-of-top-lighthouse-custom.jpg
 event_date: 11am Mon 28 Oct
 host:
   blurb: >-
@@ -19,7 +20,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-Explore archaeological sites during a ride to Pencarrow Lighthouse.
+Explore archaeological sites during a ride to Pencarrow Lighthouse on Monday 28th October Labour Day.
 
 The tour will follow the spectacular coastline to visit the best archaeological sites along the Pencarrow Coast dating from the Maori occupation of the area until World War Two. 
 
