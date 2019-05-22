@@ -20,15 +20,15 @@ host:
 tag:
   - Monday 28 Oct
 ---
-Explore archaeological sites during a ride to Pencarrow Lighthouse on Monday 28th October Labour Day.
+Explore archaeological sites during a ride to Pencarrow Lighthouse.
 
 The tour will follow the spectacular coastline to visit the best archaeological sites along the Pencarrow Coast dating from the Maori settlement of the area until World War Two. 
 
-The ride will start near Eastbourne and will stop at Pencarrow Lighthouse for stunning views over the entrance to the harbour and the south coast. The tour will be approximately 4 hours long and return you to The Bike Shed in Eastbourne. 
+The ride will start near Eastbourne and will include a stop at Pencarrow Lighthouse with stunning views over the harbour entrance and the south coast. The tour will be approximately 4 hours long and return you to The Bike Shed in Eastbourne. 
 
-The Bike Shed is offering us discount bike hire for all persons on the tour. Please confirm the number of bikes required when booking this event. 
+The Bike Shed is offering discount bike hire for all persons on the tour. Please confirm the number of bikes required when booking this event. 
 
-Thank you to The Bike Shed [www.bikeshedpencarrow.com](http://www.bikeshedpencarrow.com/)
+Thank you to The Bike Shed www.bikeshedpencarrow.com
 
 **Booking is required. Email huttarchaeology@gmail.com to book. Please confirm the number of bikes required when booking this event.**
 
