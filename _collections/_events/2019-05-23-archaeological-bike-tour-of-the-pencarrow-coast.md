@@ -7,7 +7,7 @@ description: >-
   the Pencarrow Coast dating from the Maori occupation of the area until World
   War Two. 
 img: /assets/uploaded/placeholder3.png
-event_date: 11am 28 Oct
+event_date: 11am Mon 28 Oct
 host:
   blurb: >-
     Nicholas Beynon is an archaeologist based in Lower Hutt. He has supported in
