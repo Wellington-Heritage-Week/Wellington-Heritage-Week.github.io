@@ -27,7 +27,7 @@ The ride will start near Eastbourne and will include a stop at Pencarrow Lightho
 
 The Bike Shed is offering us discount bike hire for all persons on the tour. Please confirm the number of bikes required when booking this event. 
 
-Thank you to The Bike Shed www.bikeshedpencarrow.com
+Thank you to The Bike Shed [www.bikeshedpencarrow.com](http://www.bikeshedpencarrow.com/)
 
 **Booking is required. Email huttarchaeology@gmail.com to book. Please confirm the number of bikes required when booking this event.**
 
