@@ -29,11 +29,7 @@ The Bike Shed is offering us discount bike hire for all persons on the tour. Ple
 
 Thank you to The Bike Shed www.bikeshedpencarrow.com
 
-**Booking is required. Email huttarchaeology@gmail.com to book. Please confirm the number of bikes required when booking this event.
-**
-
-\*\*
-\*\*
+**Booking is required. Email huttarchaeology@gmail.com to book. Please confirm the number of bikes required when booking this event.**
 
 **Location:** The Bike Shed, 519 Muritai Rd, Eastbourne
 
