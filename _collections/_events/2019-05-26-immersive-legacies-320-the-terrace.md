@@ -3,7 +3,7 @@ layout: post
 title: 'Immersive Legacies: 320 The Terrace'
 location: Wellington City
 img: /assets/uploaded/imagined-legacies.jpg
-event_date: '10am - 5pm, Everyday '
+event_date: '10am - 5pm Everyday '
 host:
   blurb: >-
     Immersive Legacies: 320 The Terrace is created by Jessie Rogers, David
