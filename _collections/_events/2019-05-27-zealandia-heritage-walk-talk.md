@@ -36,6 +36,7 @@ Where do I meet the guide? The Walk and Talks start at 12pm and 2pm sharp. Pleas
 
 ### [Click here to book your ticket](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talk-tickets-49536166006)
 
+<br>
 
 **Cost:** The Walk and Talk is free but standard Sanctuary admission fees apply. Please visit the ZEALANDIA [www.visitzealandia.com/Visit](https://www.visitzealandia.com/Visit) for more details
 
