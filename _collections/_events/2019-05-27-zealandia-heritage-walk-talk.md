@@ -32,15 +32,12 @@ What if the weather is bad on the day of my tour? We go out in just about all co
 
 Where do I meet the guide? The Walk and Talks start at 12pm and 2pm sharp. Please meet your guide inside the sanctuary at the Heritage Area.
 
+**Booking is required.**
 
-
-**Booking is required. **
-
-## [Click here to book your ticket](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talk-tickets-49536166006)
+### [Click here to book your ticket](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talk-tickets-49536166006)
 
 **Cost:** The Walk and Talk is free but standard Sanctuary admission fees apply. Please visit the ZEALANDIA [www.visitzealandia.com/Visit](https://www.visitzealandia.com/Visit) for more details
 
 **Location:** ZEALANDIA, 53 Waiapu Rd, Karori
-
 
 **Tour Duration:** 2-2.5 hours
