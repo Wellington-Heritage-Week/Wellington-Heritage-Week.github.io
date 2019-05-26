@@ -34,6 +34,8 @@ Thank you to The Bike Shed [www.bikeshedpencarrow.com](www.bikeshedpencarrow.com
 
 **Booking is required. Email huttarchaeology@gmail.com to book. Please confirm the number of bikes required when booking this event.**
 
+<br>
+
 **Location:** The Bike Shed, 519 Muritai Rd, Eastbourne
 
 **Cost:** $25 for bike hire or free if you bring your own bike. Payment is required at the time of collecting the bike
