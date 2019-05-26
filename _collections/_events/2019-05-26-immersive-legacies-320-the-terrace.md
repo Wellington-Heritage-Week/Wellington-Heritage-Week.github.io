@@ -24,9 +24,9 @@ Attendees can explore the high-rise modernist building and discover its story as
 
 The Gordon Wilson Flats are used as a case study of Wellington modernist architecture with heritage value.
 
-
-
 **No booking is required.** 
+
+<br>
 
 **Location:** Flux, Wellington Museum, 3 Jervois Quay, Wellington
 
