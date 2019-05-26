@@ -20,7 +20,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-Explore archaeological sites during a ride to Pencarrow Lighthouse on Labour Day.
+**Explore archaeological sites during a ride to Pencarrow Lighthouse on Labour Day.**
 
 The tour will follow the spectacular coastline to visit the best archaeological sites along the Pencarrow Coast dating from the Maori settlement of the area until World War Two. 
 
