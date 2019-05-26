@@ -35,7 +35,7 @@ Where do I meet the guide? The Walk and Talks start at 12pm and 2pm sharp. Pleas
 
 **Booking is required.**
 
-### [Click here to book your ticket](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talk-tickets-49536166006)
+### [Click here to book your ticket](https://www.eventbrite.co.nz/e/copy-of-zealandia-heritage-walk-and-talk-tickets-62413599757)
 
 <br>
 
