@@ -2,7 +2,7 @@
 layout: post
 title: 'Immersive Legacies: 320 The Terrace'
 location: Wellington City
-img: /assets/uploaded/4.png
+img: /assets/uploaded/immersivelegacies-1.jpg
 event_date: '10am - 5pm Everyday '
 host:
   blurb: >-
@@ -18,9 +18,11 @@ tag:
 ---
 **Experience Virtual Reality at the Wellington Museum with Immersive Legacies: 320 The Terrace.**
 
-Immersive Legacies: 320 The Terrace is an interactive exhibition that explores how New Zealand heritage can be captured digitally and disseminated through various evolving digital technologies such as Virtual Reality and 180°spherical projection. 
+Immersive Legacies: 320 The Terrace is an interactive exhibition that explores how New Zealand heritage can be captured digitally and disseminated through various evolving digital technologies such as Virtual Reality and 180° spherical projection, the Hyve3D. 
 
-Attendees can explore the high-rise modernist building and discover its story as a 1950s vision of the future of social housing to a controversial icon of our city's past.    
+Accompanying this intriguing experience, are banners of historic and technical information giving insight into the creation of the exhibition, aural histories from previous tenants giving their experiences, alongside 3D printed and laser-cut building models.
+
+Attendees can explore the high-rise modernist building and discover its story as a 1950s vision of the future of social housing to a controversial icon of our city’s past.
 
 The Gordon Wilson Flats are used as a case study of Wellington modernist architecture with heritage value.
 
