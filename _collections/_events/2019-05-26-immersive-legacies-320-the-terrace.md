@@ -2,7 +2,7 @@
 layout: post
 title: 'Immersive Legacies: 320 The Terrace'
 location: Wellington City
-img: /assets/uploaded/immersivelegacies-1.jpg
+img: /assets/uploaded/immersivelegacies-2.jpg
 event_date: '10am - 5pm Everyday '
 host:
   blurb: >-
