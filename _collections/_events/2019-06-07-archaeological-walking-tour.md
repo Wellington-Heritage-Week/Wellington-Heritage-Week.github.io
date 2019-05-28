@@ -24,7 +24,7 @@ In this guided walk Mary will take you to various sites in inner-city Wellington
 
 Limited to 12 people. 
 
-**Bookings are essential. Book at mary@heritagesolutions.net.nz**
+**Bookings are essential. Email mary@heritagesolutions.net.nz to book. **
 
 **Location:** Commencing from the Te Papa forecourt, finishing in the vicinity of the railway station
 
