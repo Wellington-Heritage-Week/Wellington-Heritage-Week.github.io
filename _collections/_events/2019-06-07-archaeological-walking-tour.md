@@ -4,7 +4,7 @@ title: Archaeological Walking Tour
 location: Wellington City
 img: /assets/uploaded/arch-walking3.jpg
 event_date: 3pm Mon 28 Oct & Sat 2 Nov 10am
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Heritage Solutions is a Wellington-based consultancy specialising in
