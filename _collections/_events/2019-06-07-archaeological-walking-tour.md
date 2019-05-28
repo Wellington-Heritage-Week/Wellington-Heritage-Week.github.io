@@ -13,7 +13,8 @@ host:
   name: Heritage Solutions
   website: 'https://www.heritagesolutions.net.nz/'
 tag:
-  - Walking Tour
+  - Monday 28 Oct
+  - Saturday 2 Nov
 ---
 “What Lies Beneath: Wellington’s archaeology”.
 
