@@ -32,4 +32,4 @@ Limited to 12 people.
 
 **Cost:** Free
 
-Note that both walks are the same.
+Note that both walks are the same and are a repeat of last year's booked-out event. 
