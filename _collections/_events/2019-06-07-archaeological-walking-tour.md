@@ -4,7 +4,7 @@ title: Archaeological Walking Tour
 location: Wellington City
 img: /assets/uploaded/arch-walking3.jpg
 event_date: 3pm Mon 28 Oct & Sat 2 Nov 10am
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Heritage Solutions is a Wellington-based consultancy specialising in
@@ -16,7 +16,7 @@ tag:
   - Monday 28 Oct
   - Saturday 2 Nov
 ---
-“What Lies Beneath: Wellington’s archaeology”.
+**“What Lies Beneath: Wellington’s archaeology”.**
 
 Mary O’Keeffe is an archaeologist and has been investigating Wellington’s archaeology for over 20 years.
 
@@ -24,7 +24,7 @@ In this guided walk Mary will take you to various sites in inner-city Wellington
 
 Limited to 12 people. 
 
-**Bookings are essential. Book at mary@heritagesolutions.net.nz**
+**Bookings are essential. Email mary@heritagesolutions.net.nz to book. **
 
 **Location:** Commencing from the Te Papa forecourt, finishing in the vicinity of the railway station
 
@@ -32,4 +32,4 @@ Limited to 12 people.
 
 **Cost:** Free
 
-Note that both walks are the same. 
+Note that both walks are the same.
