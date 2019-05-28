@@ -16,7 +16,7 @@ tag:
   - Monday 28 Oct
   - Saturday 2 Nov
 ---
-“What Lies Beneath: Wellington’s archaeology”.
+**“What Lies Beneath: Wellington’s archaeology”.**
 
 Mary O’Keeffe is an archaeologist and has been investigating Wellington’s archaeology for over 20 years.
 
@@ -32,4 +32,4 @@ Limited to 12 people.
 
 **Cost:** Free
 
-Note that both walks are the same. 
+Note that both walks are the same.
