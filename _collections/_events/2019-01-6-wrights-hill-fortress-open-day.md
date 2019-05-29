@@ -3,7 +3,7 @@ layout: post
 title: Wrights Hill Fortress Open Day
 location: Wellington City
 img: /assets/uploaded/wrights-hill-fortress.jpg
-event_date: 10am-4pm Mon 22 Oct
+event_date: 10am-4pm Mon 28 Oct
 booked_out: false
 host:
   blurb: >-
@@ -21,7 +21,7 @@ host:
   phone: 04 476 8593
   website: 'http://wrightshillfortress.org.nz/'
 tag:
-  - Open Day / Property Tour
+  - Monday 28 Oct
 ---
 Built in 1942 to protect Wellington from Japanese bombardment, Wellington’s historic Wrights Hill Fortress in Karori will be open for public inspection again on Labour Day, Monday October 22nd.
 
