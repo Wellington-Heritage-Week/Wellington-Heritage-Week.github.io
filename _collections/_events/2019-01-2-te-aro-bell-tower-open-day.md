@@ -3,7 +3,7 @@ layout: post
 title: Te Aro Bell Tower Open Day
 location: Wellington City
 img: /assets/uploaded/bells.jpg
-event_date: 10am-3pm Sat 27 Oct
+event_date: 10am-3pm Sat 2 Nov
 booked_out: false
 host:
   blurb: >-
@@ -14,7 +14,7 @@ host:
   phone: +64 4 382 8486
   website: 'https://www.stpetersonwillis.org.nz/history'
 tag:
-  - Open Day / Property Tour
+  - Saturday 2 Nov
 ---
 St Peter's on Willis would like to invite Wellingtonians and the public to an Open Day that will include a tour of the church's ringing room and an opportunity for visitors to ring the bells.  
 
