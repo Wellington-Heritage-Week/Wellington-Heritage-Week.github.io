@@ -6,7 +6,7 @@ description: >-
   Ever wondered what it is like inside the iconic landmark on Mount Victoria? Or
   if there are even people living there? Here is your chance!
 img: /assets/uploaded/sgm.png
-event_date: '2pm-3pm Tues 29 Oct - Frid 1 Nov, & 10am - 2pm Sat 2 Nov'
+event_date: '2pm Tues 29 Oct - Fri 1 Nov, & 10am - 5pm Sat 2 Nov'
 host:
   blurb: >-
     The ICPE New Zealand Mission Centre is located at St Gerard's Monastery on
@@ -37,7 +37,7 @@ There are ample opportunities for photographs both within the buildings and of t
 
 Tours start everyday at 2pm from Tuesday 29 October to Friday 1 November.
 
-Saturday tours leave every hour from 10am - 4pm. Last tour leaves at 4pm.
+Saturday tours leave every hour from 10am. Last tour leaves at 4pm.
 
 All tours are approximately 1 hour in duration. Please be at the Monastery 5min before the tour starts. 
 
