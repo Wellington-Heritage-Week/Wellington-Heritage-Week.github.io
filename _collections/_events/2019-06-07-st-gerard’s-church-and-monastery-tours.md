@@ -18,6 +18,10 @@ host:
   website: 'https://www.stgerards.org.nz/'
 tag:
   - Tuesday 29 Oct
+  - Wednesday 30 Oct
+  - Thursday 31 Oct
+  - Friday 1 Nov
+  - Saturday 2 Nov
 ---
 **Ever wondered what it is like inside the iconic landmark on Mount Victoria? Or if there are even people living there?**
 
