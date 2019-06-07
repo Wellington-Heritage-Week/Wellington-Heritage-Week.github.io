@@ -5,7 +5,7 @@ location: Upper Hutt City
 description: >-
   Tour vintage machines and test your operating skills at Wellington Vintage
   Machinery Incorporated.
-img: /assets/uploaded/wvmc.jpg
+img: /assets/uploaded/wvmc-2.png
 event_date: >-
   10:30am to 3:30pm Mon 28 Oct to Fri 1 Nov, & 10:30am - 4pm Sat 2 Nov to Sun 3
   Nov
