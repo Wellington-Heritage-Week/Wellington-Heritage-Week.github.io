@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wellington Vintage Machinery Tours
-location: Upper Hutt City
+location: Upper Hutt
 description: >-
   Tour vintage machines and test your operating skills at Wellington Vintage
   Machinery Incorporated.
@@ -45,7 +45,7 @@ Tea / coffee refreshments also available.
 
 <br>
 
-**Booking is required. Please contact Peter via the below details to organise a time and date. **
+**Booking is required. Please contact Peter via the below details to organise a time and date.** 
 
 **Location:** 155a Mangaroa Hill Road, Upper Hutt
 
@@ -54,5 +54,3 @@ Tea / coffee refreshments also available.
 **Telephone Contact:** Peter on 04 904 3323 or 027 8200 221
 
 **Email Contact:** peteblackler64@gmail.com
-
-<center>![](/assets/uploaded/wvmc-3.jpg)</center>
