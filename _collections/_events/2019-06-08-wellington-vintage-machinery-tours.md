@@ -24,6 +24,12 @@ host:
   phone: 027 8200221
 tag:
   - Monday 28 Oct
+  - Tuesday 29 Oct
+  - Wednesday 30 Oct
+  - Thursday 31 Oct
+  - Friday 1 Nov
+  - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Tour vintage machines and test your operating skills at Wellington Vintage Machinery Incorporated.**
 
