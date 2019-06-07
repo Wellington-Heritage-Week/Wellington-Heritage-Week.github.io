@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wellington Vintage Machinery Tours
-location: Upper Hutt City
+location: Upper Hutt
 description: >-
   Tour vintage machines and test your operating skills at Wellington Vintage
   Machinery Incorporated.
