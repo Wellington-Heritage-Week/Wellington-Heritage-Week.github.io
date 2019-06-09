@@ -10,9 +10,9 @@ img: /assets/uploaded/ohs.jpg
 event_date: 1pm-4pm Sun 3 Nov
 host:
   blurb: >-
-    The Onslow Historical Society started from small beginnings in 1968. Our
-    areas of interest are the northern and western suburbs of Wellington and
-    adjoining rural land. Our role as a Society is to provide information,
+    The Onslow Historical Society started from small beginnings in 1968. The
+    Society's areas of interest are the northern and western suburbs of
+    Wellington and adjoining rural land. Their role is to provide information,
     education, entertainment and the opportunity for all to discover and
     participate in local history initiatives.
   email: siersjudy@gmail.com
