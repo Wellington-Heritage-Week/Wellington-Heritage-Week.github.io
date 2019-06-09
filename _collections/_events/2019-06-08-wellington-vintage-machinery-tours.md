@@ -51,7 +51,7 @@ Tea / coffee refreshments also available.
 
 <br>
 
-**Booking is required. Please contact Peter via the below details to organise a time and date.** 
+**Booking is required for Group visits. Please contact Peter via the below details to organise a time and date.** 
 
 **Location:** 155a Mangaroa Hill Road, Upper Hutt
 
