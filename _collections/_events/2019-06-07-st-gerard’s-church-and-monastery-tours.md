@@ -41,6 +41,8 @@ Saturday tours leave every hour from 10am. Last tour leaves at 4pm.
 
 All tours are approximately 1 hour in duration. Please be at the Monastery 5min before the tour starts. 
 
+The building is not wheelchair friendly. Please contact the event host for more information about accessibility. 
+
 <br>
 
 **No booking is required.**
