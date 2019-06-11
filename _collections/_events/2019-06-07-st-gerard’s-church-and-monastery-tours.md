@@ -41,6 +41,8 @@ Saturday tours leave every hour from 10am. Last tour leaves at 4pm.
 
 All tours are approximately 1 hour in duration. Please be at the Monastery 5min before the tour starts. 
 
+The building is not wheelchair friendly. Please contact the event host for more information about accessibility. 
+
 <br>
 
 **No booking is required.**
@@ -52,3 +54,5 @@ All tours are approximately 1 hour in duration. Please be at the Monastery 5min 
 **Telephone Contact:** 04 801 7797
 
 **Email Contact:** new-zealand@icpe.org
+
+St Gerard's Monastery and Church may incur damage in an earthquake. The St. Gerard’s Maintenance and Restoration Trust has been established to progress the seismic strengthening of the Church and Monastery as well as other remedial work.
