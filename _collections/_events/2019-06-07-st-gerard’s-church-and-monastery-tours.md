@@ -54,3 +54,5 @@ The building is not wheelchair friendly. Please contact the event host for more 
 **Telephone Contact:** 04 801 7797
 
 **Email Contact:** new-zealand@icpe.org
+
+St Gerard's Monastery and Church may incur damage in an earthquake. The St. Gerard’s Maintenance and Restoration Trust has been established to progress the seismic strengthening of the Church and Monastery as well as other remedial work.
