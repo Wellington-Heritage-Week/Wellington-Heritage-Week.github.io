@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Remutaka Rail Trail
-location: Wellington City
+location: Upper Hutt
 img: /assets/uploaded/doc.jpg
+event_date: Everyday
 host:
   blurb: >-
     Department of Conservation is the government agency charged with conserving
@@ -13,7 +14,8 @@ host:
   phone: 04 384 7770
   website: >-
     https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/remutaka-forest-park/things-to-do/tracks/remutaka-rail-trail/
-tag: []
+tag:
+  - Monday 28 Oct
 ---
 **Built in 1878, this rail route between the Hutt Valley and Featherston is now a gently graded 18 km walk, run or mountain bike ride, with opportunities for camping, swimming and fishing.**
 
