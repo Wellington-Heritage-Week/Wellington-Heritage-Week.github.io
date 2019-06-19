@@ -20,6 +20,12 @@ host:
     https://www.doc.govt.nz/parks-and-recreation/places-to-go/wellington-kapiti/places/remutaka-forest-park/things-to-do/tracks/remutaka-rail-trail/
 tag:
   - Monday 28 Oct
+  - Tuesday 29 Oct
+  - Wednesday 30 Oct
+  - Thursday 31 Oct
+  - Friday 1 Nov
+  - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Built in 1878, this rail route between the Hutt Valley and Featherston is now a gently graded 18 km walk, run or mountain bike ride, with opportunities for camping, swimming and fishing.**
 
