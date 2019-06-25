@@ -18,8 +18,7 @@ tag:
   - Monday 28 Oct
   - Saturday 2 Nov
 ---
-**Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s. "A time capsule in our own backyard".
-**
+**Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s. "A time capsule in our own backyard".**
 
 **Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion
  in Upper Hutt, and more.**
