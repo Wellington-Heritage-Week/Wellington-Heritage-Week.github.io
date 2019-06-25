@@ -16,10 +16,13 @@ host:
   website: 'http://www.goldercottage.co.nz/'
 tag:
   - Monday 28 Oct
+  - Saturday 2 Nov
 ---
-**Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s. "A time capsule in our own backyard".**
+**Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s. "A time capsule in our own backyard".
+**
 
-**Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion in Upper Hutt, and more.**
+**Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion
+ in Upper Hutt, and more.**
 
 The well-preserved Category 2 Heritage -listed Cottage and outside Foodstore and wash house contain many interesting artifacts, most of them owned by the original Golder family. They are sure to evoke memories for older visitors and have the youngsters marveling at how children lived 143 year ago - without electricity or inside plumbing!
 
