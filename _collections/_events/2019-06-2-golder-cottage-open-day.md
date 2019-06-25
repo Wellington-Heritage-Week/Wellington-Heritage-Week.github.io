@@ -3,7 +3,7 @@ layout: post
 title: Golder Cottage Open Days
 location: Upper Hutt
 img: /assets/uploaded/golders-cottage-2.jpg
-event_date: '1:30pm-4pm Mon 22 & Sat 27 Oct'
+event_date: '1:30pm-4pm Mon 28 Oct & Sat 2 Nov'
 booked_out: false
 host:
   blurb: >-
@@ -15,20 +15,28 @@ host:
   phone: 027 684 3626
   website: 'http://www.goldercottage.co.nz/'
 tag:
-  - Open Day / Property Tour
+  - Monday 28 Oct
 ---
-"A time capsule in our own backyard". 
+**Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s. "A time capsule in our own backyard".**
 
-Visit Upper Hutt's multi-award winning Pioneer cottage Museum, showcasing how the first settlers lived from the 1860s and how the house developed to accommodate "citification" into the 1980s. 
+**Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion in Upper Hutt, and more.**
 
-The well preserved Cottage and outbuildings contain many interesting artifacts, most of them Golder-family-owned, that are sure to evoke past memories for older visitors and have the youngsters marveling at how children lived 142 years ago-without even their own bed and with no electricity for digital devices! 
+The well-preserved Category 2 Heritage -listed Cottage and outside Foodstore and wash house contain many interesting artifacts, most of them owned by the original Golder family. They are sure to evoke memories for older visitors and have the youngsters marveling at how children lived 143 year ago - without electricity or inside plumbing!
 
-There will be a special _Suffrage 125 Exhibition_ featuring names of all the women of the Upper Hutt who voted in the first election, including Golder relative Mrs Elizabeth Martin (nee Brown)  the first woman to record a vote in the Parliamentary Elections, "upper end of Hutt Valley".
+The Criterion Hotel in Upper Hutt township relates to the Golder family through Cottage Matriarch Jane Golder.
+
+The many other hotels reflect the history of Upper Hutt and the valley. 
+
+<br> 
 
 **No booking is required.**
 
-**Location:** 707 Fergusson Drive, Upper Hutt 
+**Location:** 707 Fergusson Drive, Elderslea, Upper Hutt 
 
-**Cost:** Adults $4; Children and Students $2; Under 5's free
+**Cost:** Adults $5, Students $3, Children $2; Under 5's free. (Sorry- no eftpos).
+
+**Telephone Contact:** 04 527 8285
+
+**Email Contact:** vibranthv@gmail.com
 
 <center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGolders-Cottage-172738402909074%2F&tabs=header&width=340&height=180&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
