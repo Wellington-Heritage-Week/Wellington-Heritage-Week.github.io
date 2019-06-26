@@ -20,8 +20,7 @@ tag:
 ---
 **Visit Upper Hutt's multi-award winning Pioneer Cottage Museum, showcasing how the first settlers lived from the 1860s - a time capsule in our own backyard.** 
 
-**Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion
- in Upper Hutt, and more.**
+**Also, see a display telling the story of the earliest hotels in the area - the Barley Mow at Silverstream, the Mungaroa Inn at Te Marua, the Golden Fleece at Pakuratahi (Kaitoke), the Criterion and Provincial in Upper Hutt, and the Quinn's Post (now a Tavern) - the only one still in existence and which has had a continuous licence for 162 years. Research has been done by Lynly Yates**
 
 The well-preserved Category 2 Heritage -listed Cottage and outside Foodstore and wash house contain many interesting artifacts, most of them owned by the original Golder family. They are sure to evoke memories for older visitors and have the youngsters marveling at how children lived 143 year ago - without electricity or inside plumbing!
 
