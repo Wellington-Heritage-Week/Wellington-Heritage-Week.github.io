@@ -3,7 +3,7 @@ layout: post
 title: 'The Life of Octavius Hadfield '
 location: Kapiti Coast
 img: /assets/uploaded/kapiti-museum.jpg
-event_date: 10AM-4PM FRI 1TO SUN 3 NOV
+event_date: 10AM-4PM FRI 1 to SUN 3 NOV
 host:
   blurb: >-
     The Kapiti Coast Museum is housed in the old Waikanae Post Office. Started
@@ -13,7 +13,8 @@ host:
   name: Kapiti Coast Museum
   phone: 04 905 6313
   website: 'http://www.kapiticoastmuseum.org.nz/'
-tag: []
+tag:
+  - Friday 1 Nov
 ---
 **Follow the fascinating life of Octavius Hadfield who journeyed to New Zealand as a missionary and traveled the country serving Maori and settlers alike.**
 
