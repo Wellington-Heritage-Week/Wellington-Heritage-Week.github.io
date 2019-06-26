@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Life of Octavius Hadfield
+title: 'The Life of Octavius Hadfield '
 location: Kapiti Coast
 img: /assets/uploaded/kapiti-museum.jpg
 event_date: 10AM-4PM FRI 1TO SUN 3 NOV
