@@ -18,7 +18,7 @@ tag:
   - Saturday 2 Nov
   - Sunday 3 Nov
 ---
-**Follow the fascinating life of Octavius Hadfield who journeyed to New Zealand as a missionary and traveled the country serving Maori and settlers alike.**
+**Follow the fascinating life of Octavius Hadfield who journeyed to New Zealand from the Isle of Wight to work as a missionary and travel the country serving Maori and settlers alike.**
 
 The story of the life of Octavius Hadfield is most fascinating. He was born on the Isle of Wight, England, one of 12 children. He arrived in New Zealand in 1839 and in Kapiti later in that year. He married Catherine Williams in 1852, and they had 10 children. He learned the Maori language and was successful in educating Maori in Christian ways. He was a successful missionary – he rose to become bishop of Wellington in 1870 - and he was respected by Government and Maori when land rights issues were being argued over in the 1800s.
 
