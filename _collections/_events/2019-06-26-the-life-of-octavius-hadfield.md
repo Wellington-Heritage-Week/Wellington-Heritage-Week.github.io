@@ -15,6 +15,8 @@ host:
   website: 'http://www.kapiticoastmuseum.org.nz/'
 tag:
   - Friday 1 Nov
+  - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Follow the fascinating life of Octavius Hadfield who journeyed to New Zealand as a missionary and traveled the country serving Maori and settlers alike.**
 
