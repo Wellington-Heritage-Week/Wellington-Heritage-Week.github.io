@@ -4,8 +4,8 @@ title: Discover Wellington’s Historic War Bunkers
 location: Wellington City
 description: >
   Tour Wellington’s hilltop war bunkers dating back to the 1880s and see the
-  excellent views over Wellington and the coast.
-img: /assets/uploaded/placeholder3.png
+  excellent views over the city and the coast.
+img: /assets/uploaded/fort-ballance-main-building-2.jpg
 event_date: Everyday
 host:
   blurb: >-
@@ -18,7 +18,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-**Tour Wellington’s hilltop war bunkers dating back to the 1880s and see the excellent views over Wellington and the coast.**
+**Tour Wellington’s hilltop war bunkers dating back to the 1880s and see the excellent views over the city and the coast.**
 
 Perfect for a picnic and photography, the eight bunkers are scattered across the city and are unique way to explore the region's past. 
 
