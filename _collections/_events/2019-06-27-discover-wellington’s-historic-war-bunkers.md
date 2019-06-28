@@ -36,7 +36,7 @@ If you’ve got any additional information, contact Tim at tim@aro.digital or le
 
 <br> 
 
-**No booking is required. This is a self guided tour.**
+**No booking is required. This is a self-guided tour.**
 
 **Email Contact:** tim@aro.digital
 
