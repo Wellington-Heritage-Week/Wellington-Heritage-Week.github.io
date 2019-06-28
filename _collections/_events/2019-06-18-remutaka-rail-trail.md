@@ -7,7 +7,7 @@ description: >-
   a gently graded 18 km walk, run or mountain bike ride, with opportunities for
   camping, swimming and fishing.
 img: /assets/uploaded/doc.jpg
-event_date: Everyday
+event_date: Self-guided tour
 host:
   blurb: >-
     Department of Conservation is the government agency charged with conserving
