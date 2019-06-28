@@ -6,7 +6,7 @@ description: >
   Tour Wellington’s hilltop war bunkers dating back to the 1880s and see the
   excellent views over the city and the coast.
 img: /assets/uploaded/fort-ballance-main-building-2.jpg
-event_date: Everyday
+event_date: Self-Guided Tour
 host:
   blurb: >-
     Aro Digital is a Wellington-based digital marketing agency that’s all about
@@ -36,7 +36,7 @@ If you’ve got any additional information, contact Tim at tim@aro.digital or le
 
 <br> 
 
-**No booking is required. This is a self guided tour.**
+**No booking is required. This is a self-guided tour.**
 
 **Email Contact:** tim@aro.digital
 
