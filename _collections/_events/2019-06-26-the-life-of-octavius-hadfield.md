@@ -7,7 +7,7 @@ event_date: 10AM-4PM FRI 1 to SUN 3 NOV
 host:
   blurb: >-
     The Kapiti Coast Museum is housed in the old Waikanae Post Office. Started
-    in 1981 by a small group of radio enthusiasts, the museum is now home to
+    in 1984 by a small group of radio enthusiasts, the museum is now home to
     extensive displays of everyday life from the pioneering era. 
   email: manager@kapiticoastmuseum.org.nz
   name: Kapiti Coast Museum
