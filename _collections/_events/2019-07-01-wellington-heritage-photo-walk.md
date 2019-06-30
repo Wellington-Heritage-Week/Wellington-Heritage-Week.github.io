@@ -20,7 +20,7 @@ host:
 tag:
   - Tuesday 29 Oct
 ---
-**Visit and photograph the best hidden and iconic heritage photographic hot spots in Wellington, hear about history of each location, and learn tips for urban photography. **
+**Visit and photograph the best hidden and iconic heritage photographic hot spots in Wellington, hear about history of each location, and learn tips for urban photography.**
 
 The event is open to people with any level of photography knowledge and any camera equipment. 
 
@@ -32,7 +32,7 @@ The tour will focus on locations within Wellington City. Bring suitable footwear
 
 <br>
 
-**Booking is required. Please email Ana Lyubich on ana@excio.io to book. **
+**Booking is required. Please email Ana Lyubich on ana@excio.io to book.**
 
 **Cost:** Free
 
