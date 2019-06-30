@@ -5,6 +5,7 @@ location: Wellington City
 description: >-
   Join Hiamo on a tour to explore the past and view some of Wellington’s
   remaining and long-gone heritage through augmented reality!
+img: /assets/uploaded/hiamo_header-1.jpg
 event_date: 1pm Mon 28 Oct & Sat 2 Nov
 host:
   blurb: >-
@@ -13,7 +14,7 @@ host:
     programme, Mahuki, Hiamo aims to connect people with the past by bringing
     back long-gone objects, people, and more.
   email: contact@hiamo.nz
-  image: /assets/uploaded/hiamo_header-1.jpg
+  image: ''
   name: Hiamo
   phone: 027 8609129
   website: www.hiamo.nz
