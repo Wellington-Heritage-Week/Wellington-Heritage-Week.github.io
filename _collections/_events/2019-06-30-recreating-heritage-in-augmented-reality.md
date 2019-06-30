@@ -20,6 +20,7 @@ host:
   website: www.hiamo.nz
 tag:
   - Monday 28 Oct
+  - Saturday 2 Nov
 ---
 **Join Hiamo on a tour to explore the past and view some of Wellington’s remaining and long-gone heritage through augmented reality!**
 
