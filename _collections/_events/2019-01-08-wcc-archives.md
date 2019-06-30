@@ -7,7 +7,7 @@ description: >-
   along to a behind the scenes tour, followed up by a Q & A opportunity.
 img: /assets/uploaded/wcc-archives.jpg
 event_date: 10am - 2pm Mon 28 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Wellington City Archives is a primary information resource for the history
@@ -23,7 +23,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-Did you want to know more about the Wellington City Council Archives? Come along to a behind the scenes tour, followed up by a Q & A opportunity. 
+**Did you want to know more about the Wellington City Council Archives? Come along to a behind the scenes tour, followed up by a Q & A opportunity.** 
 
 There will be 4 tours throughout the day and a recurring talk that will tell you a bit about the collection and the new Archives online search.
 
