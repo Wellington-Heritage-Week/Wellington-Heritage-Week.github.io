@@ -49,3 +49,5 @@ For more information, please contact the cultural department of the embassy.
 **Telephone Contact:** 04 384 25 55
 
 **Email Contact:** cooperation.wellington-amba@diplomatie.gouv.fr
+
+<div class="fb-page" data-href="https://www.facebook.com/france.nz/" data-tabs="timeline" data-width="370" data-height="200" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/france.nz/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/france.nz/">France in New Zealand - Ambassade de France à Wellington</a></blockquote></div>
