@@ -2,6 +2,9 @@
 layout: post
 title: Memories of Rita Angus
 location: Wellington City
+description: >-
+  Enjoy a three course meal and view a wide selection of beautiful works by Rita
+  Angus throughout the hallways and lobby of the Bolton Hotel.
 img: /assets/uploaded/placeholder3.png
 event_date: 5pm Fri 1st Nov
 host:
