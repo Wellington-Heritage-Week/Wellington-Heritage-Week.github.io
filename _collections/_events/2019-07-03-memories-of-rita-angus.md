@@ -15,7 +15,8 @@ host:
   name: Bolton Hotel
   phone: 04 462 3765
   website: www.boltonhotel.co.nz
-tag: []
+tag:
+  - Friday 1 Nov
 ---
 **Enjoy a three course meal and view a wide selection of beautiful works by Rita Angus throughout the hallways and lobby of the Bolton Hotel.
 **
