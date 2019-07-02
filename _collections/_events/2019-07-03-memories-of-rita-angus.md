@@ -18,8 +18,7 @@ host:
 tag:
   - Friday 1 Nov
 ---
-**Enjoy a three course meal and view a wide selection of beautiful works by Rita Angus throughout the hallways and lobby of the Bolton Hotel.
-**
+**Enjoy a three course meal and view a wide selection of beautiful works by Rita Angus throughout the hallways and lobby of the Bolton Hotel.**
 
 Known for combining the essence of New Zealand with the artistic movements of Europe and North America, Rita Angus succeeded in forging her own distinct, personal style as one of Aotearoa's most significant 20th-century artists.
 
