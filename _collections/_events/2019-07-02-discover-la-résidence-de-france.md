@@ -32,7 +32,7 @@ The tour will take about one hour and the visitors will be welcomed at the gate,
 
 The entrance to the property is at 39 Hobson Street, Wellington. On-street parking only. 
 
-More details about the event can be found on Facebook and Twitter as well as on the website of the Embassy. 
+More details about the event can be found on [Facebook ](https://www.facebook.com/france.nz/)and [Twitter ](https://twitter.com/ambafrancenz?lang=fr)as well as on the [website ](https://nz.ambafrance.org/)of the Embassy. 
 
 For more information, please contact the cultural department of the embassy.
 
