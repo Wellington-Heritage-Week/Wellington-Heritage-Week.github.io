@@ -18,7 +18,7 @@ host:
 tag:
   - Friday 1 November
 ---
-**Come to la Résidence de France, the house of France and the dwelling of French Ambassadors in New Zealand. **
+**Come to la Résidence de France, the house of France and the dwelling of French Ambassadors in New Zealand.**
 
 This elegant house was built at the end of the 19th century and bought by France in 1999. This historic building is regarded for its leadlight windows. 
 
@@ -38,8 +38,7 @@ For more information, please contact the cultural department of the embassy.
 
 <br>
 
-**Booking is required (maximum of 25 visitors per tour).
-**
+**Booking is required (maximum of 25 visitors per tour).**
 
 **Location:** 39 Hobson Street, Thorndon, Wellington
 
