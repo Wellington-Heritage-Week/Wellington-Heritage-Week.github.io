@@ -34,5 +34,7 @@ Government House and the visitor centre are fully accessible. However some of ga
 **Bookings are essential and must be made through** [**www.gg.govt.nz/tours/upcoming**](www.gg.govt.nz/tours/upcoming)
 
 **Cost:** Free
+
 **Tour Duration:** 2 hours
+
 **Email Contact:** bookings@govthouse.govt.nz
