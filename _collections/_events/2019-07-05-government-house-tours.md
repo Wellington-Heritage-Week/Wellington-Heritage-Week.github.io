@@ -16,6 +16,8 @@ host:
   website: 'www.gg.govt.nz/tours/upcoming '
 tag:
   - Friday 1 Nov
+  - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Experience a guided tour of Government House, the home of the Governor-General.**
 
