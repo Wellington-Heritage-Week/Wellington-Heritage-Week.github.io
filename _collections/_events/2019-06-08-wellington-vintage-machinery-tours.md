@@ -6,7 +6,7 @@ description: >-
   Tour vintage machines and test your operating skills at Wellington Vintage
   Machinery Incorporated.
 img: /assets/uploaded/wvmc.jpg
-event_date: '10:30am to 3:30pm Mon 28 Oct to Fri 1 Nov, & 10:30am - 4pm Sat 2 & Sun 3 Nov'
+event_date: '10:30am - 3:30pm Mon 28 Oct to Fri 1 Nov, & 10:30am - 4pm Sat 2 & Sun 3 Nov'
 host:
   blurb: >-
     Wellington Vintage Machinery was established in 1987 when one of the locals
