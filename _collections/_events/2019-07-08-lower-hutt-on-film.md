@@ -24,6 +24,8 @@ The archival footage is sourced from Arhives New Zealand and the Petone Library 
 
 Screening is at 7pm - 8:30pm, Wednesday 30 October.
 
+<br>
+
 **Booking is required. Please book via Eventfinda.**
 
 **Cost:** $5
