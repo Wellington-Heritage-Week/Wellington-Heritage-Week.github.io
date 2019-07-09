@@ -34,7 +34,7 @@ Craft activities for children are provided.
 
 <br>
 
-**Booking is required for the guided walk, not for the exhibition or talk. Click here to book. **
+**Booking is required for the guided walk, not for the exhibition or talk. Click here to book.**
 
 **Location:** Our Lady’s Home of Compassion, 2 Rhine Street (off Murray Street), Island Bay
 
