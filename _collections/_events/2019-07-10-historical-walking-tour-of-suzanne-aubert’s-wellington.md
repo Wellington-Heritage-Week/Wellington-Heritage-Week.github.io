@@ -6,7 +6,7 @@ description: >-
   Follow the footsteps of Suzanne Aubert, Meri Hōhepa, the woman who will become
   New Zealand's first saint, through Wellington city.
 img: /assets/uploaded/sisters-walking-tour.jpg
-event_date: 10am Sat 3 Nov
+event_date: 10am Sat 2 Nov
 host:
   blurb: >-
     The sisters are committed to delivering “compassionate care” throughout the
@@ -19,7 +19,7 @@ host:
   phone: (04) 282 1953
   website: 'https://compassion.org.nz/'
 tag:
-  - Saturday 3 Nov
+  - Saturday 2 Nov
 ---
 **Follow the footsteps of Suzanne Aubert, Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.**
 
