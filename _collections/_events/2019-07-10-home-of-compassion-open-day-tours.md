@@ -18,11 +18,11 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Discover the historic Home of Compassion in the hills of Island Bay and hear inspiring stories of Sister Suzanne Aubert and the Sisters of Compassion, and tour the chapel, the historic reservoir, and the resting place of Suzanne Aubert.**
+**Discover the historic Home of Compassion in the hills of Island Bay and hear inspiring stories of Suzanne Aubert and the Sisters of Compassion, and tour the chapel, the historic reservoir, and the resting place of Suzanne Aubert.**
 
 Established by Suzanne Aubert in 1907, the Home of Compassion cared for babies and children over many years, and is remembered for the outstanding nursing care that the hospital provided. Today the Home of Compassion is a place for spiritual refreshment and is also the location of the Suzanne Aubert Heritage Centre.
 
-Sister Suzanne Aubert devoted her life to helping others. Her work took her from France to Auckland then to Hawke’s Bay, to the Whanganui River and finally to Wellington where she established two hospitals. And along the way, she founded a new Catholic congregation, cared for children and the sick, by skillfully combining Māori medicine and Pākehā science, and wrote books in Māori, English and French adding significantly to a higher cultural understanding and literary heritage. 
+Suzanne Aubert devoted her life to helping others. Her work took her from France to Auckland then to Hawke’s Bay, to the Whanganui River and finally to Wellington where she established two hospitals. And along the way, she founded a new Catholic congregation, cared for children and the sick, by skillfully combining Māori medicine and Pākehā science, and wrote books in Māori, English and French adding significantly to a higher cultural understanding and literary heritage. 
 
 **Tours of the chapel and Aubert's resting place are available on the hour. The chapel is renowned for its stained glass artwork.**
 
