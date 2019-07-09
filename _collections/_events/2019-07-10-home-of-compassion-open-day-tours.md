@@ -24,9 +24,9 @@ Established by Suzanne Aubert in 1907, the Home of Compassion cared for babies a
 
 Sister Suzanne Aubert devoted her life to helping others. Her work took her from France to Auckland then to Hawke’s Bay, to the Whanganui River and finally to Wellington where she established two hospitals. And along the way, she founded a new Catholic congregation, cared for children and the sick, by skillfully combining Māori medicine and Pākehā science, and wrote books in Māori, English and French adding significantly to a higher cultural understanding and literary heritage. 
 
-Tours of the chapel and Aubert's resting place are available on the hour. The chapel is renowned for its stained glass artwork. 
+**Tours of the chapel and Aubert's resting place are available on the hour. The chapel is renowned for its stained glass artwork. **
 
-A talk by the Sisters on the reservoir built by Suzanne Aubert and the people of Wellington to provide a water supply to the Home will be at 1pm, followed by a guided walk to the reservoir at 2pm.  
+**A talk by the Sisters on the reservoir built by Suzanne Aubert and the people of Wellington to provide a water supply to the Home will be at 1pm, followed by a guided walk to the reservoir at 2pm.**  
 
 Refreshments and hospitality are available in the Cloister Café. 
 
@@ -34,7 +34,7 @@ Craft activities for children are provided.
 
 <br>
 
-**Booking is required for the guided walk, not for the exhibition or talk. Click here to book. **
+**Booking is required for the guided walk, not for the exhibition or talk. Click here to book.**
 
 **Location:** Our Lady’s Home of Compassion, 2 Rhine Street (off Murray Street), Island Bay
 
