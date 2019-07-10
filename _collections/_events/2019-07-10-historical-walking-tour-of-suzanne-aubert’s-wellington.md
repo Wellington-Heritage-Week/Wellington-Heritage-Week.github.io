@@ -43,7 +43,7 @@ Sr Sue Cosgrove, Sisters of Compassion, will lead the tour.
 
 **Cost:** Koha for the Compassion Soup Kitchen
 
-**Duration:** 10am to 3:30pm (A break and a cup of tea will be served at 11pm at the Compassion Soup Kitchen in Tory Street. Bring your own lunch.)
+**Duration:** 10am to 3:30pm (A break and a cup of tea will be served at 11am at the Compassion Soup Kitchen in Tory Street. Bring your own lunch.)
 
 **Email Contact:** heritagecentre@compassion.org.nz
 
