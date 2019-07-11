@@ -5,7 +5,7 @@ location: Lower Hutt
 description: >-
   Join us to step back in time to see how the Hutt Valley grew through a
   screening of archival footage. 
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/petone-settlers-museum-web-1-.jpg
 event_date: 7pm Wed 30 Oct
 host:
   blurb: >-
@@ -23,6 +23,10 @@ See how WW1 soldiers returned to be rehabilitated in Petone, new Plunket rooms o
 The archival footage is sourced from Arhives New Zealand and the Petone Library Heritage Centre. 
 
 Screening starts at 7pm and runs until 8pm, Wednesday 30 October.
+
+Image colourised by 
+Brendan Graham [www.brendan-graham.com](https://www.brendan-graham.com/)
+
 
 <br>
 
