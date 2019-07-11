@@ -24,9 +24,8 @@ The archival footage is sourced from Arhives New Zealand and the Petone Library 
 
 Screening starts at 7pm and runs until 8pm, Wednesday 30 October.
 
-Image colourised by 
-Brendan Graham [www.brendan-graham.com](https://www.brendan-graham.com/)
-
+**Image colourised by 
+Brendan Graham **[**www.brendan-graham.com**](https://www.brendan-graham.com/)
 
 <br>
 
