@@ -28,7 +28,7 @@ Screening is at 7pm - 8:30pm, Wednesday 30 October.
 
 **Booking is required. Please book via Eventfinda.**
 
-**Cost:** $5
+**Cost:** Free
 
 **Location:** Petone Library Heritage Centre, 7 Britannia St, Petone, Lower Hutt
 
