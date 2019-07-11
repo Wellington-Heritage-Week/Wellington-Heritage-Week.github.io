@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   iconic heritage photographic hot spots in Wellington, hear about history of
   each location, and learn tips for urban photography.
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/heritage-photo-walk-2.jpg
 event_date: 5pm Tues 29 Oct
 host:
   blurb: >-
