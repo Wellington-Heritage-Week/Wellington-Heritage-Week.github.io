@@ -20,7 +20,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-**Come and visit this rare surviving example of a blockhouse, built in 1860 to protect the Wellington area from the threat of the New Zealand Wars.**
+**Come and visit this rare surviving example of a blockhouse, built in 1860 to protect the Wellington area from the threat of the New Zealand Wars.**
 
 This Heritage New Zealand Pouhere Taonga property is not open to the public often, so bring the family! 
 
@@ -31,8 +31,6 @@ Inside the Blockhouse there’s an exhibition from the Expressions Whirinaki Art
 Please note that there is limited parking available in Blockhouse Lane, so parking on McHardie Street, or other surrounding streets, is recommended.
 
 You can find out more about the Blockhouse’s story and location on Heritage New Zealand’s New Zealand Heritage List/Rārangi Kōrero online: <https://www.heritage.org.nz/the-list/details/207>.
-
-
 
 <br>
 
