@@ -6,7 +6,7 @@ description: >-
   Join us to step back in time to see how the Hutt Valley grew through a
   screening of archival footage. 
 img: /assets/uploaded/placeholder3.png
-event_date: '6:30pm Wed 30 Oct'
+event_date: 7pm Wed 30 Oct
 host:
   blurb: >-
     Petone Historical Society's aim is to foster interest in the history of the
