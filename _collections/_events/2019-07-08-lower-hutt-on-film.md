@@ -27,7 +27,7 @@ Screening starts at 7pm and runs until 8pm, Wednesday 30 October.
 **Image Reference: 1/2-049193-G ATL**
 
 **Colourised by 
-Brendan Graham 2016 **[**www.brendan-graham.com**](https://www.brendan-graham.com/)
+Brendan Graham 2016** [**www.brendan-graham.com**](https://www.brendan-graham.com/)
 
 <br>
 
