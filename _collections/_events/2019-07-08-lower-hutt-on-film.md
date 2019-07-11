@@ -6,7 +6,7 @@ description: >-
   Join us to step back in time to see how the Hutt Valley grew through a
   screening of archival footage. 
 img: /assets/uploaded/placeholder3.png
-event_date: '7:30pm Wed 30 Oct'
+event_date: 7pm Wed 30 Oct
 host:
   blurb: >-
     Petone Historical Society's aim is to foster interest in the history of the
@@ -22,7 +22,7 @@ See how WW1 soldiers returned to be rehabilitated in Petone, new Plunket rooms o
 
 The archival footage is sourced from Arhives New Zealand and the Petone Library Heritage Centre. 
 
-Screening is at 7pm - 8:30pm, Wednesday 30 October.
+Screening starts at 7pm and runs until 8pm, Wednesday 30 October.
 
 <br>
 
