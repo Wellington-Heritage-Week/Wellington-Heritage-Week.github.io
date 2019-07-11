@@ -9,10 +9,9 @@ img: /assets/uploaded/blockhouse.png
 event_date: 11am – 2pm Mon 28 Oct
 host:
   blurb: >-
-    Heritage New Zealand is the leading national historic heritage agency. It
-    operates in an environment marked by a growing interest in heritage,
-    recognition of its social, cultural, environmental and economic benefits to
-    our country, and awareness of its importance to national identity.
+    Heritage New Zealand Pouhere Taonga is the leading national historic
+    heritage agency and an autonomous Crown Entity. Our mission is to identify,
+    protect and promote New Zealand’s cultural and historic heritage.
   email: infocentral@heritage.org.nz
   name: Heritage New Zealand Central Region
   phone: 04 494 8320
