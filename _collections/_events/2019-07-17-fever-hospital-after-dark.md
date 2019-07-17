@@ -25,7 +25,7 @@ host:
   website: 'https://www.spca.nz/news-and-events/events'
 tag: []
 ---
-**The SPCA Wellington Centre and the old Fever Hospital are both intimately bound into Wellington’s history. But unnoticed by many are the ghosts of former patients, nurses and most recently animals, who wander throughout the building. **
+**The SPCA Wellington Centre and the old Fever Hospital are both intimately bound into Wellington’s history. But unnoticed by many are the ghosts of former patients, nurses and most recently animals, who wander throughout the building.**
 
 Hear from SPCA’s General Manager Central Region, Ros Alsford, indulge you in tales of the supernatural including her own experience that took place in ‘the Dungeon’ and the glazier who fled the site after contact with a ghost. Ros will also vividly retell the story of how the SPCA came to reside in this iconic building.
 
@@ -41,6 +41,6 @@ For over 130 years SPCA has been servicing the wider Wellington region and the b
 
 **Duration:** 7.15pm – 12.30pm
 
-**Telephone Contact: **04 3898044 ext 8451
+**Telephone Contact:** 04 3898044 ext 8451
 
 **Email Contact:** wellington.functions@spca.nz
