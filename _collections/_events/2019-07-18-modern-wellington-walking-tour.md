@@ -4,7 +4,7 @@ title: Modern Wellington Walking Tour
 location: Wellington City
 description: >-
   Hear about the stories of Wellington’s important mid to late-twentieth century
-  places on the Modern Wellington walking tour.
+  places on the Modern Wellington Walking Tour.
 img: >-
   /assets/uploaded/wellington-heritage-week.-modern-wellington-walking-tour-2-min.png
 event_date: 1pm Sun 3 Nov
@@ -20,7 +20,7 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington walking tour.**
+**Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington Walking Tour.**
 
 The tour of the central city starts at 1pm on Sunday 3 November and attendees are encouraged to gather from 12:45pm at a central city location (to be announced).
 
@@ -30,17 +30,14 @@ The tour will take approximately 1.5 hours, so comfortable walking shoes and wea
 
 <br>
 
-**Booking is required. Email infocentral@heritage.org.nz to book. **
+**Booking is required. Email infocentral@heritage.org.nz to book.**
 
 **Location:** To be announced closer to the date
-
 
 **Cost:** Free
 
 **Duration:** 1.5 hours
 
-
 **Email Contact:** infocentral@heritage.org.nz
-
 
 **Telephone Contact:** 04 494 8320
