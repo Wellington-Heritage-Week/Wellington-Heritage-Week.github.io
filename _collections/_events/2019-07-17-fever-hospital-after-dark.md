@@ -8,7 +8,7 @@ description: >-
   former patients, nurses and most recently animals, who wander throughout the
   building. 
 img: /assets/uploaded/spca-3.jpg
-event_date: '7:15pm'
+event_date: '7:15pm Fri 1 Nov'
 host:
   blurb: >-
     SPCA has been in Wellington for over 130 years and now has pride of place in
@@ -23,7 +23,8 @@ host:
   name: SPCA Wellington Centre
   phone: 04 3898044 ext 8451
   website: 'https://www.spca.nz/news-and-events/events'
-tag: []
+tag:
+  - Friday 1 Nov
 ---
 **The SPCA Wellington Centre and the old Fever Hospital are both intimately bound into Wellington’s history. But unnoticed by many are the ghosts of former patients, nurses and most recently animals, who wander throughout the building.**
 
@@ -39,7 +40,7 @@ For over 130 years SPCA has been servicing the wider Wellington region and the b
 
 **Cost:** $99 (adults only) - Ticket includes a drink and snacks on arrival along with a booklet celebrating 100 Years of the Fever Hospital
 
-**Duration:** 7.15pm – 12.30pm
+**Duration:** 7.15pm – 12.30am
 
 **Telephone Contact:** 04 3898044 ext 8451
 
