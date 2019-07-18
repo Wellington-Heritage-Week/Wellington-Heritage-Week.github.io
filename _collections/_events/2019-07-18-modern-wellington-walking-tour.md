@@ -22,6 +22,8 @@ tag:
 ---
 **Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington Walking Tour.**
 
+The tour explores the major changes and controversies created by Wellington’s Modern buildings, structures and places - all that glass and height, the dynamic and quirky shapes and, of course, the concrete!
+
 The tour of the central city starts at 1pm on Sunday 3 November and attendees are encouraged to gather from 12:45pm at a central city location (to be announced).
 
 This is a free walking tour, but you will need to book through EventFinda or by contacting Heritage New Zealand’s Central Region Office, so we can let you know where to meet and also contact you if the tour is cancelled or postponed due to weather conditions. 
