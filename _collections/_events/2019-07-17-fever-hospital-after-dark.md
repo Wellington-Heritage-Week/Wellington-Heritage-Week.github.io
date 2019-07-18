@@ -34,6 +34,8 @@ Then go beyond the normal by participating in your own ghost investigation after
 
 For over 130 years SPCA has been servicing the wider Wellington region and the building has stood, nestled amongst the trees in Mt Victoria, for 100 years.
 
+The tour has a capacity of 25 people.
+
 <br>
 
 **Booking is required. Booking is via Eventfinda.** [**Click here to book.**](https://www.eventfinda.co.nz/2019/fever-hospital-after-dark/wellington)
