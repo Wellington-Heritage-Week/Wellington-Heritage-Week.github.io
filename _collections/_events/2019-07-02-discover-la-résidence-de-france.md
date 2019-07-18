@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   Come to la Résidence de France, the house of France and the dwelling of French
   Ambassadors in New Zealand. 
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/french-residence-wellington-heritage-week-min.png
 event_date: 10am-3pm Fri 1 Nov
 host:
   blurb: >-
