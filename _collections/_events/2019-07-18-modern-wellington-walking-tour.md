@@ -20,7 +20,7 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington Walking Tour.**
+**Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington Walking Tour.** 
 
 The tour explores the major changes and controversies created by Wellington’s Modern buildings, structures and places - all that glass and height, the dynamic and quirky shapes and, of course, the concrete!
 
