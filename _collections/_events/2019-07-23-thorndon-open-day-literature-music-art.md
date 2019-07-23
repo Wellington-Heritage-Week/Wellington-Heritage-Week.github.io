@@ -16,6 +16,7 @@ host:
 tag:
   - Saturday 2 Nov
 ---
+
 **Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency. The homes of New Zealand artists, composers, and authors.**
 
 All three residences will be open to the public for the afternoon of Saturday 2 November.  Visitors will be able to walk through each one as they are very close.  There will be birthday cake on offer to celebrate what would have been Douglas Lilburn’s 104th birthday. A simple map will be available to show the route.  
