@@ -16,8 +16,7 @@ host:
 tag:
   - Saturday 2 Nov
 ---
-**Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency. The homes of New Zealand artists, composers, and authors.
-**
+Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita Angus Residency. The homes of New Zealand artists, composers, and authors.
 
 All three residences will be open to the public for the afternoon of Saturday 2 November.  Visitors will be able to walk through each one as they are very close.  There will be birthday cake on offer to celebrate what would have been Douglas Lilburn’s 104th birthday. A simple map will be available to show the route.  
 
@@ -28,6 +27,8 @@ The Lilburn Residence (22 Ascot Street, Category I), where the composer Douglas 
 The former residence of Rita Angus (194A Sydney Street West), constructed in 1877, will be open to visitors.   Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
 
 ### [Click here to download a map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Open%20Day%20Map%20Wellington%20Heritage%20Week%202019.pdf)
+
+![class="responsive"](/assets/uploaded/thorndon-open-day-map-wellington-heritage-week-2019-min.pdf.png)
 
 <br>
 
