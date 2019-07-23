@@ -27,9 +27,9 @@ The Lilburn Residence (22 Ascot Street, Category I), where the composer Douglas 
 
 The former residence of Rita Angus (194A Sydney Street West), constructed in 1877, will be open to visitors.   Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
 
-### [Click here to download a map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Open%20Day%20Map%20Wellington%20Heritage%20Week%202019.pdf)
+### [Click here to download the below map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Open%20Day%20Map%20Wellington%20Heritage%20Week%202019.pdf)
 
-![null](/assets/uploaded/thorndon-open-day-map-wellington-heritage-week-2019-min.pdf.png)
+<img src="/assets/uploaded/thorndon-open-day-map-wellington-heritage-week-2019-min.pdf.png" alt="Nature" class="responsive">
 
 <br>
 
