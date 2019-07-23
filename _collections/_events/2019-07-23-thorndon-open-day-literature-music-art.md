@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thorndon Open Day: Literature, music & art'
+title: 'Thorndon Open Day: Literature, Music & Art'
 location: Wellington City
 description: >-
   Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita
