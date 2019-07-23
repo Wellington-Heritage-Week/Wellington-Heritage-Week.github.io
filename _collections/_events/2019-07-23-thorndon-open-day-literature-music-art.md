@@ -6,7 +6,7 @@ description: >-
   Combined Open Days at the Randell Cottage, the Lilburn Residency and the Rita
   Angus Residency. The homes of New Zealand artists, composers, and authors.
 img: /assets/uploaded/randell-cottage.jpg
-event_date: 1-4pm Sat 2 Nov
+event_date: 1 - 4pm Sat 2 Nov
 host:
   blurb: Visit the websites above.
   name: >-
