@@ -25,7 +25,6 @@ One of Aotearoa's most significant 20th-century artists, Rita Angus is known for
 Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt.
 
 <center>
-
 **Entrée**
 
 Ōra King Salmon tartare, avocado, wild onion flower espuma
