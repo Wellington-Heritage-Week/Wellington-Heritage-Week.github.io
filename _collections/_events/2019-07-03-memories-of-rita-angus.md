@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   Enjoy a three course meal and view a wide selection of beautiful works by Rita
   Angus throughout the hallways and lobby of the Bolton Hotel.
-img: /assets/uploaded/bolton-street-hotel-wellington-heritage-week-2019-min.png
+img: /assets/uploaded/bolton-street-hotel-wellington-heritage-week-2019.png
 event_date: 5pm Fri 1st Nov
 host:
   blurb: >-
@@ -20,35 +20,15 @@ tag:
 ---
 **Gain an insight into the life of the extraordinary artist Rita Angus through stories from her nephew, Warwick Angus while you enjoy a three-course set-menu from Executive Chef MacLean Fraser**.
 
-One of Aotearoa's most significant 20th-century artists, Rita Angus is known for combining the essence of New Zealand with the artistic movements of Europe and North America yet succeeded in forging a distinct style of her own. 
+One of Aotearoa’s most significant 20th-century artists, Rita Angus is known for combining the essence of New Zealand with the artistic movements of Europe and North America yet succeeded in forging a distinct style of her own.
 
-Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt.
+Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt over a three-course dinner at Bolton Hotel.
 
-**<center>Entrée</center>**
-
-<center>Ōra King Salmon tartare, avocado, wild onion flower espuma
-
-Goat’s cheese and piperade filo croustillant, w spiced tomato, rocket and parmesan salad</center>
-
-**<center>Main</center>**
-
-<center>Confit Duck leg, lentils, parsnip puree, pinot jus</center>
-
-_<center> Or </center>_ 
-
-<center>Pan fried market fish, cauliflower puree, melted leeks, tomato vinaigrette</center>
-
-**<center>Dessert</center>**
-
-<center>Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
-
-Crème brûlée w rhubarb, macaron</center>
-
-<br>
+The event includes a 3-course set-menu dinner and welcome drink on arrival.
 
 If you have any dietary requirements, please contact us as soon as possible, and we will do our best to accommodate you.
 
-Adjacent to the historic Bolton Street Cemetary, Bolton Hotel is named after one of the first immigrant ships to arrive in New Zealand in the 1800s.
+Adjacent to the historic Bolton Street Cemetery, Bolton Hotel is named after one of the first immigrant ships to arrive in New Zealand in the 1800s.
 
 <br>
 
