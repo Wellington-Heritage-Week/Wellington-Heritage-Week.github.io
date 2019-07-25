@@ -26,23 +26,23 @@ Our managing director, Warwick Angus, will provide an insight into the woman beh
 
 **<center>Entrée</center>**
 
-Ōra King Salmon tartare, avocado, wild onion flower espuma
+<center>Ōra King Salmon tartare, avocado, wild onion flower espuma
 
-Goat’s cheese and piperade filo croustillant, w spiced tomato, rocket and parmesan salad
+Goat’s cheese and piperade filo croustillant, w spiced tomato, rocket and parmesan salad</center>
 
-Main
+**<center>Main</center>**
 
-Confit Duck leg, lentils, parsnip puree, pinot jus
+<center>Confit Duck leg, lentils, parsnip puree, pinot jus</center>
 
 _<center> Or </center>_ 
 
-Pan fried market fish, cauliflower puree, melted leeks, tomato vinaigrette
+<center>Pan fried market fish, cauliflower puree, melted leeks, tomato vinaigrette</center>
 
-Dessert
+**<center>Dessert</center>**
 
-Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
+<center>Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
 
-Crème brûlée w rhubarb, macaron
+Crème brûlée w rhubarb, macaron</center>
 
 <br>
 
