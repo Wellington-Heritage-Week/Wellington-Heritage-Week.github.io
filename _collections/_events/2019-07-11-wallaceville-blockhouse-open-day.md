@@ -5,7 +5,7 @@ location: Upper Hutt
 description: >-
   Come and visit this rare surviving example of a blockhouse, built in 1860 to
   protect the Wellington area from the threat of the New Zealand Wars.
-img: /assets/uploaded/blockhouse.png
+img: /assets/uploaded/blockhouse-wellington-heritage-week.png
 event_date: 11am – 2pm Mon 28 Oct
 host:
   blurb: >-
