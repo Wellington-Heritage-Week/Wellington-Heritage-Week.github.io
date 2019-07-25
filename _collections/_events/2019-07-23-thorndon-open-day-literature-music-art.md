@@ -40,6 +40,8 @@ The former residence of Rita Angus (194A Sydney Street West), constructed in 187
 
 <br>
 
+**No booking is required.** 
+
 **Location:** 
 
 •	The Randell Cottage (14 St Mary’s Street); 
