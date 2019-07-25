@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   Enjoy a three course meal and view a wide selection of beautiful works by Rita
   Angus throughout the hallways and lobby of the Bolton Hotel.
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/bolton-street-hotel-wellington-heritage-week-2019-min.png
 event_date: 5pm Fri 1st Nov
 host:
   blurb: >-
@@ -18,22 +18,45 @@ host:
 tag:
   - Friday 1 Nov
 ---
-**Enjoy a three course meal and view a wide selection of beautiful works by Rita Angus throughout the hallways and lobby of the Bolton Hotel.**
+**Gain an insight into the life of the extraordinary artist Rita Angus through stories from her nephew, Warwick Angus while you enjoy a three-course set-menu from Executive Chef MacLean Fraser**.
 
-Known for combining the essence of New Zealand with the artistic movements of Europe and North America, Rita Angus succeeded in forging her own distinct, personal style as one of Aotearoa's most significant 20th-century artists.
+One of Aotearoa's most significant 20th-century artists, Rita Angus is known for combining the essence of New Zealand with the artistic movements of Europe and North America yet succeeded in forging a distinct style of her own. 
 
-The event will provide an exclusive insight into the woman behind the easel as you join Warwick Angus, the  Managing Director of the Bolton Hotel and nephew of the renowned artist as he shares the fond memories of his extraordinary aunt, over a three-course meal from Artisan at the Bolton.
+Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt.
 
-The event includes a 3-course set-menu dinner and welcome drinks on arrival from 5pm. Dinner from 5:45pm. 
+**<center>Entrée**
 
-Adjacent to the historic Bolton Street Cemetary, Wellington's earliest cemetery, Bolton Hotel is named after one of the first immigrant ships to arrive in New Zealand in the 1800s; a replica model of the ship can be seen in the hotel lobby.
+Ōra King Salmon tartare, avocado, wild onion flower espuma
+
+Goat’s cheese and piperade filo croustillant, w spiced tomato, rocket and parmesan salad
+
+**Main**
+
+Confit Duck leg, lentils, parsnip puree, pinot jus
+
+_Or_
+
+Pan fried market fish, cauliflower puree, melted leeks, tomato vinaigrette
+
+**Dessert**
+
+Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
+
+Crème brûlée w rhubarb, macaron </center>
 
 <br>
 
+If you have any dietary requirements, please contact us as soon as possible, and we will do our best to accommodate you.
 
-**Booking is required. Email or call the contact details below to book. Maximum 20 people.**
+Adjacent to the historic Bolton Street Cemetary, Bolton Hotel is named after one of the first immigrant ships to arrive in New Zealand in the 1800s.
+
+<br>
+
+### [**Booking is required. Click here to book via Eventbrite. Maximum 20 people.**](https://www.eventbrite.co.nz/e/memories-of-rita-angus-tickets-66394711369)
 
 **Location:** Bolton Hotel, 12 Bolton St, Wellington
+
+**Time:** 5pm
 
 **Cost:** $70 per person 
 
