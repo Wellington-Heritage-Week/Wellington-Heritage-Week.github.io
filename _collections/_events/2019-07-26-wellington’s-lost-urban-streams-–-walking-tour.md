@@ -19,10 +19,9 @@ host:
   phone: +64 4 473 9444
   website: 'https://www.engineeringnz.org/'
 tag:
-  - Wednesday 30 Oct
-  - Sunday 3 Nov
+  - Wednesday 30 October
 ---
-**Join the Engineering New Zealand and The Sustainability Society for a walk to rediscover the streams that flow beneath our city. **
+**Join the Engineering New Zealand and The Sustainability Society for a walk to rediscover the streams that flow beneath our city.**
 
 We will wend our way from Woodward Street, where the Kumutoto Stream runs in a pipe beneath the paved city streets, out to the harbour and along the waterfront. Many of Wellington’s streams only re-emerge as they enter Wellington Harbour. 
 
