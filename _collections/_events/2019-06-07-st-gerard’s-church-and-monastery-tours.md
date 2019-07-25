@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   Ever wondered what it is like inside the iconic landmark on Mount Victoria? Or
   if there are even people living there? Here is your chance!
-img: /assets/uploaded/sgm.png
+img: /assets/uploaded/st-gerards-wellington-heritage-week-2019-nz.png
 event_date: '2pm Tues 29 Oct - Fri 1 Nov, & 10am - 5pm Sat 2 Nov'
 host:
   blurb: >-
