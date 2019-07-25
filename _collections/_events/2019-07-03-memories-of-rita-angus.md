@@ -24,21 +24,21 @@ One of Aotearoa's most significant 20th-century artists, Rita Angus is known for
 
 Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt.
 
-* **Entrée**
+**<center>Entrée</center>**
 
 Ōra King Salmon tartare, avocado, wild onion flower espuma
 
 Goat’s cheese and piperade filo croustillant, w spiced tomato, rocket and parmesan salad
 
-* **Main**
+Main
 
 Confit Duck leg, lentils, parsnip puree, pinot jus
 
-_Or_
+_<center> Or </center>_ 
 
 Pan fried market fish, cauliflower puree, melted leeks, tomato vinaigrette
 
-* **Dessert**
+Dessert
 
 Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
 
