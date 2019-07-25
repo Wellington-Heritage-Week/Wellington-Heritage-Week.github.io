@@ -5,7 +5,7 @@ location: Lower Hutt
 description: >-
   Join us to step back in time to see how the Hutt Valley grew through a
   screening of archival footage. 
-img: /assets/uploaded/petone-settlers-museum-web-1-.jpg
+img: /assets/uploaded/petone-settlers-museum-wellington-heritage-week-2019.jpg
 event_date: 7pm Wed 30 Oct
 host:
   blurb: >-
