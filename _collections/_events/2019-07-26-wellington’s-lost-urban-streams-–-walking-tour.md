@@ -31,12 +31,9 @@ The tour has a capacity of 30 people.
 
 <br>
 
-
 **Booking is required. Email hello@engineeringnz.org to book.** 
 
-**Location:** Meet at the top of Woodward Street by the entrance to the underpass.
-
-The walk will finish at Waitangi Park.
+**Location:** Meet at the top of Woodward Street by the entrance to the underpass. The walk will finish at Waitangi Park.
 
 **Cost:** Free
 
