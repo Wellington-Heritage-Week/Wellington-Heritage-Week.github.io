@@ -11,7 +11,7 @@ host:
   blurb: >-
     Bolton Hotel is Wellington's finest independent hotel and named after one of
     the first immigrant ships to arrive in New Zealand in the 1800s.
-  email: paul.johnson@boltonhotel.co.nz
+  email: events@boltonhotel.co.nz
   name: Bolton Hotel
   phone: 04 462 3765
   website: www.boltonhotel.co.nz
@@ -40,6 +40,6 @@ Adjacent to the historic Bolton Street Cemetery, Bolton Hotel is named after one
 
 **Cost:** $70 per person 
 
-**Email Contact:** paul.johnson@boltonhotel.co.nz
+**Email Contact:** events@boltonhotel.co.nz
 
 **Telephone Contact:** 04 462 3765
