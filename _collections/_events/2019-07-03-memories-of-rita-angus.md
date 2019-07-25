@@ -24,7 +24,7 @@ One of Aotearoa's most significant 20th-century artists, Rita Angus is known for
 
 Our managing director, Warwick Angus, will provide an insight into the woman behind the easel as he shares memories of his remarkable aunt.
 
-<center>Entrée
+Entrée
 
 Ōra King Salmon tartare, avocado, wild onion flower espuma
 
@@ -42,7 +42,7 @@ Dessert
 
 Kapiti Aorangi Brie w aromatic poached pear, relish, walnut bread
 
-Crème brûlée w rhubarb, macaron </center>
+Crème brûlée w rhubarb, macaron
 
 <br>
 
