@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Book: Making History: A New Zealand Story – Jock Phillips'
+title: 'Making History: A New Zealand Story – Jock Phillips'
 location: Wellington City
 description: >-
   In this wonderfully complex memoir, Jock Phillips delves deep into his own
@@ -22,7 +22,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-**In this wonderfully complex memoir, Jock Phillips delves deep into his own history and how he came to find power in the documentation of our country’s history. ‘I tried to encourage… forms of history that would awaken public interest.’ This is as much a story of the revolution of New Zealand identity as it is a man looking back on his journey of self-discovery. **
+**In this wonderfully complex memoir, Jock Phillips delves deep into his own history and how he came to find power in the documentation of our country’s history. ‘I tried to encourage… forms of history that would awaken public interest.’ This is as much a story of the revolution of New Zealand identity as it is a man looking back on his journey of self-discovery.**
 
 Publisher: Auckland University Press
 
