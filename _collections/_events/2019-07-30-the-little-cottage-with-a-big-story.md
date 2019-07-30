@@ -21,7 +21,7 @@ host:
 tag:
   - Saturday 2 Nov
 ---
-**European settlers arrived in Wellington looking for bigger opportunities. Two such people who landed on the shores of Te Whanganui a Tara in 1857 were William and Catherine Wallis. Visit Nairn Street Cottage to explore their stories. **
+**European settlers arrived in Wellington looking for bigger opportunities. Two such people who landed on the shores of Te Whanganui a Tara in 1857 were William and Catherine Wallis. Visit Nairn Street Cottage to explore their stories.**
 
 William built their house in Te Aro, they had 10 children and subsequently two generations of Wallis women continued to live there. The house still stands today and has stood sentinel to the rapidly changing times. 
 
