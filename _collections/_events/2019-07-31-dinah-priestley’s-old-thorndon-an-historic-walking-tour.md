@@ -12,7 +12,7 @@ img: >-
 event_date: 10am Tues 29 Oct
 host:
   blurb: >-
-    Dinah Priestley is a author, artists, actress, and oral historian based in
+    Dinah Priestley is an author, artist, actress, and oral historian based in
     Thorndon.
   email: dinah.priestley@gmail.com
   name: Dinah Priestley
