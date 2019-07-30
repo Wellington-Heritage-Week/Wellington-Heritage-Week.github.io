@@ -3,10 +3,9 @@ layout: post
 title: The Little Cottage with a Big Story
 location: Wellington City
 description: >-
-  European settlers arrived in Wellington looking for bigger opportunities. Two
-  such people who landed on the shores of Te Whanganui a Tara in 1857 were
-  William and Catherine Wallis. Visit Nairn Street Cottage to explore their
-  stories. 
+  European settlers arrived in Wellington looking for big opportunities. Two
+  such people to land on the shores of Te Whanganui a Tara in 1857 were William
+  and Catherine Wallis. Visit Nairn Street Cottage to explore their stories.
 img: /assets/uploaded/nairn-st-1.jpg
 event_date: 12 - 5pm Sat 2 Nov
 host:
@@ -21,13 +20,13 @@ host:
 tag:
   - Saturday 2 Nov
 ---
-**European settlers arrived in Wellington looking for bigger opportunities. Two such people who landed on the shores of Te Whanganui a Tara in 1857 were William and Catherine Wallis. Visit Nairn Street Cottage to explore their stories.**
+**European settlers arrived in Wellington looking for big opportunities. Two such people to land on the shores of Te Whanganui a Tara in 1857 were William and Catherine Wallis. Visit Nairn Street Cottage to explore their stories.** 
 
-William built their house in Te Aro, they had 10 children and subsequently two generations of Wallis women continued to live there. The house still stands today and has stood sentinel to the rapidly changing times. 
+William built their house in Te Aro, where they raised 10 children. Two more generations of Wallis women subsequently lived in the cottage. 
 
-The new experience at Nairn Street Cottage showcases the changes the house and its residents experienced for over a century – socially, technologically, in communications and for Māori. 
+The house still stands today and has stood sentinel to rapidly changing times. The new exhibition experience at Nairn Street Cottage showcases the social and technological changes the house and its family saw over a century of occupation.
 
-We celebrate this story with an Open Day as part of Wellington Heritage Week 2019.
+Celebrate this story with an Open Day as part of Wellington Heritage Week.
 
 <br>
 
