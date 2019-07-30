@@ -3,7 +3,7 @@ layout: post
 title: Home of Compassion Open Day & Tours
 location: Wellington City
 img: >-
-  /assets/uploaded/sisters-home-of-compassion-wellington-heritage-week-2019-min.png
+  /assets/uploaded/sisters-home-of-compassion-wellington-heritage-week-2019-2.png
 event_date: 12pm - 3pm Sun 3 Nov
 host:
   blurb: >-
