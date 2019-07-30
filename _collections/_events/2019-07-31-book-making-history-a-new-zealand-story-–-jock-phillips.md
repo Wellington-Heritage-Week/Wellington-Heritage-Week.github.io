@@ -32,9 +32,10 @@ Price: $45
 
 <br>
 
-**Shop Location:** 57 Willis Street
-, Wellington
+**Shop Location:** 57 Willis Street, Wellington
 
 **Email Contact:** wellington@unitybooks.co.nz
 
 **Telephone Contact:** 04 499 4245
+
+<img src="/assets/uploaded/unity-books-logo.jpg" alt="Unity Books Wellington Heritage Week" class="responsive">
