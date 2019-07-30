@@ -13,9 +13,9 @@ host:
     Museums Wellington comprises four of our city’s leading visitor attractions
     – Wellington Museum, Space Place, Cable Car Museum and Nairn Street Cottage.
     Collectively, our museums attract nearly 400,000 visitors every year.
-  email: sarahmaxwell@experiencewellington.org.nz
+  email: nikbullard@experiencewellington.org.nz
   name: Museums Wellington - Nairn Street Cottage
-  phone: 04 384 9122
+  phone: 04 913 9047
   website: 'https://www.museumswellington.org.nz/nairn-street-cottage/'
 tag:
   - Saturday 2 Nov
@@ -36,6 +36,6 @@ Celebrate this story with an Open Day as part of Wellington Heritage Week.
 
 **Cost:** Koha
 
-**Email Contact:** sarahmaxwell@experiencewellington.org.nz
+**Email Contact:** nikbullard@experiencewellington.org.nz
 
-**Telephone Contact:** 04 384 9122
+**Telephone Contact:** 04 913 9047
