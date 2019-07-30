@@ -12,7 +12,7 @@ img: >-
 event_date: 10am Tues 29 Oct
 host:
   blurb: >-
-    Dinah Priestley is a author, artists, actress, and oral historian based in
+    Dinah Priestley is an author, artist, actress, and oral historian based in
     Thorndon.
   email: dinah.priestley@gmail.com
   name: Dinah Priestley
@@ -21,7 +21,7 @@ host:
 tag:
   - Tuesday 29 Oct
 ---
-**Walk with Dinah through Thorndon’s past and you’ll love it as much as she does. Here side by side sit the houses of chimney sweeps, washer women, artists, writers, prime ministers and merchants.  Characters all of them. And their houses are all still lived in.**
+**Walk with Dinah through Thorndon’s past and you’ll love it as much as she does. Here side by side sit the houses of chimney sweeps, washer women, artists, writers, prime ministers and merchants. Characters all of them. And their houses are all still lived in.**
 
 The preservation of a suburb like Thorndon does not happen by chance, it takes people committed to this unique sort of conservation, who believe that old buildings provide continuity, a different life style, an appreciation of past craftsmanship.
 
@@ -37,8 +37,7 @@ Explore this and more on Dinah Priestley’s Old Thorndon: An Historic Walking T
 
 **Location:** Begonia House forecourt, Wellington Botanic Garden. - 101 Glenmore St, Kelburn, Wellington 6012
 
-**
-Cost:** $5 per person. For those wishing to conclude the walk with a  visit to our  1882 Thorndon  home, The Anchorage, Devonshire teas will be served for an extra $5.00.
+**Cost:** $5 per person. For those wishing to conclude the walk with a  visit to our  1882 Thorndon  home, The Anchorage, Devonshire teas will be served for an extra $5.00.
 
 **Tour Duration:** 1.5 hours
 
