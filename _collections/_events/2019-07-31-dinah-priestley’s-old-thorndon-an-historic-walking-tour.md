@@ -27,7 +27,11 @@ The preservation of a suburb like Thorndon does not happen by chance, it takes p
 
 The Thorndon Society, who have fought for years to retain Thorndon’s old world charm, know that once our old houses are gone, so is our history.
 
-If you find Thorndonites a trifle defensive about their environment today it’s because Thorndon almost disappeared during the great  motorway blitzes of the 1960s and 70s when town planners and developers regarded Thorndon as a slum, destined for demolition. Don’t knock our Local Mafia too hard. We need them.
+If you find Thorndonites a trifle defensive about their environment today it’s because Thorndon almost disappeared during the great  motorway blitzes of the 1960s and 70s when town planners and developers regarded Thorndon as a slum, destined for demolition. 
+
+In the 1980s, The Thorndon Society was dubbed by developers as the Local Mafia, the Knaves of Thorndon and the Despotic Watchdogs. Posters were put up saying “Death to the Thorndon Society.”
+
+Now it might make more sense of that phrase “Don’t knock our Local Mafia to hard. We need them”.
 
 Explore this and more on Dinah Priestley’s Old Thorndon: An Historic Walking Tour.
 
