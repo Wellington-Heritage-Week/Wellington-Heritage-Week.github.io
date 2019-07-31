@@ -14,7 +14,7 @@ host:
   phone: +64 4 382 8486
   website: 'https://www.stpetersonwillis.org.nz/history'
 tag:
-  - Saturday 2 Nov
+
 ---
 St Peter's on Willis would like to invite Wellingtonians and the public to an Open Day that will include a tour of the church's ringing room and an opportunity for visitors to ring the bells.  
 
