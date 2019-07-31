@@ -23,7 +23,7 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Come and visit the historical Romanesque Revival style St Christopher’s Church in Seatoun, nestled beneath pohutukawa trees and only a stone’s throw away from the beach. Hear the history of the church and take in the beauty of the stained glass windows. **
+**Come and visit the historical Romanesque Revival style St Christopher’s Church in Seatoun, nestled beneath pohutukawa trees and only a stone’s throw away from the beach. Hear the history of the church and take in the beauty of the stained glass windows.**
 
 Sold by the Presbyterian Church in 2015, it is now privately owned but leased by a charitable trust to ensure that it is still available to be enjoyed by locals on the Peninsula and beyond. 
 
