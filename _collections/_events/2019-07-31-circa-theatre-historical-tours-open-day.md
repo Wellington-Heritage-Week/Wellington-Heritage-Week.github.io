@@ -31,7 +31,7 @@ Visit [www.circa.co.nz](https://www.circa.co.nz/) to book and for more informati
 
 <br>
 
-**Bookings are essential. Reserve your ticket at **[www.circa.co.nz](https://www.circa.co.nz/)**.**
+**Bookings are essential. Reserve your ticket at [www.circa.co.nz](https://www.circa.co.nz/).**
 
 **Location:** 1 Taranaki St, Wellington
 
