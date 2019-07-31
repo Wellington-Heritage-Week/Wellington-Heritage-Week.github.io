@@ -8,7 +8,7 @@ description: >-
   artists, writers, prime ministers and merchants.  Characters all of them. And
   their houses are all still lived in.
 img: >-
-  /assets/uploaded/dinah-priestley’s-old-thorndon-wellington-heritage-week-2019.png
+  /assets/uploaded/dinah-priestley’s-old-thorndon-wellington-heritage-week-2019-2.png
 event_date: 10am Tues 29 Oct
 host:
   blurb: >-
