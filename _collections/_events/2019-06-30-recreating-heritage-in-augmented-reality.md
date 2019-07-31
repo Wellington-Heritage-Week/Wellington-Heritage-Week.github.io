@@ -19,8 +19,8 @@ host:
   phone: 027 8609129
   website: www.hiamo.nz
 tag:
-  - Sunday 3 Nov
   - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Join Hiamo on a tour to explore the past and view some of Wellington’s remaining and long-gone heritage through augmented reality!**
 
