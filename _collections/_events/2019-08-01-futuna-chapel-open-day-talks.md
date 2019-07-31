@@ -9,6 +9,12 @@ description: >-
 img: /assets/uploaded/futuna-chapel-wellington-heritage-week-2019.jpg
 event_date: 11am - 3pm Sat 2 & Sun 3 Nov
 host:
+  blurb: >-
+    The Friends of Futuna Charitable Trust owns the land and the chapel and is
+    working on an on-going maintenance for the building. Historic Places
+    Wellington is an independent incorporated society and registered charity who
+    promote the identification, protection and conservation of historic places
+    in the Wellington region.
   email: nickbevin@gmail.com
   name: Friends of Futuna Charitable Trust & Historic Places Wellington
   phone: 027 4453 710
@@ -22,8 +28,6 @@ tag:
 
 * 11am -3pm: Chapel open to the public with trustees in attendance to answer questions and talk about the chapel. 
 * 2pm: Chapel Guided Tour (duration 20 minutes)
-
-
 
 **Sunday 3 November: Public Talks**
 
@@ -41,9 +45,10 @@ The Chapel commemorates the martyrdom of the St. Peter Chanel on the French Poly
 
 **Location:** 67 Futuna Cl, Karori, Wellington 6012
 
-
 **Cost**: Free - koha would be warmly welcomed
 
 **Email Contact:** nickbevin@gmail.com
 
 **Telephone Contact:** 027 4453 710
+
+<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFutunaChapel%2F&tabs=header&width=340&height=200&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
