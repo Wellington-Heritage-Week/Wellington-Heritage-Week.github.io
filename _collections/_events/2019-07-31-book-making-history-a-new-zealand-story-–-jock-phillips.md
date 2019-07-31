@@ -38,4 +38,4 @@ Price: $45
 
 **Telephone Contact:** 04 499 4245
 
-<img src="/assets/uploaded/unity-books-logo.jpg" alt="Unity Books Wellington Heritage Week" class="responsive" max-width: 300px>
+![](/assets/uploaded/unity-books-logo.jpg)
