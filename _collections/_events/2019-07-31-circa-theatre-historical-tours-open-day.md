@@ -19,7 +19,7 @@ host:
 tag:
   - Monday 28 Oct
 ---
-**Discover and celebrate the 43-year history of Wellington’s iconic Circa Theatre through a free guided tour of Wellington’s unique waterfront building.**
+**Discover and celebrate the 43-year history of Wellington’s iconic Circa Theatre through a free guided tour of Wellington’s unique waterfront building.**
 
 A Circa Councillor will take you on a unique guided tour of the historic Circa building, including rarely seen backstage areas. Learn about the fascinating building move from 7 Harris Street to 1 Taranaki Street – including how the facade of 120-year-old Westport Chambers was trucked across the road and the new theatre built in behind it. You may even get the opportunity to glimpse this year's Christmas Panto rehearsal, ALICE IN WONDERLAND!
 
