@@ -22,6 +22,7 @@ host:
   phone: 04 920 9213
   website: 'https://www.visitzealandia.com/Events'
 tag:
+  - Saturday 2 Nov
   - Sunday 3 Nov
 ---
 **Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.**
