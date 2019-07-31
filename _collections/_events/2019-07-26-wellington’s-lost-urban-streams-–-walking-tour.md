@@ -19,7 +19,7 @@ host:
   phone: +64 4 473 9444
   website: 'https://www.engineeringnz.org/'
 tag:
-  - Wednesday 30 October
+  - Wednesday 30 Oct
 ---
 **Join the Engineering New Zealand and The Sustainability Society for a walk to rediscover the streams that flow beneath our city.**
 
