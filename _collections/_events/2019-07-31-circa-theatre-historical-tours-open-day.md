@@ -43,4 +43,4 @@ Visit [www.circa.co.nz](https://www.circa.co.nz/) to book and for more informati
 
 **Telephone Contact:** 04 801 8137
 
-<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCircaTheatre%2F&tabs=header&width=340&height=180&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
+<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCircaTheatre%2F&tabs=header&width=340&height=200&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="340" height="180" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
