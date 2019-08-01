@@ -33,6 +33,8 @@ Government House and the visitor centre are fully accessible. However some of ga
 
 **Bookings are essential and must be made through** [**www.gg.govt.nz/tours/upcoming**](www.gg.govt.nz/tours/upcoming)
 
+**Location:** Visitor access to Government House Wellington is - unless otherwise specified - via Hospital Road.
+
 **Cost:** Free
 
 **Tour Duration:** 2 hours
