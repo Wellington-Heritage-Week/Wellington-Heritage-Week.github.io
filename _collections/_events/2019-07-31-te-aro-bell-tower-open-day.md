@@ -27,7 +27,7 @@ Entry will be free but a Koha to assist with the restoration of the ringing mech
 
 <br>
 
-**No booking is required.**
+**No booking is required**
 
 **Location:** 211 Willis St, Te Aro, Wellington
 
