@@ -6,7 +6,7 @@ description: >-
   Enjoy a three course meal and view a wide selection of beautiful works by Rita
   Angus throughout the hallways and lobby of the Bolton Hotel.
 img: /assets/uploaded/bolton-street-hotel-wellington-heritage-week-2019.png
-event_date: 5pm Fri 1st Nov
+event_date: 5pm Fri 1 Nov
 host:
   blurb: >-
     Bolton Hotel is Wellington's finest independent hotel and named after one of
