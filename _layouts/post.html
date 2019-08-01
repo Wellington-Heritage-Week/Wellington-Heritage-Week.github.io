@@ -8,9 +8,6 @@ layout: default
     <header>
       <div class="post_image">
         <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
-        {% if page.book_promotion %}
-        <div class="ribbon large"><span>Book Promotion</span></div>
-        {% endif %}
         {% if page.booked_out %}
         <div class="ribbon large"><span>Booked out</span></div>
         {% endif %}
