@@ -8,7 +8,8 @@ description: >-
   architect Sharon Jansen. 
 img: /assets/uploaded/futuna-chapel-wellington-heritage-week-2019.jpg
 event_date: 11am - 3pm Sat 2 & Sun 3 Nov
-booked_out: true
+booked_out: false
+book_promotion: true
 host:
   blurb: >-
     The Friends of Futuna Charitable Trust owns the land and the chapel and is
