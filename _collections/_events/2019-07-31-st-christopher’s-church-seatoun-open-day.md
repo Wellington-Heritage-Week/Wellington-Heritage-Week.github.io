@@ -8,7 +8,7 @@ description: >-
   from the beach. Hear the history of the church and take in the beauty of the
   stained glass windows. 
 img: /assets/uploaded/st-christopher-s-seatoun-heritage-week-2019-min.jpg
-event_date: 10am - 3pm Sun Nov 3
+event_date: 10am - 3pm Sun 3 Nov
 host:
   blurb: >-
     Seatoun Village Hall was previously known as St Christopher’s Church and
