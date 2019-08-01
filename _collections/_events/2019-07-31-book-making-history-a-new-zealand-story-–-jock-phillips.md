@@ -10,7 +10,7 @@ description: >-
   as it is a man looking back on his journey of self-discovery. 
 img: >-
   /assets/uploaded/making-history.-jock-phillips.-wellington-heritage-week-2019-min.jpg
-event_date: Book Showcase
+event_date: Book Promotion
 host:
   blurb: >-
     Unity Books is an award-winning independent bookshop comprised of two
