@@ -108,18 +108,4 @@
         {% endif %}
     </a>
 </div>
-<div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}" data-location="{{ event.location }}">
-    <a href="{{event.url | prepend: site.baseurl}}">
-        {% if event.img %}
-        <img src={{site.baseurl}}{{ event.img }} alt="{{event.title}}">
-        {% endif %}
-        <div class="chapter_inner">
-            <h3 class="chapter_title">{{event.title}}</h3>
-            <p class="chapter_number">{{event.event_date}}</p>
-        </div>
-        {% if event.book_promotion %}
-        <div class="ribbonbook"><span>Book Promotion</span></div>
-        {% endif %}
-    </a>
-</div>
 {% endfor %}
