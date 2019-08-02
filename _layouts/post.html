@@ -11,6 +11,9 @@ layout: default
         {% if page.booked_out %}
         <div class="ribbon large"><span>Booked out</span></div>
         {% endif %}
+        {% if page.book_promotion %}
+        <div class="ribbon large2"><span>Book Promotion</span></div>
+        {% endif %}
       </div>
       <div class="post_description">
         <h1 class="post_title">{{page.title}}</h1>
