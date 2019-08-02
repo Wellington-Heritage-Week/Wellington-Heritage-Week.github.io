@@ -35,15 +35,17 @@ Now it might make more sense of that phrase “Don’t knock our Local Mafia to 
 
 Explore this and more on Dinah Priestley’s Old Thorndon: An Historic Walking Tour.
 
+Copies of Dinah’s book Old Thorndon will be available for $15.00.
+
 <br>
 
 **Booking is required. Please email dinah.priestley@gmail.com to book.** 
 
 **Location:** Begonia House forecourt, Wellington Botanic Garden. - 101 Glenmore St, Kelburn, Wellington 6012
 
-**Cost:** $5 per person. For those wishing to conclude the walk with a  visit to our  1882 Thorndon  home, The Anchorage, Devonshire teas will be served for an extra $5.00.
+**Cost:** $5 per person.
 
-**Tour Duration:** 1.5 hours
+**Tour Duration:** 1 hour
 
 **Email Contact:** dinah.priestley@gmail.com
 
