@@ -2,9 +2,10 @@
 layout: post
 title: Recreating Heritage in Augmented Reality
 location: Wellington City
-description: >-
-  Join Hiamo on a tour to explore the past and view some of Wellington’s
-  remaining and long-gone heritage through augmented reality!
+description: >
+  Join Hiamo on a tour to explore the past and view some of the Wellington
+  waterfront’s
+   remaining and long-gone heritage through augmented reality!
 img: /assets/uploaded/hiamo_header_update.jpg
 event_date: 1pm Sat 2 & Sun 3 Nov
 host:
@@ -16,23 +17,33 @@ host:
   email: contact@hiamo.nz
   image: ''
   name: Hiamo
-  phone: 027 8609129
+  phone: 027 860 9129
   website: www.hiamo.nz
 tag:
   - Saturday 2 Nov
   - Sunday 3 Nov
 ---
-**Join Hiamo on a tour to explore the past and view some of Wellington’s remaining and long-gone heritage through augmented reality!**
+**Join Hiamo on a tour to explore the past and view some of the Wellington waterfront’s
+ remaining and long-gone heritage through augmented reality!
+**
 
-Using your smartphone’s camera and our application you will be able to view 3D recreations of objects, people, and stories that have been lost over time. Our technology lets you see the past in a new way, visualising what the area around you would have looked like long ago.
+Using a smartphone’s camera and our application you will be able to view 3D recreations of
+ objects, people, and stories tied to the Wellington waterfront. Our technology lets you see
+ and interact with the past in a new way, watching stories unfold before you over the real
+ world.
 
-During this tour you will also be able to interact with the historic objects through your phone, letting you explore the areas heritage your own way.
+Come to learn more about this inner-city heritage, hear about Hiamo’s work, and discuss the
+ uses of augmented reality in the heritage space.
 
-Maximum of 20 people per tour. 
+Meet outside Te Papa’s front entrance, look for the people in the white and orange shirts!
+
+Maximum of 20 people per tour.
 
 <br>
 
 **Booking is required. Email contact@hiamo.nz to book.**
+
+**Location:** 35-49 Cable Street, Met outside Te Papa front entrance on the forecourt.
 
 **Cost:** $10 (to be paid in cash on the day)
 
