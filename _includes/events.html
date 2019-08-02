@@ -106,6 +106,9 @@
         {% if event.booked_out %}
         <div class="ribbon"><span>Booked out</span></div>
         {% endif %}
+        {% if event.book_promotion %}
+        <div class="ribbon2"><span>Book Promotion</span></div>
+        {% endif %}
     </a>
 </div>
 {% endfor %}
