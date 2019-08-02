@@ -4,7 +4,7 @@ title: Te Aro Bell Tower Open Day
 location: Wellington City
 img: /assets/uploaded/bells.jpg
 event_date: 10am - 3pm Sat 2 Nov
-booked_out: true
+booked_out: false
 book_promotion: false
 host:
   blurb: >-
