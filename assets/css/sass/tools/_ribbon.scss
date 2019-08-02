@@ -49,7 +49,7 @@
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     width: 100px;
-    display: block;
+    display: flex;
     background: #3a3875;
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
@@ -106,7 +106,7 @@
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     width: 175px;
-    display: block;
+    display: flex;
     background: #3a3875;
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px black;
