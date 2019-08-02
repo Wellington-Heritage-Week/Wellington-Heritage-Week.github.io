@@ -30,7 +30,32 @@
     position: absolute;
     top: 19px; left: -21px;
   }
+  
+.ribbon2 {
+  position: absolute;
+  left: -5px; top: -5px;
+  z-index: 1;
+  overflow: hidden;
+  width: 75px; height: 75px;
+  text-align: right;
 
+  span {
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 20px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    width: 100px;
+    display: block;
+    background: #3a3875;
+    background: linear-gradient(#3a3875 0%, #3a3875 100%);
+    box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 19px; left: -21px;
+  }
 }
 
 .ribbon.large {
@@ -62,6 +87,35 @@
   }
 }
 
+.ribbon.large2 {
+  position: absolute;
+  left: -10px;
+  top: -10px;
+  z-index: 1;
+  overflow: hidden;
+  width: 175px;
+  height: 175px;
+  text-align: right;
+  span {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFF;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 40px;
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    width: 175px;
+    display: block;
+    background: #3a3875;
+    background: linear-gradient(#3a3875 0%, #3a3875 100%);
+    box-shadow: 0 3px 10px -5px black;
+    position: absolute;
+    top: 34px;
+    left: -33px;
+  }
+}  
+  
 .ribbon span::before {
   content: "";
   position: absolute; left: 0px; top: 100%;
