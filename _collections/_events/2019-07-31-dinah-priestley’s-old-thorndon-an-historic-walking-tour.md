@@ -31,7 +31,7 @@ If you find Thorndonites a trifle defensive about their environment today it’s
 
 In the 1980s, The Thorndon Society was dubbed by developers as the Local Mafia, the Knaves of Thorndon and the Despotic Watchdogs. Posters were put up saying “Death to the Thorndon Society.”
 
-Now it might make more sense of that phrase “Don’t knock our Local Mafia to hard. We need them”.
+Now it might make more sense of that phrase “Don’t knock our Local Mafia too hard. We need them”.
 
 Explore this and more on Dinah Priestley’s Old Thorndon: An Historic Walking Tour.
 
