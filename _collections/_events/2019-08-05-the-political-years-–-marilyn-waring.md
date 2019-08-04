@@ -23,3 +23,19 @@ tag:
   - Book Promotion
 ---
 **A fascinating autobiographical account of Waring’s years in parliament, from being elected as a new National Party MP, to being publicly decried by the Prime Minister for her ‘feminist anti-nuclear stance’. This story of life in a male dominated and relentlessly demanding political world is still of pressing relevance today.**
+
+Publisher: Bridget Williams Books
+
+Price: $40
+
+### [Click here to view the book in the Unity Books Online Store](http://www.unitybooksonline.co.nz/nz-non-fiction/nz-history/marilyn-waring-the-political-years)
+
+<br>
+
+**Shop Location:** 57 Willis Street, Wellington
+
+**Email Contact:** wellington@unitybooks.co.nz
+
+**Telephone Contact:** 04 499 4245
+
+![null](/assets/uploaded/unity-books-logo.jpg)
