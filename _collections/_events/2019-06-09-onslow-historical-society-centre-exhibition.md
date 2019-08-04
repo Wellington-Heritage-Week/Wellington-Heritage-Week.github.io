@@ -7,7 +7,7 @@ description: >-
   northern suburbs c.1850, and browse the Society's library and large collection
   of black and white historical photographs of the area.
 img: >-
-  /assets/uploaded/onslow-historical-society-wellington-heritage-week-2019-min.jpg
+  /assets/uploaded/onslow-historical-society-centre-exhibition-wellington-heritage-week.png
 event_date: 1pm-4pm Sun 3 Nov
 host:
   blurb: >-
