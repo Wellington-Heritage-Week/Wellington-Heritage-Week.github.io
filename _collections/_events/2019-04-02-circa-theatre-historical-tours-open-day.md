@@ -28,7 +28,7 @@ The one-hour tours will run at 1pm daily from Mon 28 – Sat 2 Nov and there wil
 
 Bookings are essential and there will be opportunities to join as a ‘Friend of Circa’ at a special reduced rate of $50 for the year (normally $60) and to buy the Circa histories books (1976 – 1996 and 1996 – 2016) at reduced prices. 
 
-Visit [www.circa.co.nz](https://www.circa.co.nz/package/circa-theatre-historical-tour-open-day/) to book and for more information. Max 20 people per tour. 
+Max 20 people per tour. 
 
 <br>
 
