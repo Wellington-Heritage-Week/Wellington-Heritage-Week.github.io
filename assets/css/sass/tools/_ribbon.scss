@@ -49,12 +49,12 @@
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     width: 100px;
-    display: flex;
+    display: block;
     background: #3a3875;
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
     position: absolute;
-    top: 19px; left: -21px;
+    top: 30; left: -33;
   }
 }
 
@@ -106,13 +106,13 @@
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
     width: 175px;
-    display: flex;
+    display: block;
     background: #3a3875;
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px black;
     position: absolute;
-    top: 34px;
-    left: -33px;
+    top: 44px;
+    left: -43px;
   }
 }  
   
