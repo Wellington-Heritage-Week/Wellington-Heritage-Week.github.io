@@ -54,7 +54,7 @@
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
     position: absolute;
-    top: 30; left: -33;
+    top: 19px; left: -21px;
   }
 }
 
@@ -111,8 +111,8 @@
     background: linear-gradient(#3a3875 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px black;
     position: absolute;
-    top: 44px;
-    left: -43px;
+    top: 34px;
+    left: -33px;
   }
 }  
   
@@ -134,4 +134,23 @@
   border-right: 3px solid #8F0808;
   border-bottom: 3px solid transparent;
   border-top: 3px solid #8F0808;
+}
+.ribbon2 span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid #3a3875;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #3a3875;
+}
+
+.ribbon2 span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-right: 3px solid #3a3875;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #3a3875;
 }
