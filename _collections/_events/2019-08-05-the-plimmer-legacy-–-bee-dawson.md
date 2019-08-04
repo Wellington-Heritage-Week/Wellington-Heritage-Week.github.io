@@ -8,6 +8,7 @@ description: >-
   whose statue at the bottom of Plimmer Steps on Lambton Quay will be familiar
   to residents and visitors alike.
 img: /assets/uploaded/plimmer-legacy-wellington-heritage-week.jpg
+event_date: Book Promotion
 book_promotion: true
 host:
   blurb: >-
