@@ -8,7 +8,7 @@ description: >-
   Prime Minister for her ‘feminist anti-nuclear stance’. This story of life in a
   male dominated and relentlessly demanding political world is still of pressing
   relevance today.
-img: /assets/uploaded/political-years-2.jpg
+img: /assets/uploaded/political-years-wellington-heritage-week.jpg
 event_date: Book Promotion
 book_promotion: true
 host:
