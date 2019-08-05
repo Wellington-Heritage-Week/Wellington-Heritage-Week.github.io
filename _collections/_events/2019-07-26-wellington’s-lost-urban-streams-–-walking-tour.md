@@ -5,7 +5,7 @@ location: Wellington City
 description: >-
   Join the Engineering New Zealand and The Sustainability Society for a walk to
   rediscover the streams that flow beneath our city. 
-img: /assets/uploaded/placeholder3.png
+img: /assets/uploaded/engineering-new-zealand-wellington-heritage-week-min.png
 event_date: '5:30pm Wed 30 Oct & 3:30pm Sun 3 Nov'
 host:
   blurb: >-
