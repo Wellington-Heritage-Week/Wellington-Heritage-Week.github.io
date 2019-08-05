@@ -7,7 +7,7 @@ description: >-
   such people to land on the shores of Te Whanganui a Tara in 1857 were William
   and Catherine Wallis. Visit Nairn Street Cottage to explore their stories.
 img: /assets/uploaded/nairn-st-1.jpg
-event_date: 12pm - 5pm Sat 2 Nov
+event_date: 12pm - 4pm Sat 2 Nov
 host:
   blurb: >-
     Museums Wellington comprises four of our city’s leading visitor attractions
