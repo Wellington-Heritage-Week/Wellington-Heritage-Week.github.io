@@ -29,7 +29,9 @@ Sold by the Presbyterian Church in 2015, it is now privately owned but leased by
 
 Whilst the doors aren’t often open, it continues to be used for weddings, funerals, community events and the like. 
 
-There will be a variety of musical performances throughout the day with an organ recital at 2pm on the original Tracker organ by members from the Wellington Organists’ Association.
+Trustees will be in attendance to answer any questions and talk about the history of the church.
+
+At 2pm there will be an organ recital by David Dobson from the Wellington Organists' Association.
 
 <br>
 
