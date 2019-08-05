@@ -36,9 +36,11 @@ The tour finishes at Parliament. Suzanne walked through this part of town visiti
 
 Sr Sue Cosgrove, Sisters of Compassion, will lead the tour. 
 
+The tour has a capacity of 15 people. 
+
 <br>
 
-**Booking is required. Click here to book via Eventfinda.**  
+**Booking is required. **[**Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/historical-walking-tour-of-suzanne-auberts-wellington/wellington)  
 
 **Location:** Tour begins at Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
