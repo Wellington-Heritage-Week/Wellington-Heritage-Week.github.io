@@ -40,7 +40,7 @@ The tour has a capacity of 15 people.
 
 <br>
 
-**Booking is required. **[**Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/historical-walking-tour-of-suzanne-auberts-wellington/wellington)  
+**Booking is required.** [**Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/historical-walking-tour-of-suzanne-auberts-wellington/wellington)  
 
 **Location:** Tour begins at Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
