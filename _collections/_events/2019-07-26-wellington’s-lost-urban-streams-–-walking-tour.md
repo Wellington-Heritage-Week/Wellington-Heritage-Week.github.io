@@ -3,7 +3,7 @@ layout: post
 title: Wellington’s Lost Urban Streams – Walking Tour
 location: Wellington City
 description: >-
-  Join the Engineering New Zealand and The Sustainability Society for a walk to
+  Join Engineering New Zealand and The Sustainability Society for a walk to
   rediscover the streams that flow beneath our city. 
 img: /assets/uploaded/engineering-new-zealand-wellington-heritage-week-min.png
 event_date: '5:30pm Wed 30 Oct & 3:30pm Sun 3 Nov'
@@ -21,7 +21,7 @@ host:
 tag:
   - Wednesday 30 Oct
 ---
-**Join the Engineering New Zealand and The Sustainability Society for a walk to rediscover the streams that flow beneath our city.**
+**Join Engineering New Zealand and The Sustainability Society for a walk to rediscover the streams that flow beneath our city.**
 
 We will wend our way from Woodward Street, where the Kumutoto Stream runs in a pipe beneath the paved city streets, out to the harbour and along the waterfront. Many of Wellington’s streams only re-emerge as they enter Wellington Harbour. 
 
