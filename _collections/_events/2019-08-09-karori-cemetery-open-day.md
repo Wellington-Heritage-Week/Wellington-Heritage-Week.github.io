@@ -16,7 +16,7 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Friends of Karori Cemetery will be hosting visitors keen to explore and learn more about the second largest cemetery of New Zealand, and about many of the interesting and influential people buried since 1891. **
+**Friends of Karori Cemetery will be hosting visitors keen to explore and learn more about the second largest cemetery of New Zealand, and about many of the interesting and influential people buried since 1891.**
 
 The two heritage listed buildings in the Cemetery – the Mortuary Chapel and the Small (crematorium) Chapel, will both be open, and there will be talks throughout the day about the stained glass windows in the latter. 
 
