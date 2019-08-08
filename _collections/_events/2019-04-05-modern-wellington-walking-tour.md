@@ -30,7 +30,7 @@ The tour will take approximately 1.5 hours, so comfortable walking shoes and wea
 
 <br>
 
-**Booking is required. Email infocentral@heritage.org.nz to book.**
+[**Booking is required. Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/modern-walking-tour/wellington)
 
 **Location:** To be announced closer to the date
 
