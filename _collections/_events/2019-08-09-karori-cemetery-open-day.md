@@ -29,7 +29,7 @@ There will also be 45 minute guided walking tours around the oldest heritage are
 <br>
 
 
-**No booking is required. **
+**No booking is required.**
 
 **Location:** Karori Cemetery, 76 Old Karori Road, Karori
 
