@@ -38,7 +38,7 @@ For more information, please contact the cultural department of the embassy.
 
 <br>
 
-**Booking is required (maximum of 25 visitors per tour).**
+[**Booking is required (maximum of 25 visitors per tour). Click here to book via Eventfinda**](https://www.eventfinda.co.nz/2019/discover-la-residence-de-france/wellington-region)
 
 **Location:** 39 Hobson Street, Thorndon, Wellington
 
