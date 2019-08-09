@@ -17,6 +17,7 @@ host:
   website: 'https://nz.ambafrance.org/'
 tag:
   - Friday 1 Nov
+  
 ---
 **Come to la Résidence de France, the house of France and the dwelling of French Ambassadors in New Zealand.**
 
