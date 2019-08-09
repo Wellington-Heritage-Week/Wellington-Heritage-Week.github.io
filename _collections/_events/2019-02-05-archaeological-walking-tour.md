@@ -2,7 +2,7 @@
 layout: post
 title: Archaeological Walking Tour
 location: Wellington City
-img: /assets/uploaded/arch-walking3.jpg
+img: /assets/uploaded/archeaolgoical-walking-wellignton-heritage-week-2019.png
 event_date: 3pm Mon 28 Oct & 10am Sat 2 Nov
 booked_out: false
 host:
