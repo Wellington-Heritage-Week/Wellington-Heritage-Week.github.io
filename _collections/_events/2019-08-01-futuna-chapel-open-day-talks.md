@@ -7,7 +7,7 @@ description: >-
   from the Friends of Futuna, Heritage New Zealand Pouhere Taonga, and Nelson
   architect Sharon Jansen. 
 img: /assets/uploaded/futuna-chapel-wellington-heritage-week-2019.jpg
-event_date: 11am - 3pm Sat 2 & Sun 3 Nov
+event_date: 11am - 3pm Sat 2 & 11am-4pm Sun 3 Nov
 booked_out: false
 host:
   blurb: >-
@@ -27,14 +27,15 @@ tag:
 
 **Saturday 2 November: Open Day**
 
-* 11am -3pm: Chapel open to the public with trustees in attendance to answer questions and talk about the chapel. 
-* 2pm: Chapel Guided Tour (duration 20 minutes)
+* **11am-3pm:** Chapel open to the public with trustees in attendance to answer questions and talk about the chapel. 
+* **2pm:** Chapel Guided Tour (duration 30 minutes)
 
-**Sunday 3 November: Public Talks**
+**Sunday 3 November: Open Day & Public Talks**
 
-* Welcome, introduction and Chapel restoration update by Nick Bevin  - Chair Friends of Futuna (duration 15 minutes)
-* Restoration of Plischke house in Nelson by Architect Sharon Jansen (shortlisted for New Zealand Architecture Award 2019 - Heritage Category) (duration 20 minutes)
-* Suburban Heritage - talk by Jamie Jacobs Director - Central Region  - Heritage New Zealand /Pouhere Taonga (duration 20 minutes)
+* **11am-3pm:** Chapel open to the public with trustees in attendance to answer questions and talk about the chapel.
+* **3pm:** Welcome, introduction and Chapel restoration update by Nick Bevin  - Chair Friends of Futuna 
+* **3:15pm:** _The Stubborn Ambivalence Toward the Twentieth Century Suburban Vernacular_ by Jamie Jacobs - Central Region Director for Heritage New Zealand Pouhere Taonga
+* **3:35pm:** _Nelson House Alteration -Ernst Plischke 1961_ by Sharon Jansen - Architect 
 
 The talks will be followed by afternoon tea hosted by Historic Places Wellington and served in the Chapel
 
