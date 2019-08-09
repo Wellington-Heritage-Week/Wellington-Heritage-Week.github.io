@@ -3,8 +3,9 @@ layout: post
 title: Modern Wellington Walking Tour
 location: Wellington City
 description: >-
-  Hear about the stories of Wellington’s important mid to late-twentieth century
-  places on the Modern Wellington Walking Tour.
+  Hear about the stories of Wellington’s important mid- to late-twentieth
+  century places on the Modern Wellington walking tour - part of Wellington
+  Heritage Week.
 img: >-
   /assets/uploaded/wellington-heritage-week.-modern-wellington-walking-tour-2-min.png
 event_date: 1pm Sun 3 Nov
@@ -20,17 +21,19 @@ host:
 tag:
   - Sunday 3 Nov
 ---
-**Hear about the stories of Wellington’s important mid to late-twentieth century places on the Modern Wellington Walking Tour.**
+**Hear about the stories of Wellington’s important mid- to late-twentieth century places on the Modern Wellington walking tour - part of Wellington Heritage Week.**
 
-The tour of the central city starts at 1pm on Sunday 3 November and attendees are encouraged to gather from 12:45pm at a central city location (to be announced).
+The tour explores the major changes and controversies created by Wellington’s Modern buildings, structures and places - all that glass and height, the dynamic and quirky shapes and, of course, the concrete!
 
-This is a free walking tour, but you will need to book through EventFinda or by contacting Heritage New Zealand’s Central Region Office, so we can let you know where to meet and also contact you if the tour is cancelled or postponed due to weather conditions. 
+The tour of the central city starts at 1pm on Sunday 3 November and attendees are encouraged to gather from 12:45pm at Cuba Mall’s Bucket Fountain.
+
+This is a free walking tour, but you will need to book by contacting (email or call) Heritage New Zealand’s Central Region Office so we can let you know if the tour is cancelled or postponed due to weather conditions (infocentral@heritage.org.nz or 04 494 8320). We will also update this page on the day should plans change. 
 
 The tour will take approximately 1.5 hours, so comfortable walking shoes and weather appropriate clothing/protection is essential. 
 
 <br>
 
-[**Booking is required. Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/modern-walking-tour/wellington)
+**Booking is required. Email infocentral@heritage.org.nz to book**
 
 **Location:** To be announced closer to the date
 
