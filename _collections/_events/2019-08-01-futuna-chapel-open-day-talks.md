@@ -7,7 +7,7 @@ description: >-
   from the Friends of Futuna, Heritage New Zealand Pouhere Taonga, and Nelson
   architect Sharon Jansen. 
 img: /assets/uploaded/futuna-chapel-wellington-heritage-week-2019.jpg
-event_date: 11am - 3pm Sat 2 & Sun 3 Nov
+event_date: 11am - 3pm Sat 2 & 11am-4pm Sun 3 Nov
 booked_out: false
 host:
   blurb: >-
