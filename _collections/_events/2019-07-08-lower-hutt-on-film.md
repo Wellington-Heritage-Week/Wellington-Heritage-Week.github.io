@@ -31,7 +31,7 @@ Brendan Graham 2016** [**www.brendan-graham.com**](https://www.brendan-graham.co
 
 <br>
 
-**Booking is required. Please book via Eventfinda.**
+**No booking is required.**
 
 **Cost:** Free
 
