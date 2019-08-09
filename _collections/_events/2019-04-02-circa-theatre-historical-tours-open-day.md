@@ -32,7 +32,7 @@ Max 20 people per tour.
 
 <br>
 
-**Bookings are essential. [Click here to book your ticket via www.circa.co.nz](https://www.circa.co.nz/package/circa-theatre-historical-tour-open-day/).**
+**Bookings are essential. [Click here to book your ticket via www.circa.co.nz](https://nz.patronbase.com/_Circa/Productions/1924/Performances).**
 
 **Location:** 1 Taranaki St, Wellington
 
