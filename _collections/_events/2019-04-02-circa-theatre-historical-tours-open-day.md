@@ -19,6 +19,11 @@ host:
   website: 'https://www.circa.co.nz/'
 tag:
   - Monday 28 Oct
+  - Tuesday 29 Oct
+  - Wednesday 30 Oct
+  - Thursday 31 Oct
+  - Friday 1 Nov
+  - Saturday 2 Nov
 ---
 **Discover and celebrate the 43-year history of Wellington’s iconic Circa Theatre through a free guided tour of Wellington’s unique waterfront building.**
 
