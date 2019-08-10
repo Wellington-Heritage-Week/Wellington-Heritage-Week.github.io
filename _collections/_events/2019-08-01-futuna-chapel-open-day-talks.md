@@ -22,6 +22,7 @@ host:
   website: 'https://www.futunatrust.org.nz/'
 tag:
   - Saturday 2 Nov
+  - Sunday 3 Nov
 ---
 **Experience the award-winning modernist Futuna Chapel in Karori, and hear talks from the Friends of Futuna, Heritage New Zealand Pouhere Taonga, and Wellington architect Sharon Jansen.** 
 
