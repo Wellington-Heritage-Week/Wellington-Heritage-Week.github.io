@@ -15,6 +15,7 @@ host:
   name: 'La Résidence de France '
   phone: 04 384 25 55
   website: 'https://nz.ambafrance.org/'
+
 tag:
   - Friday 1 Nov
   
