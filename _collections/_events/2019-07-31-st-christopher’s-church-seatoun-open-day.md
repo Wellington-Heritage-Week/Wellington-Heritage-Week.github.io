@@ -39,7 +39,7 @@ At 2pm there will be an organ recital by David Dobson from the Wellington Organi
 
 **Location:** 27 Ventnor Street, Seatoun, Wellington 6022
 
-**Cost:** Free
+**Cost:** Free - Koha appreciated 
 
 **Email Contact:** seatounvillagehall@gmail.com  
 
