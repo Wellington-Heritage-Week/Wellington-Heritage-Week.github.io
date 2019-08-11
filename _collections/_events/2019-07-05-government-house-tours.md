@@ -31,7 +31,7 @@ Government House and the visitor centre are fully accessible. However some of ga
 
 <br>
 
-**Bookings are essential and must be made through** [**www.gg.govt.nz/tours/upcoming**](https://gg.govt.nz/tours/upcoming)
+**Bookings are essential and must be made through** [**www.gg.govt.nz/tours/upcoming**](https://gg.govt.nz/node/8379)
 
 **Location:** Visitor access to Government House Wellington is - unless otherwise specified - via Hospital Road.
 
