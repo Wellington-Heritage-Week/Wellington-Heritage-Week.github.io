@@ -10,8 +10,8 @@ event_date: '10am - 5pm Everyday '
 host:
   blurb: >-
     Immersive Legacies: 320 The Terrace is created by Jessie Rogers, David
-    Silcock, Hannah Rushton, Moria Sun, Hylton Abrahams, Prof. Marc Aurel
-    Schnabel, Tane Moleta, and Conal McCarthy. 
+    Silcock, Hannah Rushton, Hylton Abrahams, Prof. Marc Aurel Schnabel, and
+    Tane Moleta. 
   email: ImmersiveLegacies@gmail.com
   name: 'School of Architecture, Victoria University of Wellington'
   phone: '04 472 8904 '
