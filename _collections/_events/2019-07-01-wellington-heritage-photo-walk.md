@@ -32,7 +32,7 @@ The tour will focus on locations within Wellington City. Bring suitable footwear
 
 <br>
 
-**Booking is required. **[**Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/wellington-heritage-photo-walk/wellington)
+**Booking is required.** [**Click here to book via Eventfinda.**](https://www.eventfinda.co.nz/2019/wellington-heritage-photo-walk/wellington)
 
 **Cost:** Free
 
