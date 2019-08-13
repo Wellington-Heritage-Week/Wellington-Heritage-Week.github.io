@@ -8,6 +8,7 @@ description: >-
 img: >-
   /assets/uploaded/historical-walking-tour-of-suzanne-aubert-wellington-heritage-week-2.png
 event_date: 10am Sat 2 Nov
+booked_out: true
 host:
   blurb: >-
     The sisters are committed to delivering “compassionate care” throughout the
