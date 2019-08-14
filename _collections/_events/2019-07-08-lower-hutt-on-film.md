@@ -20,7 +20,7 @@ tag:
 
 See how WW1 soldiers returned to be rehabilitated in Petone, new Plunket rooms opened, shops and housing transformed Naenae, and new industries brought families and the Kiwi-dream to the valley. 
 
-The archival footage is sourced from Arhives New Zealand and the Petone Library Heritage Centre. 
+The archival footage is sourced from Archives New Zealand and the Petone Library Heritage Centre. 
 
 Screening starts at 7pm and runs until 8pm, Wednesday 30 October.
 
