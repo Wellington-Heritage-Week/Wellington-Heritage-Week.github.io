@@ -42,7 +42,7 @@ Maximum of 20 people per tour.
 
 **Booking is required. Email contact@hiamo.nz to book.**
 
-**Location:** 35-49 Cable Street, Met outside Te Papa front entrance on the forecourt.
+**Location:** 35-49 Cable Street, Meet outside Te Papa front entrance on the forecourt.
 
 **Cost:** $10 (to be paid in cash on the day)
 
