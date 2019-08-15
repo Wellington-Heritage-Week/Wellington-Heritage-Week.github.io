@@ -24,8 +24,7 @@ tag:
   - Sunday 3 Nov
 ---
 **Join Hiamo on a tour to explore the past and view some of the Wellington waterfront’s
- remaining and long-gone heritage through augmented reality!
-**
+ remaining and long-gone heritage through augmented reality!**
 
 Using a smartphone’s camera and our application you will be able to view 3D recreations of
  objects, people, and stories tied to the Wellington waterfront. Our technology lets you see
