@@ -3,7 +3,7 @@ layout: post
 title: 'The Life of Octavius Hadfield '
 location: Kapiti Coast
 img: /assets/uploaded/kapiti-museum.jpg
-event_date: 10AM-4PM FRI 1 to SUN 3 NOV
+event_date: 1PM-4PM FRI 1 to SUN 3 NOV
 host:
   blurb: >-
     The Kapiti Coast Museum is housed in the old Waikanae Post Office. Started
