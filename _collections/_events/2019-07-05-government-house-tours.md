@@ -6,7 +6,7 @@ description: >-
   Experience a guided tour of Government House, the home of the
   Governor-General.
 img: /assets/uploaded/gh3.jpg
-event_date: '1:30pm Fri 1 Nov, 10:30 & 1:30pm Sat 2 and Sun 3 Nov'
+event_date: '1:30pm Fri 1 Nov, 10:30am & 1:30pm Sat 2 Nov & Sun 3 Nov'
 host:
   blurb: >-
     The Visitor Centre explores the current and historic role of the
