@@ -35,7 +35,7 @@ The tour will take approximately 1.5 hours, so comfortable walking shoes and wea
 
 **Booking is required. Email infocentral@heritage.org.nz to book**
 
-**Location:** To be announced closer to the date
+**Location:** 12:45pm at Cuba Mall’s Bucket Fountain
 
 **Cost:** Free
 
