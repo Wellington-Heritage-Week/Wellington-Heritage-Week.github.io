@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nairn Street Cottage: What''s New? Open Day'
+title: 'Little Cottage – Big Story: Open Day'
 location: Wellington City
 description: >-
   European settlers arrived in Wellington looking for big opportunities. Two
