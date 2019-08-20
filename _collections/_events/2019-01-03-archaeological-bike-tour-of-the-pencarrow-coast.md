@@ -9,6 +9,7 @@ description: >-
 img: >-
   /assets/uploaded/pencarrow-lighthouse-pencarrow-aerial-view-of-top-lighthouse-custom.jpg
 event_date: 11am Mon 28 Oct
+booked_out: true
 host:
   blurb: >-
     Nicholas Beynon is an archaeologist based in Lower Hutt. He has supported in
