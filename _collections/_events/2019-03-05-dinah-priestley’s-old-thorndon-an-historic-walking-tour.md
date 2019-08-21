@@ -10,7 +10,7 @@ description: >-
 img: >-
   /assets/uploaded/dinah-priestley’s-old-thorndon-wellington-heritage-week-2019-2.png
 event_date: 10am Tues 29 Oct
-booked_out: false
+booked_out: true
 host:
   blurb: >-
     Dinah Priestley is an author, artist, actress, and oral historian based in
