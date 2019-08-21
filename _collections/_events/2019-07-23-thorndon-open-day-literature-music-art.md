@@ -24,19 +24,21 @@ The Randell Cottage (14 St Mary’s Street), a Category II historic place built 
 
 The Lilburn Residence (22 Ascot Street, Category I), where the composer Douglas Lilburn lived and worked, will be open for visitors to explore, with music in the cottage and the garden.
 
-The former residence of Rita Angus (194A Sydney Street West), constructed in 1877, will be open to visitors. Visitors will be given tours of the garden by the volunteer gardeners who care for it.  
+The garden at the Rita Angus Cottage (Category I historic place) will be open to visitors, who are encouraged to stay and sketch the abundant array of flowers and plant life that surround the 1877 cottage where New Zealand artist Rita Angus lived between 1955 and 1970, providing her with much inspiration and subject matter.
+
+Thorndon Trustees and volunteer gardeners will be on hand, with drawing material and reproductions of some of Rita's representations of her Thorndon garden. 
 
 ### [Click here to download a map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Open%20Day%20Map%20Wellington%20Heritage%20Week%202019.pdf)
 
 <img src="/assets/uploaded/thorndon-open-day-map-wellington-heritage-week-2019-min.pdf.png" alt="Thorndon Wellington Heritage Week" class="responsive">
 
-**Learn more about each cottage on their websites:**
+**Learn more about each cottage on the below websites:**
 
 [www.randellcottage.co.nz/cottage/](www.randellcottage.co.nz/cottage/)
 
 [www.lilburnresidence.org.nz/](www.lilburnresidence.org.nz/)
 
-[www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage?q=](www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage?q=)
+[https://www.heritage.org.nz/the-list/details/2291](https://www.heritage.org.nz/the-list/details/2291)
 
 <br>
 
