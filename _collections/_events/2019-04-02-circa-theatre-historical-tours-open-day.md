@@ -29,7 +29,7 @@ tag:
 
 A Circa Councillor will take you on a unique guided tour of the historic Circa building, including rarely seen backstage areas. Learn about the fascinating building move from 7 Harris Street to 1 Taranaki Street – including how the facade of 120-year-old Westport Chambers was trucked across the road and the new theatre built in behind it. You may even get the opportunity to glimpse this year's Christmas Panto rehearsal, ALICE IN WONDERLAND!
 
-The one-hour tours will run at 1pm daily from Mon 28 – Sat 2 Nov and there will be 4 tours on Sat 2 Nov (11am, 12pm, 1pm and 2pm). 
+The one-hour tours will run at 1pm daily from Mon 28 – Sat 2 Nov and there will be 4 tours on Sat 2 Nov OPEN DAY (11am, 12pm, 1pm and 2pm). 
 
 Bookings are essential and there will be opportunities to join as a ‘Friend of Circa’ at a special reduced rate of $50 for the year (normally $60) and to buy the Circa histories books (1976 – 1996 and 1996 – 2016) at reduced prices. 
 
