@@ -59,6 +59,8 @@ You can also access the trail from Cross Creek in the Remutaka Forest Park, abou
 
 **Email Contact:** wellingtonvc@doc.govt.nz
 
+<center><a class="twitter-timeline" data-width="80%" data-height="500" href="https://twitter.com/docgovtnz?ref_src=twsrc%5Etfw">Tweets by docgovtnz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
+<br>
 
-<a class="twitter-timeline" data-width="80%" data-height="500" href="https://twitter.com/docgovtnz?ref_src=twsrc%5Etfw">Tweets by docgovtnz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdocgovtnz%2F&tabs=timeline&width=800&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="80%" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></center>
