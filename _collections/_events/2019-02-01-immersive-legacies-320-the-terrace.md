@@ -40,3 +40,5 @@ Visitors can explore the high-rise modernist building on 320 The Terrance and di
 **Location:** Flux, Wellington Museum, 3 Jervois Quay, Wellington
 
 **Cost:** Free Entry
+
+_Immersive Legacies: 320 The Terrace is a new exhibition at Flux, Wellington Museum. It is open to the public from Saturday the 19th of October to Sunday the 3rd of November 2019_
