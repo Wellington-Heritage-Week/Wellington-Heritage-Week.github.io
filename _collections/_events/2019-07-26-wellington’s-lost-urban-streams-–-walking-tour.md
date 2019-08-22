@@ -7,6 +7,7 @@ description: >-
   rediscover the streams that flow beneath our city. 
 img: /assets/uploaded/engineering-new-zealand-wellington-heritage-week-min.png
 event_date: '5:30pm Wed 30 Oct & 3:30pm Sun 3 Nov'
+booked_out: true
 host:
   blurb: >-
     Engineering New Zealand is the professional body for engineers. We think
