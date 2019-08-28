@@ -9,6 +9,7 @@ description: >-
 img: >-
   /assets/uploaded/wellington-heritage-week.-modern-wellington-walking-tour-2-min.png
 event_date: 1pm Sun 3 Nov
+booked_out: true
 host:
   blurb: >-
     Heritage New Zealand Pouhere Taonga is the leading national historic
