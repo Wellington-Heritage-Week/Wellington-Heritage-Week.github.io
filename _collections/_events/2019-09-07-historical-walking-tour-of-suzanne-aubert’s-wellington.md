@@ -8,7 +8,7 @@ description: >-
 img: >-
   /assets/uploaded/historical-walking-tour-of-suzanne-aubert-wellington-heritage-week-2.png
 event_date: 10am Sat 2 Nov
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     The sisters are committed to delivering “compassionate care” throughout the
@@ -23,6 +23,8 @@ host:
 tag:
   - Saturday 2 Nov
 ---
+**AN EXTRA TOUR HAS BEEN ORGANISED FOR THE TUESDAY 29 OCT, 10AM-3:30PM**
+
 **Follow the footsteps of Suzanne Aubert, Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.**
 
 Discover the places where this remarkable woman lived out a life of faith and compassion in a practical way, as she tended to the most pressing social needs of the day. 
