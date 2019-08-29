@@ -23,7 +23,7 @@ host:
 tag:
   - Saturday 2 Nov
 ---
-**AN EXTRA TOUR HAS BEEN ORGANISED FOR THE TUESDAY 29 OCT, 10AM-3:30PM**
+**AN EXTRA TOUR HAS BEEN ORGANISED FOR THE TUESDAY 29 OCT, 10AM-3:30PM. **[**CLICK HERE TO BOOK YOUR TICKETS**](https://www.eventfinda.co.nz/2019/historical-walking-tour-of-suzanne-auberts-wellington/wellington)
 
 **Follow the footsteps of Suzanne Aubert, Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.**
 
