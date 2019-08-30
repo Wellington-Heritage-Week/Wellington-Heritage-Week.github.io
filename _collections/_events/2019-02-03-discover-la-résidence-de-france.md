@@ -7,6 +7,7 @@ description: >-
   Ambassadors in New Zealand. 
 img: /assets/uploaded/french-residence-wellington-heritage-week-min.png
 event_date: 10am-3pm Fri 1 Nov
+booked_out: true
 host:
   blurb: >-
     La Résidence de France is the house of France and the dwelling of French
