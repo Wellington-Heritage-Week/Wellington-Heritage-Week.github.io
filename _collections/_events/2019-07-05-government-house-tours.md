@@ -6,7 +6,7 @@ description: >-
   Experience a guided tour of Government House, the home of the
   Governor-General.
 img: /assets/uploaded/gh3.jpg
-event_date: '1:30pm Fri 1 Nov, 10:30 & 1:30pm Sat 2 and Sun 3 Nov'
+event_date: '1:30pm Fri 1 Nov, 10:30am & 1:30pm Sat 2 Nov & Sun 3 Nov'
 host:
   blurb: >-
     The Visitor Centre explores the current and historic role of the
@@ -31,7 +31,19 @@ Government House and the visitor centre are fully accessible. However some of ga
 
 <br>
 
-**Bookings are essential and must be made through** [**www.gg.govt.nz/tours/upcoming**](https://gg.govt.nz/node/8379)
+**Bookings are essential**
+
+Friday, 1 Nov 1:30pm: [**Click here to book**](https://gg.govt.nz/node/8379)
+
+Saturday, 2 Nov 10:30am: **SOLD OUT**
+
+Saturday, 2 Nov 1:30pm: **SOLD OUT**
+
+Sunday, 3 Nov 10:30am: [**Click here to book**](https://gg.govt.nz/node/8382)
+
+Sunday, 3 Nov 1:30pm: **SOLD OUT**
+
+<br>
 
 **Location:** Visitor access to Government House Wellington is - unless otherwise specified - via Hospital Road.
 
