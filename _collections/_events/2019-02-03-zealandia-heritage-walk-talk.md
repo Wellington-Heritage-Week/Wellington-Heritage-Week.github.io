@@ -33,9 +33,17 @@ What if the weather is bad on the day of my tour? We go out in just about all co
 
 Where do I meet the guide? The Walk and Talks start at 12pm and 2pm sharp. Please meet your guide inside the sanctuary at the Heritage Area.
 
+<br>
+
 **Booking is required.**
 
-### [Click here to book your ticket](https://www.eventbrite.co.nz/e/copy-of-zealandia-heritage-walk-and-talk-tickets-62413599757)
+Saturday, 2 Nov 12pm: **SOLD OUT / **[**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
+
+Saturday, 2 Nov 2pm: **SOLD OUT / **[**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
+
+Sunday, 3 Nov 12pm: [**Click to book tickets**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
+
+Sunday, 3 Nov 2pm: [**Click to book tickets**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
 <br>
 
