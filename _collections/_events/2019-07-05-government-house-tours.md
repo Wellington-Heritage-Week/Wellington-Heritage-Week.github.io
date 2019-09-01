@@ -39,7 +39,7 @@ Saturday, 2 Nov 10:30am: **SOLD OUT**
 
 Saturday, 2 Nov 1:30pm: **SOLD OUT**
 
-Sunday, 3 Nov 10:30am: [**Click here to book**](https://gg.govt.nz/node/8382)
+Sunday, 3 Nov 10:30am: **SOLD OUT**
 
 Sunday, 3 Nov 1:30pm: **SOLD OUT**
 
