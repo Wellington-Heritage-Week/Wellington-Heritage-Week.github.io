@@ -43,7 +43,7 @@ Saturday, 2 Nov 2pm: **SOLD OUT** / [**Click to join waiting list**](https://www
 
 Sunday, 3 Nov 12pm: [**Click to book tickets**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
-Sunday, 3 Nov 2pm: [**Click to book tickets**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
+Sunday, 3 Nov 2pm: **SOLD OUT** / [**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
 <br>
 
