@@ -34,7 +34,7 @@ Government House and the visitor centre are fully accessible. However some of ga
 
 **Bookings are essential**
 
-Friday, 1 Nov 1:30pm: [**Click here to book**](https://gg.govt.nz/node/8379)
+Friday, 1 Nov 1:30pm: **SOLD OUT**
 
 Saturday, 2 Nov 10:30am: **SOLD OUT**
 
