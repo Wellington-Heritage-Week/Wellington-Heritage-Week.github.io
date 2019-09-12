@@ -8,6 +8,7 @@ description: >-
   uses over time - from goldmines to reservoirs.
 img: /assets/uploaded/zealandia.jpg
 event_date: 12pm & 2pm Sat 2 Nov & Sun 3 Nov
+booked_out: true
 host:
   blurb: >-
     ZEALANDIA is the world’s first fully-fenced urban ecosanctuary, with an
@@ -41,7 +42,7 @@ Saturday, 2 Nov 12pm: **SOLD OUT** / [**Click to join waiting list**](https://ww
 
 Saturday, 2 Nov 2pm: **SOLD OUT** / [**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
-Sunday, 3 Nov 12pm: [**Click to book tickets**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
+Sunday, 3 Nov 12pm: **SOLD OUT** / [**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
 Sunday, 3 Nov 2pm: **SOLD OUT** / [**Click to join waiting list**](https://www.eventbrite.co.nz/e/zealandia-heritage-walk-and-talks-tickets-62413599757)
 
