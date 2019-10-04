@@ -31,7 +31,7 @@ Whilst the doors aren’t often open, it continues to be used for weddings, fune
 
 Trustees will be in attendance to answer any questions and talk about the history of the church.
 
-At 2pm there will be an organ recital by David Dobson from the Wellington Organists' Association.
+At 12noon and 2pm there will be an organ recital by David Dobson from the Wellington Organists' Association.
 
 <br>
 
