@@ -7,7 +7,7 @@ description: >
   Theatre through a free guided tour of Wellington’s unique waterfront building.
 img: /assets/uploaded/circa-theatre-tours-wellington-heritage-week-2019.jpg
 event_date: 1pm Mon 28 Oct to Fri 1 Nov & 11am-2pm Sat 2 Nov
-booked_out: false
+booked_out: true
 host:
   blurb: >-
     As a leader of arts and culture in Wellington for over 43 years, Circa
