@@ -35,7 +35,9 @@ Craft activities for children are provided.
 
 <br>
 
-[**Booking is required for the guided walk. Click here to book.**](https://www.eventfinda.co.nz/2019/home-of-compassion-open-day-tours/wellington) 
+[**Booking is required for the guided walk. Click here to book.**](https://www.eventfinda.co.nz/2019/home-of-compassion-open-day-tours/wellington) (SOLD OUT)
+
+
 **No booking is required for attending the Open Day**
 
 **Location:** Our Lady’s Home of Compassion, 2 Rhine Street (off Murray Street), Island Bay
