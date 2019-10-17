@@ -7,6 +7,7 @@ description: >-
   Angus throughout the hallways and lobby of the Bolton Hotel.
 img: /assets/uploaded/bolton-street-hotel-wellington-heritage-week-2019.png
 event_date: 5pm Fri 1 Nov
+booked_out: true
 host:
   blurb: >-
     Bolton Hotel is Wellington's finest independent hotel and named after one of
