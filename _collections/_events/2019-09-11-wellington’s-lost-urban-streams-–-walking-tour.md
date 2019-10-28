@@ -7,7 +7,7 @@ description: >-
   rediscover the streams that flow beneath our city. 
 img: /assets/uploaded/engineering-new-zealand-wellington-heritage-week-min.png
 event_date: '5:30pm Wed 30 Oct & 3:30pm Sun 3 Nov'
-booked_out: true
+booked_out: false
 host:
   blurb: >-
     Engineering New Zealand is the professional body for engineers. We think
@@ -34,6 +34,9 @@ The tour has a capacity of 30 people.
 <br>
 
 [**Booking is required. Click here to book via Engineering NZ.** ](https://pd.engineeringnz.org/ipenzt/register?sgid=03dabce0b9e4465eb0e6133663622218)
+
+* 5:30pm Wed 30 Oct: Tickets remain. 
+* 3:30pm Sun 3 Nov: **SOLD OUT**
 
 **Location:** Meet at the top of Woodward Street by the entrance to the underpass. The walk will finish at Waitangi Park.
 
