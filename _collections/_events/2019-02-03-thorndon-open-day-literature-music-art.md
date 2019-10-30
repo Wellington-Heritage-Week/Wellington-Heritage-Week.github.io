@@ -28,9 +28,9 @@ The garden at the Rita Angus Cottage (Category I historic place) will be open to
 
 Thorndon Trustees and volunteer gardeners will be on hand, with drawing material and reproductions of some of Rita's representations of her Thorndon garden. 
 
-### [Click here to download a map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Open%20Day%20Map%20Wellington%20Heritage%20Week%202019.pdf)
+### [Click here to download a map of the route between the cottages](https://wellingtonheritageweek.co.nz/assets/uploaded/Thorndon%20Map%202.pdf)
 
-<img src="/assets/uploaded/thorndon-open-day-map-wellington-heritage-week-2019-min.pdf.png" alt="Thorndon Wellington Heritage Week" class="responsive">
+<img src="/assets/uploaded/Thorndon Map 2.jpg" alt="Thorndon Wellington Heritage Week" class="responsive">
 
 **Learn more about each cottage on the below websites:**
 
