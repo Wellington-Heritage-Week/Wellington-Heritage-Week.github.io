@@ -50,8 +50,8 @@
     -webkit-transform: rotate(-45deg);
     width: 100px;
     display: block;
-    background: #DE8704;
-    background: linear-gradient(#DE8704 0%, #4d4b82 100%);
+    background: #4E2700;
+    background: linear-gradient(#4E2700 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
     position: absolute;
     top: 19px; left: -21px;
@@ -107,8 +107,8 @@
     -webkit-transform: rotate(-45deg);
     width: 175px;
     display: block;
-    background: #DE8704;
-    background: linear-gradient(#DE8704 0%, #4d4b82 100%);
+    background: #4E2700;
+    background: linear-gradient(#4E2700 0%, #4d4b82 100%);
     box-shadow: 0 3px 10px -5px black;
     position: absolute;
     top: 34px;
@@ -139,10 +139,10 @@
   content: "";
   position: absolute; left: 0px; top: 100%;
   z-index: -1;
-  border-left: 3px solid #DE8704;
+  border-left: 3px solid #4E2700;
   border-right: 3px solid transparent;
   border-bottom: 3px solid transparent;
-  border-top: 3px solid #DE8704;
+  border-top: 3px solid #4E2700;
 }
 
 .ribbon2 span::after {
@@ -150,7 +150,7 @@
   position: absolute; right: 0px; top: 100%;
   z-index: -1;
   border-left: 3px solid transparent;
-  border-right: 3px solid #DE8704;
+  border-right: 3px solid #4E2700;
   border-bottom: 3px solid transparent;
-  border-top: 3px solid #DE8704;
+  border-top: 3px solid #4E2700;
 }
