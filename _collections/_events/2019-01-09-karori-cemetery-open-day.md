@@ -7,7 +7,7 @@ description: "Friends of Karori Cemetery will be hosting visitors keen to
   about many of the interesting and influential people buried since 1891. "
 img: /assets/uploaded/friends-of-karori-cemetery-wellington-heritage-week-min.png
 event_date: 11am-4pm Sun 3 Nov
-featured: true
+featured: false
 host:
   blurb: The Friends of Karori Cemetery advocate for and develop the heritage and
     ecological values of Karori Cemetery, and assist with grave/plot
