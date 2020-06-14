@@ -2,21 +2,20 @@
 layout: post
 title: Karori Cemetery Open Day
 location: Wellington City
-description: >-
-  Friends of Karori Cemetery will be hosting visitors keen to explore and learn
-  more about the second largest cemetery of New Zealand, and about many of the
-  interesting and influential people buried since 1891. 
+description: "Friends of Karori Cemetery will be hosting visitors keen to
+  explore and learn more about the second largest cemetery of New Zealand, and
+  about many of the interesting and influential people buried since 1891. "
 img: /assets/uploaded/friends-of-karori-cemetery-wellington-heritage-week-min.png
 event_date: 11am-4pm Sun 3 Nov
+featured: true
 host:
-  blurb: >-
-    The Friends of Karori Cemetery advocate for and develop the heritage and
+  blurb: The Friends of Karori Cemetery advocate for and develop the heritage and
     ecological values of Karori Cemetery, and assist with grave/plot
     restoration.
   email: friendskaroricemetery@gmail.com
   name: Friends of Karori Cemetery
-  phone: '021 673 640 '
-  website: 'https://www.facebook.com/friendsofkaroricemetery/'
+  phone: "021 673 640 "
+  website: https://www.facebook.com/friendsofkaroricemetery/
 tag:
   - Sunday 3 Nov
 ---
