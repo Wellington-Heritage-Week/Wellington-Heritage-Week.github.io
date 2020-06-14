@@ -1,114 +1,131 @@
+{% for event in site.events %}
+    {% if event.featured == true %}
+        <a href="{{event.url | prepend: site.baseurl}}" class="featured-link">
+            <div class="featured-card">
+                <div class="feature-img">
+                    <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+                </div>
+                <div class="feature-details">
+                    <h2>{{event.title}}</h2>
+                    <p>{{ event.content }}</p>
+                </div>
+            </div>
+        </a>
+    {% endif %}
+{% endfor %}
+
+
+<div class="section-title">
+    <h1>Events:</h1>
+    <div class="filter-bar" style="text-align: right">
+        <p>Search for Events:
+            <select class="location"></select>
+            <select class="tag"></select>
+        </p>
+    </div>
+</div>
+{% for event in site.events %}
+    {% if event.featured == Nil or event.featured == false %}
+    <div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}"
+         data-location="{{ event.location }}">
+        <a href="{{event.url | prepend: site.baseurl}}">
+            {% if event.img %}
+            <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+            {% endif %}
+            <div class="chapter_inner">
+                <h3 class="chapter_title">{{event.title}}</h3>
+                <p class="chapter_number">{{event.event_date}}</p>
+            </div>
+            {% if event.booked_out %}
+            <div class="ribbon"><span>Sold Out</span></div>
+            {% endif %}
+            {% if event.book_promotion %}
+            <div class="ribbon2"><span>Book Promotion</span></div>
+            {% endif %}
+        </a>
+    </div>
+    {% endif %}
+{% endfor %}
 <script>
-    window.addEventListener('load', function () {
-      let eventCards = document.getElementsByClassName('event-card');
-      let tagMap = {
+    let eventCards = document.getElementsByClassName('event-card');
+    let tagMap = {
         'All Dates': Array.from(eventCards)
-      }, locationMap = {
+    }, locationMap = {
         'All Locations': Array.from(eventCards)
-      };
-      for (let a = 0; a < eventCards.length; a++) {
+    };
+    for (let a = 0; a < eventCards.length; a++) {
         let location = eventCards[a].getAttribute('data-location') || 'Unknown Location';
         let tags = eventCards[a].getAttribute('data-tags');
 
         if (!locationMap[location]) {
-          locationMap[location] = [];
+            locationMap[location] = [];
         }
         locationMap[location].push(eventCards[a]);
 
         if (!tags) {
-          continue;
+            continue;
         }
         tags = tags.split(',');
-        for (let b = 0;b < tags.length; b++) {
-          if (tags[b]) {
-            if (!tagMap[tags[b]]) {
-              tagMap[tags[b]] = [];
+        for (let b = 0; b < tags.length; b++) {
+            if (tags[b]) {
+                if (!tagMap[tags[b]]) {
+                    tagMap[tags[b]] = [];
+                }
+                tagMap[tags[b]].push(eventCards[a]);
             }
-            tagMap[tags[b]].push(eventCards[a]);
-          }
         }
-      }
+    }
 
-      let locationSelector = document.querySelector('select.location');
-      let tagSelector = document.querySelector('select.tag');
+    let locationSelector = document.querySelector('select.location');
+    let tagSelector = document.querySelector('select.tag');
 
-      for (let tag in tagMap) {
+    for (let tag in tagMap) {
         if (!tagMap.hasOwnProperty(tag)) {
-          continue;
+            continue;
         }
         let option = document.createElement('option');
         option.text = tag;
         option.value = tag;
         tagSelector.add(option);
-      }
+    }
 
-      for (let location in locationMap) {
+    for (let location in locationMap) {
         if (!locationMap.hasOwnProperty(location)) {
-          continue;
+            continue;
         }
         let option = document.createElement('option');
         option.text = location;
         option.value = location;
         locationSelector.add(option);
-      }
+    }
 
-      tagSelector.selectedIndex = localStorage.getItem('selectedTagIndex') || 0;
-      locationSelector.selectedIndex = localStorage.getItem('selectedLocationIndex') || 0;
+    tagSelector.selectedIndex = localStorage.getItem('selectedTagIndex') || 0;
+    locationSelector.selectedIndex = localStorage.getItem('selectedLocationIndex') || 0;
 
-      let selectedTag = tagSelector.selectedOptions[0].text;
-      let selectedLocation = locationSelector.selectedOptions[0].text;
+    let selectedTag = tagSelector.selectedOptions[0].text;
+    let selectedLocation = locationSelector.selectedOptions[0].text;
 
-      updateEvents();
+    updateEvents();
 
-      tagSelector.addEventListener('change', function () {
+    tagSelector.addEventListener('change', function () {
         localStorage.setItem('selectedTagIndex', tagSelector.selectedIndex);
         selectedTag = tagSelector.selectedOptions[0].text;
         updateEvents();
-      });
+    });
 
-      locationSelector.addEventListener('change', function () {
+    locationSelector.addEventListener('change', function () {
         localStorage.setItem('selectedLocationIndex', locationSelector.selectedIndex);
         selectedLocation = locationSelector.selectedOptions[0].text;
         updateEvents();
-      });
-
-      function updateEvents() {
-        for (let a = 0;a < eventCards.length; a++) {
-          if (tagMap[selectedTag].indexOf(eventCards[a]) !== -1 && locationMap[selectedLocation].indexOf(eventCards[a]) !== -1) {
-            eventCards[a].style.display = '';
-          } else {
-            eventCards[a].style.display = 'none';
-          }
-        }
-      }
-
     });
+
+    function updateEvents() {
+        for (let a = 0; a < eventCards.length; a++) {
+            if (tagMap[selectedTag].indexOf(eventCards[a]) !== -1 && locationMap[selectedLocation].indexOf(eventCards[a]) !== -1) {
+                eventCards[a].style.display = '';
+            } else {
+                eventCards[a].style.display = 'none';
+            }
+        }
+    }
 </script>
-<div class="section-title">
-    <h1>Events:</h1>
-    <div class="filter-bar" style="text-align: right">
-        <p>Search for Events:
-        <select class="location"></select>
-        <select class="tag"></select>
-        </p>
-    </div>
-</div>
-{% for event in site.events %}
-<div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}" data-location="{{ event.location }}">
-    <a href="{{event.url | prepend: site.baseurl}}">
-        {% if event.img %}
-        <img src={{site.baseurl}}{{ event.img }} alt="{{event.title}}">
-        {% endif %}
-        <div class="chapter_inner">
-            <h3 class="chapter_title">{{event.title}}</h3>
-            <p class="chapter_number">{{event.event_date}}</p>
-        </div>
-        {% if event.booked_out %}
-        <div class="ribbon"><span>Sold Out</span></div>
-        {% endif %}
-        {% if event.book_promotion %}
-        <div class="ribbon2"><span>Book Promotion</span></div>
-        {% endif %}
-    </a>
-</div>
-{% endfor %}

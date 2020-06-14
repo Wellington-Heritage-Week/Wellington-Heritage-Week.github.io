@@ -22,6 +22,7 @@ collections:
       - {required: false, label: "Event date", name: "event_date", widget: "string"}
       - {required: false, label: "Sold Out", name: "booked_out", widget: "boolean"}
       - {required: false, label: "Book Promotion", name: "book_promotion", widget: "boolean"}
+      - {required: false, label: "Featured", name: "featured", widget: "boolean"}
       - label: "Host information"
         name: "host"
         widget: "object"
