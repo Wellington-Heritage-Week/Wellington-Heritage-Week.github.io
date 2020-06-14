@@ -8,14 +8,14 @@ description: >
    remaining and long-gone heritage through augmented reality!
 img: /assets/uploaded/hiamo_header_update.jpg
 event_date: 1pm Sat 2 & Sun 3 Nov
+featured: true
 host:
-  blurb: >-
-    Hiamo is a Wellington-based start-up using augmented reality technology to
-    bring historic sites to life! Founded during Te Papa’s business accelerator
-    programme, Mahuki, Hiamo aims to connect people with the past by bringing
-    back long-gone objects, people, and more.
+  blurb: Hiamo is a Wellington-based start-up using augmented reality technology
+    to bring historic sites to life! Founded during Te Papa’s business
+    accelerator programme, Mahuki, Hiamo aims to connect people with the past by
+    bringing back long-gone objects, people, and more.
   email: contact@hiamo.nz
-  image: ''
+  image: ""
   name: Hiamo
   phone: 027 860 9129
   website: www.hiamo.nz
