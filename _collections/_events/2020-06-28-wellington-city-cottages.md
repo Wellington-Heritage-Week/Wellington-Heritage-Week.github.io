@@ -8,7 +8,7 @@ description: Wellington City Accommodation offers renovated heritage-listed
 img: /assets/uploaded/cottage-street-view.jpg
 hotel: true
 hotel_text: "Stay in renovated 1880s built cottages in near vibrant Cuba Street,
-  Wellington.Wellington City Accommodation offers renovated heritage-listed
+  Wellington. Wellington City Accommodation offers renovated heritage-listed
   cottages within easy walking distance to all key attractions. The cottages
   were constructed by Kate Tonks to house workers at the nearby brick
   factory.   Each cottage comprises:  * a Queen bed, with the optional of two
@@ -48,7 +48,5 @@ A single rollaway bed is available on request through our 'extras' booking scree
 Short stay or long stay. Weekly servicing. Ideal for singles, couples or small family groups.
 
 **Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.**
-
-Wellington City Accommodation is a proud kiwi-owned family business offering boutique lodging in central Wellington within easy walking distance to all key attractions.
 
 [Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)
