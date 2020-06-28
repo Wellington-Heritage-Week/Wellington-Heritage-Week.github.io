@@ -11,13 +11,12 @@ hotel_text: "Stay in renovated 1880s built cottages in near vibrant Cuba Street,
   Wellington. Wellington City Accommodation offers renovated heritage-listed
   cottages within easy walking distance to all key attractions. The cottages
   were constructed by Kate Tonks to house workers at the nearby brick
-  factory.   Each cottage comprises:  * a Queen bed, with the optional of two
-  additional guests via a double sofa bed; * A full kitchen with a mircowave,
+  factory.   Each cottage comprises: a Queen bed, with the optional of two
+  additional guests via a double sofa bed; a full kitchen with a mircowave,
   stovetop, Nespresso machine and dishwasher plus crockery, cutlery and
-  glassware; * A modern bathroom with a great shower with all linen, towels and
-  toiletries supplied; * A heat and air conditioning pump and double-glazing;  *
-  A laundry, washer, and dryer; * Free Wifi; and * A free single car parking."
-availability_text: Short Stay & Long Stay
+  glassware, a modern bathroom with a great shower, free Wifi, and free single
+  car parking, and more. "
+availability_text: $70 - $150 per night
 host:
   blurb: Wellington City Accommodation is a proud kiwi-owned family business
     offering boutique lodging in central Wellington within easy walking distance
