@@ -49,4 +49,4 @@ Short stay or long stay. Weekly servicing. Ideal for singles, couples or small f
 
 **Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.**
 
-[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)
+**[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)**
