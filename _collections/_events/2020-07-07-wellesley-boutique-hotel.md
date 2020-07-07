@@ -10,10 +10,10 @@ hotel_text: >-
   Wellington.
 
 
-  The building was completed in 1929 and is one of the finest examples of neo-Georgian architecture in Wellington. The Wellesley Club, an establishment that has been important to the social and business life of the capital city for over 100 years.
+  The building was completed in 1929 and is one of the finest examples of neo-Georgian architecture in Wellington. The Wellesley Club has been important to the social and business life of the capital city for over 100 years.
 
 
-  Perfect for heritage escape in the central Wellington.
+  Perfect for a heritage escape in the heart of the city.
 availability_text: Rooms from $202 per night
 host:
   email: reception@wellesleyboutiquehotel.co.nz
