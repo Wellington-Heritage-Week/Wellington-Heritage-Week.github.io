@@ -3,7 +3,7 @@ layout: post
 title: "Bolton Hotel: Rita Angus Galleries"
 location: Wellington City
 description: ""
-img: /assets/uploaded/promo-image.jpg
+img: /assets/uploaded/bolton-hotel-image-2.jpg
 event_date: Rooms from $199 per night
 hotel: true
 hotel_text: >-
