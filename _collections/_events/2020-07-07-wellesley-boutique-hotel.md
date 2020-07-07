@@ -35,6 +35,8 @@ The Wellesley Boutique Hotel began in 1891 when 150 prominent citizens of Wellin
 
 Book direct with the hotel to save 10% off the elsewhere listed price.
 
+Perfect for a heritage escape in the heart of the city.
+
 <br>
 
 *Car parking is not available but you can purchase a 24-hour parking voucher for the local car park building.*
