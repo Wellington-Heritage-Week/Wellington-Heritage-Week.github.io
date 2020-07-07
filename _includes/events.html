@@ -33,7 +33,7 @@
     </div>
 </div>
 {% for event in site.events %}
-    {% if event.featured == Nil or event.featured == false %}
+    {% if event.hotel == Nil or event.hotel == false %}
     <div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}"
          data-location="{{ event.location }}">
         <a href="{{event.url | prepend: site.baseurl}}">
