@@ -32,6 +32,8 @@ tag:
 
 Wellington City Accommodation offers renovated heritage-listed cottages within easy walking distance to all key attractions. The cottages were constructed by Kate Tonks to house workers at the nearby brick factory. 
 
+Each original building was constructed in the 1880s and was moved to allow construction of the inner-city bypass in 2005. They now have inside bathrooms, double glazing, wifi and central heating - but retain their historic charm.
+
 Each cottage comprises:
 
 * a Queen bed, with the optional of two additional guests via a double sofa bed;
@@ -46,6 +48,8 @@ A single rollaway bed is available on request through our 'extras' booking scree
 
 Short stay or long stay. Weekly servicing. Ideal for singles, couples or small family groups.
 
-**Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.**
+Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.
+
+**Cottages from $70 per night.**
 
 **[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)**
