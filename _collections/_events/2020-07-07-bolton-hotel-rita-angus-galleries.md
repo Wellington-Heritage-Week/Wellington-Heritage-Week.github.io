@@ -14,7 +14,7 @@ hotel_text: >-
   Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries.
 
 
-  Each room is perfect for couples, business travelers, and heritage explorers.
+  Each room is perfect for couples, business travellers, and heritage explorers.
 availability_text: Rooms from $199 per night
 host:
   blurb: Family owned and operated and just steps from Parliament and central
