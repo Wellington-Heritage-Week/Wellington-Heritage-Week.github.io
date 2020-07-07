@@ -44,4 +44,4 @@ Each room includes a queen size bed, work desk with iPad mini, tea and coffee ma
 
 **Rooms from $199 per night.** 
 
-[Click Here to Book](https://boltonhotel.lpages.co/bolton-hotel-wellington-heritage-week/)
+**[Click Here to Book](https://boltonhotel.lpages.co/bolton-hotel-wellington-heritage-week/)**
