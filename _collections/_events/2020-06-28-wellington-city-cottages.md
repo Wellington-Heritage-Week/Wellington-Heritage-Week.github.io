@@ -46,6 +46,8 @@ A single rollaway bed is available on request through our 'extras' booking scree
 
 Short stay or long stay. Weekly servicing. Ideal for singles, couples or small family groups.
 
-**Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.**
+Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.
+
+**Cottages from $70 per night.**
 
 **[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)**
