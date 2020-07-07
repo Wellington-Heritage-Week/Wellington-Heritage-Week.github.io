@@ -24,7 +24,7 @@ collections:
       - {required: false, label: "Book Promotion", name: "book_promotion", widget: "boolean"}
       - {required: false, label: "Hotel", name: "hotel", widget: "boolean"}
       - {required: false, label: "Hotel summary", name: "hotel_text", widget: "markdown"}
-      - {required: false, label: "Hotel availability", name: "availability_text", widget: "string"}
+      - {required: false, label: "Hotel availability", name: "availability_text", widget: "markdown"}
       - label: "Host information"
         name: "host"
         widget: "object"

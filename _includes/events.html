@@ -11,9 +11,11 @@
                 </div>
                 <div class="hotel-details">
                     <h2>{{event.title}}</h2>
-                    <p class="hotel-text">{{ event.hotel_text }}</p>
+                    <div class="hotel-text">{{ event.hotel_text | markdownify}}</div>
                     <hr />
-                    <p>{{ event.availability_text }}</p>
+                    <div class="hotel-price">
+                        {{ event.availability_text | markdownify}}
+                    </div>
                 </div>
             </div>
         </a>
