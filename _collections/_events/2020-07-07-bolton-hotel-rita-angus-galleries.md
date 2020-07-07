@@ -12,6 +12,9 @@ hotel_text: >-
 
 
   Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries.
+
+
+  Each room is perfect for couples, business travelers, and heritage explorers.
 availability_text: Rooms from $199 per night
 host:
   blurb: Family owned and operated and just steps from Parliament and central
@@ -25,18 +28,20 @@ host:
 tag:
   - Wellington City
 ---
-**Stay amongst the Rita Angus Galleries at Wellington's Premier independent hotel.**
+**Stay amongst the Rita Angus Galleries at Wellington's Premier independent hotel and unlock 20% off our best available rate with the promo code *WHW20*.**
 
 Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries.
 
 Explore a huge selection of prints from one of New Zealand's most significant, respected and prolific artists over 14 floors of Wellington's premier independent hotel.
 
+Each room includes a queen size bed, work desk with iPad mini, tea and coffee making facilities, minibar and ensuite with shower.
 
+<br>
 
-**Book your heritage stay and unlock 20% off our best available rate with the promo code WHW20.**
+*Terms and Conditions: Discount can only be redeemed when booking direct on boltonhotel.co.nz.*
 
-**Terms and Conditions: Discount can only be redeemed when booking direct on boltonhotel.co.nz.**
+*Discount code is only valid on dates between 25/10/20 – 1/11/20 and on selected room types.*
 
-**Discount code is only valid on dates between 25/10/20 – 1/11/20 and on selected room types.**
+**Rooms from $199 per night.** 
 
 [Click Here to Book](https://boltonhotel.lpages.co/bolton-hotel-wellington-heritage-week/)
