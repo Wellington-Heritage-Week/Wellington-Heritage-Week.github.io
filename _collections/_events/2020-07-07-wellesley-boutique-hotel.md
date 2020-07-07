@@ -41,4 +41,6 @@ Perfect for a heritage escape in the heart of the city.
 
 *Car parking is not available but you can purchase a 24-hour parking voucher for the local car park building.*
 
+**Rooms from $202 per night.**
+
 [Click Here to Book](https://www.wellesleyboutiquehotel.co.nz/book-now)
