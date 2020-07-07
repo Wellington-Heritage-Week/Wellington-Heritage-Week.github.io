@@ -6,10 +6,12 @@ description: ""
 img: /assets/uploaded/promo-image.jpg
 event_date: Rooms from $199 per night
 hotel: true
-hotel_text: Stay amongst the Rita Angus Galleries at Wellington's Premier
-  independent hotel.  Owned and operated by the Angus family, Bolton Hotel, a
-  short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus
-  cottage is also home to the Rita Angus Galleries.
+hotel_text: >-
+  Stay amongst the Rita Angus Galleries at Wellington's Premier independent
+  hotel.  
+
+
+  Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries.
 availability_text: Rooms from $199 per night
 host:
   blurb: Family owned and operated and just steps from Parliament and central
