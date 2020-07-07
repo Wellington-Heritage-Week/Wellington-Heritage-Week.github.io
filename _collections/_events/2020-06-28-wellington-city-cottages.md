@@ -37,7 +37,7 @@ Each original building was constructed in the 1880s and was moved to allow const
 Each cottage comprises:
 
 * a Queen bed, with the optional of two additional guests via a double sofa bed;
-* A full kitchen with a mircowave, stovetop, Nespresso machine and dishwasher plus crockery, cutlery and glassware;
+* A full kitchen with a microwave, stovetop, Nespresso machine and dishwasher plus crockery, cutlery and glassware;
 * A modern bathroom with a great shower with all linen, towels and toiletries supplied;
 * A heat and air conditioning pump and double-glazing; 
 * A laundry, washer, and dryer;
@@ -48,7 +48,11 @@ A single rollaway bed is available on request through our 'extras' booking scree
 
 Short stay or long stay. Weekly servicing. Ideal for singles, couples or small family groups.
 
-Checkin 2pm and checkout 10am. Luggage storage-locker available outside these times.
+Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these times.
+
+<br>
+
+*Visit www.wellingtoncityaccommodation.co.nz for more information and images.* 
 
 **Cottages from $70 per night.**
 
