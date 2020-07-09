@@ -3,6 +3,6 @@ description: "Experience Wellington's people, places & stories during Wellington
   Heritage Week 2020 26 Oct - 1 Nov. "
 analytics: ""
 show_events: false
-show_hotel: false
+show_hotel: true
 banner-title: ""
 banner: /assets/uploaded/whw-logo-2020.jpg
