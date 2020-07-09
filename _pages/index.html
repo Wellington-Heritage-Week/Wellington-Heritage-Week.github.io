@@ -6,3 +6,7 @@ permalink: /index.html
 {% if site.data.settings.show_events %}
   {% include events.html %}
 {% endif %}
+
+{% if site.data.settings.show_hotel %}
+  {% include events.hotel.html %}
+{% endif %}
