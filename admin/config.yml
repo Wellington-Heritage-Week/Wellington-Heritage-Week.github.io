@@ -52,7 +52,7 @@ collections:
           - {required: false, label: "Site description (google search)", name: "description", widget: "text"}
           - {required: false, label: "Analytics tracking tag", name: "analytics", widget: "text"}
           - {required: false, label: "Show events", name: "show_events", widget: "boolean"}
-          - {required: false, label: "Show hotel", name: "show_hotel", widget: "boolean"}
+          - {required: false, label: "Show hotel", name: "show_event.hotel", widget: "boolean"}
           - {required: false, label: "Homepage title", name: "banner-title", widget: "text"}
           - {required: false, label: "Default social image (facebook etc..)", name: "banner", widget: "image"}
       - label: "Social media settings"
