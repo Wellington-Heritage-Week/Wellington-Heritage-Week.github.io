@@ -34,7 +34,7 @@ Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parlia
 
 Explore a huge selection of prints from one of New Zealand's most significant, respected and prolific artists over 14 floors of Wellington's premier independent hotel.
 
-Each room includes a queen size bed, work desk with iPad mini, tea and coffee making facilities, minibar and ensuite with shower.
+With a range of room types from stylish studios to spacious suites, all rooms feature an in-room iPad mini, tea and coffee making facilities, curated minibar, unlimited free WiFi, Sky TV and access to our fitness centre and heated lap pool.
 
 <br>
 
