@@ -41,7 +41,7 @@ collections:
         widget: "list"
         allow_add: false
         default: []
-   - name: "settings"
+  - name: "settings"
     label: "Settings"
     files:
       - label: "Site settings"
