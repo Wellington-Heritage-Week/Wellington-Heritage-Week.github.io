@@ -21,7 +21,7 @@ host:
   name: Wellesley Boutique Hote
   blurb: The Wellesley Boutique Hotel is a category 1 heritage building. Step back
     in time in our beautifully appointed hotel. With only 13 rooms you are made
-    to feel special
+    to feel special.
 tag:
   - Wellington City
 ---
