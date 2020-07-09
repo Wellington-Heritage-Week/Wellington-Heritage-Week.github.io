@@ -41,7 +41,7 @@ collections:
         widget: "list"
         allow_add: false
         default: []
-        - name: "events"
+  - name: "hotel"
     label: "hotel"
     folder: "_collections/_hotel/"
     create: true
