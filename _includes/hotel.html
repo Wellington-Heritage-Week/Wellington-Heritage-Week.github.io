@@ -1,1 +1,24 @@
 
+<div class="section-title">
+    <h1>Hotels:</h1>
+    <br />
+</div>
+{% for event in site.hotel %}
+    {% if hotel == true %}
+        <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
+            <div class="hotel-card">
+                <div class="hotel-img">
+                    <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+                </div>
+                <div class="hotel-details">
+                    <h2>{{event.title}}</h2>
+                    <div class="hotel-text">{{ event.hotel_text | markdownify}}</div>
+                    <hr />
+                    <div class="hotel-price">
+                        {{ event.availability_text | markdownify}}
+                    </div>
+                </div>
+            </div>
+        </a>
+    {% endif %}
+{% endfor %}
