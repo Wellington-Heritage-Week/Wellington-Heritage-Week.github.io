@@ -41,6 +41,39 @@ collections:
         widget: "list"
         allow_add: false
         default: []
+        - name: "events"
+    label: "hotel"
+    folder: "_collections/_hotel/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: true, label: "Location", name: "location", widget: "string", default: "Wellington City"}
+      - {required: false, label: "Short description (for facebook)", name: "description", widget: "text"}
+      - {required: false, label: "Image", name: "img", widget: "image"}
+      - {required: false, label: "Event date", name: "event_date", widget: "string"}
+      - {required: false, label: "Sold Out", name: "booked_out", widget: "boolean"}
+      - {required: false, label: "Book Promotion", name: "book_promotion", widget: "boolean"}
+      - {required: false, label: "Hotel", name: "hotel", widget: "boolean"}
+      - {required: false, label: "Hotel summary", name: "hotel_text", widget: "markdown"}
+      - {required: false, label: "Hotel availability", name: "availability_text", widget: "markdown"}
+      - label: "Host information"
+        name: "host"
+        widget: "object"
+        fields:
+          - {required: false, label: "Host image", name: "image", widget: "image"}
+          - {required: false, label: "Host name", name: "name", widget: "string"}
+          - {required: false, label: "Blurb", name: "blurb", widget: "string"}
+          - {required: false, label: "Email", name: "email", widget: "string"}
+          - {required: false, label: "Phone number", name: "phone", widget: "string"}
+          - {required: false, label: "Website (remember http://)", name: "website", widget: "string"}
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
+      - label: "Tags"
+        name: "tag"
+        widget: "list"
+        allow_add: false
+        default: []
   - name: "settings"
     label: "Settings"
     files:
