@@ -2,7 +2,7 @@
 layout: post
 title: Zealandia Heritage Walk and Talk
 location: Wellington City
-img: /assets/uploaded/zealandia.jpg
+img: /assets/uploaded/zealandia-2.jpg
 event_date: 12pm & 2pm Sat 31 Oct & Sun 1 Nov
 host:
   website: https://www.visitzealandia.com/
