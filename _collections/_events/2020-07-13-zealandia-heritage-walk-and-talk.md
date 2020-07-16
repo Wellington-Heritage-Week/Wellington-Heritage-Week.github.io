@@ -15,12 +15,13 @@ host:
 tag:
   - Wellington City
 ---
-**Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.**\
-\
-What should I wear? Dress to the conditions, with comfortable walking shoes, warm clothing and a waterproof layer just in case!\
-\
-What if the weather is bad on the day of my tour? We go out in just about all conditions, so be prepared! In very extreme circumstances we may call off a tour for safety reasons. If this happens to your tour we will let visitors know as soon as possible.\
-\
+**Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.**
+<br>
+
+What should I wear? Dress to the conditions, with comfortable walking shoes, warm clothing and a waterproof layer just in case
+
+What if the weather is bad on the day of my tour? We go out in just about all conditions, so be prepared! In very extreme circumstances we may call off a tour for safety reasons. If this happens to your tour we will let visitors know as soon as possible.
+
 Where do I meet the guide? The Walk and Talks start at 12pm and 2pm sharp. Please meet your guide inside the sanctuary at the Heritage Area.
 
 The Walk and Talks start at 12pm and 2pm sharp. Please meet your guide inside the sanctuary at the Heritage Area.
