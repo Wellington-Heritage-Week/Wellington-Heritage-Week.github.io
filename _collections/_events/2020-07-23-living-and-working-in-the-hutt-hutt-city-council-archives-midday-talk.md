@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living and Working in the Hutt: Hutt City Council Archives Midday Talk"
-location: Wellington City
+location: Lower Hutt
 img: /assets/uploaded/arch74120-1-wide.jpg
 event_date: 12pm-1pm Thurs 29 Oct
 host:
