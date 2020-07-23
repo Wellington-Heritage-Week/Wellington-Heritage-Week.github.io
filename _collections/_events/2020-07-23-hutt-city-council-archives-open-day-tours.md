@@ -23,12 +23,10 @@ The tours will run at 11 and 2 for around an hour.
 
 **Bookings are essential for the tours as spaces are limited. No booking is required to attend the open day.** 
 
-<br>
-
 **Location:** Hutt City Council Archives, Unit 6, Birchwood Complex, 487 Hutt Road
 
 **Cost:** Free
 
 **Contact:** Hutt City Archives, InformationManagementTeam@huttcity.govt.nz, 04 589 0460
 
-**Acccessbility:** Free parking is avaliable
+**Accessibility:** Free parking is avaliable
