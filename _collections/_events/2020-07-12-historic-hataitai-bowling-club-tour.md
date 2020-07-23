@@ -2,7 +2,7 @@
 layout: post
 title: Historic Hataitai Bowling Club Tour
 location: Wellington City
-img: /assets/uploaded/arch74120-1-wide.jpg
+img: /assets/uploaded/hatiatia-bowling-club-1.jpg
 event_date: 10am - 1pm Sat 31 Oct
 host:
   website: http://hataitai.org.nz/hataitai-bowling-club
