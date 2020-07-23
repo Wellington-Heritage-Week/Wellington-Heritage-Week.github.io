@@ -15,7 +15,7 @@ tag:
 ---
 **Do you live or work in the Hutt? Come along for a midday session at the Hutt City Council Archives to hear about a few of the prominent buildings in the Hutt and find out more about the material we have in the archives related to Lower Hutt city planning.** 
 
-The talk will be hosted by Hutt City Archives researchers and staff who will be happy to answer your questions and help with research queires. 
+The talk will be hosted by Hutt City Archives researchers and staff who will be happy to answer your questions and help with research queries. 
 
 Our archives hold the corporate memory of Council from its earliest beginnings, and the records of many Hutt-based Boards and Authorities.
 
