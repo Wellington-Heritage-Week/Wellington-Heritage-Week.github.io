@@ -15,8 +15,7 @@ host:
 tag:
   - Wellington City
 ---
-**Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.**
-<br>
+**Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.** <br>
 
 What should I wear? Dress to the conditions, with comfortable walking shoes, warm clothing and a waterproof layer just in case
 
@@ -28,7 +27,7 @@ The Walk and Talks start at 12pm and 2pm sharp. Please meet your guide inside th
 
 A perfect outing for all ages. 
 
-**Click here to book**
+**[Click here to book](https://www.eventfinda.co.nz/2020/zealandia-heritage-walk-and-talk/wellington)**
 
 <br>
 
