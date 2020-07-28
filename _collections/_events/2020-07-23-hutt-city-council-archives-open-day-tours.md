@@ -2,7 +2,7 @@
 layout: post
 title: Hutt City Council Archives Open Day & Tours
 location: Lower Hutt
-img: /assets/uploaded/hcc-archives-stack-2020-1.jpg
+img: /assets/uploaded/arch74120-1-wide.jpg
 event_date: 10am-3pm Sun 1 Nov
 host:
   phone: 04 589 0460
