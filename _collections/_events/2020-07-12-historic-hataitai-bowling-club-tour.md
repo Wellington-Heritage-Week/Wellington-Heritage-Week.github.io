@@ -12,7 +12,7 @@ host:
   blurb: The historic Hataitai Bowling Club rooms and bowling green are owned by
     the Hataitai community and are available for all kinds of community events.
 tag:
-  - Wellington City
+  - Sat 31 Oct
 ---
 **Craig Harbour, one of the few remaining bowlers from the Former Hataitai Bowling Club will give guided tours around the building and grounds. He will share stories of the history of this place in Hataitai and its new journey as a community and city facility which was recently renamed The Hataitai Centre and Village Green.**
 
