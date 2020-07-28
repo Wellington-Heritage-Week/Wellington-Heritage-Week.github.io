@@ -2,7 +2,7 @@
 layout: post
 title: "Meet a Heritage Icon: Old St Paul’s"
 location: Wellington City
-img: /assets/uploaded/old-st-paul-inside.jpg
+img: /assets/uploaded/old-st-paul-inside-1.jpg
 event_date: 11am-2pm Sun 1 Nov
 host:
   email: ospcoordinator@heritage.org.nz
