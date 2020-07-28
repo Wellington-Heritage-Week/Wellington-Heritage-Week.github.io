@@ -2,7 +2,7 @@
 layout: post
 title: Modern Wellington Walking Tour
 location: Wellington City
-img: /assets/uploaded/mod-wgtn-tour-image.jpg
+img: /assets/uploaded/mod-wgtn-tour-image-2.jpg
 event_date: 1pm Sun 1 Nov
 host:
   email: infocentral@heritage.org.nz
