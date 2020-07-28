@@ -16,7 +16,7 @@ host:
     environmental and economic benefits to our country, and awareness of its
     importance to national identity. "
 tag:
-  - Wellington City
+  - Tues 27 Oct
 ---
 **Have you ever wondered about what lies beneath our city? Here’s your chance to take a walk through central Wellington with an experienced archaeologist!** 
 
