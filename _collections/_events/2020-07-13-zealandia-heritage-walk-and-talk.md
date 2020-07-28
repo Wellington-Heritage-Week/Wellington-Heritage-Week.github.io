@@ -13,7 +13,7 @@ host:
   email: info@visitzealandia.com
   phone: 04 920 9213
 tag:
-  - Wellington City
+  - Sat 31 Oct
 ---
 **Join one of ZEALANDIA’s experienced guides on an engaging and informative walk through the picturesque sanctuary to learn more about its unique heritage and uses over time - from goldmines to reservoirs.** <br>
 
