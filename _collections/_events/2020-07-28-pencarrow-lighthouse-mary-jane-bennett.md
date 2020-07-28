@@ -14,7 +14,7 @@ host:
   email: infocentral@heritage.org.nz
   phone: 04 949 8320
 tag:
-  - Lower Hutt
+  - Sat 31 Oct
 ---
 **After the death of her husband in 1855, Mary Jane Bennett kept the light burning at Pencarrow Lighthouse, on top of caring for five children with another on the way. She was the first keeper of a permanent lighthouse, and the only woman to ever hold this position in Aotearoa.** 
 
