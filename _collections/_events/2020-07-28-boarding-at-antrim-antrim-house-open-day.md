@@ -26,6 +26,8 @@ These young men came from many different backgrounds. Some were fresh off the bo
 
 Online material and a tour have been developed from records, images and interviews with Antrim Old Boys. Come along and learn what life was like for the diverse group of Antrim House boarders.
 
+*Antrim event photo credit Grant Sheehan.*
+
 <br>
 
 **Location:** 63 Boulcott Street, Wellington
