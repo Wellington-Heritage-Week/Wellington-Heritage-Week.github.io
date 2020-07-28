@@ -30,7 +30,11 @@ Please specify whether you are interested in the public or schools tour. Each to
 
 Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop window). The tour finished at the PWC building on the waterfront, near the railway station.
 
+
+
 <br>
+
+**Booking is required**
 
 **Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa  shop window
 
