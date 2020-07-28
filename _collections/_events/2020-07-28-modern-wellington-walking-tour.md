@@ -14,7 +14,7 @@ host:
     identity. "
   name: Heritage New Zealand Central Region
 tag:
-  - Wellington City
+  - Sun 1 Nov
 ---
 **Hear the stories of Wellington’s important mid- to late-twentieth century buildings, structures and places on the Modern Wellington Walking Tour. We’ll explore the huge changes, culture shifts and controversies created by all that concrete, steel and glass!** 
 
