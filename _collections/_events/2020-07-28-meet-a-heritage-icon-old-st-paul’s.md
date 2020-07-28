@@ -14,7 +14,7 @@ host:
     identity. "
   name: Heritage New Zealand Central Region
 tag:
-  - Wellington City
+  - Sun 1 Nov
 ---
 **Wellington’s Old St Paul’s is a heritage gem. A notable example of timber Gothic Revival architecture, the 1866 former Anglican pro-cathedral’s soaring timber arches and glowing stained glass are a sight to behold. Old St Paul’s recently reopened after a year-long earthquake strengthening project, and is ready to face the next 150 years!** 
 
