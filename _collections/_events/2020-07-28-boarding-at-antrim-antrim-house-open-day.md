@@ -30,7 +30,7 @@ Online material and a tour have been developed from records, images and intervie
 
 <br>
 
-No booking is required
+**No booking is required**
 
 **Location:** 63 Boulcott Street, Wellington
 
