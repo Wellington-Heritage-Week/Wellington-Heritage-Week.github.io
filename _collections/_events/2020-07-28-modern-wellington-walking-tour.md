@@ -26,7 +26,9 @@ Book by emailing: infocentral@heritage.org.nz. Please be sure to specify you wan
 
 The tour will take approximately 1.5 hours, so comfortable walking shoes and weather appropriate clothing/protection is essential.
 
-**Booking is required** <br> 
+<br> 
+
+**Booking is required** 
 
 **Location:** Tour starts from the northern (Hunter/Featherston Street) end of the Old Bank Arcade 
 
