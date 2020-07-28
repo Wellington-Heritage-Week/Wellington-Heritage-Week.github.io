@@ -12,7 +12,7 @@ host:
     the building, and to make it available on a regulated basis to the public
     now and into the future.
 tag:
-  - Wellington City
+  - Sun 1 Nov
 ---
 **Join Ron Brownson, Senior Curator New Zealand and Pacific Art at Auckland Art Gallery Toi o Tāmaki, in a talk on the work of sculptor Jim Allen in Futuna Chapel. Jim's work includes the Christ carving, the coloured perspex windows, the stations of the cross and the light modulators over the entry doors.**  
 
