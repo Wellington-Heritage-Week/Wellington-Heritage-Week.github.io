@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pencarrow Lighthouse: Mary Jane Bennett"
+title: "Pencarrow Lighthouse Tour: Mary Jane Bennett"
 location: Lower Hutt
 img: /assets/uploaded/pencarrow-tour-image.jpg
 event_date: 12:30pm Sat 31 Oct
