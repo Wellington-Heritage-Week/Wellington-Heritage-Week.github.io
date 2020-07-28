@@ -2,7 +2,7 @@
 layout: post
 title: "Boarding at Antrim: Antrim House Open Day"
 location: Wellington City
-img: /assets/uploaded/antrim-event-photo-credit-grant-sheehan.jpg
+img: /assets/uploaded/antrim-house-whw20.jpg
 event_date: 11am-3pm Mon 26 Oct
 host:
   email: infocentral@heritage.org.nz
