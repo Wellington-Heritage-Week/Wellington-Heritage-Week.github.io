@@ -20,7 +20,7 @@ tag:
 ---
 **Have you ever wondered about what lies beneath our city? Here’s your chance to take a walk through central Wellington with an experienced archaeologist!** 
 
-On this walking tour Mary O’Keeffe will tell us what archaeological investigations have revealed about our city. 
+On this walking tour, Mary O’Keeffe will tell us what archaeological investigations have revealed about our city. 
 
 Two tours are on offer, starting from outside Te Papa’s shop window: a tour for the general public is on Tuesday 27 October at 10am; and there is a schools tour on Wednesday 28 October, at 10am. 
 
@@ -35,6 +35,8 @@ Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop
 **Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa  shop window
 
 **Cost:** Free
+
+**Duration:** 1.5 hours
 
 **Contact:** dwatt@heritage.org.nz, 04 494 8322 and 021 2466 339
 
