@@ -11,7 +11,7 @@ host:
   blurb: "Hutt City Council Archives are a rich source of local history. Discover
     what we store and how to access it. "
 tag:
-  - Lower Hutt
+  - Thurs 29 Oct
 ---
 **Do you live or work in the Hutt? Come along for a midday session at the Hutt City Council Archives to hear about a few of the prominent buildings in the Hutt and find out more about the material we have in the archives related to Lower Hutt city planning.** 
 
