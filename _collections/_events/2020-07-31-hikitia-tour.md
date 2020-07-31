@@ -7,7 +7,7 @@ event_date: 10am - 12pm Sat 31 Oct
 host:
   email: maritimeheritagetrust@gmail.com
   phone: 021 618 402
-  website: http://www.maanz.org.nz/
+  website: http://hikitia.nz/
   name: Maritime Archaeology Association of New Zealand (MAANZ)
   blurb: MAANZ role is to provide a voice for our maritime heritage in the areas
     of research, community awareness and in the promotion of appropriate site
@@ -23,11 +23,15 @@ Built and manned by volunteers since 1997 the Lab produces museum standard conse
 
 The tour will commence with a briefing, followed by a walk around the ship including viewing the Conservation Laboratory. Tours take about 60 to 90 mins.
 
+**Participants must book their place on the tour by emailing  ​maritimeheritagetrust@gmail.com​ by 5pm on Friday 30 October 2020.** 
+
+Tour groups will be a maximum of 10 people.
+
 *Image by [theotherphotoguy ](https://www.instagram.com/theotherphotoguy/)on Instagram.*
 
 <br>
 
-**No booking is required**
+**Booking is required**
 
 **Location:** Taranaki Street Wharf
 
