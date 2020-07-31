@@ -23,9 +23,7 @@ Built and manned by volunteers since 1997 the Lab produces museum standard conse
 
 The tour will commence with a briefing, followed by a walk around the ship including viewing the Conservation Laboratory. Tours take about 60 to 90 mins.
 
-**Participants must book their place on the tour by emailing  ​maritimeheritagetrust@gmail.com​ by 5pm on Friday 30 October 2020.** 
-
-Tour groups will be a maximum of 10 people.
+**Participants must book their place on the tour by emailing  ​maritimeheritagetrust@gmail.com​ by 5pm on Friday 30 October 2020. Limited to 10 people** 
 
 *Image by [theotherphotoguy ](https://www.instagram.com/theotherphotoguy/)on Instagram.*
 
