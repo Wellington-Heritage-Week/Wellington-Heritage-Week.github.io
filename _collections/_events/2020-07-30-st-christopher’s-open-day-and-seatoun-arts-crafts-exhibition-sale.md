@@ -1,8 +1,8 @@
 ---
 layout: post
-title: St Christopher’s Open Day & Seatoun Arts & Crafts Exhibition & Sale
+title: St Christopher’s Open Day & Crafts Sale
 location: Wellington City
-img: /assets/uploaded/st-christophers.jpeg
+img: /assets/uploaded/church2020-1-.jpg
 event_date: 10am - 4pm Sat 31 Oct & Sun 1 Nov
 host:
   email: seatounvillagehall@gmail.com
