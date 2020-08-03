@@ -42,4 +42,4 @@ Tour runs: 12pm and 2pm To book, contact us at ospcoordinator@heritage.org.nz.
 
 **Contact:** ospcoordinator@heritage.org.nz, 04 473 6722
 
-**Accessibility:** Wheelchair access is avaliable
+**Accessibility:** Wheelchair access to most areas of the building.
