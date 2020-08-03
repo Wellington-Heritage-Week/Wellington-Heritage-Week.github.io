@@ -34,12 +34,12 @@ Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop
 
 **Booking is required**
 
-**Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa  shop window
+**Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop window)
 
 **Cost:** Free
 
 **Duration:** 1.5 hours
 
-**Contact:** dwatt@heritage.org.nz, 04 494 8322 and 021 2466 339
+**Contact:** dwatt@heritage.org.nz, 04 494 8322 and 027 2466 339
 
 **Accessibility:** Comfortable walking shoes and weather appropriate clothing/protection is essential.
