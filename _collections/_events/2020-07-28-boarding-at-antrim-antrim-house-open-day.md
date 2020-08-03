@@ -38,4 +38,4 @@ Online material and a tour have been developed from records, images and intervie
 
 **Contact:** infocentral@heritage.org.nz, 04 494 8320
 
-**Accessibility:** Accessible entrance available at the rear of the building but no accessible access to upper floors
+**Accessibility:** Rear entrance is accessible. Upper floor accessible only by stair.
