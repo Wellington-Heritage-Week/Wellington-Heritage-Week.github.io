@@ -18,7 +18,7 @@ tag:
 ---
 **Wellington’s Old St Paul’s is a heritage gem. A notable example of timber Gothic Revival architecture, the 1866 former Anglican pro-cathedral’s soaring timber arches and glowing stained glass are a sight to behold. Old St Paul’s recently reopened after a year-long earthquake strengthening project, and is ready to face the next 150 years!** 
 
-Get to know this special building by joining us for a guided tour (booking is essential). Choose from two tour options:  
+Get to know this special building by joining us for a guided tour. Booking is essential and you will need to specify which tour you are interested in when you contact us. Choose from two tour options:
 
 **Meet a Heritage Icon** 
 
@@ -30,8 +30,6 @@ An exploration of Old St Paul’s beautiful stained glass windows, each of which
 
 Tour runs: 12pm and 2pm To book, contact us at ospcoordinator@heritage.org.nz.
 
- *Remember to specify when you book*
-
 <br>
 
 **Booking is required**
@@ -40,11 +38,8 @@ Tour runs: 12pm and 2pm To book, contact us at ospcoordinator@heritage.org.nz.
 
 **Cost:** Free
 
-
 **Duration:** 30min tours
-
 
 **Contact:** ospcoordinator@heritage.org.nz, 04 473 6722
 
-
-**Accessibility:** Wheelchair access is avaliable
+**Accessibility:** Wheelchair access to most areas of the building.
