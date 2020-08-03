@@ -2,7 +2,7 @@
 layout: post
 title: "Pencarrow Lighthouse Tour: Mary Jane Bennett"
 location: Lower Hutt
-img: /assets/uploaded/pencarrow-tour-image.jpg
+img: /assets/uploaded/pencarrow-tour-image-2020.jpg
 event_date: 12:30pm Sat 31 Oct
 host:
   name: Heritage New Zealand Central Region
