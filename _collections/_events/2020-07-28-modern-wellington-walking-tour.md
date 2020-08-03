@@ -6,7 +6,7 @@ img: /assets/uploaded/mod-wgtn-tour-image-2.jpg
 event_date: 1pm Sun 1 Nov
 host:
   email: infocentral@heritage.org.nz
-  phone: 04 949 8320
+  phone: 04 494 8320
   blurb: "Heritage New Zealand Pouhere Taonga is the leading national historic
     heritage agency. We operate in an environment marked by a growing interest
     in heritage, recognition of its social, cultural, environmental and economic
@@ -36,6 +36,6 @@ The tour will take approximately 1.5 hours, so comfortable walking shoes and wea
 
 **Duration:** 1.5 hours
 
-**Contact:** infocentral@heritage.org.nz, 04 949 8320
+**Contact:** infocentral@heritage.org.nz, 04 494 8320
 
 **Accessibility:** Comfortable walking shoes and weather appropriate clothing/protection is essential.
