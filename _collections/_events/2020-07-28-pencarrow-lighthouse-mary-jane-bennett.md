@@ -28,7 +28,7 @@ Please book by emailing infocentral@heritage.org.nz and specifying you are inter
 
 Your booking will also get you a special discount on bike or eBike hire.
 
-<br>
+<br> 
 
 **Booking is required**
 
