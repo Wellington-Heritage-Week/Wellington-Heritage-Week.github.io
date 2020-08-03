@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pencarrow Lighthouse Tour: Mary Jane Bennett"
+title: "Pencarrow Lighthouse: Talk and Cycle Trip"
 location: Lower Hutt
 img: /assets/uploaded/pencarrow-tour-image-2020.jpg
 event_date: 12:30pm Sat 31 Oct
@@ -12,7 +12,7 @@ host:
     benefits to our country, and awareness of its importance to national
     identity.
   email: infocentral@heritage.org.nz
-  phone: 04 949 8320
+  phone: 04 494 8320
 tag:
   - Sat 31 Oct
 ---
@@ -38,6 +38,6 @@ Your booking will also get you a special discount on bike or eBike hire.
 
 **Duration:** 2.5 hours
 
-**Contact:** infocentral@heritage.org.nz, 04 949 8320
+**Contact:** infocentral@heritage.org.nz, 04 494 8320
 
-**Accessibility:** The event requires cycling along an unsealed track.
+**Accessibility:** Eastbourne Library is fully accessible. The cycling trip is on a gravel track along an exposed coastline.
