@@ -36,4 +36,4 @@ You can find out more about the Blockhouse’s story and location on Heritage Ne
 
 **Contact:** infocentral@heritage.org.nz, 04 494 8320
 
-**Accessibility:** No wheelchair access
+**Accessibility:** Small step at entrance. Upper floor accessible only by stair.
