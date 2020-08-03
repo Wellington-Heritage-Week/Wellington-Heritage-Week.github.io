@@ -22,7 +22,7 @@ tag:
 
 On this walking tour, Mary O’Keeffe will tell us what archaeological investigations have revealed about our city. 
 
-Two tours are on offer, starting from outside Te Papa’s shop window: a tour for the general public is on Tuesday 27 October at 10am; and there is a schools tour on Wednesday 28 October, at 10am. 
+Two tours are on offer (limited to a maximum of 20 people in each), starting from outside Te Papa’s shop window: a tour for the general public is on Tuesday 27 October at 10am; and there is a secondary schools tour on Wednesday 28 October, at 10am.
 
 These are free tours but numbers are strictly limited so booking is essential. You can book by emailing dwatt@heritage.org.nz at Heritage New Zealand Pouhere Taonga. 
 
@@ -30,18 +30,16 @@ Please specify whether you are interested in the public or schools tour. Each to
 
 Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop window). The tour finished at the PWC building on the waterfront, near the railway station.
 
-
-
 <br>
 
 **Booking is required**
 
-**Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa  shop window
+**Location:** Tour begins from outside Te Papa on the concourse (meet outside the Te Papa shop window)
 
 **Cost:** Free
 
 **Duration:** 1.5 hours
 
-**Contact:** dwatt@heritage.org.nz, 04 494 8322 and 021 2466 339
+**Contact:** dwatt@heritage.org.nz, 04 494 8322 and 027 2466 339
 
 **Accessibility:** Comfortable walking shoes and weather appropriate clothing/protection is essential.
