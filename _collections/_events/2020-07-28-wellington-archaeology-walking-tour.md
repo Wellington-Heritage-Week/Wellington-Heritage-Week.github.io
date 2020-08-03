@@ -2,7 +2,7 @@
 layout: post
 title: Wellington Archaeology Walking Tour
 location: Wellington City
-img: /assets/uploaded/blockhouse-event-compressed.jpg
+img: /assets/uploaded/archaeology-walk-image-3.jpg
 event_date: 10am Tues 27 Oct & Wed 28 Oct
 hotel_text: ""
 host:
