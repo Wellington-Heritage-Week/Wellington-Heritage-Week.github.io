@@ -17,13 +17,15 @@ tag:
 ---
 **Mountains to Sea Wellington invites you to connect with the natural heritage around Percy’s Reserve. Join us to investigate the fish and invertebrates that reside within the freshwater environment of the reserve.** 
 
-We will have native creatures from the stream on display. An opportunity to observe setting live fish traps is available to 20 participants at 3:30pm on 30th October is available.
+Curious what's beneath the surface? Come check out the amazing native fish and invertebrates from the stream on display!
 
-**Click Here to book** or send us an email at freshwater@mtsw.org.nz. 
+Budding young scientist or just a big fish fan?! We're also offering a crash course in fish monitoring and trapping on the 30th October, 3.30 - 5pm.
+
+Spaces are limited, so book today! 
+
+**BOOK HERE.** Want to know more? Send us an email: [freshwater@mtsw.org.nz](mailto:freshwater@mtsw.org.nz)
 
 This will be an exciting day of learning and experiencing the mysteries of the rivers and streams of Aotearoa.
-
-Participants will not be entering the stream. However, we recommend bringing warm layers, sturdy shoes, a solid lunch, and water.
 
 <br>
 
