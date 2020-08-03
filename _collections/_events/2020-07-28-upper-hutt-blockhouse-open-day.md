@@ -3,7 +3,7 @@ layout: post
 title: Upper Hutt Blockhouse Open Day
 location: Upper Hutt
 img: /assets/uploaded/blockhouse-event-2020.jpg
-event_date: 11pm-2pm Sat 30 Oct
+event_date: 11am-2pm Sat 30 Oct
 host:
   email: infocentral@heritage.org.nz
   phone: 04 494 8320
