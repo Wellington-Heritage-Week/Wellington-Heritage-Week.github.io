@@ -2,7 +2,7 @@
 layout: post
 title: St Christopher’s Open Day & Crafts Sale
 location: Wellington City
-img: /assets/uploaded/blockhouse-event-compressed.jpg
+img: /assets/uploaded/archaeology-walk-image-2.jpg
 event_date: 10am - 4pm Sat 31 Oct & Sun 1 Nov
 host:
   email: seatounvillagehall@gmail.com
