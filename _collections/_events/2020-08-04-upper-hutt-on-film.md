@@ -18,9 +18,13 @@ tag:
 
 **Come join us at the Upper Hutt City Library for an entertaining afternoon watching short historical films of Upper Hutt from decades past.** 
 
-Our programme will include home movies, television news items, and promotional videos covering the period from the 1940s to the 1980s. The films will be introduced by the Library’s Heritage Co-ordinator, Reid Perkins, who will provide background information about their historical context. Refreshments will be available as well as an opportunity for informal discussion.
+Our programme will include home movies, television news items, and promotional videos covering the period from the 1940s to the 1980s. The films will be introduced by the Library’s Heritage Co-ordinator, Reid Perkins, who will provide background information about their historical context. 
+
+Refreshments will be available as well as an opportunity for informal discussion afterwards.
 
 <br>
+
+**No booking is required**
 
 **Location:** Upper Hutt City Library, 844 Fergusson Drive, Upper Hutt
 
