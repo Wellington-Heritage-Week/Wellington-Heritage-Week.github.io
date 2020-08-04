@@ -21,7 +21,7 @@ The tours will run at 11am and 2pm and will be an hour duration.
 
 The tours and open day will be hosted by Hutt City Council Archives staff who will be happy to answer your questions.
 
-**Click Here to Book**
+**[Click Here to Book](https://www.eventfinda.co.nz/2020/hutt-city-council-archives-open-day-behind-the-scenes-tour/wellington-region)**
 
 <br>
 
