@@ -22,7 +22,7 @@ The building of our SPCA Wellington Centre has a long and unique 100-year-histor
 
 This heritage week, we’re giving you the opportunity to go behind-the-scenes of our Wellington Centre and embark on a paranormal adventure. Come hear from SPCA General Manager Central Region Ros Alsford, as she shares how SPCA came to reside in the building, and she’ll make your eyes widen as she tells of her own supernatural experiences that have taken place onsite.
 
-Then get ready to go investigate some ghostly guests by participating in your own ghost investigation after dark withpsychic medium,Kathy McBride. So what are you waiting for, come experience the supernatural and help support the SPCA while you’re doing it!
+Then get ready to go investigate some ghostly guests by participating in your own ghost investigation after dark with psychic medium, Kathy McBride. So what are you waiting for, come experience the supernatural and help support the SPCA while you’re doing it!
 
 *Adults only. Ticket includes a drink and snacks on arrival along with a booklet celebrating 100 Years of the Fever Hospital.*
 
