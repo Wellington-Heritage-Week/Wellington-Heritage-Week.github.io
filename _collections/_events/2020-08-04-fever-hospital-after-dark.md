@@ -41,3 +41,5 @@ Then get ready to go investigate some ghostly guests by participating in your ow
 **Contact:** wellington.functions@spca.nz, 04 389 8044
 
 **Accessibility:** Disabled parking and wheelchair access available.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fwellingtonspca%2F&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
