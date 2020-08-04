@@ -2,7 +2,7 @@
 layout: post
 title: Fever Hospital After Dark
 location: Wellington City
-img: /assets/uploaded/spca-3.jpg
+img: /assets/uploaded/spca-4.jpg
 event_date: 7:15pm Fri 30 Oct
 host:
   email: wellington.functions@spca.nz
