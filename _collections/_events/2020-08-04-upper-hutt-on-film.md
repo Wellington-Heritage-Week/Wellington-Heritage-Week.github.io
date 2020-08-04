@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upper Hutt on Film
+title: Upper Hutt on Screen
 location: Upper Hutt
 img: /assets/uploaded/uh-film-event-promotional-image-2.jpg
 event_date: 2pm-3pm Sat 31 Oct
@@ -14,7 +14,9 @@ host:
 tag:
   - Sat 31 Oct
 ---
-Come join us at the Upper Hutt City Library for an entertaining afternoon watching short historical films of Upper Hutt from decades past. 
+*Upper Hutt on Screen: a programme of short Upper Hutt historical films and videos*
+
+**Come join us at the Upper Hutt City Library for an entertaining afternoon watching short historical films of Upper Hutt from decades past.** 
 
 Our programme will include home movies, television news items, and promotional videos covering the period from the 1940s to the 1980s. The films will be introduced by the Library’s Heritage Co-ordinator, Reid Perkins, who will provide background information about their historical context. Refreshments will be available as well as an opportunity for informal discussion.
 
