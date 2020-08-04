@@ -3,7 +3,7 @@ layout: post
 title: Upper Hutt on Film
 location: Upper Hutt
 img: /assets/uploaded/uh-film-event-promotional-image-2.jpg
-event_date: 2pm-3pm Sat 31st Oct
+event_date: 2pm-3pm Sat 31 Oct
 host:
   email: reid.perkins@uhcc.govt.nz
   phone: 04 527 2130
@@ -12,7 +12,7 @@ host:
   blurb: We have three community library services. In Fergusson Drive, Pinehaven
     Road and our Mobile Library which makes regular stops around Upper Hutt.
 tag:
-  - Sat 31st Oct
+  - Sat 31 Oct
 ---
 Come join us at the Upper Hutt City Library for an entertaining afternoon watching short historical films of Upper Hutt from decades past. 
 
