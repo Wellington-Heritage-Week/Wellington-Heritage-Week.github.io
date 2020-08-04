@@ -21,7 +21,7 @@ The Hutt City Council Archive contains information and records which record the 
 
 *Image caption: “Bird's eye view of High Street today,” Hutt City Council Archives, ARCH74120-1*
 
-**Click Here to Book**
+**[Click Here to Book](https://www.eventfinda.co.nz/2020/living-and-working-in-hutt-hutt-city-council-archives-talk/lower-hutt)**
 
 <br>
 
