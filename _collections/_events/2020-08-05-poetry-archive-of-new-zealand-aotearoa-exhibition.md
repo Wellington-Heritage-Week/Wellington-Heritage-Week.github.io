@@ -11,7 +11,7 @@ host:
     photos and paintings of New Zealand poets, publishers’ catalogues, poetry
     ephemera, posters, reproductions of book covers and other memorabilia
     related to New Zealand poetry and poetry performance.
-  email: ""
+  email: nielwright@xtra.co.nz
   phone: 04 475 8042
   website: https://poetryarchivenz.wordpress.com/
 tag:
@@ -39,7 +39,7 @@ Poetry Archive of New Zealand Aotearoa offers:
 
 <br>
 
-**Viewing by appointment only. Call 04 475 8042**
+**Viewing by appointment only. Call 04 475 8042 or email nielwright@xtra.co.nz**
 
 **Location:** 1 Woburn Rd Northland  Wellington 6012 (large garage on street front)
 
