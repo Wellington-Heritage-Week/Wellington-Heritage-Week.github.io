@@ -36,3 +36,7 @@ There are 5 tour times available, each starting on the hour, from 10am onwards. 
 **Contact:** cooperation.wellington-amba@diplomatie.gouv.fr
 
 **Accessibility:** On-street parking only (fees may apply). The French Residence isn’t a fully accessible venue – any questions please email cooperation.wellington-amba@diplomatie.gouv.fr
+
+
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffrance.nz%2F&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
