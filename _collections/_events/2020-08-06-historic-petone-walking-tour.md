@@ -14,7 +14,11 @@ host:
 tag:
   - Sat 31 Oct
 ---
-According to Susan Butterworth “Pito-one was a fine place for Maori to hunt or fish but exposed to southerly storms and inconvenient for habitation. Yet here was where the NZ Company chose to establish the first settlement.” Come and experience some of the history of this special place with people who are passionate about it.
+**According to Susan Butterworth “Pito-one was a fine place for Maori to hunt or fish but exposed to southerly storms and inconvenient for habitation. Yet here was where the NZ Company chose to establish the first settlement.”** 
+
+Come and experience some of the history of this special place with people who are passionate about it.
+
+The walking tour visits sites of XXXX
 
 <br>
 
