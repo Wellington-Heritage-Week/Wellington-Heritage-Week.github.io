@@ -39,3 +39,5 @@ The tour is limited to 25 people.
 **Contact:** petonehistories@gmail.com
 
 **Accessibility:** Wear suitable walking shoes.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpg%2Fpetonememories%2Fposts%2F%3Fref%3Dpage_internal&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
