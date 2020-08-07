@@ -24,7 +24,7 @@ The tour will be conducted by locals who can explain the history and ongoing sto
 
 The tour is limited to 25 people. 
 
-*Image: Photographed by Mark Tantrum. Collection of Petone Settlers Museum Te Whare Whakaaro o Pito-one, commissioned 2015*
+*Image: Residents of Patrick Street, 2015. Photographed by Mark Tantrum. Collection of Petone Settlers Museum Te Whare Whakaaro o Pito-one, commissioned 2015*
 
 <br>
 
