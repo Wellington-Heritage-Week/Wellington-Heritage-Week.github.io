@@ -38,3 +38,7 @@ The guided walk is on Friday, 30th October, starting at 10 am. Walkers are asked
 **Contact:** alicarewnz@gmail.com, 04 562 8880
 
 **Accessibility:** The Heritage Trail is all on the flat, on paved surfaces. Comfortable walking shoes, sunhat, water bottle, and a wind-proof layer are all recommended.
+
+
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fpg%2FEastbourne.NZ%2Fcommunity%2F&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
