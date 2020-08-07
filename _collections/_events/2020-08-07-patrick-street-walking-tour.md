@@ -9,16 +9,20 @@ host:
   blurb: The Petone Historical Society was formed in 1982 at a time when it was
     felt that little existed in the way of recording the social history of the
     town. The core work of the Society is to record the many histories of the
-    town and tell it's stories.
+    town and tell its stories.
   name: Petone Historical Society
 tag:
   - Sat 31 Oct
 ---
-**Join the Petone Historial Society on a tour along historic Patrick Street, Petone.** 
+**Join the Petone Historical Society on a tour along historic Patrick Street, Petone.** 
 
 Patrick Street is the site of some of the world’s first state housing and an architectural heritage gem of Lower Hutt. Following an international architectural competition, seven different designs by prominent NZ architects were chosen. The 37 houses completed in 1906 are still largely intact and lived in.
 
 In 1984 the registered properties in Patrick Street and adjoining Adelaide Street constructed under the Workers' Dwellings Act 1905 were declared part of an Historic Area by the New Zealand Historic Places Trust.
+
+The tour will be conducted by locals who can explain the history and ongoing story of the street in considerable detail.
+
+The tour is limited to 25 people. 
 
 <br>
 
