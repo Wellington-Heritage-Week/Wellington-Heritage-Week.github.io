@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Historic Petone Walking Tour
-location: Wellington City
+location: Lower Hutt
 img: /assets/uploaded/cinema-audience-grand.jpg
 event_date: 2pm Sat 31 Oct
 host:
