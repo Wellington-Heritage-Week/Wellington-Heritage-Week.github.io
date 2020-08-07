@@ -2,7 +2,7 @@
 layout: post
 title: "Patrick Street Walking Tour "
 location: Lower Hutt
-img: /assets/uploaded/patrick-st.jpg
+img: /assets/uploaded/patrick-street-2020.jpg
 event_date: 10am Sat 31 Oct
 host:
   email: petonehistories@gmail.com
@@ -23,6 +23,8 @@ In 1984 the registered properties in Patrick Street and adjoining Adelaide Stree
 The tour will be conducted by locals who can explain the history and ongoing story of the street in considerable detail.
 
 The tour is limited to 25 people. 
+
+*Image: Photographed by Mark Tantrum. Collection of Petone Settlers Museum Te Whare Whakaaro o Pito-one, commissioned 2015*
 
 <br>
 
