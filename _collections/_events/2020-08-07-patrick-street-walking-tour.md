@@ -18,6 +18,8 @@ tag:
 
 Patrick Street is the site of some of the world’s first state housing and an architectural heritage gem of Lower Hutt. Following an international architectural competition, seven different designs by prominent NZ architects were chosen. The 37 houses completed in 1906 are still largely intact and lived in.
 
+In 1984 the registered properties in Patrick Street and adjoining Adelaide Street constructed under the Workers' Dwellings Act 1905 were declared part of an Historic Area by the New Zealand Historic Places Trust.
+
 <br>
 
 **Booking is required. Email petonehistories@gmail.com to book.**
