@@ -2,7 +2,7 @@
 layout: post
 title: Hikitia Tour
 location: Wellington City
-img: /assets/uploaded/hikitia-2.jpg
+img: /assets/uploaded/hikitia-whw20.jpg
 event_date: 10am - 12pm Sat 31 Oct
 host:
   email: maritimeheritagetrust@gmail.com
