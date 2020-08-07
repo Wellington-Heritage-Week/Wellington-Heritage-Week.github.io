@@ -2,7 +2,7 @@
 layout: post
 title: Historic Petone Walking Tour
 location: Wellington City
-img: /assets/uploaded/22.-st-davids-2020.jpg
+img: /assets/uploaded/cinema-audience-grand.jpg
 event_date: 2pm Sat 31 Oct
 host:
   name: Petone Historical Society
@@ -18,7 +18,11 @@ tag:
 
 Come and experience some of the history of this special place with people who are passionate about it.
 
-The walking tour visits sites of original churches, schools and houses (some of which still exist today) and the street that was meant to be Petone's main business street.
+The walking tour visits sites of original churches, cinemas, schools and houses (some of which still exist today) and the street that was meant to be Petone's main business street.
+
+*Image: The Grand Theatre, opened around 1917 in Petone.*
+
+<!--EndFragment-->
 
 <br>
 
