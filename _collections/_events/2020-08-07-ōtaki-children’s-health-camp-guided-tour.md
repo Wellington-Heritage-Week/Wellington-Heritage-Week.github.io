@@ -19,6 +19,8 @@ tag:
 ---
 **The Otaki Children’s Health Camp was opened in 1932 as the first permanent children’s health camp in New Zealand and the buildings and site have been accorded an A1 classification by Heritage New Zealand.** 
 
+The New Zealand health camp movement arose from growing concern about children’s health and welfare in the early twentieth century. There was a new awareness that many children were missing out on fresh air, sunshine and healthy food. This was the first permanent Children’s Health Camp, opening in 1932.
+
 The tours will include a brief presentation on the history of the facility, a guided tour through the key spaces including the handsome rotunda building and a debrief over tea and coffee.
 
 <br>
