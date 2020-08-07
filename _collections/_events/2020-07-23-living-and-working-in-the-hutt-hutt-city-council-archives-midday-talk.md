@@ -2,7 +2,7 @@
 layout: post
 title: "Living and Working in the Hutt: Hutt City Council Archives Midday Talk"
 location: Lower Hutt
-img: /assets/uploaded/arch74120-1-wide.jpg
+img: /assets/uploaded/hcc-archives-whw20.png
 event_date: 12pm-1pm Thurs 29 Oct
 host:
   phone: 04 589 0460
