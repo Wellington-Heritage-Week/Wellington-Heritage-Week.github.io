@@ -10,7 +10,7 @@ host:
   blurb: The Petone Historical Society was formed in 1982 at a time when it was
     felt that little existed in the way of recording the social history of the
     town. The core work of the Society is to record the many histories of the
-    town and tell it's stories.
+    town and tell its stories.
 tag:
   - Sat 31 Oct
 ---
@@ -20,9 +20,10 @@ Come and experience some of the history of this special place with people who ar
 
 The walking tour visits sites of original churches, cinemas, schools and houses (some of which still exist today) and the street that was meant to be Petone's main business street.
 
+The tour is limited to 25 people. 
+
 *Image: The Grand Theatre, opened around 1917 in Petone.*
 
-<!--EndFragment-->
 
 <br>
 
