@@ -6,7 +6,7 @@ img: /assets/uploaded/arch74120-1-wide.jpg
 event_date: 10am Fri 30 Oct
 host:
   email: alicarewnz@gmail.com
-  name: Historical Society of Eastbourne
+  name: Historical Society Inc of Eastbourne
   blurb: The Historical Society of Eastbourne was formed in 1981 with the aim of
     “Preserving our Past and Telling our Stories”. It currently has nearly 200
     members, and organises regular meetings with a guest speaker, outings to
@@ -29,13 +29,14 @@ The guided walk is on Friday, 30th October, starting at 10 am. Walkers are asked
 
 <br>
 
-**Booking is required (limit of 15 people). Email alicarewnz@gmail.com to book.** 
+**Booking is required (limit of 15 people). Email alicarewnz@gmail.com or phone 04 562 8880 
+to book.** 
 
-**Location:** Walkers are asked to gather outside the Eastbourne Library at 9.45 am
+**Location:** Eastbourne Library - on the corner of Rimu St and Marine Parade
 
-**Cost:** Free
+**Cost:** Free. Koha is appreciated. 
 
-**Duration:** 2.5 hours
+**Duration:** about 2 1/2 hours
 
 **Contact:** alicarewnz@gmail.com, 04 562 8880
 
