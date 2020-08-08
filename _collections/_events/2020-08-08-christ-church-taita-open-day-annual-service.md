@@ -42,3 +42,5 @@ The church is still a consecrated Anglican Church and while it does not hold reg
 **Contact:** janice-klaw@xtra.co.nz
 
 **Accessibility:** The church is not wheelchair accessible.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FChristChurchTaita%2F&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
