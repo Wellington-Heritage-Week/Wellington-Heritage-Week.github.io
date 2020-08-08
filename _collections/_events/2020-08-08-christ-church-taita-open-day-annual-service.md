@@ -19,11 +19,17 @@ Opened in 1854, Christ Church Taita is New Zealand's second oldest and Wellingto
 
 This church is an example of an adaptation of an English parish church design to local materials and technology. That the church was built without nails is evidence of considerable skill on the part of Sidney Hirst, and overall its design is simple with little ornament, but a high standard of workmanship.
 
-The significance of Christ Church far exceeds its age, it was the catalyst for Parliament deciding to pass the Historic Places Act (1954) and the later formation of the Historic Places Trust. This was the first time New Zealanders had lobbied to save an historic building. 
+The significance of Christ Church far exceeds its age, it was the catalyst for Parliament deciding to pass the Historic Places Act (1954) and the later formation of the Historic Places Trust. This was the first time New Zealanders had lobbied to save an historic building. Christ Church holds a New Zealand Heritage List Category 1 registration.
 
-The church is still a consecrated Anglican Church and while it does not hold regular services, it is popular for small intimate weddings.
+The church is still a consecrated Anglican Church and while it does not hold regular services, it is popular for small intimate weddings. 
 
-Christ Church holds a New Zealand Heritage List Category 1 registration.
+<u>Programme:</u>
+
+**12pm:** Open Day commences
+
+**1pm:** Graveyard Tour 
+
+**2pm:** Annual Service followed by afternoon tea (1 hour)
 
 <br>
 
