@@ -20,6 +20,8 @@ Ron Brownson has worked long-term as a professional curator and is an expert on 
 
 *"The most amazing discovery for me was the Futuna Chapel in Wellington, "one of the most spiritual interiors in all New Zealand", as Ron describes it. It was designed by John Scott, with windows by Jim Allen that cast shimmering patterns of coloured light on the walls, which in the course of the day move across a large scale, magnificent mahogany Christ figure, also Allen's work. This "very emotional, very passionate work", to use Ron's words, was missing for 12 years, stolen, but happily it was recovered and reinstated in the chapel." - Ron Brownson, an excerpt from Auckland Library Blog, Karen Craig, May 2015.*
 
+<u>Programme:</u>
+
 **11:00am** Chapel opens
 
 **11:30am** Chapel Tour and Q&A (30 minutes)
