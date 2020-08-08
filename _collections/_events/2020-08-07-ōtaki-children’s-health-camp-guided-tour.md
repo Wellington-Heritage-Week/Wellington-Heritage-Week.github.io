@@ -23,15 +23,17 @@ The New Zealand health camp movement arose from growing concern about children�
 
 The tours will include a brief presentation on the history of the facility, a guided tour through the key spaces including the handsome rotunda building and a debrief over tea and coffee.
 
+Each tour is limited to 10 people. 
+
 <br>
 
-**Booking is not required.** 
+**Booking is required. Contact anthonydreaver@gmail.com or 04 904 9970 to book** 
 
 **Location:** 29 Health Camp Road, Ōtaki Beach (From Tasman Street, take a left into Health Camp Road.  Go through gates and meet at the Office Reception)
 
 **Cost:** $10 per person which will include a year’s membership of the Friends of the Ōtaki Rotunda.
 
-**Contact:** anthonydreaver@gmail.com, 04 9049970
+**Contact:** anthonydreaver@gmail.com, 04 904 9970
 
 **Duration:** Each tour will last one hour
 
