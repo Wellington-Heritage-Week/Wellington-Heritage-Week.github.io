@@ -8,14 +8,14 @@ host:
   name: Christ Church Preservation Society
   blurb: The Christ Church Preservation Society is responsible for the upkeep of
     the church and its surroundings.
-  email: janice-klaw@xtra.co.nz
+  email: info@christ-church.org.nz
   website: www.christ-church.org.nz
 tag:
   - Sun 1 Nov
 ---
 **Experience an Open Day and Annual Service at the historic Christ Church in Taita, Lower Hutt.** 
 
-Opened in 1854, Christ Church Taita is New Zealand's second oldest and Wellington's oldest church. The names of many early settlers in the Hutt Valley can be seen on the headstones in the historic graveyard, including that of Manihera Matanga, a Te Atiawa Chief who was a signatory to the Treaty of Waitangi. 
+Opened in 1854, Christ Church Taita is New Zealand's second oldest and Wellington's oldest church. The names of many early settlers in the Hutt Valley can be seen on the headstones in the historic graveyard, including that of Manihera Matangi, a Te Atiawa Chief who was a signatory to the Treaty of Waitangi. 
 
 This church is an example of an adaptation of an English parish church design to local materials and technology. That the church was built without nails is evidence of considerable skill on the part of Sidney Hirst, and overall its design is simple with little ornament, but a high standard of workmanship.
 
@@ -39,7 +39,7 @@ The church is still a consecrated Anglican Church and while it does not hold reg
 
 **Cost:** Free
 
-**Contact:** janice-klaw@xtra.co.nz
+**Contact:** info@christ-church.org.nz
 
 **Accessibility:** The church is not wheelchair accessible.
 
