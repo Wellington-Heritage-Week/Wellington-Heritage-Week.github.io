@@ -25,6 +25,8 @@ The exhibition transforms memory and historic preservation into a contemporary a
 
 <br>
 
+**No booking is required**
+
 **Location:** Courtenay Place Park, Wellington
 
 **Cost:** Free
