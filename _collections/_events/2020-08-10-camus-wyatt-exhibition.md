@@ -2,7 +2,7 @@
 layout: post
 title: "Camus Wyatt Exhibition "
 location: Wellington City
-img: /assets/uploaded/arch74120-1-wide.jpg
+img: /assets/uploaded/time-whw20.jpg
 event_date: Everyday
 host:
   email: "camusw@hotmail.com "
