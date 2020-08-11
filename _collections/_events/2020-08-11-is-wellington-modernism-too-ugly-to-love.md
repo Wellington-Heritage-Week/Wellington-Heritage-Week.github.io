@@ -30,7 +30,7 @@ A divergence exists between what heritage experts consider significant and what 
 
 **Cost:** Free
 
-**Duration:** 5:30pm - 7:30pm
+**Duration:** 5:30pm - 7:30pm 
 
 **Contact:** wgtn@historicplacesaotearoa.org.nz
 
