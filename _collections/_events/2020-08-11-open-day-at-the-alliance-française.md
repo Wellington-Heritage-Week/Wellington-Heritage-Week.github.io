@@ -2,7 +2,7 @@
 layout: post
 title: Open Day at the Alliance Française
 location: Wellington City
-img: /assets/uploaded/archaeology-walk-2020a.jpg
+img: /assets/uploaded/afw-whw2020.jpg
 event_date: 10am - 3pm Sat 31 Oct
 host:
   email: admin@french.co.nz
