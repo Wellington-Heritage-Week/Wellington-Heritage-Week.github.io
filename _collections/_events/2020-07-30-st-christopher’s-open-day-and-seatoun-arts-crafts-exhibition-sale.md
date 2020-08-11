@@ -25,7 +25,7 @@ In 1913 money was raised for a small church building (9m x 6m) which was built o
 
 In 1932, the Seatoun Presbyterian Church was opened by His Excellency, Lord Bledisloe, the Governor General. The architect, William Fielding chose the Romanesque Revival style with its solid masonry construction, arched windows and sense of permanence. Features of the church include the historic Tracker organ, stained glass windows and the ‘Wahine Cross’ crafted by Mr Joe Gibson from mahogany salvaged from the wreck of the Wahine.
 
-St Christopher’s Parish was closed by the Presbyterian Church in 2013 and the property sold in 2015..It was purchased by local benefactors and reopened under the management of a community trust which ensures that it continues to be used by Seatoun residents and the wider Wellington community.
+St Christopher’s Parish was closed by the Presbyterian Church in 2013 and the property sold in 2015. It was purchased by local benefactors and reopened under the management of a community trust which ensures that it continues to be used by Seatoun residents and the wider Wellington community.
 
 <br>
 
