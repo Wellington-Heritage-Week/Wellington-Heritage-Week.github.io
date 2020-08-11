@@ -22,6 +22,8 @@ Many Wellingtonians seemingly agree. This is despite the building having been id
 
 A divergence exists between what heritage experts consider significant and what the general public thinks. Is it possible to bridge the gap so Wellingtonians might better understand and love their city's modernist heritage?
 
+*Image: Whanganui War Memorial Centre, strengthened by BSM Group Architects – a winner in the 2020 Western Architecture Awards. Photograph: Mark Brimblecombe.*
+
 <br>
 
 **No booking is required**
