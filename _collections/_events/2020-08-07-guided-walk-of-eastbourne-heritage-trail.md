@@ -2,7 +2,7 @@
 layout: post
 title: Guided Walk of Eastbourne Heritage Trail
 location: Lower Hutt
-img: /assets/uploaded/arch74120-1-wide.jpg
+img: /assets/uploaded/eastbourne-wellington-heritage-week.jpg
 event_date: 10am Fri 30 Oct
 host:
   email: alicarewnz@gmail.com
