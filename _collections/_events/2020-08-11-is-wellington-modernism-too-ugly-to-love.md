@@ -2,7 +2,7 @@
 layout: post
 title: "'Is Wellington Modernism too Ugly to Love?'"
 location: Wellington City
-img: /assets/uploaded/building-closer.jpg
+img: /assets/uploaded/whanganui-war-memorial-centre-wellington-heritage-week.jpg
 event_date: 5:30pm Wed 28 Oct
 host:
   name: Historic Places Wellington
@@ -21,6 +21,8 @@ These include the controversial and much-maligned Gordon Wilson Flats on the Ter
 Many Wellingtonians seemingly agree. This is despite the building having been identified by the Environment Court as having very high heritage values. 
 
 A divergence exists between what heritage experts consider significant and what the general public thinks. Is it possible to bridge the gap so Wellingtonians might better understand and love their city's modernist heritage?
+
+*Image: Whanganui War Memorial Centre, strengthened by BSM Group Architects – a winner in the 2020 Western Architecture Awards. Photograph: Mark Brimblecombe.*
 
 <br>
 
