@@ -15,7 +15,7 @@ host:
 tag:
   - Sat 31 Oct
 ---
-**Two splendid days available to wander through St Christopher’s a beautiful Romanesque style church and then pop next door and enjoy the annual Seatoun Art and Crafts Exhibition and Sale.**
+**Two splendid days available to wander through St Christopher’s a beautiful Romanesque Revival style church and then pop next door and enjoy the annual Seatoun Art and Crafts Exhibition and Sale.**
 
 St Christopher’s Church will be open from 11am - 2pm on Saturday, October 31st  and Sunday, November 1st. The Seatoun Arts & Craft Exhibition and Sale will be on between 10am - 4pm on the same days. 
 
