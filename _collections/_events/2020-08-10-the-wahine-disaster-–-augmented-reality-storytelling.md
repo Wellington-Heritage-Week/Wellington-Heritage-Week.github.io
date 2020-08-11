@@ -3,7 +3,7 @@ layout: post
 title: The Wahine Disaster – Augmented Reality Storytelling
 location: Wellington City
 img: /assets/uploaded/archaeology-walk-2020a.jpg
-event_date: 1pm & 4pm Mon 26 Oct, Sat 31 Oct & Sun 1 Nov
+event_date: 1pm & 4pm Mon 26 Oct & Sun 1 Nov
 host:
   email: contact@hiamo.nz
   website: http://www.hiamo.nz/
@@ -26,7 +26,7 @@ Meet outside Te Papa’s front entrance, look for the people in the white and or
 
 Maximum of 20 people per tour.
 
-Tours hosted 1pm and 4pm on Monday 26 October, Saturday 31 October, and Sunday 1 November. 
+Tours hosted 1pm and 4pm on Monday 26 October and Sunday 1 November. 
 
 **Click Here to Book**
 
