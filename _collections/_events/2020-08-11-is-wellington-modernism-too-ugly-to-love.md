@@ -2,7 +2,7 @@
 layout: post
 title: "'Is Wellington Modernism too Ugly to Love?'"
 location: Wellington City
-img: /assets/uploaded/building-closer.jpg
+img: /assets/uploaded/whanganui-war-memorial-centre-wellington-heritage-week.jpg
 event_date: 5:30pm Wed 28 Oct
 host:
   name: Historic Places Wellington
