@@ -27,10 +27,11 @@ The trail consists of 15 display stands spaced at intervals along the waterfront
 
 The guided walk is on Friday, 30th October, starting at 10 am. Walkers are asked to gather outside the Eastbourne Library at 9.45 am so we can set out promptly at 10 am. The walk takes about 2 ½ hours one way, which assumes a leisurely pace and plenty of time to look at the displays and other points of interest along the way.
 
+*Photograph by Phil Benge*
+
 <br>
 
-**Booking is required (limit of 15 people). Email alicarewnz@gmail.com or phone 04 562 8880 
-to book.** 
+**Booking is required (limit of 15 people). Email alicarewnz@gmail.com or phone 04 562 8880  to book.** 
 
 **Location:** Eastbourne Library - on the corner of Rimu St and Marine Parade
 
