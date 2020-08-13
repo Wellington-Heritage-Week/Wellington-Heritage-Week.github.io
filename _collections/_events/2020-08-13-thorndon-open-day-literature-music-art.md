@@ -34,7 +34,7 @@ The Rita Angus Cottage (Heritage Category I) was home to the celebrated New Zeal
 
 Koha would be appreciated at each of the residences.
 
-Click here to download a map of the houses
+**[Click here to download a map of the houses](https://wellingtonheritageweek.co.nz/assets/uploaded/Historic%20Thorndon%20Houses%20Map%20WHW20.pdf)**
 
 <br>
 
