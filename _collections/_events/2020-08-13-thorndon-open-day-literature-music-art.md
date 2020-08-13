@@ -38,11 +38,13 @@ Koha would be appreciated at each of the residences.
 
 *Read more about the historic houses on their websites:*
 
-*[www.randellcottage.co.nz](http://www.randellcottage.co.nz/)*
+* *[www.randellcottage.co.nz](http://www.randellcottage.co.nz/)*
 
-*[www.lilburnresidence.org.nz](http://www.lilburnresidence.org.nz/)*
 
-*[www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage](http://www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage)*
+
+ * *[www.lilburnresidence.org.nz](http://www.lilburnresidence.org.nz/)*
+
+* *[www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage](http://www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage)*
 
 <br>
 
