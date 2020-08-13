@@ -11,10 +11,7 @@ host:
     Royal New Zealand Police College in Porirua, the museum is in perfect
     context to tell the stories of New Zealand Police.   Explore policing
     methods and significant events in New Zealand’s social and political history
-    from a police perspective. There is plenty to offer for the whole family
-    including: detective activities ready to be solved, New Zealand Police
-    uniforms to try on, a police motorbike, and a range of tours and programmes
-    for groups!"
+    from a police perspective. "
   phone: 04 238 3141
   email: "museum@police.govt.nz "
   website: https://www.police.govt.nz/about-us/history-museum/museum/about-museum
@@ -29,7 +26,9 @@ The Wellington region has been witness to a long and rich history involving poli
 
 A perfect tour for both Wellington history aficionados, and those more generally interested in the region.
 
-The museum is open between 10am and 5pm, seven days a week (excluding Good Friday and Christmas Day).
+There is plenty to offer for the whole family including: detective activities ready to be solved, New Zealand Police uniforms to try on, a police motorbike, and a range of tours and programmes for groups!
+
+*The museum is open between 10am and 5pm, seven days a week (excluding Good Friday and Christmas Day).* 
 
 <br>
 
