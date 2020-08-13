@@ -23,7 +23,9 @@ Budding young scientist or just a big fish fan?! We're also offering a crash cou
 
 Spaces are limited, so book today! 
 
-**BOOK HERE.** Want to know more? Send us an email: [freshwater@mtsw.org.nz](mailto:freshwater@mtsw.org.nz)
+[**BOOK HERE** ](https://docs.google.com/forms/d/1gY-LjwTHPOsHz1fdj1ZlcOOWQxPKYdjuDHYL4fYapT0/viewform?edit_requested=true)
+
+Want to know more? Send us an email: [freshwater@mtsw.org.nz](mailto:freshwater@mtsw.org.nz)
 
 This will be an exciting day of learning and experiencing the mysteries of the rivers and streams of Aotearoa.
 
