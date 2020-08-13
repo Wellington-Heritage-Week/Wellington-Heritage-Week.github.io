@@ -18,9 +18,7 @@ tag:
 ---
 **Combined Open Days at Randell Cottage, Lilburn House and the Rita Angus Cottage - the homes of New Zealand writers, composers, and artists.**
 
-Join us on Sunday 1 November for an afternoon celebrating art, music and literature at three historic Thorndon creative residencies.
-
-Randell Cottage, Lilburn House and Rita Angus Cottage will be open to the public from 1 to 4pm.
+Join us on Sunday 1 November for an afternoon celebrating art, music and literature at three historic Thorndon creative residencies. Randell Cottage, Lilburn House and Rita Angus Cottage will be open to the public from 1 to 4pm.
 
 Visitors can enjoy refreshments and readings from Randell Cottage writers, music at Lilburn with birthday cake to celebrate what would have been Douglas Lilburn’s 105th birthday, and the opportunity to explore or sketch in the lovely Rita Angus Cottage garden.
 
