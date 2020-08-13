@@ -36,6 +36,8 @@ Koha would be appreciated at each of the residences.
 
 <br>
 
+**No booking is required**
+
 **Location:** 
 
 * Randell Cottage 14 St Mary Street
