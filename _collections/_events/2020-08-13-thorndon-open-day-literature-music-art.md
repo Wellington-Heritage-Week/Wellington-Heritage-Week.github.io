@@ -50,4 +50,4 @@ Koha would be appreciated at each of the residences.
 
 **Accessibility:** As Thorndon is not flat and parking is difficult, visits to these residencies are best undertaken on foot.
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRandellCottage%2F&tabs=timeline&width=350&height=300&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FRandellCottage%2F&tabs=timeline&width=450&height=650&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=true&appId" width="450" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
