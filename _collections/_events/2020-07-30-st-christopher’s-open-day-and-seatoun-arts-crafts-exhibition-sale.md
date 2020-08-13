@@ -21,7 +21,7 @@ St Christopher’s Church will be open from 11am - 2pm on Saturday, October 31st
 
 There will also be a Self Guided History Walk Map available for you to explore some of the local sites around Seatoun.
 
-In 1913 money was raised for a small church building (9m x 6m) which was built on the site that is now occupied by St Christopher’s. In 1919 it was moved to its present position, altered and extended over the year and continues as the Seatoun Village Hall. 
+In 1913 money was raised for a small church building (9m x 6m) which was built on the site that is now occupied by St Christopher’s. In 1919 it was moved to its present position, altered and extended over the years and continues as the Seatoun Village Hall. 
 
 In 1932, the Seatoun Presbyterian Church was opened by His Excellency, Lord Bledisloe, the Governor General. The architect, William Fielding chose the Romanesque Revival style with its solid masonry construction, arched windows and sense of permanence. Features of the church include the historic Tracker organ, stained glass windows and the ‘Wahine Cross’ crafted by Mr Joe Gibson from mahogany salvaged from the wreck of the Wahine.
 
