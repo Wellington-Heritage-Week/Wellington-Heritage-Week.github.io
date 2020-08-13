@@ -34,6 +34,8 @@ The Rita Angus Cottage (Heritage Category I) was home to the celebrated New Zeal
 
 Koha would be appreciated at each of the residences.
 
+Click here to download a map of the houses
+
 <br>
 
 **No booking is required**
