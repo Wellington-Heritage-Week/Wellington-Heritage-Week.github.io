@@ -11,7 +11,7 @@ host:
     Conservation goals are achieved through education, restoration, and
     scientific monitoring support. "
   name: Mountains to Sea Wellington
-  website: https://www.mountainstosea.nz/
+  website: www.mountainstoseawellington.org
 tag:
   - Sat 31 Oct
 ---
