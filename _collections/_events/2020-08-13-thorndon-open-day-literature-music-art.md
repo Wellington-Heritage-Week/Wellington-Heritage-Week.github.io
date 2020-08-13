@@ -2,7 +2,7 @@
 layout: post
 title: "Thorndon Open Day: Literature, Music & Art"
 location: Wellington City
-img: /assets/uploaded/thorndon-whw20.jpg
+img: /assets/uploaded/thorndon-open-day-whw20.jpg
 event_date: 1pm - 4pm Sun 1 Nov
 host:
   email: info@randellcottage.co.nz
