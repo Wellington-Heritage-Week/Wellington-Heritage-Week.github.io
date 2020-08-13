@@ -23,7 +23,7 @@ Free guided tours of the property will be held on Friday 30 October from 10am to
 
 There are 5 tour times available, each starting on the hour, from 10am onwards. The tour will take about one hour and the visitors will be welcomed at the gate before a specialist of local history from the Thorndon Society takes them for a tour of the house.
 
-**Click Here to Book**
+**[Click Here to Book](https://www.eventfinda.co.nz/2020/discover-la-residence-de-france/wellington)**
 
 <br>
 
@@ -36,7 +36,5 @@ There are 5 tour times available, each starting on the hour, from 10am onwards. 
 **Contact:** cooperation.wellington-amba@diplomatie.gouv.fr
 
 **Accessibility:** On-street parking only (fees may apply). The French Residence isn’t a fully accessible venue – any questions please email cooperation.wellington-amba@diplomatie.gouv.fr
-
-
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffrance.nz%2F&tabs=header&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
