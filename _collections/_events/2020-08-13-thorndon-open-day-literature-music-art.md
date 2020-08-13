@@ -36,6 +36,8 @@ Koha would be appreciated at each of the residences.
 
 **[Click here to download a map of the houses](https://wellingtonheritageweek.co.nz/assets/uploaded/Historic%20Thorndon%20Houses%20Map%20WHW20.pdf)**
 
+<br>
+
 *Read more about the historic houses on their websites:*
 
 * *[www.randellcottage.co.nz](http://www.randellcottage.co.nz/)*
