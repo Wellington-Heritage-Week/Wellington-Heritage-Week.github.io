@@ -36,6 +36,14 @@ Koha would be appreciated at each of the residences.
 
 **[Click here to download a map of the houses](https://wellingtonheritageweek.co.nz/assets/uploaded/Historic%20Thorndon%20Houses%20Map%20WHW20.pdf)**
 
+*Read more about the historic houses on their websites:*
+
+*[www.randellcottage.co.nz](http://www.randellcottage.co.nz/)*
+
+*[www.lilburnresidence.org.nz](http://www.lilburnresidence.org.nz/)*
+
+*[www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage](http://www.wellingtoncityheritage.org.nz/buildings/151-300/277-rita-angus-cottage)*
+
 <br>
 
 **No booking is required**
