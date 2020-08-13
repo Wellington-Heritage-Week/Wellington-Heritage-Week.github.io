@@ -33,7 +33,7 @@ The museum is open between 10am and 5pm, seven days a week (excluding Good Frida
 
 <br>
 
-**Booking is required**
+**Booking is required. Email museum@police.govt.nz or call 04 238 3141 to book**
 
 **Location:** New Zealand Police Museum, Royal New Zealand Police College, Papakowhai Road, Porirua - near Aotea Lagoon
 
