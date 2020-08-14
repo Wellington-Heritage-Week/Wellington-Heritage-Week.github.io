@@ -39,3 +39,7 @@ The Hutt City Council Community Ranger will also be on site to talk about how pe
 **Contact:** Jonathan.Frericks@huttcity.govt.nz
 
 **Accessibility:** You’ll find Percy Scenic Reserve at 5 Dowse Drive, Maungaraki. You can drive or get there on bus 150 from Queensgate.
+
+
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhorticulturehutt%2F&tabs=timeline&width=400&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
