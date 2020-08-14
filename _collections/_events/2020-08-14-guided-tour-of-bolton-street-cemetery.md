@@ -26,7 +26,7 @@ Meet at the Seddon Memorial by Anderson Park.
 
 <br>
 
-**Booking is required**
+**No booking is required**
 
 **Location:** Meet at the Seddon Memorial by Anderson Park.
 
