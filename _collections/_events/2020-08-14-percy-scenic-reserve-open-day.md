@@ -18,7 +18,7 @@ Wander through the beautiful lawns, gardens and walkways and picnic on the lower
 
 We will be running guided tours of the special plant collections all day, and there will be self-guided heritage walks with informational material.  Kiosks and displays will provide people with historical insights to the important role that the park has played in the history of the area. Learn about important people who lived close by, such as Hōniana Te Puni-kōkopu, Sir James Hector, and others. 
 
-The Lower Hutt Horticulture Society will be hosting information about native plants that can be used in your own gardens. And Mountains2Sea will be showing demonstrating the diversity of organisms that can be found in the waterways. Please click [here](http://mountainstoseawellington.org/events/)to find more information about their talks. 
+The Lower Hutt Horticulture Society will be hosting information about native plants that can be used in your own gardens. And Mountains2Sea will be showing demonstrating the diversity of organisms that can be found in the waterways. Please click [here](http://mountainstoseawellington.org/events/) to find more information about their talks. 
 
 The Hutt City Council Community Ranger will also be on site to talk about how people can protect the natural heritage in their own back yards.
 
@@ -39,7 +39,5 @@ The Hutt City Council Community Ranger will also be on site to talk about how pe
 **Contact:** Jonathan.Frericks@huttcity.govt.nz
 
 **Accessibility:** You’ll find Percy Scenic Reserve at 5 Dowse Drive, Maungaraki. You can drive or get there on bus 150 from Queensgate.
-
-
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fhorticulturehutt%2F&tabs=timeline&width=400&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="400" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
