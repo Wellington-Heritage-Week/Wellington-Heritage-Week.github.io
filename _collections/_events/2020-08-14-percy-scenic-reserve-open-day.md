@@ -2,7 +2,7 @@
 layout: post
 title: Percy Scenic Reserve Open Day
 location: Lower Hutt
-img: /assets/uploaded/percy-s-scenic-reserve-whw20.jpg
+img: /assets/uploaded/percy-s-scenic-reserve-whw20..jpg
 event_date: "10am - 4pm Sat 31 Oct "
 host:
   email: PercyScenicReserve@huttcity.govt.nz
