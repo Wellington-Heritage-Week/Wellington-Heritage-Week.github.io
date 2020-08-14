@@ -2,7 +2,7 @@
 layout: post
 title: Philosophy House Open Day
 location: Wellington City
-img: /assets/uploaded/school_of_practical_philosophy.jpeg
+img: /assets/uploaded/school_of_practical_philosophy-whw20.jpeg
 event_date: 10am - 3pm Sat 31 Oct
 host:
   email: annemariengan@gmail.com
