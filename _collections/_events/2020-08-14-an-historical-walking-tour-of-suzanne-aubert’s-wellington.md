@@ -46,3 +46,7 @@ Limited to 15 per tour.
 **Contact:** heritagecentre@compassion.org.nz or phone (04) 282 1953
 
 **Accessibility:** Participants are advised wear suitable footwear and clothing. Suncream will be available for participants
+
+
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsistersofcompassion%2F&tabs=timeline&width=350&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="350" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
