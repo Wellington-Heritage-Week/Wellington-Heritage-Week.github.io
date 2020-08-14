@@ -8,9 +8,9 @@ host:
   name: Friends of the Bolton Street Cemetery
   email: jennif.robinson@gmail.com
   phone: 021 024 52650
-  blurb: The Friends of Bolton Street Cemetery is a voluntary society which works
-    closely with the Wellington City Council to preserve, protect and develop
-    the heritage aspects of this lovely historic cemetery.
+  blurb: The Friends of the Bolton Street Cemetery are an enthusiastic group of
+    volunteers, some living in the neighbourhood and some are descendants of
+    people buried in the cemetery.
 tag:
   - Mon 26 Oct
 ---
@@ -22,11 +22,13 @@ Hear the stories concerning the cottage (now gone) built for the Public Sexton, 
 
 Our guides will also talk about the disruption caused by the construction of Wellington’s urban motorway in the 1960s.
 
+Meet at the Seddon Memorial by Anderson Park.
+
 <br>
 
-**Booking is required**
+**No booking is required**
 
-**Location:**
+**Location:** Meet at the Seddon Memorial by Anderson Park.
 
 **Cost:** $5 per person
 
