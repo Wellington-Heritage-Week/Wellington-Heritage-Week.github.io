@@ -38,3 +38,5 @@ Since 1956 the School of Philosophy in Wellington has been presenting the great 
 **Contact:** annemariengan@gmail.com, 021 475 898
 
 **Accessibility:** Access to the building is limited for disabled visitors at such a busy time. Please contact us prior to arrival for disabled access.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPhilosophyWellington%2F&tabs=timeline&width=350&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="350" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
