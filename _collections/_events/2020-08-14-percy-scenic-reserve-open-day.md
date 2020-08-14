@@ -5,7 +5,7 @@ location: Lower Hutt
 img: /assets/uploaded/percy-s-scenic-reserve-whw20.jpg
 event_date: "10am - 4pm Sat 31 Oct "
 host:
-  email: Jonathan.Frericks@huttcity.govt.nz
+  email: PercyScenicReserve@huttcity.govt.nz
   name: Hutt City Council
   blurb: Percy Scenic Reserve is open all day, every day, all year round. The car
     park is open from dawn to dusk every day.
@@ -36,7 +36,7 @@ The Hutt City Council Community Ranger will also be on site to talk about how pe
 
 **Cost:** Free
 
-**Contact:** Jonathan.Frericks@huttcity.govt.nz
+**Contact:** PercyScenicReserve@huttcity.govt.nz
 
 **Accessibility:** You’ll find Percy Scenic Reserve at 5 Dowse Drive, Maungaraki. You can drive or get there on bus 150 from Queensgate.
 
