@@ -3,7 +3,7 @@ layout: post
 title: Wellington Vintage Machinery Tours
 location: Upper Hutt
 img: /assets/uploaded/wvmc-2020.jpg
-event_date: "10:30am-3:30pm Mon 26 Oct - Fri 30 Oct, & 10:30am-4pm Sat 31 Oct - Sun 1 Nov "
+event_date: "10:30am-3:30pm Mon 26 - Fri 30 Oct, & 10:30am-4pm Sat 31 Oct - Sun 1 Nov "
 host:
   blurb: Wellington Vintage Machinery was established in 1987 when one of the
     locals enlisted the help of another to get a small Lister engine operating
