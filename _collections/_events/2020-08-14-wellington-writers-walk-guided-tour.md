@@ -11,7 +11,7 @@ host:
   email: info.wellingtonwriterswalk@gmail.com
   name: The Wellington Writers Walk
 tag:
-  - Thurs 29 Oct
+  - Tour
 ---
 **The Wellington Writers Walk is made up of a series of 23 quotations from well-known and much-loved New Zealand writers, including poets, novelists, and playwrights all of whom have (or had) a strong connection to Wellington City.** 
 
