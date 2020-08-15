@@ -42,9 +42,8 @@ The Friends will take you on an easy walking, 1 hour long introductory tour of t
 The tours are free and do not require booking.
 
 
-<u>Off the Beaten Track</u>
-
-<BLOCKQUOTE>
+ 
+<BLOCKQUOTE> <u>Off the Beaten Track</u> </BLOCKQUOTE>
 
 *12:30pm Monday 26 Oct & 10:30am Sun 1 Nov*
 
@@ -54,11 +53,10 @@ Tours cost $10 per person (children under 12 free), good dogs on leads welcome.
 
 Tour must be booked via friendsofkaroricemeterytour@gmail.com All other activities are free.
 
-</BLOCKQUOTE>
+<br>
 
-<u>Murder & Mayhem</u>
+<BLOCKQUOTE> <u>Murder & Mayhem</u> </BLOCKQUOTE>
 
-<BLOCKQUOTE>
 
 *10:30am Wed 28 Oct*
 
@@ -66,11 +64,8 @@ This popular tour visits the graves of a number of people associated with murder
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-</BLOCKQUOTE>
+<BLOCKQUOTE> <u>Heroines & Housewives</u> </BLOCKQUOTE>
 
-<u>Heroines & Housewives</u>
-
-<BLOCKQUOTE>
 
 *10:30am Wed 28 Oct*
 
@@ -78,19 +73,13 @@ A selection of suffragists, educationalists, reformers and artists, as well as a
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-</BLOCKQUOTE>
-
-<u>First Catholics</u>
-
-<BLOCKQUOTE>
+<BLOCKQUOTE> <u>First Catholics</u> </BLOCKQUOTE>
 
 *10:30am Sun 1 Nov*
 
 A new tour, being launched on All Saints Day. 1.5 hours duration, easy walking. Includes a visit to Catholic Orders (Marists, Sisters of Mercy, Sisters of Compassion) as well as notable Catholic citizens buried during the first few years the cemetery was open.
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
-
-</BLOCKQUOTE>
 
 <br>
 
