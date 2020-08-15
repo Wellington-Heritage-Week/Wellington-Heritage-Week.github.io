@@ -13,7 +13,7 @@ host:
     their love of wisdom.
   name: The School of Philosophy (Inc)
 tag:
-  - Sat 31 Oct
+  - Open Day
 ---
 **The School of Philosophy (Inc) invites the Wellington community to an Open Day at the historic building of Philosophy House Aro St on Saturday 31 October.** 
 
