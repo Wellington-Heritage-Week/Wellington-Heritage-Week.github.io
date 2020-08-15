@@ -14,7 +14,7 @@ host:
   phone: 04 528 9855
   website: http://www.goldercottage.co.nz/
 tag:
-  - Mon 26 Oct
+  - Talk & Film
 ---
 **Armistice Stories from Upper Hutt - A tale of 3 ladies**
 
