@@ -14,7 +14,7 @@ host:
     benefits to our country, and awareness of its importance to national
     identity.
 tag:
-  - Sat 30 Oct
+  - Open Day
 ---
 **Come and visit this rare surviving example of a blockhouse, built in 1860 by scared settlers in the shadow of the New Zealand Wars.** 
 
