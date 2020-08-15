@@ -14,7 +14,7 @@ host:
   phone: 04 528 9855
   website: http://www.goldercottage.co.nz/
 tag:
-  - "[Mon 26 Oct] [Sat 30 Oct]"
+  - "*Mon 26 Oct* *Sat 30 Oct*"
 ---
 **Armistice Stories from Upper Hutt - A tale of 3 ladies**
 
@@ -38,4 +38,4 @@ Attendees can also explore the cottage during their visit.
 
 **Accessibility:** The cottage is not wheelchair accessible 
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgolderscottage&tabs=timeline&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="290" height="300" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgolderscottage&tabs=timeline&width=290&height=300&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="300" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
