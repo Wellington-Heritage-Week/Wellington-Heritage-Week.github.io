@@ -3,7 +3,7 @@ layout: post
 title: Wellington Writers Walk Guided Tour
 location: Wellington City
 img: /assets/uploaded/wellington-writers-walk-whw20.jpg
-event_date: 2pm Thurs 29 Oct & 10am Sat 31 Oct
+event_date: 2pm Thurs 29 & 10am Sat 31 Oct
 host:
   blurb: Our Committee oversees the Iconic Wellington Writers Walk and we would
     love to share our passion for this project during Heritage Week by offering
