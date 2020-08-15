@@ -11,7 +11,7 @@ host:
   email: info@christ-church.org.nz
   website: www.christ-church.org.nz
 tag:
-  - Sun 1 Nov
+  - Open Day
 ---
 **Experience an Open Day and Annual Service at the historic Christ Church in Taita, Lower Hutt.** 
 
