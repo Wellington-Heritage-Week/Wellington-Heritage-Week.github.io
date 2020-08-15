@@ -20,7 +20,7 @@ Established in 1891, Karori Cemetery is New Zealand's second largest burial grou
 
 <u>Family Research and Small Chapel Open Day</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *10am-3pm Monday 26 Oct* & Sun 1 Nov
 
@@ -32,11 +32,11 @@ Suitable for 5+ years, with a reward for everyone who participates.
 
 Free. No booking required.
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <u>Introduction to Karori Cemetery</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *10:30am, 12:30pm, & 2pm Monday 26 Oct*
 
@@ -44,11 +44,11 @@ The Friends will take you on an easy walking, 1 hour long introductory tour of t
 
 The tours are free and do not require booking.
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <u>Off the Beaten Track</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *12:30pm Monday 26 Oct & 10:30am Sun 1 Nov*
 
@@ -58,11 +58,11 @@ Tours cost $10 per person (children under 12 free), good dogs on leads welcome.
 
 Tour must be booked via friendsofkaroricemeterytour@gmail.com All other activities are free.
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <u>Murder & Mayhem</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *10:30am Wed 28 Oct*
 
@@ -70,11 +70,11 @@ This popular tour visits the graves of a number of people associated with murder
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <u>Heroines & Housewives</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *10:30am Wed 28 Oct*
 
@@ -82,11 +82,11 @@ A selection of suffragists, educationalists, reformers and artists, as well as a
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <u>First Catholics</u>
 
-**<BLOCKQUOTE>**
+<BLOCKQUOTE>
 
 *10:30am Sun 1 Nov*
 
@@ -94,7 +94,7 @@ A new tour, being launched on All Saints Day. 1.5 hours duration, easy walking. 
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-**</BLOCKQUOTE>**
+</BLOCKQUOTE>
 
 <br>
 
