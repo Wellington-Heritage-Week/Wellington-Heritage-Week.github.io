@@ -15,7 +15,7 @@ host:
     and film.
   website: https://camuswyatt.works/
 tag:
-  - Mon 26 Oct
+  - Exhibition
 ---
 ***Time is the longest distance* brings visual slices of Wellington’s public past into the bustle of today’s streets. Inspired by the richness of the photographic archives of the Alexander Turnbull Library, artist Camus Wyatt has selected and photographed fragments of negatives from the library’s vast collection.** 
 
