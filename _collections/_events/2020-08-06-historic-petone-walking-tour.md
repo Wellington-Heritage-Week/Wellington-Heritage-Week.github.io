@@ -12,7 +12,7 @@ host:
     town. The core work of the Society is to record the many histories of the
     town and tell its stories.
 tag:
-  - Sat 31 Oct
+  - Tour
 ---
 **According to Susan Butterworth “Pito-one was a fine place for Maori to hunt or fish but exposed to southerly storms and inconvenient for habitation. Yet here was where the NZ Company chose to establish the first settlement.”** 
 
