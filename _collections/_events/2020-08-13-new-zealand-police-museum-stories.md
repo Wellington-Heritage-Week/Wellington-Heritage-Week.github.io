@@ -16,7 +16,7 @@ host:
   email: "museum@police.govt.nz "
   website: https://www.police.govt.nz/about-us/history-museum/museum/about-museum
 tag:
-  - Tues 27 Oct
+  - Tour
 ---
 **Come and explore the New Zealand Police Museum with a special Wellington Heritage Week exclusive tour, delving into the police history of the Wellington region.** 
 
