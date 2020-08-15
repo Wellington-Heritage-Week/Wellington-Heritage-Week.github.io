@@ -14,7 +14,7 @@ host:
     just before Christmas 2013 just for animals.
   website: https://www.spca.nz/centre/wellington-centre
 tag:
-  - Fri 30 Oct
+  - Tour
 ---
 **Did you hear that strange creak? Did that rattle leave your hair standing on end? If you’re ready to go beyond the normal and hear or see something mysterious, come and join us for a ghost investigation at our SPCA Wellington Centre!**
 
