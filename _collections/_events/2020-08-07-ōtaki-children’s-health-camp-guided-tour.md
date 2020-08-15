@@ -15,7 +15,7 @@ host:
     building, and as the site of a socially significant institution, the Otaki
     Children’s  Health Camp. "
 tag:
-  - Sat 31 Oct
+  - Tour
 ---
 **The Otaki Children’s Health Camp was opened in 1932 as the first permanent children’s health camp in New Zealand and the buildings and site have been accorded an A1 classification by Heritage New Zealand.** 
 
