@@ -14,7 +14,7 @@ host:
     publicity initiatives and establishing links with similar groups in the
     arts, literary and local communities.
 tag:
-  - Sun 1 Nov
+  - Open Day
 ---
 **Combined Open Days at Randell Cottage, Lilburn House and the Rita Angus Cottage - the homes of New Zealand writers, composers, and artists.**
 
