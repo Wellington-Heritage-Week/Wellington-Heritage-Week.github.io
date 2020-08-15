@@ -10,7 +10,7 @@ host:
   blurb: Our Purpose is to advocate for and develop the heritage and ecological
     values of Karori Cemetery, and to assist with grave/plot restoration
 tag:
-  - Mon 26 Oct
+  - Tour
 ---
 **Join the Friends of Karori Cemetery on themed tours throughout the week.** 
 
