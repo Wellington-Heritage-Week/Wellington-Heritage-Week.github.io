@@ -17,7 +17,7 @@ host:
   email: peteblackler64@gmail.com
   phone: 04 904 3323
 tag:
-  - Mon 26 Oct
+  - Tour
 ---
 **Tour vintage machines and test your operating skills at Wellington Vintage Machinery Incorporated.**
 
