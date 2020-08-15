@@ -13,7 +13,7 @@ host:
   website: https://www.french.co.nz/
   phone: 04 472 1272
 tag:
-  - Sat 31 Oct
+  - Open Day
 ---
 **Over a century of French language and culture in the heart of Wellington.**
 
