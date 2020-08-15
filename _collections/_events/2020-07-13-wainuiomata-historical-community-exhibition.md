@@ -12,7 +12,7 @@ host:
   phone: 027 208 3836
   email: wholenesswithestelle@yahoo.co.nz
 tag:
-  - Thurs 29 Oct
+  - Exhibition
 ---
 **Inspire Art Gallery in collaboration with Wainuiomata Museum and the local Wainuiomata community, will be displaying items of historical value belonging and collected by locals about Wainuiomata’s rich history.** 
 
