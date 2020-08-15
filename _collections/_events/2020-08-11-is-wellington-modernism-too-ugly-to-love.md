@@ -12,7 +12,7 @@ host:
   website: https://historicplaceswellington.org/
   email: wgtn@historicplacesaotearoa.org.nz
 tag:
-  - Wed 28 Oct
+  - Talk & Film
 ---
 **The event features two prominent New Zealand architects: Bill McKay and Ken Davis. By looking at a range of mid-century Wellington modernist buildings, the speakers will consider whether they're too ugly to love or simply misunderstood.** 
 
