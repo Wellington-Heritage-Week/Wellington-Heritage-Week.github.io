@@ -20,7 +20,7 @@ Established in 1891, Karori Cemetery is New Zealand's second largest burial grou
 
 <u>Family Research and Small Chapel Open Day</u>
 
-<BLOCKQUOTE>
+<DD>
 
 *10am-3pm Monday 26 Oct* & Sun 1 Nov
 
@@ -32,7 +32,7 @@ Suitable for 5+ years, with a reward for everyone who participates.
 
 Free. No booking required.
 
-</BLOCKQUOTE>
+</DD>
 
 <u>Introduction to Karori Cemetery</u>
 
