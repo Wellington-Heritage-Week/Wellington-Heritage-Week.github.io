@@ -13,7 +13,7 @@ host:
   name: Mountains to Sea Wellington
   website: www.mountainstoseawellington.org
 tag:
-  - Sat 31 Oct
+  - Tour
 ---
 **Mountains to Sea Wellington invites you to connect with the natural heritage around Percy’s Reserve. Join us to investigate the fish and invertebrates that reside within the freshwater environment of the reserve.** 
 
