@@ -12,7 +12,7 @@ host:
     town and tell its stories.
   name: Petone Historical Society
 tag:
-  - Sat 31 Oct
+  - Tour
 ---
 **Join the Petone Historical Society on a tour along historic Patrick Street, Petone.** 
 
