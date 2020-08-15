@@ -13,7 +13,7 @@ host:
     of research, community awareness and in the promotion of appropriate site
     investigation procedures.
 tag:
-  - Sat 31 Oct
+  - Tour
 ---
 **Maritime Archaeology Association of New Zealand (MAANZ) in conjunction with the Maritime Heritage Trust of Wellington (MHT) offer a public tour of the floating crane *Hikitia* moored at Taranaki Street Wharf.**
 
