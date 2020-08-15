@@ -34,9 +34,8 @@ Free. No booking required.<br>
 
 </DD>
 
-<u>Introduction to Karori Cemetery</u>
-
-<BLOCKQUOTE>
+<u><BLOCKQUOTE>Introduction to Karori Cemetery
+</BLOCKQUOTE></u>
 
 *10:30am, 12:30pm, & 2pm Monday 26 Oct*
 
@@ -44,7 +43,6 @@ The Friends will take you on an easy walking, 1 hour long introductory tour of t
 
 The tours are free and do not require booking.
 
-</BLOCKQUOTE>
 
 <u>Off the Beaten Track</u>
 
