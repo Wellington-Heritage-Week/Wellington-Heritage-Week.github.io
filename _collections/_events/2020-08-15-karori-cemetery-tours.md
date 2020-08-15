@@ -34,8 +34,8 @@ Free. No booking required.<br>
 
 </DD>
 
-<u><BLOCKQUOTE>Introduction to Karori Cemetery
-</BLOCKQUOTE></u>
+<BLOCKQUOTE> <u>Introduction to Karori Cemetery
+</u> </BLOCKQUOTE>
 
 *10:30am, 12:30pm, & 2pm Monday 26 Oct*
 
