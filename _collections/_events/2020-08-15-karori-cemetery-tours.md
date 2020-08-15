@@ -12,13 +12,15 @@ host:
 tag:
   - Mon 26 Oct
 ---
-Join the Friends of Karori Cemetery on themed tours throughout the week. 
+**Join the Friends of Karori Cemetery on themed tours throughout the week.** 
 
 Established in 1891, Karori Cemetery is New Zealand's second largest burial ground, covering nearly 40 hectares. It was the final resting place of about 83,000 people. Today, it is a wealth of Wellington history and a peaceful place to visit. 
 
 **Tour Programme**
 
 <u>Family Research and Small Chapel Open Day</u>
+
+**<BLOCKQUOTE>**
 
 *10am-3pm Monday 26 Oct* & Sun 1 Nov
 
@@ -30,7 +32,11 @@ Suitable for 5+ years, with a reward for everyone who participates.
 
 Free. No booking required.
 
+**</BLOCKQUOTE>**
+
 <u>Introduction to Karori Cemetery</u>
+
+**<BLOCKQUOTE>**
 
 *10:30am, 12:30pm, & 2pm Monday 26 Oct*
 
@@ -38,7 +44,11 @@ The Friends will take you on an easy walking, 1 hour long introductory tour of t
 
 The tours are free and do not require booking.
 
+**</BLOCKQUOTE>**
+
 <u>Off the Beaten Track</u>
+
+**<BLOCKQUOTE>**
 
 *12:30pm Monday 26 Oct & 10:30am Sun 1 Nov*
 
@@ -48,7 +58,11 @@ Tours cost $10 per person (children under 12 free), good dogs on leads welcome.
 
 Tour must be booked via friendsofkaroricemeterytour@gmail.com All other activities are free.
 
+**</BLOCKQUOTE>**
+
 <u>Murder & Mayhem</u>
+
+**<BLOCKQUOTE>**
 
 *10:30am Wed 28 Oct*
 
@@ -56,7 +70,11 @@ This popular tour visits the graves of a number of people associated with murder
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
+**</BLOCKQUOTE>**
+
 <u>Heroines & Housewives</u>
+
+**<BLOCKQUOTE>**
 
 *10:30am Wed 28 Oct*
 
@@ -64,13 +82,19 @@ A selection of suffragists, educationalists, reformers and artists, as well as a
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
+**</BLOCKQUOTE>**
+
 <u>First Catholics</u>
+
+**<BLOCKQUOTE>**
 
 *10:30am Sun 1 Nov*
 
 A new tour, being launched on All Saints Day. 1.5 hours duration, easy walking. Includes a visit to Catholic Orders (Marists, Sisters of Mercy, Sisters of Compassion) as well as notable Catholic citizens buried during the first few years the cemetery was open.
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
+
+**</BLOCKQUOTE>**
 
 <br>
 
