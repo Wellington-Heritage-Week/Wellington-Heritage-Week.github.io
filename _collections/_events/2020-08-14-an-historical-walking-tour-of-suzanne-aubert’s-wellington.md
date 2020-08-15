@@ -15,7 +15,7 @@ host:
   phone: (04) 282 1953
   website: https://compassion.org.nz/
 tag:
-  - Tues 27 Oct
+  - Tour
 ---
 **Follow the footsteps of Suzanne Aubert, Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.** 
 
