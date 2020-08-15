@@ -15,7 +15,7 @@ host:
     Zealand and the South Pacific.
   name: Sisters of Compassion
 tag:
-  - Sun 1 Nov
+  - Open Day
 ---
 **Discover the historic Home of Compassion in the hills of Island Bay and hear inspiring stories of Suzanne Aubert and the Sisters of Compassion, and tour the chapel, and the resting place of Suzanne Aubert.** 
 
