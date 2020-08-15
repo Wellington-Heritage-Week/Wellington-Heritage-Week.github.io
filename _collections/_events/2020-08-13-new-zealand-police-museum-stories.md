@@ -3,7 +3,7 @@ layout: post
 title: New Zealand Police Museum Stories
 location: Porirua City
 img: /assets/uploaded/wellington-police-museum-whw20.jpg
-event_date: 10:30am Tues 27 Oct & Fri 30 Oct
+event_date: 10:30am Tues 27 & Fri 30 Oct
 host:
   name: "New Zealand Police Museum "
   blurb: "The New Zealand Police Museum tells the stories of the New Zealand
