@@ -14,7 +14,7 @@ host:
     people with the past by bringing back long-gone objects, people, and more.
   name: Hiamo
 tag:
-  - Mon 26 Oct
+  - Tour
 ---
 **Join Hiamo on a walking tour of the Wellington waterfront, where we will explore the events surrounding the sinking of the passenger ferry, T.E.V Wahine, in Augmented Reality (AR).**
 
