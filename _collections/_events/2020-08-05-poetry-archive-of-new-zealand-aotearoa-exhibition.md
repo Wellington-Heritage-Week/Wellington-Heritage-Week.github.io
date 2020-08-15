@@ -15,7 +15,7 @@ host:
   phone: 04 475 8042
   website: https://poetryarchivenz.wordpress.com/
 tag:
-  - Mon 26 Oct
+  - Exhibition
 ---
 **What has poetry NZ Aotearoa achieved in the last 380 years? See it all on display at the Poetry Archive of New Zealand Aotearoa.**
 
