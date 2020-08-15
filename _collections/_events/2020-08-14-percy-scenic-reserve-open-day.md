@@ -10,7 +10,7 @@ host:
   blurb: Percy Scenic Reserve is open all day, every day, all year round. The car
     park is open from dawn to dusk every day.
 tag:
-  - Sat 31 Oct
+  - Open Day
 ---
 **Come celebrate Percy Scenic Reserve’s historic and botanic legacy at our open day.** 
 
