@@ -13,7 +13,7 @@ host:
     Zealand, Samoa and the Cook Islands. The current Ambassador is Ms Sylvaine
     Carta-Le Vert.
 tag:
-  - Fri 30 Oct
+  - Tour
 ---
 **Visit the home of the French Ambassador while posted in New Zealand. This villa was built in the 19th century and purchased by the Republic of France in 1999.**
 
