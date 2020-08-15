@@ -3,7 +3,7 @@ layout: post
 title: Engineering for Earthquakes – Guided City Walks
 location: Wellington City
 img: /assets/uploaded/engineering-new-zealand-tour-dixon-victoria-whw20.jpg
-event_date: 6pm Thurs 29 Oct & 1:30pm Sat 31st Oct
+event_date: 6pm Thurs 29 & 1:30pm Sat 31st Oct
 host:
   email: upchurmich@myvuw.ac.nz
   blurb: This event is organised by Adrian Ferguson (WelTec) and local engineering
