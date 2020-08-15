@@ -17,7 +17,7 @@ host:
     researchers.
   phone: 04 562 8880
 tag:
-  - Fri 30 Oct
+  - Tour
 ---
 **Join the Historical Society of Eastbourne on a guided walk of the Eastbourne Heritage Trail.  A guide will explain the stories of the community and its past.** 
 
