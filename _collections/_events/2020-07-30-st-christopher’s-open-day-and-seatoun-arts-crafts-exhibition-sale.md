@@ -13,7 +13,7 @@ host:
     the owners so that they can continue to be enjoyed by the Te Motu Kairangi
     Community and beyond. "
 tag:
-  - Sat 31 Oct
+  - Open Day
 ---
 **Two splendid days available to wander through St Christopher’s a beautiful Romanesque Revival style church and then pop next door and enjoy the annual Seatoun Art and Crafts Exhibition and Sale.**
 
