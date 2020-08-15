@@ -28,7 +28,7 @@ Attendees can also explore the cottage during their visit.
 
 *We encourage everyone to sign in with our QR-code- or sign the register provided- and use the hand sanitiser provided.*
 
-<br>
+<br> 
 
 **No booking is required**
 
