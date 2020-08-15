@@ -24,6 +24,8 @@ May Maud Banks, who lost her brother, 2nd Lieutenant Henry Dunbar Banks, regimen
 
 The display will tell their stories because it is close to Armistice Day on November 11.
 
+Attendees can also explore the cottage during their visit. 
+
 *We encourage everyone to sign in with our QR-code- or sign the register provided- and use the hand sanitiser provided.*
 
 <br>
