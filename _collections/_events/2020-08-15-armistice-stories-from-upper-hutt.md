@@ -30,6 +30,8 @@ Attendees can also explore the cottage during their visit.
 
 <br>
 
+**No booking is required**
+
 **Location:** 707 Fergusson Drive, Elderslea, UPPER HUTT 5018
 
 **Cost:** $5 adults, $3 school-age children, under 5s free entry. No eftpos available 
