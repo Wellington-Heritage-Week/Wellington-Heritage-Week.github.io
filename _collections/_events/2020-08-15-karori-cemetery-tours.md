@@ -47,9 +47,7 @@ The tours are free and do not require booking.
 
 Explore some of the lesser known tracks around the cemetery, with stories from behind the headstones along the way. For people with moderate fitness.
 
-Tours cost $10 per person (children under 12 free), good dogs on leads welcome. 
-
-Tour must be booked via friendsofkaroricemeterytour@gmail.com All other activities are free.
+$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
 <br>
 
