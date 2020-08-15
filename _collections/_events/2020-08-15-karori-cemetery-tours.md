@@ -22,15 +22,15 @@ Established in 1891, Karori Cemetery is New Zealand's second largest burial grou
 
 <DD>
 
-*10am-3pm Monday 26 Oct* & Sun 1 Nov
+*10am-3pm Monday 26 Oct & Sun 1 Nov* <br>
 
-Friends of Karori Cemetery will be at the Shelter from 10.00am until 3.00pm on Monday and Sunday, to assist people searching for family plots and provide information about the cemetery. 
+Friends of Karori Cemetery will be at the Shelter from 10.00am until 3.00pm on Monday and Sunday, to assist people searching for family plots and provide information about the cemetery. <br>
 
-The Small Chapel will also be open between 10am and 12:30pm, for visitors to view the interior and especially the stained glass windows which are superb examples of the work of the An Tur Gloine workshop in Dublin. Throughout the day children can safely explore a designated area (accompanied at all times by an adult caregiver) to complete a quiz. 
+The Small Chapel will also be open between 10am and 12:30pm, for visitors to view the interior and especially the stained glass windows which are superb examples of the work of the An Tur Gloine workshop in Dublin. Throughout the day children can safely explore a designated area (accompanied at all times by an adult caregiver) to complete a quiz. <br>
 
-Suitable for 5+ years, with a reward for everyone who participates.
+Suitable for 5+ years, with a reward for everyone who participates.<br>
 
-Free. No booking required.
+Free. No booking required.<br>
 
 </DD>
 
