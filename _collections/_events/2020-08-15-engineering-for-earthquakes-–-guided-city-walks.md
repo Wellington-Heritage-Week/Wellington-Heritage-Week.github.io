@@ -14,7 +14,7 @@ host:
     of Wellington's Museum & Heritage Practice
   phone: 021 213 1942
 tag:
-  - Thurs 29 Oct
+  - Tour
 ---
 **Join engineering experts on two guided walking tours through Wellington's seismic past, where the hidden stories of familiar buildings will be told through advancements in engineering ingenuity.** 
 
