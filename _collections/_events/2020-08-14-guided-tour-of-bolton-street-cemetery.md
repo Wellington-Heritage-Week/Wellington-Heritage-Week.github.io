@@ -12,7 +12,7 @@ host:
     volunteers, some living in the neighbourhood and some are descendants of
     people buried in the cemetery.
 tag:
-  - Mon 26 Oct
+  - Tour
 ---
 **This is a special opportunity to learn about Wellington’s first cemetery and the history of early buildings that were once within it.** 
 
