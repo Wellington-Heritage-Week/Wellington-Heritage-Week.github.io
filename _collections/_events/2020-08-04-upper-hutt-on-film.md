@@ -12,7 +12,7 @@ host:
   blurb: We have three community library services. In Fergusson Drive, Pinehaven
     Road and our Mobile Library which makes regular stops around Upper Hutt.
 tag:
-  - Sat 31 Oct
+  - Talk & Film
 ---
 *Upper Hutt on Screen: a programme of short Upper Hutt historical films and videos*
 
