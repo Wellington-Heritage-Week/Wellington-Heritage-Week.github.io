@@ -14,7 +14,7 @@ host:
     benefits to our country, and awareness of its importance to national
     identity. "
 tag:
-  - Mon 26 Oct
+  - Open Day
 ---
 **Atop its grand hill, Antrim House sits proudly among the towering office buildings and student halls of Boulcott Street. Did you know that Heritage New Zealand Pouhere Taonga’s national office was once a boarding house?**
 
