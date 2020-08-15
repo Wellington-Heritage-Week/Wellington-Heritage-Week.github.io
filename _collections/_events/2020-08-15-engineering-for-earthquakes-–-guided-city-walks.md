@@ -55,3 +55,5 @@ Each tour explores a different part of the city – one looking at locations aro
 **Contact:** upchurmich@myvuw.ac.nz, 021 213 1942
 
 **Accessibility:** The tour will involve walking through public spaces around the city so normal pedestrian hazards are expected. At least two hosts and two stewards will lead each party and help guide participants around any hazards.
+
+<iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/CAY3csUJ2TS/embed/captioned/?cr=1&amp;v=12&amp;wp=1080&amp;rd=https%3A%2F%2Fwellingtonheritageweek.co.nz&amp;rp=%2Fevent%2Fwainuiomata-historical-community-exhibition%2F#%7B%22ci%22%3A0%2C%22os%22%3A310.95499999355525%2C%22ls%22%3A164.63500005193055%2C%22le%22%3A184.0500000398606%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="756" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white;max-width: 540px;width: calc(100% - 3px);border-radius: 3px;border: 1px solid rgb(219, 219, 219);box-shadow: none;display: block;margin: 0px 0px 12px;min-width: 290px;padding: 0px;"></iframe>
