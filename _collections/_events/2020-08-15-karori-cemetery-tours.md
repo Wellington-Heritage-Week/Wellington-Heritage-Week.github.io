@@ -41,7 +41,7 @@ The Friends will take you on an easy walking, 1 hour long introductory tour of t
 
 The tours are free and do not require booking.
 
-
+<br>
  
 <BLOCKQUOTE> <u>Off the Beaten Track</u> </BLOCKQUOTE>
 
@@ -57,21 +57,23 @@ Tour must be booked via friendsofkaroricemeterytour@gmail.com All other activiti
 
 <BLOCKQUOTE> <u>Murder & Mayhem</u> </BLOCKQUOTE>
 
-
 *10:30am Wed 28 Oct*
 
 This popular tour visits the graves of a number of people associated with murder and it's aftermath.
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
 
-<BLOCKQUOTE> <u>Heroines & Housewives</u> </BLOCKQUOTE>
+<br>
 
+<BLOCKQUOTE> <u>Heroines & Housewives</u> </BLOCKQUOTE>
 
 *10:30am Wed 28 Oct*
 
 A selection of suffragists, educationalists, reformers and artists, as well as a few ordinary women who had extraordinary things happen in their lives.
 
 $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
+
+<br>
 
 <BLOCKQUOTE> <u>First Catholics</u> </BLOCKQUOTE>
 
