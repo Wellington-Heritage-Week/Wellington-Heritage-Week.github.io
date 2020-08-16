@@ -15,7 +15,7 @@ tag:
 ---
 **“How hard is it to escape from places. However carefully one goes they hold you – you leave little bits of yourself fluttering on the fences – like rags and shreds of your very life.” Katherine Mansfield in a letter to Ida Baker, 1922**
 
-Explore the Thorndon that Katherine Mansfield knew and the traces of her legacy that remain in the landscape today. Beginning with a short introductory talk at Katherine Mansfield House & Garden, the guided walking tour will include a visit to the architecturally impressive Parliamentary Library where Mansfield spent many afternoons reading, and finish at the National Library for a special viewing of Mansfield-related objects from the Alexander Turnbull Library’s collection.
+Explore the Thorndon that Katherine Mansfield knew and the traces of her legacy that remain in the landscape today. Beginning with a short introductory talk at Katherine Mansfield House & Garden, this guided walking tour will include a visit to the architecturally impressive Parliamentary Library where Mansfield spent many afternoons reading, and finish at the National Library for a special viewing of Mansfield-related objects from the Alexander Turnbull Library’s collection.
 
 A collaboration between Katherine Mansfield House & Garden and the National Library Te Puna Mātauranga o Aotearoa. With thanks to Thorndon School Te Kura o Pipitea, Old St Paul’s and Parliamentary Service Te Ratonga Whare Pāremata.
 
@@ -27,7 +27,9 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 **[Click Here to Book](https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour)**
 
-*Image: ‘Thorndon, Wellington c1888. Photographed by Frederick Halse. Alexander Turnbull Library: 12-004075-G’*
+*Image: ‘Thorndon, Wellington c1888. Photographed by Frederick Halse. Alexander Turnbull Library: 12-004075-G’* <https://natlib.govt.nz/records/23128267>
+
+<!--EndFragment-->
 
 <br>
 
@@ -35,7 +37,7 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 **Location:** Meet at Katherine Mansfield House & Garden, 25 Tinakori Road, Thorndon, Wellington 6011
 
-**Cost:** $12 (includes admission to Katherine Mansfield House & Garden and refreshments at the end of the tour 
+**Cost:** $12 (includes admission to Katherine Mansfield House & Garden and refreshments at the end of the tour)
 
 **Duration:** Each tour is two-hours
 
