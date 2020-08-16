@@ -18,7 +18,7 @@ host:
 tag:
   - Tour
 ---
-*Tū tama roto, tū tama waho ;  To know oneself, is to know others.* 	
+*Tū tama roto, tū tama waho;  To know oneself, is to know others.* 	
 
 **Experience our people, places and stories: Te Wharewaka o Pōneke Wellington Heritage Week Waka experience will allow you to discover and connection. Learn more about Wellington’s rich Māori history through an interactive waka tour and storytelling.**
 
@@ -34,7 +34,7 @@ Discover why Wellington is fast becoming a convergence point of traditional and 
 
 <br>
 
-**Bookings Essential. Min 12 pax Max 18pax per tour.**
+**Bookings Essential. Minimum 12 people per tour. Maximum 18 people per tour.**
 
 **Location:** Wharewaka o Pōneke 2 Taranaki St, Whairepo Lagoon Wellington Waterfront
 
