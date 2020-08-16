@@ -28,7 +28,7 @@ Maximum of 20 people per tour.
 
 Tours hosted 1pm and 4pm on Monday 26 October and Sunday 1 November. 
 
-**Click Here to Book**
+**[Click Here to Book](https://www.eventfinda.co.nz/2020/the-wahine-disaster-augmented-reality-storytelling/wellington)**
 
 <br>
 
