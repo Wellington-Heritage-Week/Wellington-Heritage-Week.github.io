@@ -18,7 +18,7 @@ host:
 tag:
   - Tour
 ---
-*Tū tama roto, tū tama waho ;  To know oneself, is to know others.* 	
+*Tū tama roto, tū tama waho;  To know oneself, is to know others.* 	
 
 **Experience our people, places and stories: Te Wharewaka o Pōneke Wellington Heritage Week Waka experience will allow you to discover and connection. Learn more about Wellington’s rich Māori history through an interactive waka tour and storytelling.**
 
