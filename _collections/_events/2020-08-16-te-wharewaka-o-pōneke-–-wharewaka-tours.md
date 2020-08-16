@@ -28,6 +28,8 @@ An experience not found in any other Capital City in the World.
 
 Discover why Wellington is fast becoming a convergence point of traditional and contemporary biculturalism, pathing the way for future generations.
 
+*Tours also run on Saturday 24th October and Sunday 25th October*
+
 **[Click Here to Book](https://wharewakatours.maori.nz/booking-form/)**
 
 <br>
