@@ -33,7 +33,7 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 **Booking is required.** 
 
-**Location:** 
+**Location:** Meet at Katherine Mansfield House & Garden, 25 Tinakori Road, Thorndon, Wellington 6011
 
 **Cost:** $12 (includes admission to Katherine Mansfield House & Garden and refreshments at the end of the tour 
 
@@ -42,7 +42,5 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 **Contact:** info@katherinemansfield.com, (04) 473 7268
 
 **Accessibility:** This is a guided walking tour which will involve approx. 30 minutes of walking on flat ground with frequents stops. Participants are encouraged to wear comfortable shoes and bring appropriate protection from sun and rain. If you have accessibility requirements, please contact Katherine Mansfield House & Garden to discuss
-
-
 
 <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/CC2PnQEsObG/embed/captioned/?cr=1&amp;v=12&amp;wp=1080&amp;rd=https%3A%2F%2Fwellingtonheritageweek.co.nz&amp;rp=%2Fevent%2Fwainuiomata-historical-community-exhibition%2F#%7B%22ci%22%3A0%2C%22os%22%3A310.95499999355525%2C%22ls%22%3A164.63500005193055%2C%22le%22%3A184.0500000398606%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="756" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white;max-width: 540px;width: calc(100% - 3px);border-radius: 3px;border: 1px solid rgb(219, 219, 219);box-shadow: none;display: block;margin: 0px 0px 12px;min-width: 290px;padding: 0px;"></iframe>
