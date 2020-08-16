@@ -18,7 +18,7 @@ tag:
 ---
 **Join engineering experts on two guided walking tours through Wellington's seismic past, where the hidden stories of familiar buildings will be told through advancements in engineering ingenuity.** 
 
-As Wellington has grown and developed, so has our understanding of the impact of earthquakes on buildings. Approaches to earthquake strengthening are varied, and many of our significant buildings have undergone various iterations of seismic resilience upgrades to protect them. The walks will include buildings you pass every day and will uncover "how did they do that" feats of engineering. 
+As Wellington has grown and developed, so has our understanding of the impact of earthquakes on buildings. Approaches to earthquake strengthening are varied, and many of our significant buildings have undergone various iterations of seismic resilience upgrades to protect them. The walks will include buildings you pass every day and will uncover "how did they do that?" feats of engineering. 
 
 Historically, New Zealand in general and Wellington, in particular, has been one of the epicentres of earthquake engineering technology, research and development. The tour will reveal evidence of different generations of development and implementation, often hiding in plain sight. 
 
@@ -28,9 +28,9 @@ Each tour explores a different part of the city – one looking at locations aro
 
 <u>Tour Programme:</u>
 
-**Te Papa & Te Aro:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive
+**Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
 
-**Parliament & CBD:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
+**Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive
 
 <br>
 
