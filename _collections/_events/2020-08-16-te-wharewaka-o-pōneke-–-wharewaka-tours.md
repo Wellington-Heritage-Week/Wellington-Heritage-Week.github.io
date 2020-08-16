@@ -34,7 +34,7 @@ Discover why Wellington is fast becoming a convergence point of traditional and 
 
 <br>
 
-**Bookings Essential. Min 12 pax Max 18pax per tour.**
+**Bookings Essential. Minimum 12 people per tour. Maximum 18 people per tour.**
 
 **Location:** Wharewaka o Pōneke 2 Taranaki St, Whairepo Lagoon Wellington Waterfront
 
