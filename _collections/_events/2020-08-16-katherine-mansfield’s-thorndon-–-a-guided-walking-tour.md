@@ -29,8 +29,6 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 *Image: ‘Thorndon, Wellington c1888. Photographed by Frederick Halse. Alexander Turnbull Library: 12-004075-G’* <https://natlib.govt.nz/records/23128267>
 
-<!--EndFragment-->
-
 <br>
 
 **Booking is required.** 
