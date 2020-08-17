@@ -18,8 +18,6 @@ Discover the museum’s architectural features and gain insight into the buildin
 
 Even for seasoned visitors, this tour offers the rare chance to hear about how Te Papa’s history reflects our evolving national identity, and the role it plays in caring for our shared cultural heritage.
 
-Numbers are limited for each tour, so please book ahead.
-
 The tour is free; koha is appreciated but not required.
 
 Meet at the Information Desk, Level 2 in Te Papa, 55 Cable Street. 
@@ -32,16 +30,13 @@ Meet at the Information Desk, Level 2 in Te Papa, 55 Cable Street.
 
 **Sun 1 Nov: 11:30am**
 
-
-
-
 <br>
 
 **No booking is required**
 
 **Location:** Museum of New Zealand Te Papa Tongarewa 55 Cable Street, Te Aro, Wellington. Meet at the Information Desk, Level 2 – 55 Cable Street
 
-**Cost:** Fee / Koha
+**Cost:** Free / Koha
 
 **Duration:** 1 hour
 
