@@ -22,6 +22,16 @@ Numbers are limited for each tour, so please book ahead.
 
 The tour is free; koha is appreciated but not required.
 
+<u>Tour Programme</u>
+
+**Mon 26-Fri 30 Oct: 10:00am daily** 
+
+**Sat 31 Oct: 09:30am** 
+
+**Sun 1 Nov: 11:30am**
+
+**<br>**
+
 **Click Here to Book**
 
 <br>
