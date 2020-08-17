@@ -42,4 +42,4 @@ Tours hosted 1pm and 4pm on Monday 26 October and Sunday 1 November.
 
 **Contact:** contact@hiamo.nz, 027 860 9129
 
-**Accessibility:**
+**Accessibility:** the event is wheelchair accessible
