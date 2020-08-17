@@ -3,7 +3,7 @@ layout: post
 title: Engineering for Earthquakes – Guided City Walks
 location: Wellington City
 img: /assets/uploaded/engineering-new-zealand-tour-dixon-victoria-whw20.jpg
-event_date: 6pm Thurs 29 & 1:30pm Sat 31st Oct
+event_date: 6pm Thurs 29 & 1:30pm Sat 31 Oct
 host:
   email: upchurmich@myvuw.ac.nz
   blurb: This event is organised by Adrian Ferguson (WelTec) and local engineering
@@ -22,15 +22,17 @@ As Wellington has grown and developed, so has our understanding of the impact of
 
 Historically, New Zealand in general and Wellington, in particular, has been one of the epicentres of earthquake engineering technology, research and development. The tour will reveal evidence of different generations of development and implementation, often hiding in plain sight. 
 
+While the walks will cover the history and present condition of recognisable and unfamiliar buildings and locations, they should also inspire attendees to think about the future of the city.
+
 Each tour explores a different part of the city – one looking at locations around Te Papa and Te Aro, the other covering locations close to Parliament. 
 
 <br>
 
 <u>Tour Programme:</u>
 
-**Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
-
 **Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive
+
+**Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
 
 <br>
 
@@ -41,6 +43,8 @@ Each tour explores a different part of the city – one looking at locations aro
 *For anyone unable to attend, a mobile, self-guided version of the tours will be made available via STQRY.*
 
 *Limited to 20 per tour.* 
+
+*Image credit: Stephanie So*
 
 <br>
 
