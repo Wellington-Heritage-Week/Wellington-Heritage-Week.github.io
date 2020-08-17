@@ -22,6 +22,8 @@ Numbers are limited for each tour, so please book ahead.
 
 The tour is free; koha is appreciated but not required.
 
+Meet at the Information Desk, Level 2 in Te Papa, 55 Cable Street. 
+
 <u>Tour Programme</u>
 
 **Mon 26-Fri 30 Oct: 10:00am daily** 
@@ -30,20 +32,19 @@ The tour is free; koha is appreciated but not required.
 
 **Sun 1 Nov: 11:30am**
 
-**<br>**
 
-**Click Here to Book**
+
 
 <br>
 
-**Booking is required**
+**No booking is required**
 
-**Location:** Museum of New Zealand Te Papa Tongarewa 55 Cable Street, Te Aro, Wellington
+**Location:** Museum of New Zealand Te Papa Tongarewa 55 Cable Street, Te Aro, Wellington. Meet at the Information Desk, Level 2 – 55 Cable Street
 
 **Cost:** Fee / Koha
 
 **Duration:** 1 hour
 
-**Contact:** Emma.Ng@tepapa.govt.nz
+**Contact:** tours@tepapa.govt.nz
 
 **Accessibility:** Please email ahead if you have mobility requirements
