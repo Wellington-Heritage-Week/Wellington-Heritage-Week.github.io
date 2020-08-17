@@ -32,7 +32,7 @@ Meet at the Information Desk, Level 2 in Te Papa, 55 Cable Street.
 
 <br>
 
-**No booking is required**
+**No booking is required. Subject to availability.** 
 
 **Location:** Museum of New Zealand Te Papa Tongarewa 55 Cable Street, Te Aro, Wellington. Meet at the Information Desk, Level 2 – 55 Cable Street
 
