@@ -12,7 +12,7 @@ host:
 tag:
   - Tour
 ---
-**Join the Friends of Karori Cemetery on themed tours throughout the week.** 
+**Join the Friends of Karori Cemetery on Open Days and themed tours throughout the week.** 
 
 Established in 1891, Karori Cemetery is New Zealand’s second largest burial ground, covering nearly 40 hectares. It is the final resting place of more than 85,000 people. Today, it is Wellington’s largest heritage site and a peaceful place to visit. See the activities programme below.
 
