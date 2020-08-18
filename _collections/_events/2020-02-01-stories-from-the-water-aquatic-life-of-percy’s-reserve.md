@@ -2,7 +2,7 @@
 layout: post
 title: "Stories from the Water: Aquatic Life of Percy’s Reserve"
 location: Lower Hutt
-img: /assets/uploaded/mountains-to-sea.jpg
+img: /assets/uploaded/mountains-to-sea-whw20.jpg
 event_date: 10am - 4pm Sat 31 Oct
 host:
   email: freshwater@mtsw.org.nz
