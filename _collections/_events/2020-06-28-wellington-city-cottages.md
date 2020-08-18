@@ -5,7 +5,7 @@ location: Wellington City
 description: Wellington City Accommodation offers renovated heritage-listed
   cottages within easy walking distance to all key attractions. The cottages
   were constructed by Kate Tonks to house workers at the nearby brick factory.
-img: /assets/uploaded/tonks-2.jpg
+img: /assets/uploaded/wellington-city-cottages-whw20-2-.jpg
 event_date: Cottages from $70 per night
 hotel: true
 hotel_text: >-
