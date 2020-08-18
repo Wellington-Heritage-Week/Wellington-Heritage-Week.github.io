@@ -2,7 +2,7 @@
 layout: post
 title: Wellesley Boutique Hotel
 location: Wellington City
-img: /assets/uploaded/wellesley-boutique-hotel.jpg
+img: /assets/uploaded/wellesley-boutique-hotel-whw20.jpg
 event_date: Rooms from $202 per night
 hotel: true
 hotel_text: >-
