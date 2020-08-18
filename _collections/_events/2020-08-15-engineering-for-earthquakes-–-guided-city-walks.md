@@ -30,9 +30,15 @@ Each tour explores a different part of the city – one looking at locations aro
 
 <u>Tour Programme:</u>
 
-**Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive
+**Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive. 
+
+[Click Here to Book](https://www.eventfinda.co.nz/2020/engineering-for-earthquakes-guided-city-walk-from-beehive/wellington)
+
+<br>
 
 **Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
+
+[Click Here to Book](https://www.eventfinda.co.nz/2020/engineering-for-earthquakes-guided-city-walk-from-te-papa/wellington)
 
 <br>
 
@@ -48,7 +54,7 @@ Each tour explores a different part of the city – one looking at locations aro
 
 <br>
 
-**Booking is required. Email upchurmich@myvuw.ac.nz to book.** 
+**Booking is required.** 
 
 **Location:** Thurs 29 Oct tour, meet outside the Parliament Visitor Centre near the Beehive. Sat 31st Oct tour, meet on the forecourt outside the main entrance to Te Papa 
 
