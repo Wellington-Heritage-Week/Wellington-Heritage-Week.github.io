@@ -24,9 +24,11 @@ Our guides will also talk about the disruption caused by the construction of Wel
 
 Meet at the Seddon Memorial by Anderson Park.
 
+**Click Here to Book**
+
 <br>
 
-**No booking is required**
+**Bookings are Essential**
 
 **Location:** Meet at the Seddon Memorial by Anderson Park.
 
