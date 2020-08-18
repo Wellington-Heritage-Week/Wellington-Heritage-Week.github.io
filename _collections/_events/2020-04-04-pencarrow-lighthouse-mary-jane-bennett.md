@@ -30,7 +30,7 @@ Your booking will also get you a special discount on bike or eBike hire.
 
 <br> 
 
-**Booking is required**
+**Booking is required.Book by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event**
 
 **Location:** Eastbourne Library 38 Rimu Street Eastbourne (followed by a cycle trip to Pencarrow Lighthouse)
 
