@@ -2,7 +2,7 @@
 layout: post
 title: Guided Tour of Bolton Street Cemetery
 location: Wellington City
-img: /assets/uploaded/bolton-street-cemetery-whw20.png
+img: /assets/uploaded/bolton-street-cemetery-whw20-min.png
 event_date: 2pm Mon 26 & 5pm Tues 27 Oct
 host:
   name: Friends of the Bolton Street Cemetery
