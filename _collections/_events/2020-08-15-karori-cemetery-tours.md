@@ -2,7 +2,7 @@
 layout: post
 title: Karori Cemetery Tours
 location: Wellington City
-img: /assets/uploaded/karori-cemetery-tours-whw20.png
+img: /assets/uploaded/karori-cemetery-tours-whw20-min.png
 event_date: Various times Mon 26 - Sun 1 Oct
 host:
   name: Friends of Karori Cemetery
