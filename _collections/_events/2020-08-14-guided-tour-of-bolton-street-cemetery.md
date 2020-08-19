@@ -24,7 +24,7 @@ Our guides will also talk about the disruption caused by the construction of Wel
 
 Meet at the Seddon Memorial by Anderson Park.
 
-**Click Here to Book**
+**[Click Here to Book](https://www.eventfinda.co.nz/2020/guided-tour-of-bolton-street-cemetery/wellington)**
 
 <br>
 
