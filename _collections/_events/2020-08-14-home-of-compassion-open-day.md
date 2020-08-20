@@ -6,7 +6,7 @@ img: /assets/uploaded/home-of-compassion-original-building.png
 event_date: 10am - 3pm Sun 1 Nov
 host:
   phone: (04) 282 1953
-  email: heritagecentre@compassion.org.nz
+  email: visitorexperiencemanager@compassion.org.nz
   website: https://compassion.org.nz/
   blurb: The Sisters of Compassion, also known as the Daughters of Our Lady of
     Compassion, was founded by Suzanne Aubert at Jerusalem – Hiruhārama on the
@@ -39,13 +39,13 @@ Craft activities for children are provided.
 
 <br> 
 
-**Bookings essential for a visit to the Archives at 11am (limited to 10people). Book at heritagecentre@compassion.org.nz or (04) 282 1953**
+**Bookings essential for a visit to the Archives at 11am (limited to 10people). Book at visitorexperiencemanager@compassion.org.nz or (04) 282 1953**
 
 **Location:** 2 Rhine St, Island Bay, Wellington
 
 **Cost:** A koha to the work of the Sisters of Compassion is appreciated
 
-**Contact:** heritagecentre@compassion.org.nz, (04) 282 1953
+**Contact:** visitorexperiencemanager@compassion.org.nz, (04) 282 1953
 
 **Accessibility:** Participants are advised wear suitable footwear and clothing. Suncream will be available for participants
 
