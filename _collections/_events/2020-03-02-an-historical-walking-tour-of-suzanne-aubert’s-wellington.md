@@ -11,7 +11,7 @@ host:
     Whanganui River in 1892.  For more than a century the sisters have taught,
     nursed, and provided homes for children, the sick and the elderly in New
     Zealand and the South Pacific.
-  email: heritagecentre@compassion.org.nz
+  email: visitorexperiencemanager@compassion.org.nz
   phone: (04) 282 1953
   website: https://compassion.org.nz/
 tag:
@@ -35,7 +35,7 @@ Limited to 15 per tour.
 
 <br>
 
-**Booking is required. Email heritagecentre@compassion.org.nz or phone (04) 282 1953**
+**Booking is required. Email visitorexperiencemanager@compassion.org.nz **or phone (04) 282 1953**
 
 **Location:** Tour begins at Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
@@ -43,10 +43,8 @@ Limited to 15 per tour.
 
 **Duration:** 3 hours
 
-**Contact:** heritagecentre@compassion.org.nz or phone (04) 282 1953
+**Contact:** visitorexperiencemanager@compassion.org.nz or phone (04) 282 1953
 
 **Accessibility:** Participants are advised wear suitable footwear and clothing. Suncream will be available for participants
-
-
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsistersofcompassion%2F&tabs=timeline&width=350&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="350" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
