@@ -3,7 +3,7 @@ layout: post
 title: Armistice Stories from Upper Hutt
 location: Upper Hutt
 img: /assets/uploaded/golder-cottage-upper-hutt-whw20-min.png
-event_date: 1:30-4pm 26 Mon & Sat 31 Oct
+event_date: 1:30pm-4pm 26 Mon & Sat 31 Oct
 host:
   name: Golder Homestead Museum Trust
   blurb: The Golder Homestead Museum Trust, a volunteer group who run the
