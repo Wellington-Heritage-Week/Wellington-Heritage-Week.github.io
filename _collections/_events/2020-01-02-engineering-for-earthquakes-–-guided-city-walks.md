@@ -30,7 +30,7 @@ Each tour explores a different part of the city – one looking at locations aro
 
 <u>Tour Programme:</u>
 
-**Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive. 
+**SOLD OUT** - **Parliament & CBD:** 6pm Thursday 29 October. Meet outside the Parliament Visitor Centre near the Beehive. 
 
 **[Click Here to Book](https://www.eventfinda.co.nz/2020/engineering-for-earthquakes-guided-city-walk-from-beehive/wellington)**
 
