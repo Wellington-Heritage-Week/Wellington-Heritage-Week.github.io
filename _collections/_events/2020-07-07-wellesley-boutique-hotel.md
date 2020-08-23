@@ -18,7 +18,7 @@ availability_text: Rooms from $202 per night
 host:
   email: reception@wellesleyboutiquehotel.co.nz
   phone: 04 474 1300
-  name: Wellesley Boutique Hote
+  name: Wellesley Boutique Hotel
   blurb: The Wellesley Boutique Hotel is a category 1 heritage building. Step back
     in time in our beautifully appointed hotel. With only 13 rooms you are made
     to feel special.
