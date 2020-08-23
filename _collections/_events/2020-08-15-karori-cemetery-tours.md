@@ -6,7 +6,7 @@ img: /assets/uploaded/karori-cemetery-tours-whw20-min.png
 event_date: Various times Mon 26 Oct - Sun 1 Nov
 host:
   name: Friends of Karori Cemetery
-  email: friendsofkaroricemeterytour@gmail.com
+  email: "friendsofkaroricemeterytours@gmail.com "
   blurb: Our Purpose is to advocate for and develop the heritage and ecological
     values of Karori Cemetery, and to assist with grave/plot restoration
 tag:
@@ -49,7 +49,7 @@ The tours are free and do not require booking.
 
 Explore some of the lesser known tracks around the cemetery, with stories from behind the headstones along the way. For people with moderate fitness. 
 
-$10 per person (children under 12 free), places must be booked via email friendsofkaroricemeterytour@gmail.com
+$10 per person (children under 12 free), places must be booked via email friendsofkaroricemeterytours@gmail.com
 
 <br>
 
@@ -59,17 +59,17 @@ $10 per person (children under 12 free), places must be booked via email friends
 
 This popular tour visits the graves of a number of people associated with murder and it’s aftermath.
 
-$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
+$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
 
 <br>
 
 <BLOCKQUOTE> <u>Heroines & Housewives</u> </BLOCKQUOTE>
 
-*10:30am Wed 28 Oct*
+*1pm Wed 28 Oct*
 
 A selection of suffragists, educationalists, reformers and artists, as well as a few ordinary women who had extraordinary things happen in their lives.
 
-$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
+$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
 
 <br>
 
@@ -79,17 +79,17 @@ $10 per person (children under 12 free), places must be booked via emailing frie
 
 A new tour, being launched on All Saints Day. 1.5 hours duration, easy walking. Includes a visit to Catholic Orders (Marists, Sisters of Mercy, Sisters of Compassion) as well as notable Catholic citizens buried during the first few years the cemetery was open.
 
-$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytour@gmail.com
+$10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
 
 <br>
 
-**Some tours require booking. Check the above tour programme. Email friendsofkaroricemeterytour@gmail.com to book (Remember to state the tour and time). More information provided on enquiry.**
+**Some tours require booking. Check the above tour programme. Email friendsofkaroricemeterytours@gmail.com to book (Remember to state the tour and time). More information provided on enquiry.**
 
 **Location:** 76 Old Karori Road Karori
 
 **Cost:** Check price tours on the above tour programme
 
-**Contact:** friendsofkaroricemeterytour@gmail.com
+**Contact:** friendsofkaroricemeterytours@gmail.com
 
 **Accessibility:** Wear walking shoes. Some walks are on steep terrain and are not suitable for wheelchairs or those with other mobility issues.
 
