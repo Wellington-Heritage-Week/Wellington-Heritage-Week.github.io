@@ -16,7 +16,7 @@ hotel_text: >-
   Wellington City Accommodation offers renovated heritage-listed cottages within easy walking distance to all key attractions. The cottages were constructed by Kate Tonks to house workers at the nearby brick factory.
 
 
-  Each cottage includes a free car park, a full kitchen, laundry facilities, and more. 
+  Each cottage includes a free car park, a kitchen, laundry facilities, and more.
 availability_text: Cottages from $70 per night
 host:
   blurb: Wellington City Accommodation is a proud kiwi-owned family business
@@ -29,7 +29,7 @@ host:
 tag:
   - Hotel
 ---
-**Stay in renovated 1880s built cottages on Tonks Ave, near vibrant Cuba Street, Wellington.** 
+**Stay in renovated 1880s built cottages on Tonks Grove, near vibrant Cuba Street, Wellington.** 
 
 Wellington City Accommodation offers renovated heritage-listed cottages within easy walking distance to all key attractions. The cottages were constructed by Kate Tonks to house workers at the nearby brick factory. 
 
@@ -38,7 +38,7 @@ Each original building was constructed in the 1880s and was moved to allow const
 Each cottage comprises:
 
 * a Queen bed, with the optional of two additional guests via a double sofa bed;
-* A full kitchen with a microwave, stovetop, Nespresso machine and dishwasher plus crockery, cutlery and glassware;
+* A kitchen with a microwave, stovetop, Nespresso machine and dishwasher plus crockery, cutlery and glassware;
 * A modern bathroom with a great shower with all linen, towels and toiletries supplied;
 * A heat and air conditioning pump and double-glazing; 
 * A laundry, washer, and dryer;
