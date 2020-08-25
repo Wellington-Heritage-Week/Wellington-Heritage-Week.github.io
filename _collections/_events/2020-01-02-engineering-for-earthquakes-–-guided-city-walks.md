@@ -4,6 +4,7 @@ title: Engineering for Earthquakes – Guided City Walks
 location: Wellington City
 img: /assets/uploaded/engineering-new-zealand-tour-dixon-victoria-whw20.jpg
 event_date: 6pm Thurs 29 & 1:30pm Sat 31 Oct
+booked_out: true
 host:
   email: upchurmich@myvuw.ac.nz
   blurb: This event is organised by Adrian Ferguson (WelTec) and local engineering
@@ -36,7 +37,7 @@ Each tour explores a different part of the city – one looking at locations aro
 
 <br>
 
-**Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
+**SOLD OUT - Te Papa & Te Aro:** 1:30pm Saturday 31 Oct. Meet on the forecourt outside the main entrance to Te Papa 
 
 **[Click Here to Book](https://www.eventfinda.co.nz/2020/engineering-for-earthquakes-guided-city-walk-from-te-papa/wellington)**
 
