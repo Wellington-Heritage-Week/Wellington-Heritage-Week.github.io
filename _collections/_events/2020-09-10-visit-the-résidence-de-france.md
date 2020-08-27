@@ -4,6 +4,7 @@ title: Visit the Résidence de France
 location: Wellington City
 img: /assets/uploaded/whw-french-residence-2020a.jpg
 event_date: 10am-3pm Fri 30 Oct
+booked_out: true
 host:
   email: cooperation.wellington-amba@diplomatie.gouv.fr
   website: http://nz.ambafrance.org/-English-
