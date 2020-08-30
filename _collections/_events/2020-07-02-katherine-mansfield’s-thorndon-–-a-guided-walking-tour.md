@@ -23,7 +23,7 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 **Tuesday 27 October 10am-12pm** (wet weather postponement date Thursday 29 October 10am-12pm)
 
-**Saturday 31 October, 10am-12pm** (wet weather postponement date Saturday 7 November, 10am-12pm)
+**SOLD OUT - Saturday 31 October, 10am-12pm** (wet weather postponement date Saturday 7 November, 10am-12pm)
 
 **[Click Here to Book](https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour)**
 
