@@ -2,7 +2,7 @@
 layout: post
 title: Wainuiomata Historical Community Exhibition
 location: Lower Hutt
-img: /assets/uploaded/wainui-art-e-fbk-cover.jpg
+img: /assets/uploaded/wainuiomata-whw20.jpg
 event_date: 10am - 4pm Thurs 29 Oct - Sun 1 Nov
 host:
   name: Inspire Art Gallery & Wainuiomata Museum
