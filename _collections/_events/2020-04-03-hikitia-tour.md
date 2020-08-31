@@ -4,6 +4,7 @@ title: Hikitia Tour
 location: Wellington City
 img: /assets/uploaded/hikitia-whw20.jpg
 event_date: 10am - 12pm Sat 31 Oct
+booked_out: true
 host:
   email: maritimeheritagetrust@gmail.com
   phone: 021 618 402
