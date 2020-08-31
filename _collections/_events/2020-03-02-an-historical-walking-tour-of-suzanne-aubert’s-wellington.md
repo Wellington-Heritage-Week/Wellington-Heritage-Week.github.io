@@ -35,7 +35,7 @@ Limited to 15 per tour.
 
 <br>
 
-**Booking is required. Email visitorexperiencemanager@compassion.org.nz **or phone (04) 282 1953**
+**Booking is required. Email visitorexperiencemanager@compassion.org.nz or phone (04) 282 1953**
 
 **Location:** Tour begins at Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
