@@ -33,6 +33,8 @@ Sr Sue Cosgrove, Sisters of Compassion, will lead the tour.
 
 Limited to 15 per tour. 
 
+**The tour on Saturday 31 October is sold out! Tickets remain for Tuesday 27 October tour.** 
+
 <br>
 
 **Booking is required. Email visitorexperiencemanager@compassion.org.nz or phone (04) 282 1953**
