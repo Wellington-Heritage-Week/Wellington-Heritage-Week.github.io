@@ -4,6 +4,7 @@ title: Modern Wellington Walking Tour
 location: Wellington City
 img: /assets/uploaded/mod-wgtn-tour-2020.jpg
 event_date: 1pm Sun 1 Nov
+booked_out: true
 host:
   email: infocentral@heritage.org.nz
   phone: 04 494 8320
