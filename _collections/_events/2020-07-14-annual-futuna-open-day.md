@@ -30,6 +30,8 @@ Ron Brownson has worked long-term as a professional curator and is an expert on 
 
 **3:00pm** Public Talk by Ron Brownson (45 minutes + Q&A)
 
+**[Click here to download an eFlyer of the event](https://wellingtonheritageweek.co.nz/assets/uploaded/Futuna%20Chapel%20Flyer%20WHW20.pdf)**
+
 *10 CPD points for Registered Architects for talk*
 
 <br>
