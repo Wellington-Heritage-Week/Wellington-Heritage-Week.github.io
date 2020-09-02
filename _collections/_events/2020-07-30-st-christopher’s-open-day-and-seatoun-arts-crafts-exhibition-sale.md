@@ -15,11 +15,19 @@ host:
 tag:
   - Open Day
 ---
-**Two splendid days available to wander through St Christopher’s a beautiful Romanesque Revival style church and then pop next door and enjoy the annual Seatoun Art and Crafts Exhibition and Sale.**
+**Two splendid days available to wander through St Christopher’s a beautiful Romanesque Revival style church, hear a special presentation on 'Shipwrecks in and around Wellington the Region', and then pop next door and enjoy the annual Seatoun Art and Crafts Exhibition and Sale.**
 
 St Christopher’s Church will be open from 11am - 2pm on Saturday, October 31st  and Sunday, November 1st. The Seatoun Arts & Craft Exhibition and Sale will be on between 10am - 4pm on the same days. 
 
 There will also be a Self Guided History Walk Map available for you to explore some of the local sites around Seatoun.
+
+<u>'Shipwrecks in and around the Wellington Region'</u>
+
+Hear William Bullock do a presentation on shipwrecks in and around the Wellington Region at 2pm in the church on Saturday 31 October. There will be some artefacts collected from local shipwrecks to create a display and a Q&A session.
+
+<br>
+
+<u>History of the Church</u>
 
 In 1913 money was raised for a small church building (9m x 6m) which was built on the site that is now occupied by St Christopher’s. In 1919 it was moved to its present position, altered and extended over the years and continues as the Seatoun Village Hall. 
 
