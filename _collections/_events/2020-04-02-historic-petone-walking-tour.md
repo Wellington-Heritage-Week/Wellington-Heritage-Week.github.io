@@ -4,6 +4,7 @@ title: Historic Petone Walking Tour
 location: Lower Hutt
 img: /assets/uploaded/cinema-audience-grand-whw20.jpg
 event_date: 2pm Sat 31 Oct
+booked_out: true
 host:
   name: Petone Historical Society
   email: petonehistories@gmail.com
