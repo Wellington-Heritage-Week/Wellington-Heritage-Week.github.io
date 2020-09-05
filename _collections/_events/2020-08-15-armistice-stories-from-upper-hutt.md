@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Armistice Stories from Upper Hutt
+title: "Golder Cottage: Armistice Stories from Upper Hutt"
 location: Upper Hutt
 img: /assets/uploaded/golder-cottage-upper-hutt-whw20-min.png
 event_date: 1:30pm-4pm 26 Mon & Sat 31 Oct
