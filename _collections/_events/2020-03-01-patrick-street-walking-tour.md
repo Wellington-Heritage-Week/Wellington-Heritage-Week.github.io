@@ -4,6 +4,7 @@ title: "Patrick Street Walking Tour "
 location: Lower Hutt
 img: /assets/uploaded/patrick-street-2020.jpg
 event_date: 10am Sat 31 Oct
+booked_out: true
 host:
   email: petonehistories@gmail.com
   blurb: The Petone Historical Society was formed in 1982 at a time when it was
