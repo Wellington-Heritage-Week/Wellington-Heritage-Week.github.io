@@ -4,6 +4,7 @@ title: Wellington Archaeology Walking Tour
 location: Wellington City
 img: /assets/uploaded/archaeology-walk-2020a.jpg
 event_date: 10am Tues 27 & Wed 28 Oct
+booked_out: true
 hotel_text: ""
 host:
   email: dwatt@heritage.org.nz
