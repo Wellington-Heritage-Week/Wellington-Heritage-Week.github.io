@@ -4,6 +4,7 @@ title: Walking Tour of Suzanne Aubert’s Wellington
 location: Wellington City
 img: /assets/uploaded/an-historical-walking-tour-around-suzanne-aubert-s-wellington.png
 event_date: 10am Tues 27 & Sat 31 Oct
+booked_out: true
 host:
   name: Sisters of Compassion
   blurb: The Sisters of Compassion, also known as the Daughters of Our Lady of
