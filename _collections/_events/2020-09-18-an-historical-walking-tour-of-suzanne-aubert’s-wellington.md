@@ -34,7 +34,7 @@ Sr Sue Cosgrove, Sisters of Compassion, will lead the tour.
 
 Limited to 15 per tour. 
 
-**Both tours are sold out** 
+**The tour on Saturday 31 October is sold out! Tickets remain for Tuesday 27 October tour.** 
 
 <br>
 
