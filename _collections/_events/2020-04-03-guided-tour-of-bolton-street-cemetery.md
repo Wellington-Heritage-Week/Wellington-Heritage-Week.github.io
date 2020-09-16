@@ -35,7 +35,7 @@ Meet at the Seddon Memorial by Anderson Park.
 
 **Cost:** $5 per person
 
-**Contact:** jennif.robinson@gmail.com, 021 024 52650
+**Contact:** jennifer.button.nz@gmail.com, 021 024 52650
 
 **Duration:** 1 hour
 
