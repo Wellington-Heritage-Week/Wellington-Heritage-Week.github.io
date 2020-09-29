@@ -23,7 +23,7 @@ There will also be a Self Guided History Walk Map available for you to explore s
 
 <u>'Shipwrecks in and around the Wellington Region'</u>
 
-Hear William Bullock do a presentation on shipwrecks in and around the Wellington Region at 2pm in the church on Saturday 31 October & Sunday 1 November. There will be some artefacts collected from local shipwrecks to create a display and a Q&A session.
+Hear William Bullock do a presentation on shipwrecks in and around the Wellington Region between 2pm-3pm in the church on Saturday 31 October & Sunday 1 November. There will be some artefacts collected from local shipwrecks to create a display and a Q&A session.
 
 <br>
 
