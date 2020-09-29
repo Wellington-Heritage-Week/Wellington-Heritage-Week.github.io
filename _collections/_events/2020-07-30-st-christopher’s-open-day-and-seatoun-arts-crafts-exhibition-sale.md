@@ -25,6 +25,12 @@ There will also be a Self Guided History Walk Map available for you to explore s
 
 Hear William Bullock do a presentation on shipwrecks in and around the Wellington Region between 2pm-3pm in the church on Saturday 31 October & Sunday 1 November. There will be some artefacts collected from local shipwrecks to create a display and a Q&A session.
 
+William Bullock biography:
+
+*I was brought up beside the sea in Karaka Bay. My early days were filled with diving and gathering food for the table. In later years I started diving on shipwrecks, the first being the Devon on Pencarrow Head. This led me to work with Kelly Tarlton diving wrecks around New Zealand and abroad. From there I left to get into Commercial Diving in the North Sea and did this for many years . I was also working in salvage operations in that time. I now reside above the harbour entrance and can see where various wrecks are lying in our local waters*
+
+<!--EndFragment-->
+
 <br>
 
 <u>History of the Church</u>
