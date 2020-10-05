@@ -30,6 +30,8 @@ There is plenty to offer for the whole family including: detective activities re
 
 *The museum is open between 10am and 5pm, seven days a week (excluding Good Friday and Christmas Day).* 
 
+*Recommended for mature audiences only.*
+
 <br>
 
 **Booking is required. Email museum@police.govt.nz or call 04 238 3141 to book**
