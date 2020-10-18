@@ -22,7 +22,7 @@ Get to know this special building by joining us for a guided tour. Booking is es
 
 **Meet a Heritage Icon** 
 
-An introduction to the history, architecture, and people of Old St Paul’s. Tour runs: 11am and 1pm 
+An introduction to the history, architecture, and people of Old St Paul’s. Tour runs: 11am (SOLD OUT) and 1pm 
 
 **Stories in Glass** 
 
