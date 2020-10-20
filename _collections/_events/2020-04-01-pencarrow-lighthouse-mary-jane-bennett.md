@@ -16,13 +16,15 @@ host:
 tag:
   - Tour
 ---
+*The Talk is Sold Out. Places remain for the cycle trip with the special discount on bike or eBike hire. Book the cycle trip by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event.*
+
 **After the death of her husband in 1855, Mary Jane Bennett kept the light burning at Pencarrow Lighthouse, on top of caring for five children with another on the way. She was the first keeper of a permanent lighthouse, and the only woman to ever hold this position in Aotearoa.** 
 
 Join Heritage New Zealand Pouhere Taonga at 12:30pm on Saturday 31 October, at the Eastbourne Library, for a talk on this remarkable woman, presented by Nik Bullard (History Communicator, Wellington Museum). Following the talk, you’ve got the option of hopping on a bike and cycling out to see Pencarrow Lighthouse itself. 
 
 You’ll need to bring your own bike or hire a bike/eBike to pick up at Eastbourne Library following the talk. 
 
-Numbers are limited for the talk, so booking is essential. 
+Numbers are limited for the talk, so booking is essential.
 
 Please book by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event.  
 
@@ -30,7 +32,7 @@ Your booking will also get you a special discount on bike or eBike hire.
 
 <br> 
 
-**Booking is required.Book by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event**
+**The Talk is Sold Out. Places remain for the cycle trip. Book the cycle trip by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event.**
 
 **Location:** Eastbourne Library 38 Rimu Street Eastbourne (followed by a cycle trip to Pencarrow Lighthouse)
 
