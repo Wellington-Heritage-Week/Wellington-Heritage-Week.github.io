@@ -32,7 +32,7 @@ Your booking will also get you a special discount on bike or eBike hire.
 
 <br> 
 
-**The Talk is Sold Out. Places remain for the cycle trip. Book the cycle trip by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event.**
+**The Talk is Sold Out. Places remain for the cycle trip with the special discount on bike or eBike hire. Book the cycle trip by emailing infocentral@heritage.org.nz and specifying you are interested in the Pencarrow Lighthouse event.**
 
 **Location:** Eastbourne Library 38 Rimu Street Eastbourne (followed by a cycle trip to Pencarrow Lighthouse)
 
