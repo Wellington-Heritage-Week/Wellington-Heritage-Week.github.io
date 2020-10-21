@@ -3,7 +3,7 @@ layout: post
 title: Te Wharewaka o Pōneke – Wharewaka Tours
 location: Wellington City
 img: /assets/uploaded/te-wharewaka-tours-whw20.jpg
-event_date: 11am & 2pm Mon 26 Oct
+event_date: 11am Mon 26 Oct
 host:
   blurb: Wellington’s rich and diverse Māori history is uncovered with Te
     Wharewaka o Pōneke Waka (Canoe) and Cultural Walking Tours.  An indigenous
@@ -27,6 +27,8 @@ You will be welcomed into Wharewaka with mihi whakatau (informal welcome), build
 An experience not found in any other Capital City in the World.
 
 Discover why Wellington is fast becoming a convergence point of traditional and contemporary biculturalism, pathing the way for future generations.
+
+*The previously advertised 2pm tour on Monday 26 October is cancelled.* 
 
 *Tours also run on Saturday 24th October and Sunday 25th October*
 
