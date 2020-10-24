@@ -26,6 +26,8 @@ The walk will begin at Te Papa and you are asked to assemble outside the main do
 
 Limited to 20 people on each tour.
 
+**2pm Thursday 29 Oct tour is SOLD OUT. Tickets remain for the10am Saturday tour.**
+
 <br>
 
 **Booking is required. Email info.wellingtonwriterswalk@gmail.com to book**
