@@ -4,6 +4,7 @@ title: The Wahine Disaster – Augmented Reality Storytelling
 location: Wellington City
 img: /assets/uploaded/the-wahine-disaster-whw20.jpg
 event_date: 1pm & 4pm Mon 26 Oct & Sun 1 Nov
+booked_out: true
 host:
   email: contact@hiamo.nz
   website: http://www.hiamo.nz/
