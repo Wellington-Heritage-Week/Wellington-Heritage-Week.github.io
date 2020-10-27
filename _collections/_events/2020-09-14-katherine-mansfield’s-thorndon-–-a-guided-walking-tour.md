@@ -3,8 +3,8 @@ layout: post
 title: Katherine Mansfield’s Thorndon – A Guided Walking Tour
 location: Wellington City
 img: /assets/uploaded/thorndon-wellington-c1888-by-frederick-halse-atl.jpg
-event_date: 10am Tues 27 & Sat 31 Oct
-booked_out: true
+event_date: 10am Thurs 29 & Sat 31 Oct
+booked_out: false
 host:
   email: info@katherinemansfield.com
   phone: (04) 473 7268
@@ -22,7 +22,7 @@ A collaboration between Katherine Mansfield House & Garden and the National Libr
 
 <u>Tour Programme </u>- *both tours are the same*
 
-**SOLD OUT - Tuesday 27 October 10am-12pm** (wet weather postponement date Thursday 29 October 10am-12pm)
+**Thursday 29 October 10am-12pm** 
 
 **SOLD OUT - Saturday 31 October, 10am-12pm** (wet weather postponement date Saturday 7 November, 10am-12pm)
 
