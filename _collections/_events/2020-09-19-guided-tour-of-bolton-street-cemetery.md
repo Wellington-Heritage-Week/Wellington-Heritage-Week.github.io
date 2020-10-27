@@ -15,6 +15,8 @@ host:
 tag:
   - Tour
 ---
+*The 5pm Tuesday tour will go ahead tonight. Bring a rain-coat and umbrella and meet at the Seddon Memorial by Anderson Park. If you cannot make it, contact the event host to organise a ticket for a future tour.* 
+
 **This is a special opportunity to learn about Wellington’s first cemetery and the history of early buildings that were once within it.** 
 
 Hear about the historic ‘time ball’ procedure which was used to provide a time service to the town from January 1870 until its site was taken over in 1906 for the tomb of Prime Minister Richard Seddon. Find out about the original mortuary chapel --- now replaced by the replica chapel museum. 
