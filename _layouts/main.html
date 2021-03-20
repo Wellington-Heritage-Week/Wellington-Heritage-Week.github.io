@@ -7,28 +7,55 @@ layout: default
 
 <main class="page-content" aria-label="Content">
   <section class="sponsors">
-      <div class="wrapper flex-row">
-          <h1>EXPERIENCE WELLINGTON’S PEOPLE, PLACES &amp; STORIES</h1>
-          <h3>Organised by Wellington Heritage Week Trust</h3>
-          <h3>Sponsored by:</h3>
+    <div class="wrapper flex-row">
+      <h1>EXPERIENCE WELLINGTON’S PEOPLE, PLACES &amp; STORIES</h1>
+      <p>Organised by Wellington Heritage Week Trust</p>
+    </div>
+  </section>
+<!--
+  <section class="contact">
+    <div class="wrapper flex-row">
+      <h2 class="contact_title">Become an event host</h2>
+      <p>Become an event host for Wellington Heritage Week 2021. There are two steps:
+        register your interest by 1 July 2021, then submit a full application by 31 July 2021.</p>
+      <p>We encourage events hosts to showcase a unique and interesting story, person, or place from the Wellington region.
+      There is no overarching theme for festival events.</p>
+
+
+        <div class="email_container">
+          <div class="contact_box">
+              <a class="email_input" href="https://whw21registrationform.paperform.co">Register your interest</a>
           </div>
-      <div class="sponsor-white">
-          {% for sponsor in site.data.sponsors.sponsors %}
-          <div class="sponsor-card">
-            <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+        </div>
+
+        <div class="email_container">
+          <div class="contact_box">
+              <a class="email_input" href="https://whw21applicationform.paperform.co">Submit your application</a>
           </div>
-          {% endfor %}
-      </div>
-      <div class="wrapper flex-row">
-        <h1>-</h1>  
-          <h3>Check this website in March 2021 for details about Wellington Heritage Week 2021
-          </h3>
-      </div>
+        </div>
+
+      <p><a style="color:#fff" href="">Download the information sheet</a> (PDF) and email
+      <a style="color:#fff" href="mailto:info@wellingtonheritageweek.con.nz">info@wellingtonheritageweek.con.nz</a>
+      if you have questions.</p>
+    </div>
+  </section>
+-->
+  <section class="sponsors">
+    <div class="wrapper flex-row">
+      <h2>SPONSORED BY</h2>
+    </div>
+    <div class="sponsor-white">
+      {% for sponsor in site.data.sponsors.sponsors %}
+        <div class="sponsor-card">
+          <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+        </div>
+      {% endfor %}
+    </div>
   </section>
   <section class="chapters cf">
-      <div class="wrapper flex-row">
+    <div class="wrapper flex-row">
       {{ content }}
-      </div>
+    </div>
   </section>
 </main>
 {% include contact.html %}
