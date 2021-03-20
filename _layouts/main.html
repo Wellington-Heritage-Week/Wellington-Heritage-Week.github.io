@@ -9,46 +9,27 @@ layout: default
   <section class="sponsors">
       <div class="wrapper flex-row">
           <h1>EXPERIENCE WELLINGTON’S PEOPLE, PLACES &amp; STORIES</h1>
-          <p>Organised by Wellington Heritage Week Trust</p>
+          <h3>Organised by Wellington Heritage Week Trust</h3>
+          <h3>Sponsored by:</h3>
+          </div>
+      <div class="sponsor-white">
+          {% for sponsor in site.data.sponsors.sponsors %}
+          <div class="sponsor-card">
+            <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
+          </div>
+          {% endfor %}
+      </div>
+      <div class="wrapper flex-row">
+        <h1>-</h1>  
+          <h3>Check this website in March 2021 for details about Wellington Heritage Week 2021
+          </h3>
       </div>
   </section>
-
-  <section class="contact" id="contact">
-    <div class="email_container">
-      <div class="contact_box">
-        <h2 class="contact_title">Become an event host</h2>
-          <p>Become an event host for Wellington Heritage Week 2021. There are two steps:
-            <ol>
-              <li><a class="email_input" href="https://whw21registrationform.paperform.co">Register your interest</a> by 1 July 2021.</li>
-              <li><a class="email_input" href="https://whw21applicationform.paperform.co">Submit your full application</a> by 31 July 2021.</li>
-            </ol>
-          We encourage events hosts to showcase a unique and interesting story, person, or place from the Wellington region.
-          There is no over-arching theme for festival events.<p>
-          <p><a href="">Download the information sheet</a> (PDF) and email
-            <a href="mailto:info@wellingtonheritageweek.con.nz">info@wellingtonheritageweek.con.nz</a>
-             if you have questions.</p>
-      </div>
-    </div>
-  </section>
-  <section class="sponsors">
-    <div class="wrapper flex-row">
-      <h2>Sponsored by</h2>
-    </div>
-    <div class="sponsor-white">
-      {% for sponsor in site.data.sponsors.sponsors %}
-        <div class="sponsor-card">
-          <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" />
-        </div>
-      {% endfor %}
-    </div>
-  </section>
-
   <section class="chapters cf">
-    <div class="wrapper flex-row">
+      <div class="wrapper flex-row">
       {{ content }}
-    </div>
+      </div>
   </section>
 </main>
-
 {% include contact.html %}
 {% include footer.html %}
