@@ -1,9 +1,9 @@
 <div class="section-title">
-    <h1>Heritage Stays:</h1>
+    <h1>Heritage Stays</h1>
     <br />
 </div>
-{% for hotel in site.hotel %}
-    {% if hotel.hotel == true %}
+{% for event in site.hotel %}
+    {% if event.hotel == true %}
         <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
@@ -21,3 +21,87 @@
         </a>
     {% endif %}
 {% endfor %}
+
+<script>
+    let eventCards = document.getElementsByClassName('event-card');
+    let tagMap = {
+        'Event Type': Array.from(eventCards)
+    }, locationMap = {
+        'All Locations': Array.from(eventCards)
+    };
+    for (let a = 0; a < eventCards.length; a++) {
+        let location = eventCards[a].getAttribute('data-location') || 'Unknown Location';
+        let tags = eventCards[a].getAttribute('data-tags');
+
+        if (!locationMap[location]) {
+            locationMap[location] = [];
+        }
+        locationMap[location].push(eventCards[a]);
+
+        if (!tags) {
+            continue;
+        }
+        tags = tags.split(',');
+        for (let b = 0; b < tags.length; b++) {
+            if (tags[b]) {
+                if (!tagMap[tags[b]]) {
+                    tagMap[tags[b]] = [];
+                }
+                tagMap[tags[b]].push(eventCards[a]);
+            }
+        }
+    }
+
+    let locationSelector = document.querySelector('select.location');
+    let tagSelector = document.querySelector('select.tag');
+
+    for (let tag in tagMap) {
+        if (!tagMap.hasOwnProperty(tag)) {
+            continue;
+        }
+        let option = document.createElement('option');
+        option.text = tag;
+        option.value = tag;
+        tagSelector.add(option);
+    }
+
+    for (let location in locationMap) {
+        if (!locationMap.hasOwnProperty(location)) {
+            continue;
+        }
+        let option = document.createElement('option');
+        option.text = location;
+        option.value = location;
+        locationSelector.add(option);
+    }
+
+    tagSelector.selectedIndex = localStorage.getItem('selectedTagIndex') || 0;
+    locationSelector.selectedIndex = localStorage.getItem('selectedLocationIndex') || 0;
+
+    let selectedTag = tagSelector.selectedOptions[0].text;
+    let selectedLocation = locationSelector.selectedOptions[0].text;
+
+    updateEvents();
+
+    tagSelector.addEventListener('change', function () {
+        localStorage.setItem('selectedTagIndex', tagSelector.selectedIndex);
+        selectedTag = tagSelector.selectedOptions[0].text;
+        updateEvents();
+    });
+
+    locationSelector.addEventListener('change', function () {
+        localStorage.setItem('selectedLocationIndex', locationSelector.selectedIndex);
+        selectedLocation = locationSelector.selectedOptions[0].text;
+        updateEvents();
+    });
+
+    function updateEvents() {
+        for (let a = 0; a < eventCards.length; a++) {
+            if (tagMap[selectedTag].indexOf(eventCards[a]) !== -1 && locationMap[selectedLocation].indexOf(eventCards[a]) !== -1) {
+                eventCards[a].style.display = '';
+            } else {
+                eventCards[a].style.display = 'none';
+            }
+        }
+    }
+</script>
