@@ -3,7 +3,7 @@
     <br />
 </div>
 {% for hotel in site.hotel %}
-    {% if hotel == true %}
+    {% if hotel.hotel == true %}
         <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
