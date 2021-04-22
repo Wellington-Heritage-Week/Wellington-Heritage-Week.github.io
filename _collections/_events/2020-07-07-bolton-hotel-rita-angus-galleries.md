@@ -44,6 +44,5 @@ With a range of room types from stylish studios to spacious suites, all rooms fe
 
 *Discount code is only valid on dates between 25/10/21 – 31/10/21 and on selected room types. Rita Angus tote bags are subject to availability.*
 
-**Rooms from $199 per night.** 
 
 [<button class="button">CLICK TO BOOK</button>](https://www.boltonhotel.co.nz/wellington-heritage-week)
