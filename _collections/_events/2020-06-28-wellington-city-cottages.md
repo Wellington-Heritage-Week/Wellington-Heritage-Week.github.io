@@ -59,4 +59,4 @@ Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these
 
 **Cottages from $100 per night.**
 
-**[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)**
+<button class="button button1">CLICK FOR BOOKING & MORE INFO!</button>
