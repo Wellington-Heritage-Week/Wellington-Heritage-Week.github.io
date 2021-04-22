@@ -4,4 +4,6 @@ permalink: /stage.html
 sitemap: false
 ---
 
-{% include hotel.html %}
+{% if site.data.settings.show_hotel %}
+  {% include hotel.html %}
+{% endif %}
