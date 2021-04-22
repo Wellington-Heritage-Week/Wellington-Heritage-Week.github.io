@@ -68,12 +68,12 @@ collections:
           - {required: false, label: "Email", name: "email", widget: "string"}
           - {required: false, label: "Phone number", name: "phone", widget: "string"}
           - {required: false, label: "Website (remember http://)", name: "website", widget: "string"}
-        - {required: false, label: "Body", name: "body", widget: "markdown"}
-        - label: "Tags"
-          name: "tag"
-          widget: "list"
-          allow_add: false
-          default: []
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
+      - label: "Tags"
+        name: "tag"
+        widget: "list"
+        allow_add: false
+        default: []
   - name: "settings"
     label: "Settings"
     files:
