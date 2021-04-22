@@ -4,6 +4,7 @@ title: Test hotel
 location: Wellington City
 description: FB description
 event_date: event date optional
+hotel: true
 hotel_text: Hotel summary
 availability_text: Hotel availability
 host:
