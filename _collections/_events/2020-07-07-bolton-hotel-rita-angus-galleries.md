@@ -26,13 +26,15 @@ host:
   email: " info@boltonhotel.co.nz"
   website: https://www.boltonhotel.co.nz/
 tag:
-  - Wellington City
+  - Hotel
 ---
-**Stay amongst the Rita Angus Galleries at Wellington's Premier independent hotel and unlock 20% off our best available rate with the promo code *WHW20*.**
+**Stay amongst the Rita Angus Galleries at Wellington’s Premier independent hotel and unlock 20% off our best available rate with the promo code *WHW20*.** 
 
-Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries.
+**Plus, receive a complimentary Rita Angus tote bag with your booking.**
 
-Explore a huge selection of prints from one of New Zealand's most significant, respected and prolific artists over 14 floors of Wellington's premier independent hotel.
+Owned and operated by the Angus family, Bolton Hotel, a short stroll from Parliament, the Bolton Memorial Park and historic Rita Angus cottage is also home to the Rita Angus Galleries. 
+
+Explore a huge selection of prints from one of New Zealand’s most significant, respected and prolific artists over 14 floors of Wellington’s premier independent hotel. 
 
 With a range of room types from stylish studios to spacious suites, all rooms feature an in-room iPad mini, tea and coffee making facilities, curated minibar, unlimited free WiFi, Sky TV and access to our fitness centre and heated lap pool.
 
@@ -40,8 +42,8 @@ With a range of room types from stylish studios to spacious suites, all rooms fe
 
 *Terms and Conditions: Discount can only be redeemed when booking direct on boltonhotel.co.nz.*
 
-*Discount code is only valid on dates between 25/10/20 – 1/11/20 and on selected room types.*
+*Discount code is only valid on dates between 25/10/21 – 31/10/21 and on selected room types. Rita Angus tote bags are subject to availability.*
 
 **Rooms from $199 per night.** 
 
-**[Click Here to Book](https://boltonhotel.lpages.co/bolton-hotel-wellington-heritage-week/)**
+[<button class="button">CLICK TO BOOK</button>](https://www.boltonhotel.co.nz/wellington-heritage-week)
