@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DoubleTree by Hilton Wellington
-location: Wellington City
 description: "Built-in 1928, the DoubleTree by Hilton Wellington offers stunning
   heritage character and stylish rooms that are equipped with 49-inch HD TV,
   high-speed WiFi, In-room coffee & tea making facilities, a purpose-lit work
@@ -27,6 +26,7 @@ host:
     minutes away — home to a variety of dining and waterside activities. Enjoy
     our fitness center and a complimentary welcome cookie.
   name: DoubleTree by Hilton Wellington
+location: Wellington City
 tag:
   - Hotel
 ---
