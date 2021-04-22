@@ -58,3 +58,5 @@ Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these
 *Display image by Wellington City Council, Charles Collins, 2015.* 
 
 **Cottages from $100 per night.**
+
+[<button class="button">CLICK TO BOOK</button>](https://wellingtoncityaccommodation.co.nz/book/)
