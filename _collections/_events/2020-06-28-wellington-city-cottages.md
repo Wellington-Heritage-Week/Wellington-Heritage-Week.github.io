@@ -6,7 +6,7 @@ description: Wellington City Accommodation offers renovated heritage-listed
   cottages within easy walking distance to all key attractions. The cottages
   were constructed by Kate Tonks to house workers at the nearby brick factory.
 img: /assets/uploaded/wellington-city-cottages-whw20-2-.jpg
-event_date: Cottages from $70 per night
+event_date: Cottages from $100 per night
 hotel: true
 hotel_text: >-
   Stay in renovated 1880s built cottages in near vibrant Cuba Street,
@@ -17,7 +17,7 @@ hotel_text: >-
 
 
   Each cottage includes a free car park, a kitchen, laundry facilities, and more.
-availability_text: Cottages from $70 per night
+availability_text: Cottages from $100 per night
 host:
   blurb: Wellington City Accommodation is a proud kiwi-owned family business
     offering boutique lodging in central Wellington within easy walking distance
@@ -57,6 +57,6 @@ Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these
 
 *Display image by Wellington City Council, Charles Collins, 2015.* 
 
-**Cottages from $70 per night.**
+**Cottages from $100 per night.**
 
 **[Click Here to Book](https://wellingtoncityaccommodation.co.nz/book/)**
