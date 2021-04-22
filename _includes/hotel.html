@@ -4,17 +4,17 @@
 </div>
 {% for hotel in site.hotels %}
     {% if hotel.hotel == true %}
-        <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
+        <a href="{{hotel.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
-                    <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+                    <img src="{{site.baseurl}}{{ hotel.img }}" alt="{{hotel.title}}">
                 </div>
                 <div class="hotel-details">
-                    <h2>{{event.title}}</h2>
-                    <div class="hotel-text">{{ event.hotel_text | markdownify}}</div>
+                    <h2>{{hotel.title}}</h2>
+                    <div class="hotel-text">{{ hotel.hotel_text | markdownify}}</div>
                     <hr />
                     <div class="hotel-price">
-                        {{ event.availability_text | markdownify}}
+                        {{ hotel.availability_text | markdownify}}
                     </div>
                 </div>
             </div>
