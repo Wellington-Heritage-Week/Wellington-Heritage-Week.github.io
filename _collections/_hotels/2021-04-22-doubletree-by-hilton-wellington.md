@@ -18,7 +18,7 @@ hotel_text: >-
 availability_text: Rooms from $199 per night
 host:
   website: https://www.hilton.com/en/hotels/wlgntdi-doubletree-wellington/
-  email: reservations@doubletreewellington.co.nz
+  email: wlgnt_res@hilton.com
   phone: 04-499 3496
   blurb: Built in 1928, our hotel is in Wellington's Central Business District.
     We're adjacent to Wellington Cable Car, leading to the Botanic Garden and
