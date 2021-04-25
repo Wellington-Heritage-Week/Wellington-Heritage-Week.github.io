@@ -3,6 +3,7 @@ layout: post
 title: Second test event, without hotel switch
 location: City city
 description: Embark on our vessel/
+img: /assets/uploaded/3-min.jpg
 event_date: 78/ april 2029
 booked_out: true
 book_promotion: true
