@@ -15,7 +15,7 @@ hotel_text: >-
 
 
   The DoubleTree by Hilton Wellington offers stunning heritage character and stylish rooms that are equipped with 49-inch HD TV, high-speed WiFi, In-room coffee & tea making facilities, a purpose-lit work area, and rain shower and more.
-availability_text: Rooms from $199 per night
+availability_text: Rooms from $219 per night
 host:
   website: https://www.hilton.com/en/hotels/wlgntdi-doubletree-wellington/
   email: wlgnt_res@hilton.com
@@ -42,5 +42,5 @@ Located at 28 Grey Street, cnr Lambton Quay and Grey Street, Wellington CBD.
 
 <br>
 
-[<button class="button">CLICK TO BOOK</button>](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=WLGNTDI&arrivalDate=2021-04-22&departureDate=2021-04-23&room1NumAdults=1&brandCode=DT&inputModule=HOTEL_SEARCH&ohwDeepLinking=true)
+[<button class="button">CLICK TO BOOK</button>](http://group.doubletree.com/WellingtonHeritage)
 
