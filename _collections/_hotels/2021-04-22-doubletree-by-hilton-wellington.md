@@ -40,7 +40,8 @@ The hotel has an in-house restaurant (Spring Kitchen) for breakfast, lunch, and 
 
 Located at 28 Grey Street, cnr Lambton Quay and Grey Street, Wellington CBD.
 
+Use the discount code *WHER21* to recieve the special rate.  
+
 <br>
 
 [<button class="button">CLICK TO BOOK</button>](http://group.doubletree.com/WellingtonHeritage)
-
