@@ -44,4 +44,4 @@ Use the discount code *WHER21* to receive the special festival rate.
 
 <br>
 
-[<button class="button">CLICK TO BOOK</button>](http://group.doubletree.com/WellingtonHeritage)
+<a href="http://group.doubletree.com/WellingtonHeritage" class="button">CLICK TO BOOK</a>
