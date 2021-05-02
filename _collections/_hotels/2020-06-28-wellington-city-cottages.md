@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Wellington City Cottages
-location: Wellington City
 description: Wellington City Accommodation offers renovated heritage-listed
   cottages within easy walking distance to all key attractions. The cottages
   were constructed by Kate Tonks to house workers at the nearby brick factory.
@@ -26,6 +25,7 @@ host:
   email: wellingtoncitystay@gmail.com
   website: https://wellingtoncityaccommodation.co.nz/book/
   phone: 021 0739 232
+location: Wellington City
 tag:
   - Hotel
 ---
@@ -53,9 +53,8 @@ Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these
 
 <br>
 
-
-[<button class="button">CLICK TO BOOK</button>](https://wellingtoncityaccommodation.co.nz/book/)
+<a href="https://wellingtoncityaccommodation.co.nz/book/" class="button">CLICK TO BOOK</a>
 
 <br>
 
-*Display image by Wellington City Council, Charles Collins, 2015.* 
+*Display image by Wellington City Council, Charles Collins, 2015.*
