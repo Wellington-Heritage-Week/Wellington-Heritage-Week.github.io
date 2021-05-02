@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Bolton Hotel: Rita Angus Galleries"
-location: Wellington City
 description: ""
 img: /assets/uploaded/bolton-hotel-image-2.jpg
 event_date: Rooms from $199 per night
@@ -25,6 +24,7 @@ host:
   phone: 0800 99 6622
   email: " info@boltonhotel.co.nz"
   website: https://www.boltonhotel.co.nz/
+location: Wellington City
 tag:
   - Hotel
 ---
@@ -44,5 +44,4 @@ With a range of room types from stylish studios to spacious suites, all rooms fe
 
 *Discount code is only valid on dates between 25/10/21 – 31/10/21 and on selected room types. Rita Angus tote bags are subject to availability.*
 
-
-[<button class="button">CLICK TO BOOK</button>](https://www.boltonhotel.co.nz/wellington-heritage-week)
+<a href="https://www.boltonhotel.co.nz/wellington-heritage-week" class="button">CLICK TO BOOK</a>
