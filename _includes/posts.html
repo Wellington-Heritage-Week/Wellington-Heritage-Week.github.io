@@ -3,15 +3,14 @@
     <br />
 </div>
 {% for post in site.posts %}
-    {% if hotel.hotel == true %}
-        <a href="{{hotel.url | prepend: site.baseurl}}" class="hotel-link">
+        <a href="{{post.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
                     <img src="{{site.baseurl}}{{ post.img }}" alt="{{post.title}}">
                 </div>
                 <div class="hotel-details">
                     <h2>{{post.title}}</h2>
-                    <div class="hotel-text">{{ post.post_text | markdownify}}</div>
+                    <div class="hotel-text">{{ post.intro | markdownify}}</div>
                     <hr />
                     <div class="hotel-price">
                         {{ post.author | markdownify}}
@@ -19,5 +18,4 @@
                 </div>
             </div>
         </a>
-    {% endif %}
 {% endfor %}
