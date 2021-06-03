@@ -20,20 +20,16 @@ tag:
 
 There will be four talks to tell you about our collections and how you can access them, followed by a tour of the stacks. 
 
-Talks start at 10:00am, 11:00am, 1:00pm, & 2:00pm, followed by a tour (up to 10 people) around twenty past the hour. 
+Talks start at 10am, 11am, 1pm, & 2pm, followed by a tour (up to 10 people) around twenty past the hour. 
 
 NB: If you have a large group that would like to attend a tour, you may need to make alternate arrangements with the Archives to attend on another day.
 
-
-
 **Booking is required. Email your name and preferred tour time to archives@wcc.govt.nz.** 
 
+**Location:** 28 Barker Street (off Cambridge Terrace)
 
+**Duration:** Around an hour, including the talk at the start
 
-**Event Location:** 28 Barker Street (off Cambridge Terrace)
-
-**Event Duration:** Around an hour, including the talk at the start
-
-**Event Cost:** Free
+**Cost:** Free
 
 **Health and Safety:** Archives is a working environment, so please be aware of shelving and boxes in our stack areas. No open toed shoes or high heels.
