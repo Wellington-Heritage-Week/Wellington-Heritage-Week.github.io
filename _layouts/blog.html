@@ -1,0 +1,57 @@
+---
+layout: default
+---
+{% include header.html %}
+<!--Header-->
+<main class="post_content">
+  <article class="post">
+    <header>
+      <div class="post_image">
+        <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
+      </div>
+      <div class="post_description">
+        <h1 class="post_title">{{page.title}}</h1>
+        <p class="post_meta">{{page.author}}</p>
+      </div>
+    </header> <!-- End Header -->
+
+<!-- Section Post -->
+    <div class="entry_content">
+      <p><strong>{{page.intro}}</strong></p>
+      {{page.content | markdownify}}
+    </div>
+
+
+    <div class="post_wrapper">
+      <footer class="post_footer cf">
+        <div class="post_share">
+          <span>Share:</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+        </div>
+        <div class="post_tag">
+          <span>Tags:</span>
+          {% for tag in page.tags %}
+          <a class="tag">{{ tag }}</a>
+          {% endfor %}
+        </div>
+      </footer>
+    </div>
+  </article> <!-- End Section Post -->
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
+        {% for post in site.post offset:0 limit:6 %}
+          {% if post.title %}
+            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ post.img | prepend: site.baseurl}} )"><span>{{ post.title }}</span></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section> <!-- End Section Recent Box -->
+
+</main> <!-- End Section Post Content -->
+
+{% include footer.html %}

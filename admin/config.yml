@@ -134,3 +134,21 @@ collections:
               - label: "Image"
                 name: "image"
                 widget: "image"
+  - name: "posts"
+    label: "Post"
+    folder: "_collections/_posts/"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {required: false, label: "Title", name: "title", widget: "string"}
+      - {required: false, label: "Introduction", name: "intro", widget: "text"}
+      - {required: false, label: "Body", name: "body", widget: "markdown"}
+      - {required: false, label: "Author", name: "author", widget: "string"}
+      - {required: false, label: "Short description (for Facebook)", name: "description", widget: "text"}
+      - {required: false, label: "Image", name: "img", widget: "image"}
+      - label: "Tags"
+        name: "tag"
+        widget: "list"
+        allow_add: false
+        default: [Post]

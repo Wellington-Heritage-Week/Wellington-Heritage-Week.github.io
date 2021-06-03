@@ -20,6 +20,9 @@ collections:
   hotels:
     permalink: /hotel/:title/
     output: true
+  posts:
+    permalink: /post/:title/
+    output: true
 
 exclude: [".idea/", ".gitignore", "LICENSE.txt"]
 include: [_pages]
