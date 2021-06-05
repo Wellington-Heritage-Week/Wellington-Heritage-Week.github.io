@@ -134,9 +134,9 @@ collections:
               - label: "Image"
                 name: "image"
                 widget: "image"
-  - name: "posts"
-    label: "Post"
-    folder: "_collections/_posts/"
+  - name: "blog"
+    label: "Blog"
+    folder: "_collections/_blog/"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
