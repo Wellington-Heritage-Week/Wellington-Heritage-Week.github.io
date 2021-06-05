@@ -140,7 +140,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {required: false, label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {required: false, label: "Title", name: "title", widget: "string"}
       - {required: false, label: "Introduction", name: "intro", widget: "text"}
       - {required: false, label: "Body", name: "body", widget: "markdown"}

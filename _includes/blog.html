@@ -2,7 +2,7 @@
     <h1>Recent posts</h1>
     <br />
 </div>
-{% for page in site.blog %}
+{% for blog in site.blog %}
         <a href="{{blog.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
