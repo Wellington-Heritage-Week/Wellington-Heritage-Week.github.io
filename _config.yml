@@ -4,7 +4,7 @@ sass:
   sass_dir: assets/css/sass
 
 # Logo settings
-logodescription: Wellington Heritage  Weekend
+logodescription: Wellington Heritage Weekend
 
 # Build settings
 markdown: kramdown
