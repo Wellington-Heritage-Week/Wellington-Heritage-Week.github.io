@@ -53,7 +53,7 @@ Checkin 2pm and checkout 10am. Luggage storage-locker is available outside these
 
 <br>
 
-<a href="https://wellingtoncityaccommodation.co.nz/book/" class="button">CLICK TO BOOK</a>
+<a href="https://wellingtoncityaccommodation.co.nz/book/" class="button">Book a cottage</a>
 
 <br>
 
