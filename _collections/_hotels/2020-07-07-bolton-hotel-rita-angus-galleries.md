@@ -28,7 +28,7 @@ location: Wellington City
 tag:
   - Hotel
 ---
-**Stay amongst the Rita Angus Galleries at Wellington’s Premier independent hotel and unlock 20% off our best available rate with the promo code *WHW20*.** 
+**Stay amongst the Rita Angus Galleries at Wellington’s Premier independent hotel and unlock 20% off our best available rate with the promo code *WHW21*.** 
 
 **Plus, receive a complimentary Rita Angus tote bag with your booking.**
 
@@ -44,4 +44,4 @@ With a range of room types from stylish studios to spacious suites, all rooms fe
 
 *Discount code is only valid on dates between 25/10/21 – 31/10/21 and on selected room types. Rita Angus tote bags are subject to availability.*
 
-<a href="https://www.boltonhotel.co.nz/wellington-heritage-week" class="button">CLICK TO BOOK</a>
+<a href="https://www.boltonhotel.co.nz/wellington-heritage-week" class="button">Book a room</a>
