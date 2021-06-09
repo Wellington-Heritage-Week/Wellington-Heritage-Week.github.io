@@ -13,10 +13,11 @@ host:
   email: mike@craftbeertoursnz.co.nz
   phone: 027 535 0008
   name: Craft Beer Tours NZ & Brewtown Upper Hutt
+  website: https://www.craftbeertoursnz.co.nz/
 tag:
   - Event
 ---
-**Brewtown found its home in the old Dunlop's Tyre center in Upper Hutt. The buildings history dates back to 1949 and Brewtown has done an amazing job of preserving a lot of its history.**
+**Brewtown found its home in the old Dunlop's Tyre centre in Upper Hutt. The buildings history dates back to 1949 and Brewtown has done an amazing job of preserving a lot of its history.**
 
 Join us on a tour of Brewtown and learn about its history and the breweries which have taken something old and making something new.
 
@@ -25,6 +26,10 @@ Along the way enjoy a delicious lunch and beers from two of Brewtown's award win
 
 
 **Booking is required**
+
+<a href="https://www.craftbeertoursnz.co.nz/" class="button">Book the tour</a>
+
+<br>
 
 **Location:** Brewtown Upper Hutt 23 Blenheim Street Upper Hutt. 
 
