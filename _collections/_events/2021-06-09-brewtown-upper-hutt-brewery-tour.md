@@ -27,6 +27,8 @@ Along the way enjoy a delicious lunch and beers from two of Brewtown's award win
 
 **Booking is required**
 
+<br>
+
 <a href="https://www.craftbeertoursnz.co.nz/" class="button">Book the tour</a>
 
 <br>
