@@ -1,5 +1,4 @@
 baseurl: ""
-url: ""
 sass:
   sass_dir: assets/css/sass
 
