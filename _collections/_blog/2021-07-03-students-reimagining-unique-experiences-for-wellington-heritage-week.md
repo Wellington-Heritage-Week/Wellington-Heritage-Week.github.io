@@ -33,6 +33,6 @@ Millie and Brittany will take over the festival’s Facebook and Instagram accou
 
 The festival programme is available from early August.
 
-*Republished on Scoop.Wellington*
+*Published on 28 June 2021. Republished on Scoop.Wellington.*
 
 *Image: Sir Robert Muldoon speaking to an election meeting in Upper Hutt. Dominion Post (Newspaper): Photographic negatives and prints of the Evening Post and Dominion newspapers. Ref: EP/1981/3677/17-F. Alexander Turnbull Library, Wellington, New Zealand. /records/22338734*
