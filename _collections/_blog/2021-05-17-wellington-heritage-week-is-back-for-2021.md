@@ -20,4 +20,6 @@ The Department of Conservation is also a proud festival sponsor and event host. 
 
 If you would like to become an event host for Wellington Heritage Week 2021, visit [www.wellingtonheritageweek.co.nz](http://www.wellingtonheritageweek.co.nz/) to register by 1 July and submit the complete application form by 31 July. Email [info@wellingtonheritageweek.co.nz](mailto:info@wellingtonheritageweek.co.nz) with any questions.
 
+*Published on 17 May 2021. Republished by the Minsitry for Culture and Heritage.* 
+
 *Image: Tours of the Hikitia. 2020. Dawn Chapman.*
