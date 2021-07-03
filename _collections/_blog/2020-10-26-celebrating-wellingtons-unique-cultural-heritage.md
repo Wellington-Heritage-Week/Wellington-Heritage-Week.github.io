@@ -19,3 +19,7 @@ Ali loved children (he had nine of his own) – on his arrival at Wellington Air
 Reid Perkins, Upper Hutt library’s heritage coordinator, is pulling together forgotten and unseen films to be shown at the library as part of Wellington Heritage Week, which runs from October 26 to November 1. 
 
 [Click here to read the full article on the Dominion Post website. ](https://www.stuff.co.nz/dominion-post/culture/123024160/celebrating-wellingtons-unique-cultural-heritage)
+
+
+
+*Image: Upper Hutt City Library (23rd Mar 2018). Muhammad Ali visits Upper Hutt 23 February 1979. In Website Upper Hutt City Library. Retrieved 3rd Jul 2021 16:46, from https://uhcl.recollect.co.nz/nodes/view/25876*
