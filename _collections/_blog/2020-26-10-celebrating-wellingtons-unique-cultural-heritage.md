@@ -16,6 +16,6 @@ Ali loved children (he had nine of his own) – on his arrival at Wellington Air
 
 "The bewildered infant looked from the ... man to her mother to the milling crowd and wondered what was going on," the paper wrote.
 
-Reid Perkins, Upper Hutt library’s heritage coordinator, is pulling together forgotten and unseen films to be shown at the library as part of Wellington Heritage Week, which runs from October 26 to November 1.
+Reid Perkins, Upper Hutt library’s heritage coordinator, is pulling together forgotten and unseen films to be shown at the library as part of Wellington Heritage Week, which runs from October 26 to November 1. 
 
 [Click here to read the full article on the Dominion Post website. ](https://www.stuff.co.nz/dominion-post/culture/123024160/celebrating-wellingtons-unique-cultural-heritage)
