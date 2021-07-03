@@ -1,6 +1,6 @@
 <div class="section-title">
     <h1>Heritage Blog</h1>
-    <h3>Click the posts to read the full article</h3>
+    <h4>Click the posts to read the full article</h4>
     <br />
 </div>
 {% for blog in site.blog %}
@@ -9,6 +9,9 @@
                 <div class="hotel-img">
                     <img src="{{site.baseurl}}{{ blog.img }}" alt="{{blog.title}}">
                 </div>
+         <div id="containertop" >
+            <a href="#" id="sortAsc" >Newest First</a><br>
+            <a href="#" id="sortDesc" >Oldest First</a>
                 <div class="hotel-details">
                     <h2>{{blog.title}}</h2>
                     <div class="hotel-text">{{ blog.intro | markdownify}}</div>
