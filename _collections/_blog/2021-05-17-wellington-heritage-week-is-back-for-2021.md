@@ -18,6 +18,6 @@ Karen Astwood, Central Region Area Manager for Heritage New Zealand Pouhere Taon
 
 The Department of Conservation is also a proud festival sponsor and event host. "The Department manages the single largest portfolio of archaeological and historic sites in New Zealand, with more than 13,000 sites known on public conservation lands and waters… indeed, we also manage shipwrecks!" reminds Dr Sven Grabow, Principal Adviser for Heritage for the Department of Conservation. Sven explains that the festival is a platform for the Department to invite Wellingtonians on unique site visits across the region.
 
-If you would like to become an event host for Wellington Heritage Week 2021, visit[www.wellingtonheritageweek.co.nz](http://www.wellingtonheritageweek.co.nz/)to register by 1 July and submit the complete application form by 31 July. Email[info@wellingtonheritageweek.co.nz](mailto:info@wellingtonheritageweek.co.nz)with any questions.
+If you would like to become an event host for Wellington Heritage Week 2021, visit [www.wellingtonheritageweek.co.nz](http://www.wellingtonheritageweek.co.nz/) to register by 1 July and submit the complete application form by 31 July. Email [info@wellingtonheritageweek.co.nz](mailto:info@wellingtonheritageweek.co.nz) with any questions.
 
 *Image: Tours of the Hikitia. 2020. Dawn Chapman.*
