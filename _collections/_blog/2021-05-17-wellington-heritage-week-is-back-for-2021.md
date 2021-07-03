@@ -8,7 +8,7 @@ intro: >-
 
   Happening from 25 to 31 October, the festival celebrates the region's people, places, and stories. Each event host contributes their perspective on the region's rich cultural narrative. Festival Coordinator Henry Buckenham says that "applications are flowing in that tell natural, social, architectural and all sorts of histories".
 author: Clémence Galot - Festival Coordinator, Wellington Heritage Week
-img: /assets/uploaded/tours-of-the-hikitia-2020-dawn-chapman_0.jpg
+img: /assets/uploaded/tours-of-the-hikitia-2020-dawn-chapman_1.jpg
 tag:
   - Post
 ---
