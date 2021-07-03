@@ -3,7 +3,7 @@
     <h4>Click the posts to read the full article</h4>
     <br />
 </div>
-{% for blog in site.blog %}
+{% for blog in site.blog reversed %}
         <a href="{{blog.url | prepend: site.baseurl}}" class="hotel-link">
             <div class="hotel-card">
                 <div class="hotel-img">
