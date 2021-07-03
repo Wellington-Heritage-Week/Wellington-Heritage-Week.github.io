@@ -20,6 +20,6 @@ Reid Perkins, Upper Hutt library’s heritage coordinator, is pulling together f
 
 [Click here to read the full article on the Dominion Post website. ](https://www.stuff.co.nz/dominion-post/culture/123024160/celebrating-wellingtons-unique-cultural-heritage)
 
-
+*Orginally published 26 October 2020.*
 
 *Image: Upper Hutt City Library (23rd Mar 2018). Muhammad Ali visits Upper Hutt 23 February 1979. In Website Upper Hutt City Library. Retrieved 3rd Jul 2021 16:46, from https://uhcl.recollect.co.nz/nodes/view/25876*
