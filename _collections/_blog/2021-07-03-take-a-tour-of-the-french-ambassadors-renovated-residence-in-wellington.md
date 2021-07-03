@@ -22,6 +22,6 @@ Nameplates above the doors add to the seafaring vibe - they bear the names of Fr
 
 [Click here to read the full article on the Dominion Post website.](https://www.stuff.co.nz/life-style/homed/houses/116323919/a-little-france-in-the-capital-tour-the-french-ambassadors-residence)
 
-
+*Orginally published 10 October 2019.*
 
 *Image: French ambassador Sylvaine Carta-Le Vert outside the ambassador's residence at 39 Hobson St, Thorndon.*
