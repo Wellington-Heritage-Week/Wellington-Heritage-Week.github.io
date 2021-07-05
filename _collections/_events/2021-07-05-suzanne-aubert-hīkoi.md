@@ -2,7 +2,7 @@
 layout: post
 title: Suzanne Aubert Hīkoi
 location: Wellington City
-img: /assets/uploaded/sisters-of-compassion-wellington-heritage-week-2021.jpg
+img: /assets/uploaded/sisters-of-compassion-wellington-heritage-week-2021..jpg
 event_date: 10am Tues 26 & Sat 30 Oct
 host:
   blurb: Sr Sue has been with Sisters of Compassion for fifty years, and has been
