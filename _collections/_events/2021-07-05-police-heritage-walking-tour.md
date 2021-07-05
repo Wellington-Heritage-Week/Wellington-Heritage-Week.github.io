@@ -5,8 +5,8 @@ location: Porirua
 img: /assets/uploaded/police-heritage-walking-tour.jpg
 event_date: 10am Tues 26 Oct & 6pm Thurs 28 Oct
 host:
-  phone: "**04 238 3141**"
-  email: "**museum@police.govt.nz**"
+  phone: 04 238 3141
+  email: museum@police.govt.nz
   name: New Zealand Police Museum
   blurb: "The New Zealand Police Museum tells the stories of the New Zealand
     Police and the work they do to keep us safe. Located on the campus of the
