@@ -40,8 +40,8 @@ The Wellington Harbour Ferry leaves Days Bay at 10:40am and arrives at Matiu/Som
 
 **Location:** Matiu/Somes Island Wharf
 
-**Duration:** Half day approx. 4 hours
+**Duration:** Half-day approx. 4 hours
 
 **Cost:** No tour charge though participants meet their own ferry cost. A koha placed in the Department of Conservation's donation box onMatiu/Somes is invited towards the island's development.
 
-**Health and Safety:** The Department of Conservation classifies the island's track network as "easiestshort walk". Apart from the walk across paddocks to the summit tracks are at leastfootpath width and firm surfaced. Dress for comfort and warmth as for the Wellington waterfront. Track shoes orsimilar are suitable footwear. A health and safety briefing is provided on arrival.
+**Health and Safety:** The Department of Conservation classifies the island's track network as "easiest short walk". Apart from the walk across paddocks to the summit tracks are at least footpath width and firm surfaced. Dress for comfort and warmth as for the Wellington waterfront. Track shoes or similar are suitable footwear. A health and safety briefing is provided on arrival.
