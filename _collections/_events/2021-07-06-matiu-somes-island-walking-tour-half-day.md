@@ -14,17 +14,17 @@ host:
 tag:
   - Event
 ---
-**Embark on a tour of Matiu/Somes Island with the Eastbourne Forest Rangers for Wellington Heritage Week 2021.**
+**Embark on a guided tour of Matiu/Somes Island with the Eastbourne Forest Rangers for Wellington Heritage Week 2021.**
 
 As the "spittle in the mouth of the fish of Maui" the three harbour islands begin Wellington's story. 
 
+The Eastbourne Forest Rangers are volunteers interested in recreation and conservation. An experienced guide will guide you across the island. 
+
 The tour covers the islands' discovery, first peoples, the dislocations and relocations of the early 1800's, immigration, quarantine, and war-time internments. It also illuminates the islands' forest restoration, endangered species and their recovery, and the awesome landscape forces of the harbour.
 
-The Eastbourne Forest Rangers are volunteers interested in recreation and conservation. 
+The Wellington Harbour Ferry leaves Queens Wharf at 10am and arrives at  Matiu/Somes Island at 10:25am. Tour starts at 10:30am approx from the Matiu/Somes Island Wharf. The ferry departs the island for Queens Wharf at 1pm and 3:30pm.
 
-The Wellington Harbour Ferry leaves Queens Wharf at 10am and arrives at  Matiu/Somes Island at 10:25am. Tour starts at 10:30am approx from the Matiu/Somes Island Wharf. 
-
-The Wellington Harbour Ferry leaves Days Bay at 10:40am and arrives at Matiu/Somes Island at 11:55am. Tour starts at 12pm approx from the Matiu/Somes Island Wharf. 
+The Wellington Harbour Ferry leaves Days Bay at 10:40am and arrives at Matiu/Somes Island at 11:55am. Tour starts at 12pm approx from the Matiu/Somes Island Wharf. The ferry departs the island for Days Bay at 12:25pm and 2:30pm. 
 
 *Please check the ferry timetime before you leave.* 
 
