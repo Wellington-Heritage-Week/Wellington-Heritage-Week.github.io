@@ -25,6 +25,12 @@ Meet at the Matiu/Somes Island Wharf.
 
 <br>
 
+<a href="https://www.metlink.org.nz/service/WHF/timetable" class="button">Check the ferry timetable</a>
+
+<br>
+
+<br>
+
 **Booking is required. Email efrtours@gmail.com to book.**
 
 **Location:** Matiu/Somes Island Wharf
