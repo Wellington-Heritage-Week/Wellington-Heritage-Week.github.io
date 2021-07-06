@@ -3,6 +3,7 @@ layout: post
 title: Matiu/Somes Island Walking Tour (half-day)
 location: Wellington City
 img: /assets/uploaded/matiu-somes-wellington-heritage-week.jpg
+event_date: 10am Mon 25, Wed 27 & Sat 30 Oct
 host:
   email: efrtours@gmail.com
   name: Eastbourne Forest Rangers Inc (EFR)
@@ -21,7 +22,11 @@ The tour covers the islands' discovery, first peoples, the dislocations and relo
 
 The Eastbourne Forest Rangers are volunteers interested in recreation and conservation. 
 
-Meet at the Matiu/Somes Island Wharf. 
+The Wellington Harbour Ferry leaves Queens Wharf at 10am and arrives at  Matiu/Somes Island at 10:25am. Tour starts at 10:30am approx from the Matiu/Somes Island Wharf. 
+
+The Wellington Harbour Ferry leaves Days Bay at 10:40am and arrives at Matiu/Somes Island at 11:55am. Tour starts at 12pm approx from the Matiu/Somes Island Wharf. 
+
+*Please check the ferry timetime before you leave.* 
 
 <br>
 
