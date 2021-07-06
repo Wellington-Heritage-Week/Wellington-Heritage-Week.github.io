@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matiu/Somes Island Walking Tour (half-day)
-location: Wellington City
+location: Matiu/Somes Island
 img: /assets/uploaded/matiu-somes-wellington-heritage-week.jpg
 event_date: 10:30am & 12pm Mon 25, Wed 27 & Sat 30 Oct
 host:
