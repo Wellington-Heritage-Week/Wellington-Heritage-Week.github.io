@@ -3,7 +3,7 @@ layout: post
 title: Matiu/Somes Island Guided Walking Tour
 location: Matiu/Somes Island
 img: /assets/uploaded/matiu-somes-wellington-heritage-week.jpg
-event_date: 10am & 11am Mon 25, Wed 27 & Sat 30 Oct
+event_date: 10:30am & 11am Mon 25, Wed 27 & Sat 30 Oct
 host:
   email: efrtours@gmail.com
   name: Eastbourne Forest Rangers Inc (EFR)
