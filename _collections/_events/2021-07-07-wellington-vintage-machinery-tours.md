@@ -3,7 +3,7 @@ layout: post
 title: Wellington Vintage Machinery Tours
 location: Upper Hutt
 img: /assets/uploaded/wellington-vintage-machinery-tours-image.jpg
-event_date: 10:30am to 3:30pm Mon 25 Oct–Sun 31 Oct
+event_date: 10:30am–3:30pm Mon 25 Oct–Sun 31 Oct
 host:
   name: Wellington Vintage Machinery Incorporated
   blurb: Wellington Vintage Machinery was established in 1987 when one of the
