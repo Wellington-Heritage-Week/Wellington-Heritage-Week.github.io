@@ -19,7 +19,7 @@ host:
 tag:
   - Event
 ---
-Get a close up look at vintage machinery and test your knowledge and operating skills at Wellington Vintage Machinery Incorporated. You will see vintage machinery, tractors, and have a hands on experience to get them operating. 
+**Get a close up look at vintage machinery and test your knowledge and operating skills at Wellington Vintage Machinery Incorporated. You will see vintage machinery, tractors, and have a hands on experience to get them operating.** 
 
 Find out what was used to make the 1950 Empire Games medals. Many machines have an association with the Wellington area! 
 
