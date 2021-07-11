@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a)	Tour of Otaki Children’s Health Camp
+title: Tour of Otaki Children’s Health Camp
 location: Kapiti Coast
 img: /assets/uploaded/rotunda-western-sweep-of-window-3.jpg
 event_date: 1:30pm Sat Oct
