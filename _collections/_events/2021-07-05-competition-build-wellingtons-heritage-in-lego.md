@@ -14,7 +14,7 @@ host:
 tag:
   - Event
 ---
-**Wellington is home to fantastic cultural and natural heritage sites. The beehive, Te Whanganui-a-Tara/Wellington harbour, St Gerard's Monestery, the giant rimu at Otari-Wilton's Bush, Pencarrow Head lighthouse, Makara gun emplacements - there's something for everyone.** 
+**Wellington is home to fantastic cultural and natural heritage sites. The beehive, Te Whanganui-a-Tara/Wellington harbour, St Gerard's Monastery, the giant rimu at Otari-Wilton's Bush, Pencarrow Head lighthouse, Makara gun emplacements - there's something for everyone.** 
 
 Build your favourite heritage site from the Wellington/Kapiti region in lego, send us a photo and you'll be in to win some great lego prizes. Selected entries will be shared on social media during Wellington Heritage Week and the winning entries will be displayed at the Department of Conservation visitor centre in Manners Street. 
 
