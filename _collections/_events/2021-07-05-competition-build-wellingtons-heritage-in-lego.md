@@ -20,6 +20,8 @@ Build your favourite heritage site from the Wellington/Kapiti region in lego, se
 
 Separate categories for kids, teens and adults, multiple entries welcome.
 
+The competition runs between 1 August and 30 September 2021. All submitted lego-creations during this period are entered in the competition! 
+
 *Photo credit: Arianna, CC-BY 2.0*
 
 <br>
@@ -27,6 +29,8 @@ Separate categories for kids, teens and adults, multiple entries welcome.
 **Email a photo of your creation to agents@doc.govt.nz to enter.**
 
 **Location:** Online
+
+**Duration:** The competition runs between 1 August and 30 September 2021.
 
 **Cost:** Free
 
