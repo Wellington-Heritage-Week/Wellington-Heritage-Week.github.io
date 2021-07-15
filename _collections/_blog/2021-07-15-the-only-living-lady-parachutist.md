@@ -6,6 +6,7 @@ intro: Catherine Clarke recently published The Only Living Lady Parachutist, a
   living. Here the author shares snippets from Adair’s life as she toured in the
   Wellington region in the 1890s.
 author: Catherine Clarke - novelist
+img: /assets/uploaded/the-only-living-lady-parachutist_final-front.jpg
 tag:
   - Post
 ---
