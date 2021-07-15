@@ -1,10 +1,12 @@
 ---
 layout: blog
 title: The Only Living Lady Parachutist
-intro: Catherine Clarke recently published The Only Living Lady Parachutist, a
-  novel based on Leila Adair, a woman who jumped from hot air balloons for a
-  living. Here the author shares snippets from Adair’s life as she toured in the
-  Wellington region in the 1890s.
+intro: >-
+  Catherine Clarke recently published The Only Living Lady Parachutist, a novel
+  based on Leila Adair, a woman who jumped from hot air balloons for a living. 
+
+
+  Here the author shares snippets from Adair’s life as she toured in the Wellington region in the 1890s.
 author: Catherine Clarke - novelist
 img: /assets/uploaded/leila-adair-landscape.jpg
 tag:
@@ -12,7 +14,7 @@ tag:
 ---
 *Lovers of the sensational are about to enjoy a delightful shock. There is to be a balloon ascent — probably from the Park Oval on Thursday next — and a lady parachutist is to dart down through the ether and alight swanlike on Mother Earth. This is a fascinating spectacle which has never yet been presented to the residents of this town, and it ought to draw better than a circus.*  
 
-That’s how the Wairarapa Daily Times[^1] announced the imminent arrival of The Aerial Queen, Leila Adair, to Masterton in 1894. The Only Living Lady Parachutist, as she called herself, was a remarkable but little-known woman who earned her living by jumping from a hot air balloon with a parachute. 
+That’s how the Wairarapa Daily Times[^1]  announced the imminent arrival of The Aerial Queen, Leila Adair, to Masterton in 1894. The Only Living Lady Parachutist, as she called herself, was a remarkable but little-known woman who earned her living by jumping from a hot air balloon with a parachute. 
 
 ![Black and white collage of woman on trapeze bar, with ferns and hot air balloon.](/assets/uploaded/leila-adair-2-.jpg "Montage of Adair in Palmerston North. Palmerston North City Library")
 
@@ -42,7 +44,9 @@ Arthur B. Adair then wrote the following letter to the Town Clerk on 18 June 189
 
 *Arthur B. Adair*
 
-![Black and white aerial shot of Wellington in 1920.](/assets/uploaded/corporation-yards.jpg "Corporation Yard 1920. Wellington City Council Archives, 00138-827")
+<div class='post_image'><img src="/assets/uploaded/corporation-yards.jpg" alt="Black and white aerial shot of Wellington in 1920."></div>
+
+*Image: Corporation Yard 1920. Wellington City Council Archives, 00138-827*
 
 The Mayor came up with a last-minute alternative and instructed the council to grant permission for Leila to use the Corporation Drainage Yard instead. Presumably either the proposed site (near where rubbish was incinerated in the Destructor, now Waitangi Park) or the weather was not in Leila Adair’s favour, as two weeks later she sailed for Blenheim without making another ascent in Wellington.
 
