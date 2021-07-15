@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kapiti Coast Mueseum Open Days
+title: Kapiti Coast Museum Open Days
 location: Kapiti Coast
 img: /assets/uploaded/kapiti-coast-museum-whw21.jpg
 event_date: 1pm–4pm Fri 29–Sun 31 Oct
