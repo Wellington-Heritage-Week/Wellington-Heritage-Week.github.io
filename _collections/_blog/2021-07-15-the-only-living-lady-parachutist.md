@@ -12,16 +12,11 @@ img: /assets/uploaded/leila-adair-landscape.jpg
 tag:
   - Post
 ---
-<style>
-img {
-  width: 100%;
-}
-</style>
 *Lovers of the sensational are about to enjoy a delightful shock. There is to be a balloon ascent — probably from the Park Oval on Thursday next — and a lady parachutist is to dart down through the ether and alight swanlike on Mother Earth. This is a fascinating spectacle which has never yet been presented to the residents of this town, and it ought to draw better than a circus.*  
 
 That’s how the Wairarapa Daily Times[^1]  announced the imminent arrival of The Aerial Queen, Leila Adair, to Masterton in 1894. The Only Living Lady Parachutist, as she called herself, was a remarkable but little-known woman who earned her living by jumping from a hot air balloon with a parachute. 
 
-<img src="/assets/uploaded/leila-adair-2-.jpg" alt="Black and white collage of woman on trapeze bar, with ferns and hot air balloon.">
+<img src="/assets/uploaded/leila-adair-2-.jpg" alt="Black and white collage of woman on trapeze bar, with ferns and hot air balloon."  style="width: 100%;">
 
 *Montage of Adair in Palmerston North. Palmerston North City Library*
 
@@ -51,7 +46,7 @@ Arthur B. Adair then wrote the following letter to the Town Clerk on 18 June 189
 
 *Arthur B. Adair*
 
-<img src="/assets/uploaded/corporation-yards.jpg" alt="Black and white aerial shot of Wellington in 1920.">
+<img src="/assets/uploaded/corporation-yards.jpg" alt="Black and white aerial shot of Wellington in 1920." style="width: 100%;">
 
 *Corporation Yard 1920. Wellington City Council Archives, 00138-827*
 
@@ -61,5 +56,7 @@ The Mayor came up with a last-minute alternative and instructed the council to g
 
 *Published on 15 July 2021.*
 
-
-[^1]: Wairarapa Daily Times 1 June 1894  [^2]: Evening Post 14 June 1894  [^3]: Wellington City Council Archives, 00233-1894/827  [^4]: Wellington City Council Archives, 00233-1894/886
+[^1]: Wairarapa Daily Times 1 June 1894  
+[^2]: Evening Post 14 June 1894  
+[^3]: Wellington City Council Archives, 00233-1894/827  
+[^4]: Wellington City Council Archives, 00233-1894/886
