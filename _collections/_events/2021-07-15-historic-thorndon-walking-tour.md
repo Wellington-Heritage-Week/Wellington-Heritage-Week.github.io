@@ -16,9 +16,9 @@ host:
 tag:
   - Event
 ---
-This 2-hour walking tour takes in the Parliament precinct, Hill St, Thorndon Road, Glenbervie Tce, Ascot Tce, Sydney St, Bolton St and the Rose Gardens. The final leg is via the Bolton Street Cemetery. The route, all on sealed paths, is wheelchair accessible through two short, uphill sections are steep (accessing Hill St and Glenbervie Tce).
+**This 2-hour walking tour takes in the Parliament precinct, Hill St, Thorndon Road, Glenbervie Tce, Ascot Tce, Sydney St, Bolton St and the Rose Gardens. The final leg is via the Bolton Street Cemetery.** 
 
-
+The route, all on sealed paths, is wheelchair accessible through two short, uphill sections are steep (accessing Hill St and Glenbervie Tce).
 
 <br>
 
