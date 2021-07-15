@@ -56,4 +56,7 @@ The Mayor came up with a last-minute alternative and instructed the council to g
 
 *Published on 15 July 2021.*
 
-[^1]: Wairarapa Daily Times 1 June 1894  [^2]: Evening Post 14 June 1894  [^3]: Wellington City Council Archives, 00233-1894/827  [^4]: Wellington City Council Archives, 00233-1894/886
+[^1]: Wairarapa Daily Times 1 June 1894  
+[^2]: Evening Post 14 June 1894  
+[^3]: Wellington City Council Archives, 00233-1894/827  
+[^4]: Wellington City Council Archives, 00233-1894/886
