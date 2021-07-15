@@ -8,7 +8,7 @@ intro: >-
 
   Here the author shares snippets from Adair’s life as she toured in the Wellington region in the 1890s.
 author: Catherine Clarke - novelist
-img: /assets/uploaded/leila-adair-landscape.jpg
+img: /assets/uploaded/book-cover-catherine-clarke.png
 tag:
   - Post
 ---
