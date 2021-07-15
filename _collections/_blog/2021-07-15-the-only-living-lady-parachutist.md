@@ -14,6 +14,8 @@ tag:
 
 That’s how the Wairarapa Daily Times[^1] announced the imminent arrival of The Aerial Queen, Leila Adair, to Masterton in 1894. The Only Living Lady Parachutist, as she called herself, was a remarkable but little-known woman who earned her living by jumping from a hot air balloon with a parachute. 
 
+![Black and white collage of woman on trapeze bar, with ferns and hot air balloon.](/assets/uploaded/leila-adair-2-.jpg "Montage of Adair in Palmerston North. Palmerston North City Library")
+
 This photo montage  was made from pictures taken at a Palmerston North performance in 1894. A few days before this successful ascent Leila had been involved in a stoush with the Manawatu Mounted Rifles, who confiscated her share of the gate takings when the balloon inflation failed and a riotous crowd demanded their money back.  
 
 Leila Adair made a balloon ascent in Petone from the A & P Showgrounds that were between Cuba, Ava and South Street. Her new manager, Arthur B. Adair, had a nifty plan, whereby spectators bought the shilling admission ticket as part of the train fare, thereby hoping to avoid “deadheads” who watched the exhibition from outside the grounds for free. Unfortunately, this plan ran into unforeseen problems when the inflation took longer than anticipated, forcing Leila to make a brief hurried ascent before the return train departed.
@@ -34,7 +36,13 @@ Arthur B. Adair then wrote the following letter to the Town Clerk on 18 June 189
 
 *A balloon ascension has never been seen in Wellington and a parachute drop is a rarity in any part of the world, but Miss Leila Adair proposes to do both of these feats, if my suggestion meet with your sanction. As this is a large city and will want a lot of advertising, I should be very much obliged if you could let me have your answer either tonight or tomorrow morning at the latest.*
 
-*Hoping to receive a favourable reply I remain yours faithfully Arthur B. Adair*
+*Hoping to receive a favourable reply* 
+
+*I remain yours faithfully* 
+
+*Arthur B. Adair*
+
+![Black and white aerial shot of Wellington in 1920.](/assets/uploaded/corporation-yards.jpg "Corporation Yard 1920. Wellington City Council Archives, 00138-827")
 
 The Mayor came up with a last-minute alternative and instructed the council to grant permission for Leila to use the Corporation Drainage Yard instead. Presumably either the proposed site (near where rubbish was incinerated in the Destructor, now Waitangi Park) or the weather was not in Leila Adair’s favour, as two weeks later she sailed for Blenheim without making another ascent in Wellington.
 
@@ -48,7 +56,4 @@ Images:
 2. Book cover
 3. Corporation Yard 1920. Wellington City Council Archives, 00138-827
 
-[^1]: Wairarapa Daily Times 1 June 1894
-[^2]: Evening Post 14 June 1894
-[^3]: Wellington City Council Archives, 00233-1894/827
-[^3]: Wellington City Council Archives, 00233-1894/886
+[^1]: Wairarapa Daily Times 1 June 1894 [^2]: Evening Post 14 June 1894 [^3]: Wellington City Council Archives, 00233-1894/827 [^3]: Wellington City Council Archives, 00233-1894/886
