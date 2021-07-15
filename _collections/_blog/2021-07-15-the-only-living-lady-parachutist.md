@@ -52,7 +52,7 @@ Arthur B. Adair then wrote the following letter to the Town Clerk on 18 June 189
 
 The Mayor came up with a last-minute alternative and instructed the council to grant permission for Leila to use the Corporation Drainage Yard instead. Presumably either the proposed site (near where rubbish was incinerated in the Destructor, now Waitangi Park) or the weather was not in Leila Adair’s favour, as two weeks later she sailed for Blenheim without making another ascent in Wellington.
 
-[Visit Catherine Clarke's blog](https://catherineclarkeauthor.com).
+[Read more on Catherine Clarke's blog](https://catherineclarkeauthor.com).
 
 *Published on 15 July 2021.*
 
