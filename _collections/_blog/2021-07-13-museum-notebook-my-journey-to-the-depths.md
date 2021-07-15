@@ -9,7 +9,7 @@ intro: >-
 
 
   What I did not expect was to be confronted by a forest of coral.
-author: Henry Buckenham, Festival Coordinator, Wellington Heritage Week
+author: Henry Buckenham - Festival Coordinator, Wellington Heritage Week
 img: /assets/uploaded/henry-buckenham-wellington-heritage-week.jpg
 tag:
   - Post
