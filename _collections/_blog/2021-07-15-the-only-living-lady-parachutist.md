@@ -6,7 +6,7 @@ intro: Catherine Clarke recently published The Only Living Lady Parachutist, a
   living. Here the author shares snippets from Adair’s life as she toured in the
   Wellington region in the 1890s.
 author: Catherine Clarke - novelist
-img: /assets/uploaded/the-only-living-lady-parachutist_final-front.jpg
+img: /assets/uploaded/leila-adair-landscape.jpg
 tag:
   - Post
 ---
@@ -48,7 +48,7 @@ The Mayor came up with a last-minute alternative and instructed the council to g
 
 [Visit Catherine Clarke's blog](www.catherineclarkeauthor.com).
 
-*Published on  July 2021.*
+*Published on 15 July 2021.*
 
 Images: 
 
@@ -56,4 +56,7 @@ Images:
 2. Book cover
 3. Corporation Yard 1920. Wellington City Council Archives, 00138-827
 
-[^1]: Wairarapa Daily Times 1 June 1894 [^2]: Evening Post 14 June 1894 [^3]: Wellington City Council Archives, 00233-1894/827 [^3]: Wellington City Council Archives, 00233-1894/886
+[^1]: Wairarapa Daily Times 1 June 1894 
+[^2]: Evening Post 14 June 1894 
+[^3]: Wellington City Council Archives, 00233-1894/827 
+[^4]: Wellington City Council Archives, 00233-1894/886
