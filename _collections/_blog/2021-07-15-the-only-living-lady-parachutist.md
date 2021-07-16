@@ -24,9 +24,15 @@ This photo montage  was made from pictures taken at a Palmerston North performan
 
 Leila Adair made a balloon ascent in Petone from the A & P Showgrounds that were between Cuba, Ava and South Street. Her new manager, Arthur B. Adair, had a nifty plan, whereby spectators bought the shilling admission ticket as part of the train fare, thereby hoping to avoid “deadheads” who watched the exhibition from outside the grounds for free. Unfortunately, this plan ran into unforeseen problems when the inflation took longer than anticipated, forcing Leila to make a brief hurried ascent before the return train departed.
 
+<img src="/assets/uploaded/petone-poster.jpg" alt="Black and white poster announcing Leila Adair's performance in Petone" style="width: 100%;">
+
+*Advertising poster. Marlborough Archives – Marlborough Historical Society Collection,
+
+Hale Collection - 0000.500.0213*
+
 The Evening Post[^2] described the occasion:  
 
-*About 800 or 1000 people assembled yesterday at the Show Grounds, Petone, to witness the balloon ascent of Miss Leila Adair. Considerable difficulty was experienced in inflating the balloon, but about 4 pm, all being ready, Miss Adair attired in striking costume and wearing a lifebelt, took her seat on the trapeze bar fixed to the parachute, which in turn was connected with the throat of the balloon. When the guy-ropes were let go the balloon rose about 500 feet, travelled in a south-west direction for about a minute and a half, and then began to descend. Miss Adair at this time was swinging by her hands from the trapeze bar, and although the parachute opened with the descent, it failed to become disengaged from the balloon. After passing Cuba-street and the adjoining paddock, Miss Adair, when about 12 or 15 feet from the ground, let go and landed safely. The balloon being relieved of her weight, again rose for a short distance, and eventually landed on the beach... A narrow escape from serious accident took place just before the ascent was made. Long scaffold poles were used to take the weight of the balloon during its inflation, and one of these being lowered rather carelessly, fell over the rails in front of the stand. The fence was damaged, and the polo broken in two with the shock. A woman and young child just escaped being struck by the falling pole.*
+*About 800 or 1000 people assembled yesterday at the Show Grounds, Petone, to witness the balloon ascent of Miss Leila Adair. Considerable difficulty was experienced in inflating the balloon, but about 4 pm, all being ready, Miss Adair attired in striking costume and wearing a lifebelt, took her seat on the trapeze bar fixed to the parachute, which in turn was connected with the throat of the balloon. When the guy-ropes were let go the balloon rose about 500 feet, travelled in a south-west direction for about a minute and a half, and then began to descend. Miss Adair at this time was swinging by her hands from the trapeze bar, and although the parachute opened with the descent, it failed to become disengaged from the balloon. After passing Cuba-street and the adjoining paddock, Miss Adair, when about 12 or 15 feet from the ground, let go and landed safely. The balloon being relieved of her weight, again rose for a short distance, and eventually landed on the beach... A narrow escape from serious accident took place just before the ascent was made. Long scaffold poles were used to take the weight of the balloon during its inflation, and one of these being lowered rather carelessly, fell over the rails in front of the stand. The fence was damaged, and the pole broken in two with the shock. A woman and young child just escaped being struck by the falling pole.*
 
 After her Petone ascent, the Public Works Committee recommended to the Wellington City Council that Leila Adair could have use of the Basin Reserve for her balloon ascent for a fee of £20 with an extra £20 bond to cover any damage. The Wellington Cricket Association[^3] made strenuous objections – they’d already spent £100 preparing the ground for next season, it would put all the work back and result in “a most disastrous financial loss” — so the Council reversed their decision. 
 
@@ -56,7 +62,7 @@ The Mayor came up with a last-minute alternative and instructed the council to g
 
 *Published on 15 July 2021.*
 
-[^1]: Wairarapa Daily Times 1 June 1894  
-[^2]: Evening Post 14 June 1894  
-[^3]: Wellington City Council Archives, 00233-1894/827  
+[^1]: Wairarapa Daily Times 1 June 1894\
+[^2]: Evening Post 14 June 1894\
+[^3]: Wellington City Council Archives, 00233-1894/827\
 [^4]: Wellington City Council Archives, 00233-1894/886
