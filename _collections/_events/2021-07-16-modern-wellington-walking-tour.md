@@ -34,3 +34,7 @@ The tour will take approximately 1.5 hours, up-stairs and hills, so comfortable 
 **Health & Safety:** A health and safety briefing will be given to all attendees at the beginning of the tour. The briefing will identify first aiders and cover issues such as: appropriate/safe behaviours with other pedestrians and when crossing roads; what to do if there’s an earthquake; and where to access food, drink and toilets. A first aid kit will be on-hand.
 
 The Event Host will contact attendees about any Covid-19 requirements, postponement, or cancellation notifications.
+
+
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FHeritageNewZealand&tabs=timeline&width=340&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="5" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
