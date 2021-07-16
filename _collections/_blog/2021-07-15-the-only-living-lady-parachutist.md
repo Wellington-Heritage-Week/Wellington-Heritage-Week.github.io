@@ -26,9 +26,7 @@ Leila Adair made a balloon ascent in Petone from the A & P Showgrounds that were
 
 <img src="/assets/uploaded/petone-poster.jpg" alt="Black and white poster announcing Leila Adair's performance in Petone" style="width: 100%;">
 
-*Advertising poster. Marlborough Archives – Marlborough Historical Society Collection,
-
-Hale Collection - 0000.500.0213*
+\*Advertising poster. Marlborough Archives – Marlborough Historical Society Collection, Hale Collection - 0000.500.0213\*
 
 The Evening Post[^2] described the occasion:  
 
