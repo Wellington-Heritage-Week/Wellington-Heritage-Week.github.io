@@ -2,7 +2,7 @@
 layout: post
 title: "Competition: Build Wellington's heritage... in Lego! "
 location: Wellington City
-img: /assets/uploaded/whw-lego-competition-doc.jpg
+img: /assets/uploaded/lego-competition-whw21.jpg
 event_date: Online
 host:
   blurb: The Department of Conservation Te Papa Atawhai is the government agency
