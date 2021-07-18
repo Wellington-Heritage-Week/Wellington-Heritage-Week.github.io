@@ -23,7 +23,7 @@ The underground tunnels include an engine room, ammunition stores, plotting room
 
 Limited car parking at the top of the hill- refreshments available. 
 
-PLEASE NOTE; CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun and strong footwear please>
+PLEASE NOTE; CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun and strong footwear.
 
 <br>
 
