@@ -3,7 +3,7 @@ layout: post
 title: Wrights Hill Fortress Open Day
 location: Wellington City
 img: /assets/uploaded/wrights-hill-fortress-open-day-whw21-image.jpg
-event_date: 10am-4pm Mon 25 Oct
+event_date: 10am–4pm Mon 25 Oct
 host:
   name: Wrights Hill Fortress Restoration Society Inc.
   blurb: The Wrights Hill Fortress Restoration Society is a self- funded
