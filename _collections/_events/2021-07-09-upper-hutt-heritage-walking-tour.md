@@ -2,7 +2,7 @@
 layout: post
 title: Upper Hutt Heritage Walking Tour
 location: Upper Hutt
-img: /assets/uploaded/upper-hutt-heritage-walking-tour-.png
+img: /assets/uploaded/upper-hutt-heritage-walking-tour-whw21.png
 event_date: 3pm Sat 30 & Sun 31 Oct
 host:
   blurb: "Whirinaki Whare Taonga is a vibrant arts centre where you can to enjoy
@@ -22,16 +22,14 @@ tag:
 ---
 A guided walking tour featuring the historic sites and buildings of Upper Hutt. This 1.5km walking tour will take you through the historic areas and stories of our city, its personalities and its drama.
 
-
-
 <br>
 
 **No booking is required.** 
 
 **Location:** Whirinaki Whare Taonga836 Fergusson Drive,Upper Hutt, 5018
 
-**Duration:** approx. 2 hours 
+**Duration:** Approx. 2 hours 
 
 **Cost:** Free
 
-**Health and Safety:** Suitable for all ages. Dress for the weather. 
+**Health and Safety:** Suitable for all ages. Dress for the weather.
