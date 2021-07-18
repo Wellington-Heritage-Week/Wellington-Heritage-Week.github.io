@@ -17,10 +17,20 @@ host:
 tag:
   - Event
 ---
-his unique tour will engage visitors in a completely different Kapiti Island experience. Visits to historically rich occupation sites, Maori settlement, whaling and farming remnants, followed by the remarkable conservation story of the Kapiti Island Nature Reserve, and Marine Reserve. 
+**This unique tour will engage visitors in a completely different Kapiti Island experience. Visits to historically rich occupation sites, Maori settlement, whaling and farming remnants, followed by the remarkable conservation story of the Kapiti Island Nature Reserve, and Marine Reserve.** 
 
 The tour is a combination of cruise/visit and on-Island walking-approx 2 hours cruising and 4 hours on the island - expert local guides will bring rarely exposed highlights and moments, not routinely experienced on a Kapiti Island visit. Lunch is included on Island. 
 
 Early/advanced bookings are essential as participating numbers are limited to 24 per tour.
 
 <br>
+
+**Booking is required. Email bookings@kapitiisland.com or call 0800 527 484 to book.**
+
+**Location:** Meet at Kapiti Island Centre, 29 Marine Parade, Paraparaumu Beach.
+
+**Duration:**  6hours
+
+**Cost:** Adult $180.00; Child $150.00. Shuttle from Wellington City: $120.00 per person. 
+
+Health & Safety: Whatever time of year you visit it’s always a good idea to bring good walking shoes or boots, a water bottle, your camera and a small backpack to carry your lunch & any spare clothes.  The weather can be changeable so wearing clothing you can layer is recommended. We’d also suggest bringing a light jacket, sunhat & sunscreen - the New Zealand sun can be quite strong.
