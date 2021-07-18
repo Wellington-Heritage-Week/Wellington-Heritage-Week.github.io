@@ -2,7 +2,7 @@
 layout: post
 title: Historic Thorndon Walking Tour
 location: Wellington City
-img: /assets/uploaded/walk-wellington-whw21.png
+img: /assets/uploaded/ww-whw21.png
 event_date: 2pm Sun 31 Oct
 host:
   email: bookings@walkwellington.org.nz
