@@ -2,7 +2,7 @@
 layout: post
 title: Wellington CBD Hidden Gems Walking Tour
 location: Wellington City
-img: /assets/uploaded/walk-wellington-whw21.png
+img: /assets/uploaded/ww-whw21.png
 event_date: 11am Wed 27 Oct
 host:
   blurb: Walk Wellington is a not-for-profit incorporated society with about 25
