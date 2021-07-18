@@ -2,7 +2,7 @@
 layout: post
 title: Upper Hutt Heritage Walking Tour
 location: Upper Hutt
-img: /assets/uploaded/upper-hutt-heritage-walking-tour-.png
+img: /assets/uploaded/upper-hutt-heritage-walking-tour-whw21.png
 event_date: 3pm Sat 30 & Sun 31 Oct
 host:
   blurb: "Whirinaki Whare Taonga is a vibrant arts centre where you can to enjoy
