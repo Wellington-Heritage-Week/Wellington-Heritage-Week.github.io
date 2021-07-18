@@ -21,13 +21,13 @@ Visitors will recognise the names of many of the streets in the Hutt Valley on t
 
 Christ Church is still a consecrated church and is frequently used for, weddings, baptisms and funerals, in addition to special services arranged by the Preservation Society.
 
+There will be guided graveyard tours at 1.00 and 2.00 pm.
+
 <br>
 
 **No booking is required.** 
 
 **Location:** 73 Eastern Hutt Road, Wingate, Lower Hutt
-
-**Duration:** 1.5 hours
 
 **Cost:** Free
 
