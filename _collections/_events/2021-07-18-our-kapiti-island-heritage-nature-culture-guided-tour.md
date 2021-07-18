@@ -36,3 +36,5 @@ Please meet at 8:30am at Kapiti Island Centre, 29 Marine Parade, Paraparaumu Bea
 **Cost:** Adult $180.00/child $150.00 from Paraparaumu, excluding a shuttle from Wellington City shuttle. The shuttle is an additional $120.00 per person - please specify whether you wish to order the shuttle when you book.
 
 **Health & Safety:** The tours will be operated under the Health and Safety policies and plans of both Kapiti Island Nature Tours and Kapiti Water Taxi Ltd (ferry operator). Copies of the plans are available for inspection.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fkapitiislandnaturetours&tabs=timeline&width=340&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="5" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
