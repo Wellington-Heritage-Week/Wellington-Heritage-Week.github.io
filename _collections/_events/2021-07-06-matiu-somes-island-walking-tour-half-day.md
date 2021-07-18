@@ -2,7 +2,7 @@
 layout: post
 title: Matiu/Somes Island Guided Walking Tour
 location: Matiu/Somes Island
-img: /assets/uploaded/matiu-somes-wellington-heritage-week.jpg
+img: /assets/uploaded/mod-wgtn-tour-image-whw21.jpg
 event_date: 10:30am & 11am Mon 25, Wed 27 & Sat 30 Oct
 host:
   email: efrtours@gmail.com
