@@ -2,7 +2,7 @@
 layout: post
 title: Home of Compassion Crèche Talk and Tour
 location: Wellington City
-img: /assets/uploaded/sisters-of-compassion-wellington-heritage-week-2021..jpg
+img: /assets/uploaded/kapiti-coast-museum-whw21.jpg
 event_date: 11:30am & 1:30pm Sat 30 Oct
 host:
   name: Ministry for Culture and Heritage and Sisters of Compassion
