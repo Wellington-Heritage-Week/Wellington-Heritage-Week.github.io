@@ -29,7 +29,7 @@ PLEASE NOTE: CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun 
 
 **No booking is required.**
 
-**Location:** Royal New Zealand Police College 24 Papakowhai Road, Papakōwhai, Porirua 5024
+**Location:** 50 Wrights Hill Road, Karori - off Campbell Street, left off Karori Road
 
 **Duration:** Self-guided tours between 60 and 90 minutes.
 
