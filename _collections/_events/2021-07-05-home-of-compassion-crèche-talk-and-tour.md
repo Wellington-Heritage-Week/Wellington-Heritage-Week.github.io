@@ -2,7 +2,7 @@
 layout: post
 title: Home of Compassion Crèche Talk and Tour
 location: Wellington City
-img: /assets/uploaded/sisters-of-compassion-whw21.jpg
+img: /assets/uploaded/sisters-of-compassion-whw211.jpg
 event_date: 11:30am & 1:30pm Sat 30 Oct
 host:
   name: Ministry for Culture and Heritage and Sisters of Compassion
