@@ -2,7 +2,7 @@
 layout: post
 title: Brewtown Upper Hutt Brewery Tour
 location: Upper Hutt
-img: /assets/uploaded/brewtown-upper-hutt-brewery-tour-image.-.jpg
+img: /assets/uploaded/brewtown-upper-hutt-brewery-tour-whw21.jpg
 event_date: Sat 30 & Sun 31 Oct
 host:
   blurb: Mike Henderson is the owner/operator of Craft Beer Tours NZ and is
