@@ -29,10 +29,10 @@ Early/advanced bookings are essential as participating numbers are limited to 24
 
 **Location:** Meet at Kapiti Island Centre, 29 Marine Parade, Paraparaumu Beach.
 
-**Duration:**  6hours
+**Duration:**  6 hours
 
 **Cost:** Adult $180.00; Child $150.00. Shuttle from Wellington City: $120.00 per person. 
 
-Health & Safety: Whatever time of year you visit it’s always a good idea to bring good walking shoes or boots, a water bottle, your camera and a small backpack to carry your lunch & any spare clothes.  The weather can be changeable so wearing clothing you can layer is recommended. We’d also suggest bringing a light jacket, sunhat & sunscreen - the New Zealand sun can be quite strong.
+**Health & Safety:** Whatever time of year you visit it’s always a good idea to bring good walking shoes or boots, a water bottle, your camera and a small backpack to carry your lunch & any spare clothes.  The weather can be changeable so wearing clothing you can layer is recommended. We’d also suggest bringing a light jacket, sunhat & sunscreen - the New Zealand sun can be quite strong.
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fkapitiislandnaturetours&tabs=timeline&width=340&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="5" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
