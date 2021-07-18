@@ -23,7 +23,7 @@ The underground tunnels include an engine room, ammunition stores, plotting room
 
 Limited car parking at the top of the hill- refreshments available. 
 
-PLEASE NOTE; CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun and strong footwear.
+PLEASE NOTE: CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun and strong footwear.
 
 <br>
 
@@ -33,7 +33,7 @@ PLEASE NOTE; CASH only- no EFTPOS facilities- sorry. Bring a torch for some fun 
 
 **Duration:** Self-guided tours between 60 and 90 minutes.
 
-**Cost:** Family of 2 adults and 3 kids: $20; Single Adult: 10$; Single Child (under 15): $5
+**Cost:** Family of 2 adults and 3 kids: $20; Single Adult: 10$; Single Child (under 15): $5. Cash only. 
 
 **Contact:** contact@wrightshillfortress.org.nz 04 4768 593
 
