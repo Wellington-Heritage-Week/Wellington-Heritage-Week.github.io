@@ -12,15 +12,19 @@ host:
 tag:
   - Event
 ---
-Learn about the iconic artist behind Wellington’s largest textile artwork 'Definitely Wellington', the colourful and vivacious banners and wall hangings at the MFC. See the original drawings, never before exhibited in public. 
+**Learn about the iconic artist behind Wellington’s largest textile artwork 'Definitely Wellington', the colourful and vivacious banners and wall hangings at the MFC. See the original drawings, never before exhibited in public.** 
+
+Gordon Crook was born in England, and taught textile design at London’s Central School of Art. He came to New Zealand in 1972, where his art flourished. In 1979 he was commissioned to create 20 enormous banners for the New Zealand embassy in Washington, and a few years later made the banners that still hang in the entrance of the Michael Fowler Centre. 
+
+In the decades that followed, his art – textiles, prints, paintings and collages – was exhibited throughout the country.
 
 Wheelchair accessible. Tea and coffee are provided.
 
 <br>
 
-<!--StartFragment-->
+**Booking is required.**
 
-**Booking is required. Email events@compassion.org.nz to book.**
+<a href="" class="button">Book the talk</a>
 
 **Location:** Michael Fowler Centre Foyer, 111 Wakefield Street, Te Aro, Wellington 6011
 
