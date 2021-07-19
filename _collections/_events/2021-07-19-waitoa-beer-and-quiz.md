@@ -10,6 +10,7 @@ host:
     of the fabric of the area. Helped in production by MA studies from Victoria.
   email: henrybuckenham@wellingtonheritageweek.co.nz
   name: Waitoa Brewery
+  phone: 021 1012936
 tag:
   - Event
 ---
@@ -25,4 +26,4 @@ A trifecta of beers brewed as a love letter to New Zealand brewing. Opening on L
 
 **Cost:** Free 
 
-**Contact:** henrybuckenham@wellingtonheritageweek.co.nz
+**Contact:** henrybuckenham@wellingtonheritageweek.co.nz 021 1012 936
