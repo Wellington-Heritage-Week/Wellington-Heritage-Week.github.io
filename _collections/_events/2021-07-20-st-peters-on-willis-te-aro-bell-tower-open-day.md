@@ -24,10 +24,9 @@ Please note the tower access is up steep stairs.
 
 You can see us participating in rings around the world on the 200th anniversary of the invention of the Ellacombe frame on our Facebook page or the worldwide index of participants
 
-St Peter's on Willis, Wellington Paste the link into your browser.
-https://fb.watch/6phe7589ZK/
+<a href="https://fb.watch/6phe7589ZK/" class="button">Watch us ring the bells</a>
 
-
+<br>
 
 **No booking is required.** 
 
