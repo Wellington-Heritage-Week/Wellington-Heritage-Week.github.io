@@ -2,7 +2,7 @@
 layout: post
 title: Old Jail Museum Open Day
 location: Lower Hutt
-img: /assets/uploaded/petone-jail-whw21.png
+img: /assets/uploaded/old-jail-whw21.png
 event_date: 11am–2pm Sat 30 Oct
 host:
   blurb: The Jackson Street Programme is an incorporated society paid by the
