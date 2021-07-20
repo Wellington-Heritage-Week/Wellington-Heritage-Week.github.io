@@ -31,7 +31,7 @@ The tour will take approximately 1.5 hours, up-stairs and hills, so comfortable 
 
 **Cost:** Free
 
-**Health & Safety:** A health and safety briefing will be given to all attendees at the beginning of the tour. The briefing will identify first aiders and cover issues such as: appropriate/safe behaviours with other pedestrians and when crossing roads; what to do if there’s an earthquake; and where to access food, drink and toilets. A first aid kit will be on-hand.
+**Health & Safety:** Comfortable and weather-appropriate footwear and clothing is required for this tour. The tour involves some hill walking and stair climbing, so a moderate level of fitness is necessary. Please advise us when you book if you need accessibility requirements to be taken into account, because we should be able to accommodate them.
 
 The Event Host will contact attendees about any Covid-19 requirements, postponement, or cancellation notifications.
 
