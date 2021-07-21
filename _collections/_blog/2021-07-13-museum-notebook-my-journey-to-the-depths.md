@@ -20,7 +20,7 @@ The founder of the Whanganui Regional Museum, Samuel Drew, collected examples of
 
 Two huge ledgers in copperplate handwriting give species identifications to some of them and, occasionally, a broad location of where they were collected. Drew was not a man who organised his collecting practices with a young intern's cataloguing process in mind. Personal, beautiful (if illegible), and with details sometimes totally absent, his ledger is both helpful and unhelpful in identifying corals.
 
-[Click here to read the full article on the Whanganui Chronicle website.](https://www.nzherald.co.nz/whanganui-chronicle/news/museum-notebook-my-journey-to-the-depths/KLAYT4QFVWOTEUNDYR5EHZED4E/?fbclid=IwAR05Hl0ZTOBc3pZKYSnY2KTpwAj34Qk-uA05Z3BWwxY6bP4KCSKpzDGA6Eg)
+[Read the full article on the Whanganui Chronicle website.](https://www.nzherald.co.nz/whanganui-chronicle/news/museum-notebook-my-journey-to-the-depths/KLAYT4QFVWOTEUNDYR5EHZED4E/?fbclid=IwAR05Hl0ZTOBc3pZKYSnY2KTpwAj34Qk-uA05Z3BWwxY6bP4KCSKpzDGA6Eg)
 
 *Published on 21 June 2021.*
 
