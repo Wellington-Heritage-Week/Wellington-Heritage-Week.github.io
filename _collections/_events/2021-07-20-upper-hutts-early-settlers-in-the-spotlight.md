@@ -7,7 +7,10 @@ event_date: 1:30pm–4pm Mon 25 Oct & Sat 30 Oct
 host:
   name: Golder Homestead Museum Society Incorporated
   blurb: GHMS is a group tasked with making the historic pioneer Golder Cottage
-    accessible to the people of the region- and beyond.
+    accessible to the people of the region- and beyond. Golder Cottage is open
+    to the public every Saturday of the year and on all public holidays (apart
+    from Christmas Day and Good Friday)  from 1.30pm-4pm. Entry fee is $5
+    adults, $3 children and under fives free.
   email: vibranthv@gmail.com
   phone: 04-527 8285
 tag:
