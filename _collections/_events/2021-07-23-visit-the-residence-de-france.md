@@ -25,6 +25,8 @@ Visitors will be welcomed at the gate, before a specialist of local history from
 
 **Booking is required (maximum of 25 visitors per tour).**
 
+<a href="https://www.eventfinda.co.nz/2021/discover-la-residence-de-france/wellington" class="button">Book a tour</a>
+
 **Location:** 39 Hobson Street, Wellington
 
 **Duration:** Each tour will take approximately 55 minutes
