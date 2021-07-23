@@ -19,9 +19,13 @@ tag:
 ---
 **This event offers a tour of the interior of the Public Trust Building, a Grade One Heritage Listed Building, including a discussion of the architectural features, the Heritage Foyer, Public Trust Hall, the earthquake-strengthening and refurbishment work undertaken since 2013.** 
 
-The tour allows people to get a behind-the-scenes look at the best building in Wellington. Maximum of 12 persons per tour.
+The tour allows people to get a behind-the-scenes look at the best building in Wellington and one of New Zealand’s finest examples of Edwardian Baroque architecture. 
+
+Maximum of 12 persons per tour.
 
 <br> 
+
+**Booking is required. Email hello@publictrusthall.co.nz to book.** 
 
 **Location:** 131 - 135 Lambton Quay, Wellington CBD
 
