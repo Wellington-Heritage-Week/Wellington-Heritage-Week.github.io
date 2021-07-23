@@ -24,6 +24,8 @@ You’ll need to be quite agile, 12 years of age or older, and not afraid of the
 
 **Booking is required.** 
 
+<a href="https://www.eventbrite.co.nz/e/a-night-in-the-attic-at-old-government-buildings-tickets-163944627795" class="button">Book a tour</a>
+
 **Location:** Main entrance steps of Old Government Buildings, 55 Lambton Quay, Wellington
 
 **Duration:** 1-1.5 hours
