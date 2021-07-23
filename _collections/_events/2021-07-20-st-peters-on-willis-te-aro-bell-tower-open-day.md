@@ -35,4 +35,4 @@ You can see us participating in rings around the world on the 200th anniversary 
 
 **Cost:** Koha that will be used to maintain the bells
 
-**Health & Safety:** Steep stairs with handrails. Prominent notices to use rails and ask for help if required. Warning about steep stairs should be in notice as above. Children to be accompanied by an adult. Defibrilatar avaliable.
+**Health & Safety:** Steep stairs with handrails. Prominent notices to use rails and ask for help if required. Warning about steep stairs should be in notice as above. Children to be accompanied by an adult. Defibrillator avaliable.
