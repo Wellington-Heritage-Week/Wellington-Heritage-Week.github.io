@@ -3,7 +3,7 @@ layout: post
 title: Police Heritage Walking Tour
 location: Porirua
 img: /assets/uploaded/police-heritage-walking-tour-whw21.jpg
-event_date: 10am Tues 26 Oct & 6pm Thurs 28 Oct
+event_date: 10am Tues 26 & 6pm Thurs 28 Oct
 host:
   phone: 04 238 3141
   email: museum@police.govt.nz
