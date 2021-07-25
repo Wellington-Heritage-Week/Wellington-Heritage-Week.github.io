@@ -10,7 +10,7 @@ host:
     accessible to the people of the region- and beyond. Golder Cottage is open
     to the public every Saturday of the year and on all public holidays (apart
     from Christmas Day and Good Friday)  from 1.30pm-4pm. Entry fee is Adults
-    $5, Students $3,Children $2, and under fives free.
+    $5, Students $3, Children $2, and under fives free.
   email: vibranthv@gmail.com
   phone: 04-527 8285
 tag:
