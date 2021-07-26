@@ -20,13 +20,13 @@ Since 1866, Old St Paul’s has stood on Mulgrave Street while the landscape aro
 \
 Over the years, the evolution of Old St Paul’s and its Thorndon/Pipitea surroundings has been captured on camera, along with some notable moments in Wellington’s history in which Old St Paul’s has played a role. Join us for a visual exploration of this small but significant corner of the capital.\
 \
-This event is free, though koha is appreciated. Register to attend at Eventbrite, or by emailing oldstpauls@heritage.org.nz.
+This event is free, though koha is appreciated. Register to attend at Eventbrite by clicking the button below, or by emailing oldstpauls@heritage.org.nz.
 
 <br>
 
 **Booking is required.** 
 
-
+<a href="https://www.eventbrite.co.nz/e/164777348485" class="button">Book the talk</a>
 
 **Location:** 34 Mulgrave St, Pipitea, Wellington
 
