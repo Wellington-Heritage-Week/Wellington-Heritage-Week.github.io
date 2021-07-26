@@ -5,11 +5,11 @@ location: Wellington City
 img: /assets/uploaded/bolton-st-cemetery-whw21-min.png
 event_date: 2pm Fri 29 & Sat 30 Oct
 host:
-  email: kate_fortune@hotmail.com
+  email: ""
   blurb: The Friends of the Bolton Street Cemetery are an enthusiastic group of
     volunteers, some living in the neighbourhood and some are descendants of
     people buried in the cemetery.
-  phone: 021 109 4001
+  phone: ""
   name: "The Friends of the Bolton Street Cemetery "
 tag:
   - Event
@@ -26,7 +26,7 @@ Our guides will also talk about the disruption caused by the construction of Wel
 
 <br>
 
-**Booking is required. Email kate_fortune@hotmail.com to book.**
+**Booking is required.** 
 
 **Location:** Bolton Street Cemetery: Meet at Kinross Street entrance to cemetery. Tour ends at Bolton Street entrance.
 
@@ -35,5 +35,7 @@ Our guides will also talk about the disruption caused by the construction of Wel
 **Maximum number of participants:**  20
 
 **Cost:** $10 pp
+
+**Contact:** For the Friday tour, please contact Kate on kate_fortune@hotmail.com 021 109 4001 if required. For the Saturday tour, please contact Jennifer on jennifer.button.nz@gmail.com 021 024 52650. if required 
 
 **Health & Safety:** Not suitable for wheelchairs. Please wear sturdy shoes as some paths are steep and can be slippery. Care is required.
