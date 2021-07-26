@@ -2,6 +2,7 @@
 layout: post
 title: Old St Paul’s in Pictures
 location: Wellington City
+img: /assets/uploaded/osp-event-image-credit-paul-mccredie-whw21.jpg
 event_date: 5:30pm Wed 27 Oct
 host:
   name: Heritage New Zealand Pouhere Taonga
