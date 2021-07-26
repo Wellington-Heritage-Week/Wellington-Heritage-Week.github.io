@@ -2,7 +2,7 @@
 layout: post
 title: The Strengthening of Wellington's Architectural Heritage
 location: Wellington City
-img: /assets/uploaded/st-paul-whw21.png
+img: /assets/uploaded/st-paul-whw21-min.png
 event_date: 3:15pm Sun 31 Oct
 host:
   blurb: The Friends of Futuna Charitable Trust are the current guardians and
