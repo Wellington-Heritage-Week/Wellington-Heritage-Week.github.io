@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circa Theatre Historical Tours & Open Day
+title: Circa Theatre Historical Tours
 location: Wellington City
 img: /assets/uploaded/circa-theatre-historical-weekday-1pm-tours-saturday-open-day.png
 event_date: 1pm Mon 25 –Fri  29 & 11am–2pm Sat 30 Oct
@@ -25,13 +25,17 @@ tag:
 
 A Circa Councillor will take you on a unique guided tour of the historic building, including rarely seen backstage areas. Learn about the fascinating building move from 7 Harris Street to 1 Taranaki Street – including how the facade of 120-year-old Westport Chambers was trucked across the road and the new theatre built in behind it. You may even get the opportunity to glimpse this year’s Christmas Panto rehearsal, THE LITTLE MERMAID!
 
-The one-hour tours will run at 1pm daily from Mon 25 – Fri 29 October and there will be 4 tours on Sat 30 October’s "Open Day" (11am, 12pm, 1pm & 2pm). 
+The one-hour tours will run at 1pm daily from Mon 25 – Fri 29 October and there will be 4 tours on Sat 30 October at 11am, 12pm, 1pm & 2pm. 
 
-Max 20 people per tour and bookings are essential. There will be opportunities to join as a ‘Friend of Circa’ at a special reduced rate of $50 for the year (normally $60).
+Max 20 people per tour and bookings are essential. 
+
+There will be opportunities to join as a ‘Friend of Circa’ at a special reduced rate of $50 for the year (normally $60).
 
 <br>
 
 **Booking is required. Please book at circa.co.nz or call our friendly Box Office team on 04 801 7992** 
+
+<a href="https://nz.patronbase.com/_Circa/Productions" class="button">Book the tour</a>
 
 **Location:** Circa Theatre, 1 Taranaki St, Te Aro, Wellington 6011 (next to Te Papa
 
