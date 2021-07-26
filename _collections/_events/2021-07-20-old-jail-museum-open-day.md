@@ -7,7 +7,7 @@ event_date: 11am–2pm Sat 30 Oct
 host:
   blurb: The Jackson Street Programme is an incorporated society paid by the
     building owners of Jackson Street's commercial precinct to promote, preserve
-    and enchance Jackson Street as a successful heritage, retail, and commerical
+    and enhance Jackson Street as a successful heritage, retail, and commercial
     area.
   name: Jackson Street Programme Inc.
   email: info@jacksonstreet.co.nz
@@ -16,11 +16,11 @@ host:
 tag:
   - Event
 ---
-**Come to the Old Jail Museum - a well-preserved former lockup. See an exhibition on Policing in Petone since 1840.** 
+**Come to the Old Jail Museum - a well-preserved former lockup. See an exhibition on Policing in Petone from 1840.** 
 
-Also, read about other Jackson Street and Petone stories. There's information on Jackson Street businesses, Petone walking tours, kids activity sheets and more to take away.
+It also has other Jackson Street and Petone stories, as well as information on Jackson Street businesses, Petone walking tours, kids activity sheets and more to take away. 
 
-Built-in 1908 in Elizabeth Street, it was once the most senior station in the Hutt Valley with four constables and one sergeant. In the late 1940s, the Police Station and Jail were moved behind the old (now derelict) courthouse at 13 Elizabeth Street. Police used the courthouse as an office, but the lock-up continued to be used – mainly for intoxicated offenders – until 1978.
+Built in 1908 in Elizabeth Street, it was once the most senior station in the Hutt Valley with four constables and one sergeant. In the early 1950s, the Police Station and Jail were moved behind the old courthouse at 13 Elizabeth Street. Police used the courthouse as an office, but the lockup continued to be used – mainly for intoxicated offenders – until 1978.
 
 <br>
 
