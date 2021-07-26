@@ -30,4 +30,6 @@ Due to the hazards in the area, it is not suitable for those who rely on mobilit
 
 **Cost:** Koha to help with costs related to our conservation efforts.
 
-**Health & Safety:** People attending will need a decent level of fitness to walk up the track. Hazards: rockfall from the banks bees drop from the water fall and edge of the track people tripping up over rocks
+**Health & Safety:** People attending will need a decent level of fitness to walk up the track. Hazards: rockfall from the banks bees drop from the water fall and edge of the track people tripping up over rocks.
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTyersStream&tabs=timeline&width=340&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="5" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
