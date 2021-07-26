@@ -9,7 +9,7 @@ host:
   phone: 04 939 2811
   blurb: The Jackson Street Programme is an incorporated society paid by the
     building owners of Jackson Street's commercial precinct to promote, preserve
-    and enchance Jackson Street as a successful heritage, retail, and commerical
+    and enhance Jackson Street as a successful heritage, retail, and commercial
     area.
   name: Jackson Street Programme Inc.
   website: www.jacksonstreet.co.nz
