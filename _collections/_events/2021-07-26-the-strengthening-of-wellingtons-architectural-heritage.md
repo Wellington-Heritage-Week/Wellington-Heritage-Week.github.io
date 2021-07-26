@@ -26,6 +26,8 @@ NZ registered architects attending this presentation will received 10 CPD points
 
 <br>
 
+**No booking is required**. 
+
 **Location:** Futuna Chapel, 67 Futuna Close (off Friend Street), Karori, Wellington
 
 **Duration:** 1 hour
