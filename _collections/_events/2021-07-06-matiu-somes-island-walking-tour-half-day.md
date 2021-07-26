@@ -18,7 +18,7 @@ tag:
 
 As the “spittle in the mouth of the fish of Maui” the three harbour islands begin Wellington’s story.
 
-The Eastbourne Forest Rangers are volunteers interested in enhancing our cultural and natural history. An experienced guide will take you around the island.
+The Eastbourne Forest Rangers are volunteers who enjoy telling the Matiu/Somes heritage story.
 
 The tour covers the islands’ discovery, first peoples, the dislocations and relocations of the early 1800’s, immigration, quarantine, and war-time internments. It also illuminates the islands’ forest restoration, endangered species and their recovery, and the awesome landscape forces of the harbour.
 
