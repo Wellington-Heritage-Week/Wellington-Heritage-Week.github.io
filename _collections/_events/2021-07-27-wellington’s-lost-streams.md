@@ -18,16 +18,20 @@ tag:
 \
 Scientist Evan Harrison, Ecological Engineer, Stu Farrant, and a former Chief Storm Water Advisor, Ben Fountain, will tell the story through the lenses of Kumutoto, Waimapihi and Waitangi Streams as we stroll from the site of Wellington’s first ‘piped stream’ and onto the waterfront reflecting on the issues and challenges with the future of our city’s freshwater.\
 \
-Booking is essential for this 2 hour walking tour, starting at 1pm on Saturday 30 October, because places are limited. Please book by contacting David Watt at Heritage New Zealand Pouhere Taonga: 04 494 8322 or dwatt@heritage.org.nz.
+Booking is essential for this 2 hour walking tour, starting at 1pm on Saturday 30 October, because places are limited. 
+
+Spaces are limited to 30 people maximum. 
 
 <br>
 
-**Booking is required. Email dwatt@heritage.org.nz or call 04 494 8322 to book.**
+**Booking is required. Please book by contacting David Watt at Heritage New Zealand Pouhere Taonga: 04 494 8322 or dwatt@heritage.org.nz.**
 
 **Location:** The tour starts at the top of Woodward Street, at the pedestrian underpass, and finishes at Waitangi Park.
 
 **Duration:** 2 hours
 
 **Cost:** Free
+
+**Contact:** 027 2466 339 dwatt@heritage.org.nz
 
 **Health & Safety:** Please make sure you're wearing good/comfortable walking shoes, weather appropriate clothing and have a water bottle.
