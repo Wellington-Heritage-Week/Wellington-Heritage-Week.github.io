@@ -2,7 +2,7 @@
 layout: post
 title: Old or Green? Is the Greenest Building an Old Building?
 location: Wellington City
-img: /assets/uploaded/old-or-green-whw21.jpg
+img: /assets/uploaded/decay_to_renew.jpg
 event_date: 5:30pm Wed 27 Oct
 host:
   blurb: "Historic Places Wellington Incorporated (HPW) is a membership
