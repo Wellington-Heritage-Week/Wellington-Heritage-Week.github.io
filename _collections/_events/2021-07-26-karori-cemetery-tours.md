@@ -28,9 +28,9 @@ Established in 1891, Karori Cemetery is New Zealand’s second largest burial gr
 
 ### **Tours:**
 
-### Tales from the Vaults  - Monday 25th October 10:30am and Saturday 30th October 13:30pm
+### Tales from the Vaults  - Monday 25th October 10:30am and Saturday 30th October 1:30pm
 
-This new tour will be launched to the public for Heritage Week. Find out who is in and who is out of some of the cemetery’s most substantial dwellings. Note: tours do not enter vaults or try them out for size. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked via email friendsofkaroricemeterytours@gmail.com
+This new tour will be launched to the public for Heritage Week. Find out who is in and who is out of some of the cemetery’s most substantial dwellings. Note: tours do not enter vaults or try them out for size. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
 
 ### Introduction to Karori Cemetery - 11am Monday 25 October
 
@@ -40,11 +40,11 @@ The Friends will take you on an easy walking, 45mins long introductory tour of t
 
 A selection of suffragists, educationalists, reformers and artists, as well as a few ordinary women who had extraordinary things happen in their lives. $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com 
 
-### Movers and Shakers of Early Wellington - 10:30am 13:30pm Wednesday 27th October
+### Movers and Shakers of Early Wellington - 10:30am and 1:30pm Wednesday 27th October
 
-These two tours will cover different parts of the cemetery celebrating those people who helped build Wellington. You can do one or both!
+These two tours will cover different parts of the cemetery celebrating those people who helped build Wellington. You can do one or both! $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
 
-### Off the Beaten Track 10:30am - Sun 31 October
+### Off the Beaten Track - 10:30am - Sunday 31 October
 
 Explore some of the lesser known tracks around the cemetery, with stories from behind the headstones along the way. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked via email friendsofkaroricemeterytours@gmail.com
 
@@ -52,13 +52,9 @@ Explore some of the lesser known tracks around the cemetery, with stories from b
 
 This popular tour visits the graves of a number of people associated with murder and it’s aftermath. $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com 
 
-### First Catholics Tour 1pm - Sunday 1 November
-
-1.5 hours duration, easy walking. Includes a visit to Catholic Orders (Marists, Sisters of Mercy, Sisters of Compassion) as well as notable Catholic citizens buried during the first few years the cemetery was open. $10 per person (children under 12 free), places must be booked via emailing friendsofkaroricemeterytours@gmail.com
-
 <br>
 
-**All tours require booking except Introduction to Karori Cemetery. Email friendsofkaroricemeterytours@gmail.com to book and please specify your tour and time.** 
+**All tours require booking except the Introduction to Karori Cemetery tour. Email friendsofkaroricemeterytours@gmail.com to book and please specify your tour and time.** 
 
 **Location:** Karori Cemetery - 76 Old Karori Road, Karori. All tours will leave from the Shelter. This is the small white building 300m from the main cemetery gates.
 
