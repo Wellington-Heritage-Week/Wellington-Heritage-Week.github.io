@@ -33,6 +33,8 @@ Exclusively for Wellington Heritage Week celebrations, journey through one of WÄ
 
 **Booking is required.** 
 
+<a href="INSERT" class="button">Book a tour</a>
+
 **Location:** 1 Weka Street, Miramar, Wellington
 
 **Duration:** 2 hours
