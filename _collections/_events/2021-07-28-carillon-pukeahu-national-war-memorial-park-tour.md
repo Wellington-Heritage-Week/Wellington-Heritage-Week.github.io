@@ -2,7 +2,7 @@
 layout: post
 title: Carillon & Pukeahu National War Memorial Park Presentation
 location: Wellington City
-img: /assets/uploaded/presentation-of-the-history-and-workings-of-the-carillon.jpg
+img: /assets/uploaded/messines-bell-whw21.jpg
 event_date: 12pm Mon 25, Wed 27 & Thurs 28 Oct
 host:
   name: Timolthy Hurd, QSM National Carillonist
