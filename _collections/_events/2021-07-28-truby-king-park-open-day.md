@@ -16,13 +16,17 @@ tag:
 ---
 **Explore the hidden charm of a Wellington heritage garden, originally planted by Truby King, the man who championed the value of the outdoors for improving the wellbeing of New Zealanders.** 
 
-The building and park have national significance for their association with the King family and as the place where Sir Frederic Truby King and Lady Isabella King, the founders of the Plunket Society, were interred.
+The building and park have national significance for their association with the King family and as the place where Sir Frederic Truby King and Lady Isabella King, the founders of the Plunket Society, were interred. 
 
-Tour Truby King house, and meet the horticulture staff that care for the garden. Spaces in the house tours are limited. Book your spot today.
+The design of the estate includes a unique series of paths, brick walls and archways, with a stunning lookout over Lyall Bay.
+
+In the gardens, meet the horticulture staff that care for the park. 
 
 On-street parking is available along Manchester Street. Please note that a five-minute walk up a sloping driveway is required to reach the house as there is no on-site parking.
 
 House tours: 10am, 10.30am, 11am, 11.30am and 12noon. House tours are 30mins. Attendees are welcome to spend further time exploring the gardens. 
+
+Spaces in the house tours are limited. Book your spot today!
 
 <br>
 
