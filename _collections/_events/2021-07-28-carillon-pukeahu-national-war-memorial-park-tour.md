@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carillon & Pukeahu National War Memorial Park Tour
+title: Carillon & Pukeahu National War Memorial Park Presentation
 location: Wellington City
 img: /assets/uploaded/messines-bell-whw21.jpg
 event_date: 12pm Mon 25, Wed 27 & Thurs 28 Oct
