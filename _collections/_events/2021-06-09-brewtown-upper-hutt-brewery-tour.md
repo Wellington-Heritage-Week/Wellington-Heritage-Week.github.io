@@ -3,7 +3,7 @@ layout: post
 title: Brewtown Upper Hutt Brewery Tour
 location: Upper Hutt
 img: /assets/uploaded/brewtown-upper-hutt-brewery-tour-whw21.jpg
-event_date: Sat 30 & Sun 31 Oct
+event_date: 12pm Sat 30 & Sun 31 Oct
 host:
   blurb: Mike Henderson is the owner/operator of Craft Beer Tours NZ and is
     originally from Upper Hutt. Mike spent almost 20 years travelling and
@@ -23,19 +23,17 @@ Join us on a tour of Brewtown and learn about its history and the breweries whic
 
 Along the way enjoy a delicious lunch and beers from two of Brewtown's award winning breweries.
 
+Brewtown is situated within the South Pacific Industrial park owned by developer Malcolm Gillies who bought the 36,000 square metre site in 2008, two years after the closure of South Pacific Tyres. Prior to the 2006 closure of the Upper Hutt plant, Dunlop was New Zealand's leading tyre manufacturer with a history in New Zealand dating back over 100 years. It played a key role in the development of New Zealand, providing not just tyres but a range of other rubber products needed for an expanding economy. The Dunlop factory had around 400 people working in it the day it closed in 2006. A similar number of jobs has been created across the businesses at the site today.
 
-
-**Booking is required**
-
-<br>
-
-<a href="https://www.craftbeertoursnz.co.nz/" class="button">Book the tour</a>
+**Booking is required. Email mike@craftbeertoursnz.co.nz to book.** 
 
 <br>
 
-**Location:** Brewtown Upper Hutt 23 Blenheim Street Upper Hutt. 
+**Location:** Meet at the gift/merchandise at Brewtown, 23 Blenheim Street Upper Hutt. 
 
 **Duration:** Approximately 4 hours
+
+Maximum Capacity per tour: 12 people
 
 **Cost:** $135 per person
 
