@@ -2,7 +2,7 @@
 layout: post
 title: Walking tour of Pukeahu National War Memorial Park
 location: Wellington City
-img: /assets/uploaded/presentation-of-the-history-and-workings-of-the-carillon.jpg
+img: /assets/uploaded/tomb-whw21-min.png
 event_date: 10am Mon 25–Fri 29 Oct
 host:
   name: Christopher Leach
@@ -24,7 +24,7 @@ Visit all points of interest and understand the importance of this historic area
 
 **No booking is required.** 
 
-**Location:** Meet at the central courtyard at the Pukeahu National War Memorial Park Buckle Street, Wellington
+**Location:** Meet at the Tomb of the Unknown Warrior in the Pukeahu National War Memorial Park, Buckle Street, Wellington
 
 **Duration:** 2 hours
 
