@@ -21,11 +21,13 @@ Opened in 1932 the Carillon's original 49 bells rang out across the city and it 
 
 Timothy Hurd QSM, the National Carillonist, has over 35 years of caring for the Carillon and will give a presentation of how this enormous instrument came into being and how the Carillon is played.
 
+The tour is limited to 40 people - so book your place early! 
+
 *Image of the Messines Bell inside the Carillon (bell number 42).*
 
 <br>
 
-**Booking is not required. However, it is advisable to book for this event. Email NWM@mch.govt.nz to book.** 
+**Booking is required. Email NWM@mch.govt.nz to book.** 
 
 **Location:** QEII Education Centre, Pukeahu National War Memorial Park
 
