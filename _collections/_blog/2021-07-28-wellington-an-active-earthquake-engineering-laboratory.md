@@ -21,6 +21,6 @@ Wellington’s post-war baby boom and predictions of enormous population growth 
 
 Design work on Jerningham Apartments started in 1964, with the tall structure stepped back from the street to take maximum advantage of the town plan’s height limits. Developers Wilkins and Davies were experienced hands in the Wellington apartment market, having completed Wharenui further along Oriental Parade in 1960, and Hollings & Ferner (a relatively new Wellington engineering practice) was engaged as the project’s structural engineers.
 
-Click here to read the full article
+<a href="https://www.linkedin.com/pulse/wellington-earthquake-engineering-laboratory-matthew-plummer/" class="button">Click here to read the full article</a>
 
 *First published in Capital (Issue 77). Illustrations by Kumi Matsumoto.*
