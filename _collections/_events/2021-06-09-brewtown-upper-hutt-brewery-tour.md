@@ -25,9 +25,10 @@ Along the way enjoy a delicious lunch and beers from two of Brewtown's award win
 
 Brewtown is situated within the South Pacific Industrial park owned by developer Malcolm Gillies who bought the 36,000 square metre site in 2008, two years after the closure of South Pacific Tyres. Prior to the 2006 closure of the Upper Hutt plant, Dunlop was New Zealand's leading tyre manufacturer with a history in New Zealand dating back over 100 years. It played a key role in the development of New Zealand, providing not just tyres but a range of other rubber products needed for an expanding economy. The Dunlop factory had around 400 people working in it the day it closed in 2006. A similar number of jobs has been created across the businesses at the site today.
 
+<br>
+
 **Booking is required. Email mike@craftbeertoursnz.co.nz to book.** 
 
-<br>
 
 **Location:** Meet at the gift/merchandise at Brewtown, 23 Blenheim Street Upper Hutt. 
 
