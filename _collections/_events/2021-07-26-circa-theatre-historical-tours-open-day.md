@@ -19,7 +19,7 @@ host:
   website: https://www.circa.co.nz/
   phone: 04 801 7992
 tag:
-  - Event
+  - Tour
 ---
 **Discover and celebrate the 45-year history of Wellington’s iconic Circa Theatre through a free, one-hour guided tour of Wellington’s unique waterfront building at 1 Taranaki St.** 
 
