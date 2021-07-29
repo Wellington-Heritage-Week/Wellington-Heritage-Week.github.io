@@ -15,7 +15,7 @@ host:
   phone: 04 4768 593
   website: https://wrightshillfortress.org.nz/
 tag:
-  - Event
+  - Open Day
 ---
 **Head to Karori and visit the Wrights Hill Fortress on Labour Day. Self-guided tours last about one hour and there's plenty to see from the second world war including a DVD of a huge 9.2 inch gun in action, historic photos and WW11 firearms.** 
 
