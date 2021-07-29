@@ -17,7 +17,7 @@ host:
   email: peteblackler64@gmail.com
   phone: 027 8200221
 tag:
-  - Event
+  - Tour
 ---
 **Get a close up look at vintage machinery and test your knowledge and operating skills at Wellington Vintage Machinery Incorporated. You will see vintage machinery, tractors, and have a hands on experience to get them operating.** 
 
