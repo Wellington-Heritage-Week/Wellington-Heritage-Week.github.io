@@ -18,7 +18,7 @@ host:
   name: info@whirinakiarts.org.nz
   email: info@whirinakiarts.org.nz
 tag:
-  - Event
+  - Tour
 ---
 A guided walking tour featuring the historic sites and buildings of Upper Hutt. This 1.5km walking tour will take you through the historic areas and stories of our city, its personalities and its drama.
 
