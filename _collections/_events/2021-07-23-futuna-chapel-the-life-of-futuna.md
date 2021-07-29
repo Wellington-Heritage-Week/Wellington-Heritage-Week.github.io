@@ -12,7 +12,7 @@ host:
     entirely by a voluntary group of trustees.
   name: The Friends of Futuna Charitable Trust
 tag:
-  - Event
+  - Talk
 ---
 **Trust Chair, and co-editor of the 2016 book "Futuna - Life of a Building", Nick Bevin, will conduct a detailed and personal tour of Futuna Chapel telling its story starting in France in 1816 and over the intervening 205 years.** 
 
