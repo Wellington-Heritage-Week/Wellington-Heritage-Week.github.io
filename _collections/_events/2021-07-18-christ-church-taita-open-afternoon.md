@@ -19,9 +19,13 @@ The beautiful grounds and historic graveyard are a must-see for those interested
 
 Visitors will recognise the names of many of the streets in the Hutt Valley on the headstones in the graveyard. Their names – Avery, Boulcott, Buck, Daysh, Harris, Hooper, Hirst, Kemble, Mabey, Peck, Percy, Riddler, Welch and Matangi (the son of a signatory to the Treaty of Waitangi) are still well known in the Hutt Valley.
 
-Christ Church is still a consecrated church and is frequently used for, weddings, baptisms and funerals, in addition to special services arranged by the Preservation Society.
+Christ Church Taita is cared for by the Christ Church Preservation Society. The formation of the Society in the early 1950s saved the church from being moved to Stokes Valley and was the catalyst for forming the NZ Historic Places Trust.
+
+Christ Church is still a consecrated church and is frequently used for, weddings and funerals, in addition to special services arranged by the Preservation Society.
 
 There will be guided graveyard tours at 1.00 and 2.00 pm.
+
+*Christ Church is perfect for small intimate weddings (up to 80 guests).  Book your wedding at the open day (pay $50 + GST non refundable deposit) and go into the draw to win your booking, subject to the chosen date being available.*
 
 <br>
 
