@@ -14,7 +14,7 @@ host:
   name: Walk Wellington Inc
   website: https://www.walkwellington.org.nz/
 tag:
-  - Event
+  - Walking Tour
 ---
 **This 2-hour walking tour takes in the Parliament precinct, Hill St, Thorndon Road, Glenbervie Tce, Ascot Tce, Sydney St, Bolton St and the Rose Gardens. The final leg is via the Bolton Street Cemetery.** 
 
