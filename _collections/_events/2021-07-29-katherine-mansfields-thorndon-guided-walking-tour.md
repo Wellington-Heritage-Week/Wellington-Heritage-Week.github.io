@@ -25,6 +25,8 @@ Beginning with a short introductory talk at Katherine Mansfield House & Garden, 
 
 **Booking is required.** 
 
+<a href="https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2021" class="button">Book a tour</a>
+
 **Location:** Katherine Mansfield House & Garden, 25 Tinakori Road, Thorndon, Wellington
 
 **Duration:** 2.5 hours
