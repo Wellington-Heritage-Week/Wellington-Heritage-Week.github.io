@@ -21,7 +21,7 @@ host:
   email: heritage@huttcity.govt.nz
   phone: 04 568 6253
 tag:
-  - Event
+  - Open Day
 ---
 **Lower Hutt has a long history of industrial enterprise going back to the 19th century, including car assembly, food production, and a woollen mill.** 
 
