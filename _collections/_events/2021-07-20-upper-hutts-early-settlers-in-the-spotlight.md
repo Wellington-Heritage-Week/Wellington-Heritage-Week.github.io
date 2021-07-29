@@ -14,7 +14,7 @@ host:
   email: vibranthv@gmail.com
   phone: 04-527 8285
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 **Join the well-known researcher and genealogist to look up information for anyone wishing to research their family history at Golder Cottage.**
 
