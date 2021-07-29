@@ -13,7 +13,7 @@ host:
   email: events@compassion.org.nz
   website: https://compassion.org.nz/
 tag:
-  - Walking Tour
+  - Tour
 ---
 **Join Sr Sue Cosgrove on a hīkoi between the sites of signficane to Suzanne Aubert and the Sisters of Compassion.**
 
