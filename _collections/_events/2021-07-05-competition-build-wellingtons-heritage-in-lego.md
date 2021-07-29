@@ -12,7 +12,7 @@ host:
   email: agents@doc.govt.nz
   website: https://www.doc.govt.nz/
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 **Wellington is home to fantastic cultural and natural heritage sites. The beehive, Te Whanganui-a-Tara/Wellington harbour, St Gerard's Monastery, the giant rimu at Otari-Wilton's Bush, Pencarrow Head lighthouse, Makara gun emplacements - there's something for everyone.** 
 
