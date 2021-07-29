@@ -13,7 +13,7 @@ host:
   email: manager@kapiticoastmuseum.org.nz
   phone: 04 905 6313
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 **The Kapiti Coast Museum over the railway lines in Elizabeth Street, Waikanae, will be open on Friday, Saturday and Sunday from 1 to 4.** 
 
