@@ -12,7 +12,7 @@ host:
   email: Chris.leach@mch.govt.nz
   phone: 04 462 8986
 tag:
-  - Event
+  - Tour
 ---
 **Hear about the layers of history of Pukeahu, also known as Mt Cook.** 
 
