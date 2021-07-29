@@ -13,7 +13,7 @@ host:
   email: bookings@wetaworkshop.co.nz
   phone: 04 909 4035
 tag:
-  - Event
+  - Tour
 ---
 **Wētā Workshop is an award-winning concept design and manufacturing facility for the entertainment industries, founded by Richard Taylor and Tania Rodger in 1987.**\
 \
