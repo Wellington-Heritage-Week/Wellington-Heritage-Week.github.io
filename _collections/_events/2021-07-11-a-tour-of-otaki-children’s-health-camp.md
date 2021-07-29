@@ -12,7 +12,7 @@ host:
     [https://www.otakirotunda.org.nz], a voluntary Trust formed to support the
     restoration of the Rotunda and its re-use by the public .
 tag:
-  - Event
+  - Tour
 ---
 **Visit New Zealand’s first Health Camp, providing children in need with sunshine, exercise, good food and sea air. See how were they cared for, housed, taught and fed.**
 
