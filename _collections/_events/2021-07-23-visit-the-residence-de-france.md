@@ -11,7 +11,7 @@ host:
   email: cooperation.wellington-amba@diplomatie.gouv.fr
   phone: 04 384 2577
 tag:
-  - Event
+  - Tour
 ---
 **This villa from the 19th century, purchased by the Republic of France in 1999, is the home of the French Ambassador while posted in New Zealand.** 
 
