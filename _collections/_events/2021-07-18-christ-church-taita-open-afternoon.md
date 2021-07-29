@@ -11,7 +11,7 @@ host:
   email: info@christ-church.org.nz
   phone: 027 315 7757
 tag:
-  - Event
+  - Open Day
 ---
 **Visit Christ Church in Taita, Lower Hutt. It is the second oldest church in New Zealand and the oldest in the Wellington Region. Christ Church was built by pioneer families and held its first service on 1 January 1854.** 
 
