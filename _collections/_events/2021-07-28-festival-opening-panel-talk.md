@@ -10,7 +10,7 @@ host:
     organises Wellington Heritage Week.
   email: info@wellingtonheritageweek.co.nz
 tag:
-  - Event
+  - Talk
 ---
 **Join us to celebrate the opening of Wellington Heritage Week 2021.** 
 
