@@ -12,7 +12,7 @@ host:
   phone: ""
   name: "The Friends of the Bolton Street Cemetery "
 tag:
-  - Event
+  - Tour
 ---
 **This is a special opportunity to learn about Wellington’s first cemetery and the history of early buildings that were once within it.** 
 
