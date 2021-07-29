@@ -16,7 +16,7 @@ host:
   phone: 04 383 4952
   website: https://compassion.org.nz/
 tag:
-  - Event
+  - Tour
 ---
 **A talk by the Pukeahu educators and Sisters of Compassion on the historic backdrop and social conditions that led to the founding of the historic creche at Pukeahu.**
 
