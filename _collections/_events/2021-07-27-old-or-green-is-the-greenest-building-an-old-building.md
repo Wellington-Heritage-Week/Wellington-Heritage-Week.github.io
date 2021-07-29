@@ -18,7 +18,7 @@ host:
   phone: 021 241 0441
   name: Historic Places Wellington
 tag:
-  - Event
+  - Talk
 ---
 **What are the environmental, health and comfort benefits from improving older houses rather than building new ones? Older NZ houses can be cold and damp, but does this mean that they have no value and should be demolished to be replaced by new buildings?** 
 
