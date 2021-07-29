@@ -20,7 +20,7 @@ host:
   name: Friends of Karori Cemetery
   email: friendsofkaroricemeterytours@gmail.com
 tag:
-  - Event
+  - Tour
 ---
 **Ō tātou urupā, Ā tātou kōrero (Our cemeteries, our stories). Join the Friends of Karori Cemetery for themed tours throughout the week.** 
 
