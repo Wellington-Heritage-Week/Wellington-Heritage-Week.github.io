@@ -13,7 +13,7 @@ host:
   email: NWM@mch.govt.nz
   phone: 04 462 8986
 tag:
-  - Event
+  - Talk
 ---
 **Learn about the history and importance of the magnificent 50 metre National War Memorial Carillon.** 
 
