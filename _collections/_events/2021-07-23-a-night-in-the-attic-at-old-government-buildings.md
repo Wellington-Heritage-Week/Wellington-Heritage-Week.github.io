@@ -12,7 +12,7 @@ host:
   phone: 04 494 8320
   email: infocentral@heritage.org.nz
 tag:
-  - Event
+  - Walking Tour
 ---
 **Scattered around the attic at Old Government Buildings is a graffiti library of historical signatures.** 
 
