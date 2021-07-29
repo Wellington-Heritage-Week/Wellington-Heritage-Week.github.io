@@ -13,7 +13,7 @@ host:
   name: Miramar Peninsula Community Trust and Seatoun Arts and Crafts Group
   phone: 021 955 331
 tag:
-  - Event
+  - Open Day
 ---
 **St Christopher's doors will be once again be open for you to enjoy the beautiful Romanesque Revival style church designed by William Fielding and built in 1932.** 
 
