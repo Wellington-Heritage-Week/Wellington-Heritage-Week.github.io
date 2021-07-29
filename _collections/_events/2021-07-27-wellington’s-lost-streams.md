@@ -12,7 +12,7 @@ host:
   email: dwatt@heritage.org.nz
   phone: 04 494 8322
 tag:
-  - Event
+  - Walking Tour
 ---
 **Join us for an exploration of the lost urban streams in the capital and learn a little of their history and future as they compete with the frantic demands of our urban jungle.**\
 \
