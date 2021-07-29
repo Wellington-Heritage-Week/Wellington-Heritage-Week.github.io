@@ -15,7 +15,7 @@ host:
   phone: 0800 527 484
   website: https://www.kapitiisland.com/
 tag:
-  - Event
+  - Tour
 ---
 **This unique tour will engage visitors in a completely different Kapiti Island experience. Visits to historically rich occupation sites, Maori settlement, whaling and farming remnants, followed by the remarkable conservation story of the Kapiti Island Nature Reserve, and Marine Reserve.** 
 
