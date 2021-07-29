@@ -11,7 +11,7 @@ host:
   email: info@newtowncommunity.org.nz
   phone: 04 389 4786
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 **An exhibition of striking photos of Newtown’s Adventure Playground – a radical DIY ‘70s space for kids to play & explore – by photographer John McWilliam.** 
 
