@@ -12,7 +12,7 @@ host:
   email: nickbevin@gmail.com
   phone: 027 4453 710
 tag:
-  - Event
+  - Talk
 ---
 **Italian trained art conservator Carolina Izzo will give a presentation on the restoration of the Futuna Christ Figure (2013) and the very recently completed restoration of the Stations of the Cross in Futuna Chapel, Karori.** 
 
