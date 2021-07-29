@@ -14,7 +14,7 @@ host:
   phone: 021 434 500
   website: https://www.walkwellington.org.nz/
 tag:
-  - Event
+  - Tour
 ---
 **Explore a part of our city which was all sea prior to 1840, now containing old and new hidden gems. The includes Te Ngākau Civic Square, City-to-Sea Bridge, Taranaki Wharf, Queens Wharf, Old Bank Arcade and Cable Car Lane.**
 
