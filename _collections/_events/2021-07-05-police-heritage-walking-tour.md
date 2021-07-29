@@ -19,7 +19,7 @@ host:
     tours and programmes for groups!"
   website: https://www.police.govt.nz/about-us/history-museum/museum
 tag:
-  - Event
+  - Walking Tour
 ---
 **Explore New Zealand Police heritage sites at the Royal New Zealand Police College (RNZPC) in Papakowhai, Porirua.** 
 
