@@ -10,7 +10,7 @@ host:
     Wellington City Council.
   email: laura.woodward@wcc.govt.nz
 tag:
-  - Event
+  - Talk
 ---
 **Learn about the iconic artist behind Wellington’s largest textile artwork 'Definitely Wellington', the colourful and vivacious banners and wall hangings at the MFC. See the original drawings, never before exhibited in public.** 
 
