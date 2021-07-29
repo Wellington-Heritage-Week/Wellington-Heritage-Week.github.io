@@ -12,7 +12,7 @@ host:
   email: nickbevin@gmail.com
   phone: 027 4453 710
 tag:
-  - Event
+  - Open Day
 ---
 **Futuna Chapel, one of the jewels of Wellington's built heritage, will be opened to the public over the Wellington Heritage weekend.** 
 
