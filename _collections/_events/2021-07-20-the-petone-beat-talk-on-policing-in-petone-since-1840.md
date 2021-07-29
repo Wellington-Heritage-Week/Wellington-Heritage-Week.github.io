@@ -14,7 +14,7 @@ host:
   name: Jackson Street Programme Inc.
   website: www.jacksonstreet.co.nz
 tag:
-  - Event
+  - Talk
 ---
 **Come to the Old Jail Museum – Petone’s well-preserved former lockup - to hear about Policing in Petone from 1840 onwards, and its significance in New Zealand's history. You will also see and read our exhibition on the same subject. Only 10 places per talk, so book early!**
 
