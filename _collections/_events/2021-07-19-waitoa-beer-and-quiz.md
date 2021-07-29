@@ -16,7 +16,7 @@ host:
   name: Victoria University Wellington and Waitoa Brewing Company
   phone: 021 1012936
 tag:
-  - Event
+  - Food/Drink
 ---
 A lineup of specially brewed, historically inspired beers brewed as a collaboration between Waitoa Social Club and Victoria University Wellington. 
 
