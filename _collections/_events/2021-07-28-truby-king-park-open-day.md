@@ -12,7 +12,7 @@ host:
   email: treehouse@wcc.govt.nz
   phone: 04 499 1400
 tag:
-  - Event
+  - Open Day
 ---
 **Explore the hidden charm of a Wellington heritage garden, originally planted by Truby King, the man who championed the value of the outdoors for improving the wellbeing of New Zealanders.** 
 
