@@ -15,7 +15,7 @@ host:
   website: http://www.publictrusthall.co.nz/
   name: Public Trust Hall
 tag:
-  - Event
+  - Tour
 ---
 **This event offers a tour of the interior of the Public Trust Building, a Grade One Heritage Listed Building, including a discussion of the architectural features, the Heritage Foyer, Public Trust Hall, the earthquake-strengthening and refurbishment work undertaken since 2013.** 
 
