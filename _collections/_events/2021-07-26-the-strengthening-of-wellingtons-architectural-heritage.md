@@ -12,7 +12,7 @@ host:
   email: nickbevin@gmail.com
   phone: 027 4453 710
 tag:
-  - Event
+  - Talk
 ---
 **Structural engineer Alistair Cattanach of Dunning Thornton will give an illustrated presentation about their development and implementation of seismic strengthening solutions for a number of significant Wellington heritage buildings. Examples will include Old St.Pauls, The Public Trust and Shed 13 among others.** 
 
