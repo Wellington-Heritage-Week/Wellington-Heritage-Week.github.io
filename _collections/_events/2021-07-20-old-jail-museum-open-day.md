@@ -14,7 +14,7 @@ host:
   phone: 04 939 2811
   website: www.jacksonstreet.co.nz
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 **Come to the Old Jail Museum - a well-preserved former lockup. See an exhibition on Policing in Petone from 1840.** 
 
