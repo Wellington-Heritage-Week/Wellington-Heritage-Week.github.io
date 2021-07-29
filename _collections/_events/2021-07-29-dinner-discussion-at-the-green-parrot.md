@@ -11,7 +11,7 @@ host:
   email: henrybuckenham@wellingtonheritageweek.co.nz
   phone: 021 101 2936
 tag:
-  - Event
+  - Food/Drink
 ---
 **Hosted at the Green Parrot, food historian, Cuisine restaurant critic, and lecturer at Le Cordon Bleu, David Burton will tell the story of the 'Hellenic Mile'.**
 
