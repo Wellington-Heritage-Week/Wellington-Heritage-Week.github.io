@@ -11,7 +11,7 @@ host:
   email: info@glenside.org.nz
   phone: 022 186 5714
 tag:
-  - Event
+  - Open Day
 ---
 **The Heritage Garden at the historic Halfway House in Glenside Reserve is open daily to view. The Heritage Gardeners have created a rural Victorian garden using plants in New Zealand before 1900.** 
 
