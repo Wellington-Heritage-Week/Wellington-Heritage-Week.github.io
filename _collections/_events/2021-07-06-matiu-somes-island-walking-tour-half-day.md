@@ -12,7 +12,7 @@ host:
     Conservation.
   phone: 027 242 9211
 tag:
-  - Event
+  - Walking Tour
 ---
 **Embark on a guided tour of Matiu/Somes Island with the Eastbourne Forest Rangers for Wellington Heritage Week 2021.**
 
