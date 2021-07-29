@@ -15,7 +15,7 @@ host:
   phone: 04-382 8486
   website: www.stpetersonwillis.org.nz
 tag:
-  - Event
+  - Open Day
 ---
 **Te Aro Tower, the official name of the bell tower at St Peters on Willis, will have an open ringing day.** 
 
