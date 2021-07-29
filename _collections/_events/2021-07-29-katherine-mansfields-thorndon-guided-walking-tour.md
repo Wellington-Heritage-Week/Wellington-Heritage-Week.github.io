@@ -21,6 +21,8 @@ tag:
 
 Beginning with a short introductory talk at Katherine Mansfield House & Garden, the guided walking tour will finish at the National Library for a special viewing of Mansfield-related objects from the Alexander Turnbull Library’s collection.
 
+Kathleen Mansfield Murry (née Beauchamp; 14 October 1888 – 9 January 1923) was a prominent modernist writer who was born and brought up in New Zealand. She wrote short stories and poetry under the pen name Katherine Mansfield.
+
 <br>
 
 **Booking is required.** 
