@@ -14,7 +14,7 @@ host:
     building permits, consents and other property information.
   phone: 04 801 2096
 tag:
-  - Event
+  - Open Day
 ---
 **Did you want to know more about the Wellington City Council Archives? Come visit us as we throw open our doors to the public, so you can learn more about our role, delve into some of our collection items, and go for a behind the scenes tour, followed up by a Q & A opportunity.** 
 
