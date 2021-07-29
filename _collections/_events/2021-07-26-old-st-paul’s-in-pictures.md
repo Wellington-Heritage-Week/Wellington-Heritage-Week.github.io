@@ -13,7 +13,7 @@ host:
     managed and maintained by Heritage New Zealand Pouhere Taonga.
   phone: 04 473 6722
 tag:
-  - Event
+  - Talk
 ---
 **Discover the stories of Old St Paul’s, its changing neighbourhood and its people, at a talk liberally illustrated with historic images and film.**\
 \
