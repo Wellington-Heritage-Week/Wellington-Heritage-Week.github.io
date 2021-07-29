@@ -14,7 +14,7 @@ host:
   website: ""
   phone: 021 0826 5516 (text only please)
 tag:
-  - Event
+  - Tour
 ---
 **Join us for an hour and a half walk into a hidden gem in Khandallah. Tyers Stream reserve is an 'ecologically significant' (WCC) and historically significant area. Come learn about the history and what a local community group is trying to achieve.** 
 
