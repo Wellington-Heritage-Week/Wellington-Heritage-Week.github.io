@@ -11,7 +11,7 @@ host:
     places. "
   email: infocentral@heritage.org.nz
 tag:
-  - Event
+  - Tour
 ---
 **Hear the stories of Wellington’s important mid- to late-twentieth century buildings, structures and places on the Modern Wellington Walking Tour. We’ll explore a new area of town from previous years, learning about the huge changes, culture shifts and controversies that went along with all that concrete, steel and glass!** 
 
