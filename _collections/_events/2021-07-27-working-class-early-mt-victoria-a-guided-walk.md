@@ -13,7 +13,7 @@ host:
   phone: "0277577984"
   website: https://mtvictoria.history.org.nz/
 tag:
-  - Event
+  - Tour
 ---
 **Mt Victoria Historical Society will take you on a tour of some of the 19th and early 20th century homes of the working classes who helped build our city and keep its cogs turning.** 
 
