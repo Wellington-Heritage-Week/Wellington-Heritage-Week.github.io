@@ -24,7 +24,7 @@ We will be moving through time, tracing tracks, trams, and trains. Join engineer
 
 We will discuss how transport infrastructure has moulded the development of the city and what we might like the city to look like in the future. From pre-colonial pathways and streams to the latest ideas and issues in urban planning - discover Wellington through a new lens!
 
-*Image: Wellington City Council Leyland Comet bus. Evening post (Newspaper. 1865-2002): Photographic negatives and prints of the Evening Post newspaper. Ref: 114/343/08-G. Alexander Turnbull Library, Wellington, New Zealand. /records/23019379*
+*Image: Wellington City Council Leyland Comet bus. Evening post (Newspaper. 1865-2002): Photographic negatives and prints of the Evening Post newspaper. Ref: 114/343/08-G. Alexander Turnbull Library, Wellington, New Zealand. /records/23019379* 
 
 <br>
 
