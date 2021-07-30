@@ -30,7 +30,9 @@ Spaces in the house tours are limited to 10 people per tour. Book your spot toda
 
 <br>
 
-**Booking is required. Email treehouse@wcc.govt.nz to book.** 
+**Booking is required.** 
+
+<a href="https://wellingtongardens.nz/events" class="button">Book a tour</a>
 
 **Location:** Truby King Park, 21 Manchester Terrace, Melrose, Wellington.
 
