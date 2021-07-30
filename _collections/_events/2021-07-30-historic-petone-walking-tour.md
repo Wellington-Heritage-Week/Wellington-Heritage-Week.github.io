@@ -16,6 +16,8 @@ tag:
 ---
 **According to Susan Butterworth “Pito-one was a fine place for Māori to hunt or fish but exposed to southerly storms and inconvenient for habitation. Yet here was where the NZ Company chose to establish the first settlement”.** 
 
+The session will cover themes of Petone’s early settlement, industrialisation, and the history and development of Jackson Street. You will see some of Petone’s remaining important buildings and learn about their past and present uses.
+
 Come and experience the fascinating history of this special place with people who are passionate about it.
 
 <br>
