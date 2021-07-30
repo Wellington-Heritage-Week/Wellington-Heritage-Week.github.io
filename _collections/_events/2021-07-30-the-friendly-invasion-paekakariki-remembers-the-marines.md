@@ -25,17 +25,21 @@ The story will be told in cooperation between three groups: Paekakariki Station 
 
 Make a day of it, viewing exhibits, walking the campsites, and enjoying delicious food from Beach Road’s cafes!
 
-#### Paekakariki Station Museum: 11 a.m. to 3 p.m. 
+#### Paekakariki Station Museum: 11 a.m. to 3 p.m.
 
 Displays including two-screen presentation, The Friendly Invasion
 
+**Location:** Paekakariki Railway Station – adjacent to State Highway 1
+
 #### **St Peter’s Village Hall, Beach Road, Paekakariki 11 a.m. to 3 p.m**.
 
-View films, recently acquired from American archives
+View films recently acquired from American archives
 
 Hear stories about how camps were built and how men lived and trained on our beaches
 
 Saturday evening: jazz concert
+
+**Location:** Wellington Road, Paraparaumu
 
 #### **Queen Elizabeth Park, Mackay’s Crossing 11 a.m. to 3 p.m.**
 
@@ -45,9 +49,13 @@ Visit US Marines Memorial
 
 See how Marines lived in a restored camp hut
 
+**Location:** Whareroa Road, Paraparaumu
+
 #### **Whareroa Farm/Camp Mackay (daylight hours)**
 
 Follow the heritage trail, where an easy one-hour walk in a beautiful valley takes you around key sites with information panels
+
+**Location:** Paekākāriki
 
 *Image: In the winter of 1943, thirty-six Higgins boats from an offshore fleet south of Kapiti Island disgorged men and weapons on Paekakariki Beach. Tragically, in gathering darkness one craft overturned, with the loss of ten seamen. \[Photo: Norm Hatch Collection, Kapiti US Marines Trust]*
 
@@ -55,6 +63,4 @@ Follow the heritage trail, where an easy one-hour walk in a beautiful valley tak
 
 **No booking is required for these events.** 
 
-**Location:**
-
-**Cost:**
+**Cost:** All events are free
