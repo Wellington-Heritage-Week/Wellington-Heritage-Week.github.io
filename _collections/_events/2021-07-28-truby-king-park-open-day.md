@@ -26,7 +26,7 @@ On-street parking is available along Manchester Street. Please note that a five-
 
 House tours: 10am, 10.30am, 11am, 11.30am and 12noon. House tours are 30mins. Attendees are welcome to spend further time exploring the gardens. 
 
-Spaces in the house tours are limited. Book your spot today!
+Spaces in the house tours are limited to 10 people per tour. Book your spot today!
 
 <br>
 
