@@ -15,7 +15,7 @@ host:
 tag:
   - Open Day
 ---
-**Nau mai, haere mai ki Te Whare o Antrim.  Come and visit Antrim House!** 
+**Nau mai, haere mai ki Te Whare o Antrim. Come and visit Antrim House!** 
 
 Drop in and visit between 11am-3pm for your chance to look around the whole house (including the tower), and hear from knowledgeable staff about the history of the place. 
 
