@@ -7,13 +7,13 @@ event_date: 11am–3pm Sat 30 & Sun 31 Oct
 host:
   name: Paekakariki Precinct Trust, Paekakariki Community Trust, & Kapiti US
     Marines Trust
-  blurb: "     Paekakariki Precinct Trust, who manage the museum in Paekakariki
-    Railway Station  ·       Paekakariki Community Trust, who manage St Peter’s
-    Village Hall, Beach Road, Paekakariki  ·      Kapiti US Marines Trust, who
-    gather and present stories, events and memories of the US Marines’ presence
-    in Kapiti District"
+  blurb: Paekakariki Precinct Trust, who manage the museum in Paekakariki Railway
+    Station  ·       Paekakariki Community Trust, who manage St Peter’s Village
+    Hall, Beach Road, Paekakariki  ·      Kapiti US Marines Trust, who gather
+    and present stories, events and memories of the US Marines’ presence in
+    Kapiti District
   email: anthonydreavernz@gmail.com
-  phone: "02102579171"
+  phone: 021 02579171
 tag:
   - Open Day
 ---
