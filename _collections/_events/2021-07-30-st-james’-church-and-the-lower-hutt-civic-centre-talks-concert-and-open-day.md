@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "St James’ Church and the Lower Hutt Civic Centre: Talks, Concert & Open Day"
+title: "St James’ Church & the Lower Hutt Civic Centre: Talks, Concert & Open Day"
 location: Lower Hutt
 img: /assets/uploaded/st-james’-church-and-the-lower-hutt-civic-centre-talks-concert-and-open-day.jpg
 event_date: 11:30am–5pm Thurs 28 & 2pm–5pm Sat 30 Oct
