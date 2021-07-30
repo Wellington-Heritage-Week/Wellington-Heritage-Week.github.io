@@ -25,6 +25,8 @@ Meet at sundown for this one-off walking tour of haunted locations around Wellin
 
 **Booking is required.** 
 
+<a href="" class="button">Book a tour</a>
+
 **Location:** Tours start at Fear Factory Wellington, 2/120 Cuba Street, Te Aro, Wellington 6011
 
 **Duration:** Approximately 2 hours, with the option to go through our haunted maze at the end
