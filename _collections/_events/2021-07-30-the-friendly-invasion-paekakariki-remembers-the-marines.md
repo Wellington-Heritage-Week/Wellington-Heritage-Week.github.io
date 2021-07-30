@@ -35,9 +35,9 @@ Displays including two-screen presentation, The Friendly Invasion
 
 View films recently acquired from American archives
 
-Hear stories about how camps were built and how men lived and trained on our beaches
+Hear stories about how camps were built and how men lived and trained on our beaches., The talks include ‘My Grandad, the camp commander’, ’Tarawa, then, now and in the future’, ‘Camp construction’  and ’The Friendly invasion’.
 
-Saturday evening: jazz concert
+Saturday evening: jazz concert (cover charge of $20)
 
 **Location:** Wellington Road, Paraparaumu
 
@@ -63,4 +63,4 @@ Follow the heritage trail, where an easy one-hour walk in a beautiful valley tak
 
 **No booking is required for these events.** 
 
-**Cost:** All events are free
+**Cost:** All events are free unless otherwise stated above
