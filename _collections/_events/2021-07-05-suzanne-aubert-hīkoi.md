@@ -16,7 +16,9 @@ tag:
 ---
 **Join Sr Sue Cosgrove and follow the footsteps of Suzanne Aubert Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.** 
 
-The tour begins at Suzanne’s Historic Crèche (now the Pukeahu Education Centre) in Buckle Street. This was one of the first successful crèches to operate in New Zealand. Around the corner is the Compassion Soup Kitchen in Tory Street, not far from its original location. The response of the Soup Kitchen to hunger and social isolation has been constant since 1901. Next we will visit St Mary of the Angel’s, the church where Suzanne Aubert’s funeral was held in 1926. Wellington stopped and thousands lined Willis and Boulcott Streets to pay their respects to this extraordinary women who had done so much to help people, regardless of faith or background. The tour finishes at Parliament. Suzanne walked through this part of town visiting politicians and supporters, and mixing her herbal remedies in Molesworth Street.
+The tour begins at Suzanne’s Historic Crèche (now the Pukeahu Education Centre) in Buckle Street. This was one of the first successful crèches to operate in New Zealand. Around the corner is the Compassion Soup Kitchen in Tory Street, not far from its original location. The response of the Soup Kitchen to hunger and social isolation has been constant since 1901. 
+
+Next we will visit St Mary of the Angel’s, the church where Suzanne Aubert’s funeral was held in 1926. Wellington stopped and thousands lined Willis and Boulcott Streets to pay their respects to this extraordinary women who had done so much to help people, regardless of faith or background. The tour finishes at Parliament. Suzanne walked through this part of town visiting politicians and supporters, and mixing her herbal remedies in Molesworth Street.
 
 Limited to 15 people. 
 
