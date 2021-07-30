@@ -15,7 +15,7 @@ host:
   name: Craft Beer Tours NZ & Brewtown Upper Hutt
   website: https://www.craftbeertoursnz.co.nz/
 tag:
-  - Tour
+  - Food/Drink
 ---
 **Brewtown found its home in the old Dunlop's Tyre centre in Upper Hutt. The buildings history dates back to 1949 and Brewtown has done an amazing job of preserving a lot of its history.**
 
