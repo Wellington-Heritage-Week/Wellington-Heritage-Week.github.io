@@ -7,7 +7,7 @@ event_date: 1pm Fri 29 & Sun 31 Oct
 host:
   name: Petone Historical Society
   email: petonehistories@gmail.com
-  phone: "021556155"
+  phone: "021665155"
   blurb: Petone Historical Society Inc has been active in Petone since the late
     1980s. Its objectives are to research and promote an understanding of the
     history of Petone and nearby areas.
