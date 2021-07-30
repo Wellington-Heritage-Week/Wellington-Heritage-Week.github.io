@@ -30,6 +30,8 @@ We will discuss how transport infrastructure has moulded the development of the 
 
 **Booking is required.** 
 
+<a href="https://www.engineeringnz.org/courses-events/event/walking-through-wellingtons-transport-history/" class="button">Book a tour</a>
+
 **Location:** Meeting at Wellington Railway Station
 
 **Duration:** 90 minutes
