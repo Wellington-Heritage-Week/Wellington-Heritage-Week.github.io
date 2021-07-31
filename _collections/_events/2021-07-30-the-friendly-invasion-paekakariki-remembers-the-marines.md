@@ -27,33 +27,29 @@ Make a day of it, viewing exhibits, walking the campsites, and enjoying deliciou
 
 #### Paekakariki Station Museum: 11 a.m. to 3 p.m.
 
-Displays including two-screen presentation, The Friendly Invasion
+* Displays including two-screen presentation, The Friendly Invasion
 
 **Location:** Paekakariki Railway Station – adjacent to State Highway 1
 
 #### **St Peter’s Village Hall, Beach Road, Paekakariki 11 a.m. to 3 p.m**.
 
-View films recently acquired from American archives
-
-Hear stories about how camps were built and how men lived and trained on our beaches., The talks include ‘My Grandad, the camp commander’, ’Tarawa, then, now and in the future’, ‘Camp construction’  and ’The Friendly invasion’.
-
-Saturday evening: jazz concert (cover charge of $20)
+* View films recently acquired from American archive
+* Hear stories about how camps were built and how men lived and trained on our beaches., The talks include ‘My Grandad, the camp commander’, ’Tarawa, then, now and in the future’, ‘Camp construction’  and ’The Friendly invasion’.
+* Saturday Evening: Jazz concert (cover charge of $20), St Peters Hall, Beach Road, Paekakariki
 
 **Location:** Wellington Road, Paraparaumu
 
 #### **Queen Elizabeth Park, Mackay’s Crossing 11 a.m. to 3 p.m.**
 
-View films and displays in Ramaroa Park Centre
-
-Visit US Marines Memorial
-
-See how Marines lived in a restored camp hut
+* View films and displays in Ramaroa Park Centre
+* Visit US Marines Memorial
+* See how Marines lived in a restored camp hut
 
 **Location:** Whareroa Road, Paraparaumu
 
 #### **Whareroa Farm/Camp Mackay (daylight hours)**
 
-Follow the heritage trail, where an easy one-hour walk in a beautiful valley takes you around key sites with information panels
+* Follow the heritage trail, where an easy one-hour walk in a beautiful valley takes you around key sites with information panels
 
 **Location:** Paekākāriki
 
