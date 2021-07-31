@@ -18,7 +18,7 @@ host:
     make an appointment.
   name: St James’ Church & Hutt City Council Archives
 tag:
-  - Event
+  - Talk
 ---
 **Come visit St James’ Church for talks, a concert, and an open day from Lower Hutt Archives and St James’ Church community groups.**
 
