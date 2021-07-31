@@ -14,7 +14,7 @@ host:
 tag:
   - Open Day
 ---
-**On Saturday 30 October (10am to 2pm) Philosophy House 33 Aro St will be open to the Wellington community to celebrate Wellington Heritage Week.** 
+**On Saturday 30 October (10am to 2pm) Philosophy House at 33 Aro Street will be open to the Wellington community to celebrate Wellington Heritage Week.** 
 
 This is a great opportunity to come and see this lovely building. There will be powerpoint presentations and tours about the building during the day. 
 
