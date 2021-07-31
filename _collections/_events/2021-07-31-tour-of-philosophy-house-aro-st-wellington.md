@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tour of Philosophy House Aro St Wellington
+title: Tour of Philosophy House
 location: Wellington City
 img: /assets/uploaded/school_of_practical_philosophy-whw21.jpeg
 event_date: 10am–2pm Sat 30 Oct
