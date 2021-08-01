@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Otaki Museum Exhibition
+title: Otaki Museum River Exhibition
 location: Kapiti Coast
 img: /assets/uploaded/otaki-gorge-in-the-1880s-whw21.jpg
 event_date: 10am–2pm Thurs–Sat
