@@ -2,7 +2,7 @@
 layout: post
 title: Our Kapiti Island Heritage - Nature & Culture Guided Tour
 location: Kapiti Coast
-img: /assets/uploaded/kapiti-island-whw21.jpg
+img: /assets/uploaded/kapiti-island-whw21..jpg
 event_date: 8:30am Fri 29 & Sat 30 Oct
 host:
   name: Friends of Kapiti Island Trust & Kapiti Island Nature Tours
