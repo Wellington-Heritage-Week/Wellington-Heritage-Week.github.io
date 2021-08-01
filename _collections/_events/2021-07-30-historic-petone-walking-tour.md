@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Historic Petone Walking Tour
-location: Wellington City
-img: /assets/uploaded/historic-petone-walking-tour-min.png
+location: Lower Hutt
+img: /assets/uploaded/petone-whw21.jpg
 event_date: 1pm Fri 29 & Sun 31 Oct
 host:
   name: Petone Historical Society
