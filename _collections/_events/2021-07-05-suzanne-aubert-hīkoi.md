@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Historical Walking Tour of Suzanne Aubert Meri Hōhepa’s Wellington
+title: Historical Walking Tour of Suzanne Aubert Meri Hōhepa’s Wellington
 location: Wellington City
 img: /assets/uploaded/202111026-an-historical-walking-tour-of-suzanne-aubert-s-wellington.png
 event_date: 10am Tues 26 & Sat 30 Oct
