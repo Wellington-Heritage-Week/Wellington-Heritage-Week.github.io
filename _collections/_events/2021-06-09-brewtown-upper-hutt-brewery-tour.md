@@ -29,12 +29,11 @@ Brewtown is situated within the South Pacific Industrial park owned by developer
 
 **Booking is required. Email mike@craftbeertoursnz.co.nz to book.** 
 
-
 **Location:** Meet at the gift/merchandise at Brewtown, 23 Blenheim Street Upper Hutt. 
 
 **Duration:** Approximately 4 hours
 
-Maximum Capacity per tour: 12 people
+**Maximum Capacity per tour:** 12 people
 
 **Cost:** $135 per person
 
