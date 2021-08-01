@@ -15,7 +15,7 @@ host:
 tag:
   - Exhibition/Musuem
 ---
-**Otaki Museum exhibition: ‘Ko Ōtaki te awa, ko Ōtaki te kāinga - Ōtaki is the river, Ōtaki is the home’**
+**Otaki Museum River Exhibition: ‘Ko Ōtaki te awa, ko Ōtaki te kāinga - Ōtaki is the river, Ōtaki is the home’**
 
 This exhibition tells stories of the history of the Otaki River - the relationship between the river and mana whenua, the early settlers, the current Otaki community. 
 
