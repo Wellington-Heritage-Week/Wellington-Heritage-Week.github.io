@@ -10,7 +10,7 @@ host:
   blurb: The lightboxes are managed by the Arts, Culture & Community Services team
     at Wellington City Council.
 tag:
-  - Event
+  - Exhibition/Museum
 ---
 ***Standing still, still standing Deanna Dowling***
 
