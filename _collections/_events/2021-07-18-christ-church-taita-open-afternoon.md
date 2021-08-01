@@ -2,7 +2,7 @@
 layout: post
 title: Christ Church Taita - Open Afternoon
 location: Lower Hutt
-img: /assets/uploaded/christ-church-taita-whw21.jpg
+img: /assets/uploaded/christ-church-taita-whw21..jpg
 event_date: 12pm–3pm Sun 31 Oct
 host:
   name: Christ Church Preservation Society
