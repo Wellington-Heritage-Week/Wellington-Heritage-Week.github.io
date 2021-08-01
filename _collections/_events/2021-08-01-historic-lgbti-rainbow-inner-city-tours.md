@@ -17,9 +17,7 @@ tag:
 ---
 **Join Walk Tours NZ on two historic walking tours that explore the formative years of the LGBTI Rainbow community in Wellington.** 
 
-
-
-#### **Resonance Route (Te Aro) - 1pm Saturday 30 Oct**
+### **Resonance Route (Te Aro) - 1pm Saturday 30 Oct**
 
 This tour gives you an opportunity to be transported back to earlier days to discover stories of rainbow courage and resilience while standing in the locations where it all happened. 
 
@@ -29,7 +27,7 @@ We'll visit Carmen's curio shop, stop by the infamous Club Exotic, talk about a 
 
 <br>
 
-#### **Violet Route (Parliament) - 1pm Sunday 31 Oct**
+### **Violet Route (Parliament) - 1pm Sunday 31 Oct**
 
 Learn about homosexual law reform, the beginnings of rainbow radio broadcasting, local LGBTI rainbow personalities, supportive (and not so supportive) churches, a WW1 same-sex love story and imprisonment on Matiu Somes Island.
 
