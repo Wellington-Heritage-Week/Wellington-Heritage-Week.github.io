@@ -3,7 +3,7 @@ layout: post
 title: Otaki Museum River Exhibition
 location: Kapiti Coast
 img: /assets/uploaded/otaki-gorge-in-the-1880s-whw21.jpg
-event_date: 10am–2pm Thurs–Sat
+event_date: 10am–2pm Thurs 28–Sat 30 Oct
 host:
   name: Otaki Heritage Bank Preservation Trust
   blurb: The Trust is the governance group for the Otaki Museum. All the work of
