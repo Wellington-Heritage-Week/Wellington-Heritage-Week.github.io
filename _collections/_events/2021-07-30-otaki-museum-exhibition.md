@@ -13,7 +13,7 @@ host:
   phone: 06 364 6886
   website: https://www.otakimuseum.co.nz/
 tag:
-  - Exhibition/Musuem
+  - Exhibition/Museum
 ---
 **Otaki Museum River Exhibition: ‘Ko Ōtaki te awa, ko Ōtaki te kāinga - Ōtaki is the river, Ōtaki is the home’**
 
