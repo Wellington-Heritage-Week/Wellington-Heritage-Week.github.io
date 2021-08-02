@@ -30,6 +30,8 @@ The winner will be announced during Wellington Heritage Week 2021, 25–31 Oct 2
 
 **Email a photo of your creation to agents@doc.govt.nz to enter.**
 
+<a href="https://www.doc.govt.nz/news/events/competitions/build-wellingtons-heritage...-in-lego/" class="button">Read for more info on the DoC website</a>
+
 **Location:** Online
 
 **Duration:** The competition runs between 1 August and 30 September 2021. 
