@@ -19,7 +19,9 @@ tag:
 
 The spectacular and unusual stained glass windows are an unexpected delight. 
 
-Next door in the Village Hall, the annual Seatoun Arts and Crafts Exhibition will be in full swing. Whilst in Seatoun, enjoy a little more exploring with our self guided tour map.
+Next door in the Village Hall, the annual Seatoun Arts and Crafts Exhibition will be in full swing. 
+
+Whilst in Seatoun, enjoy a little more exploring with our self guided tour map.
 
 The Church is open between 11 - 2  Saturday 30 and Sunday 31 October Arts and Crafts Exhibition is 10-4 pm Saturday 31 and Sunday 31 Oct.
 
