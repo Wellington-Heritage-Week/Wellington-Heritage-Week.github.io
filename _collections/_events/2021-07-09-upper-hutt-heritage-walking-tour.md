@@ -26,7 +26,7 @@ A guided walking tour featuring the historic sites and buildings of Upper Hutt. 
 
 **No booking is required.** 
 
-**Location:** Whirinaki Whare Taonga836 Fergusson Drive,Upper Hutt, 5018
+**Location:** Whirinaki Whare Taonga 836 Fergusson Drive, Upper Hutt, 5018
 
 **Duration:** Approx. 2 hours 
 
