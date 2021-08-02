@@ -21,7 +21,7 @@ tag:
 
 This tour gives you an opportunity to be transported back to earlier days to discover stories of rainbow courage and resilience while standing in the locations where it all happened. 
 
-We'll visit Carmen's curio shop, stop by the infamous Club Exotic, talk about a poetic same-sex romance, visit the site of the discreet Dorian Society and more.
+We'll visit the site of Carmen's curio shop, stop by the infamous Club Exotic, talk about a poetic same-sex romance, visit the site of the discreet Dorian Society and more.
 
 **Location**: Meet outside of Thistle Hall, 293 Cuba Street
 
@@ -35,7 +35,9 @@ Learn about homosexual law reform, the beginnings of rainbow radio broadcasting,
 
 <br>
 
-**Booking is required for both tours. Email walks@taonga.nz to book and specify which tour you wish to book. Spaces are limited.**  
+**Booking is required for both tours. Click the button below to book. Spaces are limited.**
+
+<a href="http://www.taonga.nz/walktours" class="button">Book a tour</a>
 
 **Duration:** 1.5 hours 
 
