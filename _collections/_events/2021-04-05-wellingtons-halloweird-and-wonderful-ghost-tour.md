@@ -3,7 +3,7 @@ layout: post
 title: Wellington's Halloweird and Wonderful Ghost Tour
 location: Wellington City
 img: /assets/uploaded/queenieandkarl.jpg
-event_date: 7:30pm Wed 26 & Thurs 27 Oct
+event_date: 7:30pm Tues 26 & Wed 27 Oct
 host:
   phone: 04-213 4666
   email: wellington@fearfactory.co.nz
