@@ -20,11 +20,13 @@ tag:
 
 The route, all on sealed paths, is wheelchair accessible through two short, uphill sections are steep (accessing Hill St and Glenbervie Tce).
 
+The tour starts and ends at the Wellington Cenotaph on the corner of Bowen Street and  Lambton Quay. 
+
 <br>
 
 **Booking is required. Email bookings@walkwellington.org.nz to book.** 
 
-**Location:** Meet at the INSERT
+**Location:** Meet at the Wellington Cenotaph on the corner of Bowen Street and  Lambton Quay
 
 **Duration:** 2 hours 
 
