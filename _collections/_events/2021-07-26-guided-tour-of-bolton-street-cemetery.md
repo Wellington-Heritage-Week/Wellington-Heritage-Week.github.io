@@ -28,6 +28,10 @@ Our guides will also talk about the disruption caused by the construction of Wel
 
 **Booking is required.** 
 
+<a href="https://www.eventfinda.co.nz/2021/guided-tour-of-bolton-street-cemetery/wellington?_ga=2.42993253.1506322484.1627443652-1256761527.1602535946" class="button">Book the Friday tour</a>
+
+<a href="https://www.eventfinda.co.nz/2021/guided-tour-of-bolton-street-cemetery2/wellington?_ga=2.42993253.1506322484.1627443652-1256761527.1602535946" class="button">Book the Saturday tour</a>
+
 **Location:** Bolton Street Cemetery: Meet at Kinross Street entrance to cemetery. Tour ends at Bolton Street entrance.
 
 **Duration:** Approximately 1 hour
