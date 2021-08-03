@@ -10,7 +10,7 @@ host:
     places. Antrim House managed and maintained by Heritage New Zealand Pouhere
     Taonga.
   name: Heritage New Zealand Pouhere Taonga
-  phone: infocentral@heritage.org.nz
+  phone: 04 494 8320
   email: infocentral@heritage.org.nz
 tag:
   - Open Day
