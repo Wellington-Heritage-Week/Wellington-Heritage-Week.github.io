@@ -23,7 +23,7 @@ Located in the historic Green Parrot, couched in history, decorated in paraphern
 
 **Booking is required.**
 
-<a href="https://www.eventfinda.co.nz/2021/dinner-and-discussion-at-the-green-parrot/wellington" class="button">Book a tour</a>
+<a href="https://www.eventfinda.co.nz/2021/dinner-and-discussion-at-the-green-parrot/wellington" class="button">Book the event</a>
 
 **Location:** The Green Parrot, 16 Taranaki Street, Wellington
 
