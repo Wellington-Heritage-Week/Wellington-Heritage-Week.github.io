@@ -20,6 +20,8 @@ Hear about the street’s early development, its architects and its social histo
 
 Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Historic Area, which is a recognised area on the New Zealand Heritage List. It consists of an imaginative mix of architectural styles that make up New Zealand’s first state housing experiment, and possibly the world’s first state housing scheme.
 
+Maximum tour size: 20 people.
+
 <br>
 
 **Booking is required. Email petonehistories@gmail.com to book.**
