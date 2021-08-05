@@ -9,7 +9,7 @@ img: /assets/uploaded/dt-wlg-photo-6.jpg
 event_date: Rooms from $199 per night
 hotel: true
 hotel_text: >-
-  Built-in 1928, the DoubleTree by Hilton Wellington is full of heritage charm.
+  Built in 1928, the DoubleTree by Hilton Wellington is full of heritage charm.
   Our stylish building boasts high ceilings and original features combined with
   modern amenities.
 
@@ -30,7 +30,7 @@ location: Wellington City
 tag:
   - Hotel
 ---
-**Built-in 1928, the DoubleTree by Hilton Wellington is full of heritage charm. Our stylish building boasts high ceilings and original features combined with modern amenities.** 
+**Built in 1928, the DoubleTree by Hilton Wellington is full of heritage charm. Our stylish building boasts high ceilings and original features combined with modern amenities.** 
 
 The onsite restaurant is open for breakfast, lunch, and dinner daily and offers a delicious selection of international cuisine prepared with the freshest ingredients. The hotel also has a 24-hour fitness centre and a meeting room.
 
