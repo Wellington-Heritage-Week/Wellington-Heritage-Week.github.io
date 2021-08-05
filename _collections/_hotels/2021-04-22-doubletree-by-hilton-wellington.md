@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DoubleTree by Hilton Wellington
-description: "Built-in 1928, the DoubleTree by Hilton Wellington offers stunning
+description: "Built in 1928, the DoubleTree by Hilton Wellington offers stunning
   heritage character and stylish rooms that are equipped with 49-inch HD TV,
   high-speed WiFi, In-room coffee & tea making facilities, a purpose-lit work
   area, and rain shower with Crabtree & Evelyn bath products. "
