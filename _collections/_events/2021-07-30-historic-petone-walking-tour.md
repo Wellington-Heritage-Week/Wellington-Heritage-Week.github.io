@@ -20,6 +20,8 @@ The session will cover themes of Petone’s early settlement, industrialisation,
 
 Come and experience the fascinating history of this special place with people who are passionate about it.
 
+Maximum tour size: 20 people.
+
 <br>
 
 **Booking is required. Email petonehistories@gmail.com to book.**
