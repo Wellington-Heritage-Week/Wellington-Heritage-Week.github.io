@@ -3,7 +3,7 @@ layout: post
 title: Festival Opening & Panel Discussion
 location: Wellington City
 img: /assets/uploaded/whw21-festival-opening-logo.jpg
-event_date: 5:45pm–8pm
+event_date: 5:45pm–8pm Tue 26 Oct
 host:
   name: Wellington Heritage Week Trust
   blurb: Wellington Heritage Week Trust is a not for profit community trust that
