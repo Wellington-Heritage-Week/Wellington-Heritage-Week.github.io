@@ -7,12 +7,12 @@ event_date: 10am–2pm Sat 30 Oct
 host:
   name: St Peters Church, Te Aro
   blurb: St Peters is a very active and inclusive Anglican Parish and community
-    church for and of the people of Te Aro. It has been on the curent site for
-    140 years and has been a shellter for the local population in many
-    disasters. It is a timber gothic church with one of the finest organs in
-    Wellington and historic stained glass windows.
+    church for and of the people of Te Aro. It has been on the current site for
+    140 years and has been a shelter for the local population in many disasters.
+    It is a timber gothic church with one of the finest organs in Wellington and
+    historic stained glass windows.
   email: office@stpetersonwillis.org.nz
-  phone: 04-382 8486
+  phone: 04 382 8486
   website: www.stpetersonwillis.org.nz
 tag:
   - Open Day
@@ -21,7 +21,7 @@ tag:
 
 The tower has the oldest Ellacombe frame in New Zealand and one of the few complete sets of Warner Bells. Come along, spend some time in one of the oldest church buildings in Wellington, have a go at ringing the bells.
 
-Please note the tower access is up very steep stairs. Visiting children must be accompanied by an adult. 
+The tower access is up very steep stairs. Visiting children must be accompanied by an adult. 
 
 You can see us participating in rings around the world on the 200th anniversary of the invention of the Ellacombe frame on our Facebook page or the worldwide index of participants
 
@@ -35,4 +35,4 @@ You can see us participating in rings around the world on the 200th anniversary 
 
 **Cost:** Koha that will be used to maintain the bells
 
-**Health & Safety:** Steep stairs with handrails. Prominent notices to use rails and ask for help if required. Warning about steep stairs should be in notice as above. Children to be accompanied by an adult. Defibrillator avaliable.
+**Health & Safety:** Steep stairs with handrails. Prominent notices to use rails and ask for help if required. Warning about steep stairs should be in notice as above. Children to be accompanied by an adult. Defibrillator available.
