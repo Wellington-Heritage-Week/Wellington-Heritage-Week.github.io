@@ -17,11 +17,11 @@ tag:
 
 The beautiful grounds and historic graveyard are a must-see for those interested in, or who have a connection to, New Zealand early history. 
 
-Visitors will recognise the names of many of the streets in the Hutt Valley on the headstones in the graveyard. Their names – Avery, Boulcott, Buck, Daysh, Harris, Hooper, Hirst, Kemble, Mabey, Peck, Percy, Riddler, Welch and Matangi (the son of a signatory to the Treaty of Waitangi) are still well known in the Hutt Valley.
+Visitors will recognise the names of many of the streets in the Hutt Valley on the headstones in the graveyard. Their names – Avery, Boulcott, Buck, Daysh, Harris, Hooper, Hirst, Kemble, Mabey, Peck, Percy, Riddler, Welch, and Matangi (the son of a signatory to the Treaty of Waitangi) are still well known in the Hutt Valley.
 
 Christ Church Taita is cared for by the Christ Church Preservation Society. The formation of the Society in the early 1950s saved the church from being moved to Stokes Valley and was the catalyst for forming the NZ Historic Places Trust.
 
-Christ Church is still a consecrated church and is frequently used for, weddings and funerals, in addition to special services arranged by the Preservation Society.
+Christ Church is still a consecrated church and is frequently used for weddings and funerals, in addition to special services arranged by the Preservation Society.
 
 There will be guided graveyard tours at 1.00 and 2.00 pm.
 
@@ -35,6 +35,6 @@ There will be guided graveyard tours at 1.00 and 2.00 pm.
 
 **Cost:** Free
 
-**Contact:** info@christ-church.org.nz 027 315 7757
+**Contact:** [info@christ-church.org.nz](mailto:info@christ-church.org.nz) & [027 315 7757](tel:0273157757)
 
 **Health & Safety:** This is a historic site. There is a pea metal path leading to the church which will be difficult for wheelchairs to negotiate. There are also reasonably steep steps at the entrance to the church - assistance can be provided.
