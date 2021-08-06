@@ -11,7 +11,7 @@ host:
     resource for the history of Wellington. Our collections are a rich resource
     for anyone researching Wellington’s social history, and show changes in the
     community and urban development over the past 150 years. They also include
-    building permits, consents and other property information.
+    building permits, consents, and other property information.
   phone: 04 801 2096
 tag:
   - Open Day
@@ -22,9 +22,9 @@ There will be four talks to tell you about our collections and how you can acces
 
 Talks start at 10am, 11am, 1pm, & 2pm, followed by a tour (up to 10 people) around twenty past the hour. 
 
-NB: If you have a large group that would like to attend a tour, you may need to make alternate arrangements with the Archives to attend on another day.
+If you have a large group that would like to attend a tour, you may need to make alternate arrangements with the Archives to attend on another day.
 
-**Booking is required. Email your name and preferred tour time to archives@wcc.govt.nz.** 
+**Booking is required. Email your name and preferred tour time to [archives@wcc.govt.nz](mailto:archives@wcc.govt.nz).** 
 
 **Location:** 28 Barker Street (off Cambridge Terrace)
 
