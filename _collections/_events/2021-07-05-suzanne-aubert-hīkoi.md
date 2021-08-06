@@ -24,7 +24,7 @@ Limited to 15 people.
 
 <br>
 
-**Booking is required. Book by emailing events@compassion.org.nz or phone (04) 383 7769.**
+**Booking is required. Book by emailing [events@compassion.org.nz](mailto:events@compassion.org.nz) or phone [04 383 7769](tel:043837769).**
 
 **Location:** Tour begins at Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
