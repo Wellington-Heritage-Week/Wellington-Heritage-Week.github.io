@@ -19,7 +19,7 @@ tag:
 ---
 **Brewtown found its home in the old Dunlop's Tyre centre in Upper Hutt. The buildings history dates back to 1949 and Brewtown has done an amazing job of preserving a lot of its history.**
 
-Join us on a tour of Brewtown and learn about its history and the breweries which have taken something old and making something new.
+Join us on a tour of Brewtown and learn about its history and the breweries which have taken something old and are making something new.
 
 Along the way enjoy a delicious lunch and beers from two of Brewtown's award winning breweries.
 
@@ -27,7 +27,7 @@ Brewtown is situated within the South Pacific Industrial park owned by developer
 
 <br>
 
-**Booking is required. Email mike@craftbeertoursnz.co.nz to book.** 
+**Booking is required. Email [mike@craftbeertoursnz.co.nz](mailto:mike@craftbeertoursnz.co.nz) to book.** 
 
 **Location:** Meet at the gift/merchandise at Brewtown, 23 Blenheim Street Upper Hutt. 
 
