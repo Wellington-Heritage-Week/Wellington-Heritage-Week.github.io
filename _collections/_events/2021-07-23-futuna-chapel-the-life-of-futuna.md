@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futuna Chapel - The Life of Futuna
+title: Futuna Chapel – The Life of Futuna
 location: Wellington City
 img: /assets/uploaded/futuna-chapel-the-life-of-futuna-whw21.jpg
 event_date: 11am Sat 30 & Sun 31 Oct
@@ -14,7 +14,7 @@ host:
 tag:
   - Talk
 ---
-**Trust Chair, and co-editor of the 2016 book "Futuna - Life of a Building", Nick Bevin, will conduct a detailed and personal tour of Futuna Chapel telling its story starting in France in 1816 and over the intervening 205 years.** 
+**Trust Chair and co-editor of the 2016 book "Futuna – Life of a Building", Nick Bevin will conduct a detailed and personal tour of Futuna Chapel telling its story starting in France in 1816 and over the intervening 205 years.** 
 
 Come and experience the Life of Futuna. Futuna Chapel is a Listed Heritage Building Category 1 building and the masterwork of architect John Scott.
 
@@ -24,7 +24,7 @@ Come and experience the Life of Futuna. Futuna Chapel is a Listed Heritage Build
 
 **Location:** Futuna Chapel 67 Futuna Close (off Friend Steet) Karori
 
-**Duration:** 30mins
+**Duration:** 30min
 
 **Cost:** A koha would be appreciated
 
