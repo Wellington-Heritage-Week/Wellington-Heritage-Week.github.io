@@ -11,25 +11,26 @@ host:
     Week.  Head brewer Tommy Baker is an experienced and innovative brewer with
     strong connections to the traditions of New Zealand Brewing. He has
     partnered with students from the Masters of Museum and Heritage Studies
-    program at VUW to realise historically inspired beers.
+    program at Victoria University of Wellington to realise historically
+    inspired beers.
   email: henrybuckenham@wellingtonheritageweek.co.nz
-  name: Victoria University Wellington and Waitoa Brewing Company
+  name: Victoria University of Wellington and Waitoa Brewing Company
   phone: 021 1012936
 tag:
   - Food/Drink
 ---
-A lineup of specially brewed, historically inspired beers brewed as a collaboration between Waitoa Social Club and Victoria University Wellington. 
+**A lineup of specially brewed, historically inspired beers brewed as a collaboration between Waitoa Social Club and Victoria University of Wellington.** 
 
-Each of the beers will reflect a moment in our national past: A recipe drawn from the early 20th century, a re-invigorated 'New Zealand Draught' inspired by the days of the 6 o'clock swill, and finally an Aotearoa Pilsner, a recently recognised international beer style that represents just how far we've come. All of these beers will be launched on Labour day at Waitoa Social Club. 
+Each of the beers will reflect a moment in our national past: a recipe drawn from the early 20th century, a re-invigorated 'New Zealand Draught' inspired by the days of the 6 o'clock swill, and finally an Aotearoa Pilsner, a recently recognised international beer style that represents just how far we've come. All of these beers will be launched on Labour day at Waitoa Social Club. 
 
 Accompanied by a quiz that will test your knowledge of New Zealand history, beer, and all the ephemera associated with our unique and slightly bizarre relationship with the brown stuff.
 
 <br>
 
-**Booking is required. Email henrybuckenham@wellingtonheritageweek.co.nz to book.**
+**Booking is required. Email [henrybuckenham@wellingtonheritageweek.co.nz](mailto:henrybuckenham@wellingtonheritageweek.co.nz) to book.**
 
 **Location:** 175 Victoria Street, Te Aro, Wellington 6011
 
 **Duration:** 1.5 hours 
 
-**Cost:** Free 
+**Cost:** Free
