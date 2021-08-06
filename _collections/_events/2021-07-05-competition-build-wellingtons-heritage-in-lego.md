@@ -14,11 +14,11 @@ host:
 tag:
   - Exhibition/Museum
 ---
-**Wellington is home to fantastic cultural and natural heritage sites. The beehive, Te Whanganui-a-Tara/Wellington harbour, St Gerard's Monastery, the giant rimu at Otari-Wilton's Bush, Pencarrow Head lighthouse, Makara gun emplacements - there's something for everyone.** 
+**Wellington is home to fantastic cultural and natural heritage sites. The Beehive, Te Whanganui-a-Tara/Wellington harbour, St Gerard's Monastery, the giant rimu at Otari-Wilton's Bush, Pencarrow Head lighthouse, Makara gun emplacements - there's something for everyone.** 
 
-Build your favourite heritage site from the Wellington/Kapiti region in lego, send us a photo and you'll be in to win some great lego prizes. Selected entries will be shared on social media during Wellington Heritage Week and the winning entries will be displayed at the Department of Conservation visitor centre in Manners Street. 
+Build your favourite heritage site from the Wellington/Kāpiti region in lego, send us a photo and you'll be in to win some great lego prizes. Selected entries will be shared on social media during Wellington Heritage Week and the winning entries will be displayed at the Department of Conservation visitor centre in Manners Street. 
 
-Separate categories for kids, teens and adults, multiple entries welcome.
+Separate categories for kids, teens, and adults, multiple entries welcome.
 
 The competition runs between 1 August and 30 September 2021. All submitted lego-creations during this period are entered in the competition! 
 
@@ -28,7 +28,7 @@ The winner will be announced during Wellington Heritage Week 2021, 25–31 Oct 2
 
 <br>
 
-**Email a photo of your creation to agents@doc.govt.nz to enter.**
+**Email a photo of your creation to [agents@doc.govt.nz](mailto:agents@doc.govt.nz) to enter.**
 
 <a href="https://www.doc.govt.nz/news/events/competitions/build-wellingtons-heritage...-in-lego/" class="button">Read for more info on the DoC website</a>
 
