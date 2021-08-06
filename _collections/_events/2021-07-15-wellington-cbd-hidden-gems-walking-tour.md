@@ -16,7 +16,7 @@ host:
 tag:
   - Tour
 ---
-**Explore a part of our city which was all sea prior to 1840, now containing old and new hidden gems. The includes Te Ngākau Civic Square, City-to-Sea Bridge, Taranaki Wharf, Queens Wharf, Old Bank Arcade and Cable Car Lane.**
+**Explore a part of our city which was all sea prior to 1840, now containing old and new hidden gems. The tour includes Te Ngākau Civic Square, City-to-Sea Bridge, Taranaki Wharf, Queens Wharf, Old Bank Arcade, and Cable Car Lane.**
 
 Departing from outside the i-SITE Information Centre, Cnr Cuba and Wakefield Streets and ending at Cnr of Lambton Quay and Grey Street.
 
@@ -24,7 +24,7 @@ Meet at 10.50am for an 11am start.
 
 <br>
 
-**Booking is required. Email bookings@walkwellington.org.nz to book.** 
+**Booking is required. Email [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz) to book.** 
 
 **Location:** Departing from outside the i-SITE Information Centre, Cnr Cuba and Wakefield Streets and ending at Cnr of Lambton Quay and Grey Street
 
