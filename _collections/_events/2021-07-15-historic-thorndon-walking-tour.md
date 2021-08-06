@@ -10,23 +10,23 @@ host:
     proud Wellingtonian volunteer members keen to share their love of the city
     by providing quality guided walking tours. See our website
     walkwellington.org.nz for more information.
-  phone: 021 434500
+  phone: 021 43 4500
   name: Walk Wellington Inc
   website: https://www.walkwellington.org.nz/
 tag:
   - Tour
 ---
-**This 2-hour walking tour takes in the Parliament precinct, Hill St, Thorndon Road, Glenbervie Tce, Ascot Tce, Sydney St, Bolton St and the Rose Gardens. The final leg is via the Bolton Street Cemetery.** 
+**This 2-hour walking tour takes in the Parliament precinct, Hill St, Thorndon Road, Glenbervie Tce, Ascot Tce, Sydney St, Bolton St, and the Rose Gardens. The final leg is via the Bolton Street Cemetery.** 
 
-The route, all on sealed paths, is wheelchair accessible through two short, uphill sections are steep (accessing Hill St and Glenbervie Tce).
+The route, all on sealed paths, is wheelchair accessible though two short, uphill sections are steep (accessing Hill St and Glenbervie Tce).
 
-The tour starts and ends at the Wellington Cenotaph on the corner of Bowen Street and  Lambton Quay. 
+The tour starts and ends at the Wellington Cenotaph on the corner of Bowen Street and Lambton Quay. 
 
 <br>
 
-**Booking is required. Email bookings@walkwellington.org.nz to book.** 
+**Booking is required. Email [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz) to book.** 
 
-**Location:** Meet at the Wellington Cenotaph on the corner of Bowen Street and  Lambton Quay
+**Location:** Meet at the Wellington Cenotaph on the corner of Bowen Street and Lambton Quay.
 
 **Duration:** 2 hours 
 
