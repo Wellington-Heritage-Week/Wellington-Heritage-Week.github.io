@@ -16,7 +16,7 @@ tag:
 
 Gordon Crook was born in England, and taught textile design at London’s Central School of Art. He came to New Zealand in 1972, where his art flourished. In 1979 he was commissioned to create 20 enormous banners for the New Zealand embassy in Washington, and a few years later made the banners that still hang in the entrance of the Michael Fowler Centre. 
 
-In the decades that followed, his art – textiles, prints, paintings and collages – was exhibited throughout the country.
+In the decades that followed, his art – textiles, prints, paintings, and collages – was exhibited throughout the country.
 
 Wheelchair accessible. Tea and coffee are provided.
 
@@ -32,4 +32,4 @@ Wheelchair accessible. Tea and coffee are provided.
 
 **Cost:** Free
 
-**Contact**: laura.woodward@wcc.govt.nz
+**Contact**: [laura.woodward@wcc.govt.nz](mailto:laura.woodward@wcc.govt.nz)
