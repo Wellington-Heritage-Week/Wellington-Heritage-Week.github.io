@@ -14,22 +14,22 @@ host:
     context to tell the stories of New Zealand Police. Explore policing methods
     and significant events in New Zealand’s social and political history from a
     police perspective.  There is plenty to offer for the whole family
-    including: Detective activities ready to be solved, a large collection of
+    including: detective activities ready to be solved, a large collection of
     New Zealand Police uniforms to try on, a Police motorbike, and a range of
     tours and programmes for groups!"
   website: https://www.police.govt.nz/about-us/history-museum/museum
 tag:
   - Tour
 ---
-**Explore New Zealand Police heritage sites at the Royal New Zealand Police College (RNZPC) in Papakowhai, Porirua.** 
+**Explore New Zealand Police heritage sites at the Royal New Zealand Police College (RNZPC) in Papakōwhai, Porirua.** 
 
 Visit the RNZPC Memorial Wall, the site commemorating police officers who have been slain on duty since 1886, explore the carved pou representing the 12 police districts, learn about policing in the 19th century through He matapihi o nehe rā: A window into the past, and finish with a visit to the New Zealand Police Museum.
 
 <br>
 
-**Booking is required. Email museum@police.govt.nz or call 04 238 3141 to book.**
+**Booking is required. Email [museum@police.govt.nz](mailto:museum@police.govt.nz) or call [04 238 3141](<tel:04 238 3141>) to book.**
 
-**Location:** Royal New Zealand Police College 24 Papakowhai Road, Papakōwhai, Porirua 5024
+**Location:** Royal New Zealand Police College 24 Papakōwhai Road, Papakōwhai, Porirua 5024
 
 **Duration:** 1.5 hours
 
