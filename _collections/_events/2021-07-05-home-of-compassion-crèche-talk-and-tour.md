@@ -7,10 +7,10 @@ event_date: 11:30am & 1:30pm Sat 30 Oct
 host:
   name: The Sisters of Compassion Ngā Whaea O Pūaroha & Manatū Taonga / Ministry
     of Culture and Heritage
-  blurb: The Sisters of Compassion Ngā Whaea O Pūaroha, were founded by Suzanne
+  blurb: The Sisters of Compassion Ngā Whaea O Pūaroha were founded by Suzanne
     Aubert Meri Hōhepa at Hiruhārama on the Whanganui River in 1892. For more
     than a century the sisters have taught, nursed, and provided homes for
-    children, the sick and the elderly in New Zealand and the South
+    children, the sick, and the elderly in New Zealand and the South
     Pacific.  Manatū Taonga, the Ministry for Culture and Heritage, works to
     enrich the lives of all New Zealanders by promoting a confident and
     connected culture.
@@ -24,15 +24,15 @@ tag:
 
 The desperate social conditions that led to the founding of the crèche by Suzanne Aubert Meri Hōhepa in 1903, will be explored by historians from the Ministry of Culture and Heritage. Sisters of Compassion will tell just some of the stories of care and community that happened inside the walls of the crèche buildings at Buckle and Sussex Streets. 
 
-Following the talk there will be a guided tour and time to explore the 1914 historic crèche that is now home for the Pukeahu Education Centre.*  
+Following the talk there will be a guided tour and time to explore the 1914 historic crèche that is now home for the Pukeahu Education Centre.
 
 Limited to 30 people. 
 
-*\*Quoted in 'Crèches and early childcare', URL: https://nzhistory.govt.nz/culture/creches-and-early-childcare, (Ministry for Culture and Heritage), updated 14-Jan-2020*
+*\*Quoted in 'Crèches and early childcare', URL: https://nzhistory.govt.nz/culture/creches-and-early-childcare, (Ministry for Culture and Heritage), updated 14-Jan-2020.*
 
 <br>
 
-**Booking is required. Book by emailing events@compassion.org.nz or phone (04) 383 7769.**
+**Booking is required. Book by emailing [events@compassion.org.nz](mailto:events@compassion.org.nz) or phone [04 383 7769](tel:043837769).**
 
 **Location:** Pukeahu Education Centre, 18 Buckle Street (off Tory Street), Pukeahu National War Memorial Park
 
