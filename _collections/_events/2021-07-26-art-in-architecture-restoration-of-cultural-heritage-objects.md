@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art in Architecture - Restoration of Cultural Heritage Objects
+title: Art in Architecture – Restoration of Cultural Heritage Objects
 location: Wellington City
 img: /assets/uploaded/art-in-architecture-restoration-of-cultural-heritage-objects.png
 event_date: 2pm Sun 31 Oct
