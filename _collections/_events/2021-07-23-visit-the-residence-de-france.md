@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Visit the Residence de France
+title: Visit the Résidence de France
 location: Wellington City
 img: /assets/uploaded/france-whw21.png
 event_date: 9:30am–3pm Fri 29 Oct
 host:
-  blurb: The French Embassy in New Zealand represents France in NZ, Samoa and the
+  blurb: The French Embassy in New Zealand represents France in NZ, Samoa, and the
     Cook Islands.
   name: French Embassy in New Zealand
   email: cooperation.wellington-amba@diplomatie.gouv.fr
@@ -33,4 +33,4 @@ Visitors will be welcomed at the gate, before a specialist of local history from
 
 **Cost**: Free
 
-**Health & Safety:** The French Residence isn’t a fully accessible venue – any questions please email cooperation.wellington-amba@diplomatie.gouv.fr
+**Health & Safety:** The French Residence isn’t a fully accessible venue – any questions please email [cooperation.wellington-amba@diplomatie.gouv.fr](mailto:cooperation.wellington-amba@diplomatie.gouv.fr).
