@@ -14,7 +14,7 @@ host:
 tag:
   - Talk
 ---
-**Structural engineer Alistair Cattanach of Dunning Thornton will give an illustrated presentation about their development and implementation of seismic strengthening solutions for a number of significant Wellington heritage buildings. Examples will include Old St.Pauls, The Public Trust and Shed 13 among others.** 
+**Structural engineer Alistair Cattanach of Dunning Thornton will give an illustrated presentation about their development and implementation of seismic strengthening solutions for a number of significant Wellington heritage buildings. Examples will include Old St Pauls, The Public Trust, and Shed 13 among others.** 
 
 Alistair is passionate about architecture and believes in the multi-discipline approach to design of appropriate seismic strengthening solutions. Alistair’s knowledge of the non-structural disciplines allows these opportunities to be fully explored. 
 
