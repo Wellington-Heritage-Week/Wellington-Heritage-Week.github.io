@@ -40,6 +40,6 @@ Our guides will also talk about the disruption caused by the construction of Wel
 
 **Cost:** $10 pp
 
-**Contact:** For the Friday tour, please contact Kate on kate_fortune@hotmail.com 021 109 4001 if required. For the Saturday tour, please contact Jennifer on jennifer.button.nz@gmail.com 021 024 52650. if required 
+**Contact:** For the Friday tour, please contact Kate on [kate_fortune@hotmail.com](mailto:kate_fortune@hotmail.com) or [021 109 4001](tel:0211094001) if required. For the Saturday tour, please contact Jennifer on [jennifer.button.nz@gmail.com](tel:jennifer.button.nz@gmail.com) or [021 024 52650](tel:02102452650) if required.
 
 **Health & Safety:** Not suitable for wheelchairs. Please wear sturdy shoes as some paths are steep and can be slippery. Care is required.
