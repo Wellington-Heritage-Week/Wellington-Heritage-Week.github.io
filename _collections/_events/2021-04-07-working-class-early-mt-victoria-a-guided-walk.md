@@ -17,15 +17,15 @@ tag:
 ---
 **Mt Victoria Historical Society will take you on a tour of some of the 19th and early 20th century homes of the working classes who helped build our city and keep its cogs turning.** 
 
-Many of the houses they once lived-in in Mt Victoria look almost the same today, and you will be able to imagine their lives behind those walls and beyond.
+Many of the houses they once lived in in Mt Victoria look almost the same today, and you will be able to imagine their lives behind those walls and beyond.
 
 Numbers will be limited to 25. 
 
 <br>
 
-**Booking is required. Email jonewman@xtra.co.nz to book.** 
+**Booking is required. Email [jonewman@xtra.co.nz](mailto:jonewman@xtra.co.nz) to book.** 
 
-**Location:** Meet at the end of Moir Street, outside No. 31. (It can be reached from Hania Street or Brougham Street)
+**Location:** Meet at the end of Moir Street, outside No. 31. It can be reached from Hania Street or Brougham Street.
 
 **Duration:** Approximately 1.5 hours
 
