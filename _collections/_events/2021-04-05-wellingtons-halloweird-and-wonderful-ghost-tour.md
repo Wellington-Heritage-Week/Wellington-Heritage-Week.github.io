@@ -35,4 +35,4 @@ Meet at sundown for this one-off walking tour of haunted locations around Wellin
 
 **Health & Safety:** The tour will be entirely on foot and will include some small hills. Those embarking on the tour will need to be comfortable with walking and standing for the entirety of the tour which will be approximately 2 hours. 
 
-Some of the sites we will be visiting may be older and therefore may have some additional health and safety risks eg. uneven flooring, stairs, low roofs etc. Any health and safety risks will be assessed prior to the tour and pointed out to attendees during the experience. Comfortable and supportive footwear is advised, and attendees will be required to fill out a waiver before starting the tour
+Some of the sites we will be visiting may be older and therefore may have some additional health and safety risks like uneven flooring, stairs, low roofs etc. Any health and safety risks will be assessed prior to the tour and pointed out to attendees during the experience. Comfortable and supportive footwear is advised, and attendees will be required to fill out a waiver before starting the tour.
