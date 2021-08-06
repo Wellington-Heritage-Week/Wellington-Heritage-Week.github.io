@@ -2,7 +2,7 @@
 layout: post
 title: Wellington's Halloweird and Wonderful Ghost Tour
 location: Wellington City
-img: /assets/uploaded/queenieandkarl.jpg
+img: /assets/uploaded/halloween-ghost-tour-a5-ls.jpg
 event_date: 7:30pm Tues 26 & Wed 27 Oct
 host:
   phone: 04-213 4666
