@@ -14,7 +14,7 @@ tag:
 ---
 **Join us to celebrate the opening of Wellington Heritage Week 2021.** 
 
-At 6pm, a panel discussion will occur in the Adam Auditorium. The panel members will represent a diverse mix of local residents, local heritage experts, Maori, and youth.
+At 6pm, a panel discussion will occur in the Adam Auditorium. The panel members will represent a diverse mix of local residents, local heritage experts, Māori, and youth.
 
 The discussion will be on the growth pressures facing our city and how we manage heritage. 
 
