@@ -6,7 +6,7 @@ img: /assets/uploaded/st-james’-church-and-the-lower-hutt-civic-centre-talks-c
 event_date: 11:30am–5pm Thurs 28 & 2pm–5pm Sat 30 Oct
 host:
   phone: (04) 569 6737
-  email: Events@stjames.net.nz
+  email: events@stjames.net.nz
   blurb: St James’ Church is part of the Anglican Parish of Lower Hutt along with
     All Saints Belmont. St James’ Church has a proud history of community
     involvement in Lower Hutt since 1841. Contact parish.admin@stjames.net.nz
@@ -40,6 +40,6 @@ The church and a display about the church will be avaliable for viewing between 
 
 **Cost**: Free
 
-**Contact:** Events@stjames.net.nz
+**Contact:** [events@stjames.net.nz](mailto:events@stjames.net.nz)
 
-**Health & Safety:** Free 2 hour public parking available behind church. Wheelchair access available. Health and safety plan available on request.
+**Health & Safety:** Free 2-hour public parking available behind the church. Wheelchair access available. Health and safety plan available on request.
