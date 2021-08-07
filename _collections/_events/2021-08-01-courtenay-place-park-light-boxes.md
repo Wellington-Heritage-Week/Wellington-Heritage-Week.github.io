@@ -12,9 +12,9 @@ host:
 tag:
   - Exhibition/Museum
 ---
-***Standing still, still standing Deanna Dowling***
+***Standing still, still standing – Deanna Dowling***
 
-Standing still, still standing uses photographic documentation, archival imagery and text to explore the vacant Gordon Wilson Flats and modern architectural value systems. The project invites viewers to consider the relationships between people, place and structure. 
+*Standing still, still standing* uses photographic documentation, archival imagery, and text to explore the vacant Gordon Wilson Flats and modern architectural value systems. The project invites viewers to consider the relationships between people, place, and structure. 
 
 What will win: preservation or progress?
 
