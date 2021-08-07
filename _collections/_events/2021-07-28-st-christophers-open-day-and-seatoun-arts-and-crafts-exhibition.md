@@ -8,7 +8,7 @@ host:
   blurb: The Miramar Peninsula Community Trust are a charitable trust who lease
     the buildings from the owners. They ensure that both venues are accessible
     for the community and beyond to enjoy. Seatoun Arts and Crafts have been an
-    integral part of the Seatoun Community for over 40years.
+    integral part of the Seatoun Community for over 40 years.
   email: seatounvillagehall@gmail.com
   name: Miramar Peninsula Community Trust and Seatoun Arts and Crafts Group
   phone: 021 955 331
@@ -23,10 +23,10 @@ Next door in the Village Hall, the annual Seatoun Arts and Crafts Exhibition wil
 
 Whilst in Seatoun, enjoy a little more exploring with our self guided tour map.
 
-The Church is open between 11 - 2  Saturday 30 and Sunday 31 October Arts and Crafts Exhibition is 10-4 pm Saturday 31 and Sunday 31 Oct.
+The Church is open between 11am and 2pm on Saturday 30 and Sunday 31 October. The Arts and Crafts Exhibition is open between 10am and 4pm Saturday 30 and Sunday 31 October.
 
 <br>
 
 **Location:** 27 Ventnor Street Seatoun
 
-**Cost**: Free but Koha appreciated
+**Cost**: Free but koha appreciated
