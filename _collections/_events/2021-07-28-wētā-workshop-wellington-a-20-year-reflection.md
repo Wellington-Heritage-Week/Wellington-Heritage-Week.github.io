@@ -25,7 +25,7 @@ The third and final movie of the trilogy, The Lord of the Rings: The Return of t
 \
 From the sweeping landscapes of Middle-earth to the lush forests of Pandora in the movie Avatar, Wētā Workshop has since gone on to design imaginary worlds for many more blockbuster movies and TV shows. Its manufacturing capabilities span traditional artisan skills, such as sword-making and leatherwork, to the high-tech world of precision machining, animatronics, and 3D printing.\
 \
-The Wētā Cave was opened in Miramar 13 years ago, showcasing the workshop’s techniques, props, and film effects to the general public. The public workshop tour space which opened eight years ago, has been visited by close to a million fans from all four corners of the world.\
+The Wētā Cave was opened in Miramar 13 years ago, showcasing the workshop’s techniques, props, and film effects to the general public. The public workshop tour space, which opened eight years ago, has been visited by close to a million fans from all four corners of the world.\
 \
 Exclusively for Wellington Heritage Week celebrations, journey through one of Wētā Workshop’s famous tour spaces, finishing with tales and stories reflecting on the last 20 years told by one of Wētā Workshop's senior technicians.
 
