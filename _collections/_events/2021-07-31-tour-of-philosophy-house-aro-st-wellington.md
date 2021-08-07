@@ -6,7 +6,7 @@ img: /assets/uploaded/school_of_practical_philosophy-whw21.jpeg
 event_date: 10am–2pm Sat 30 Oct
 host:
   email: annemariengan@gmail.com
-  phone: 021 475898
+  phone: 021 47 5898
   blurb: People come to the School of Philosophy to explore life and its meaning.
     Three courses a year offer students a unique opportunity to delve into the
     great questions of life.
