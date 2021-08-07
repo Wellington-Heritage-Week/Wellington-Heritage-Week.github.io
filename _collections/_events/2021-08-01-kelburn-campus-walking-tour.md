@@ -12,13 +12,13 @@ host:
 tag:
   - Tour
 ---
-**From a track of Māori through to the Living Pā, this tour traverses the history and site of the Kelburn campus of Te Herenga Waka-Victoria University of Wellington.** 
+**From a track of Māori through to the Living Pā, this tour traverses the history and site of the Kelburn campus of Te Herenga Waka—Victoria University of Wellington.** 
 
 Recounting the establishment of the Victoria University College and its expansion to become today's university, the tour recalls events and leading figures that have contributed to the site's development. Connections are made with the development of the city and education nationally.
 
 <br>
 
-**Booking is required. Email weatherboards@gmail.com to book.** 
+**Booking is required. Email [weatherboards@gmail.com](mailto:weatherboards@gmail.com) to book.** 
 
 **Location:** Green space at the junction of Mount Street and The Terrace (between 254 and 256 The Terrace).
 
