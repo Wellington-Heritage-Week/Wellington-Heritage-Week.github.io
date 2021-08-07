@@ -24,7 +24,7 @@ Maximum tour size: 20 people.
 
 <br>
 
-**Booking is required. Email petonehistories@gmail.com to book.**
+**Booking is required. Email [petonehistories@gmail.com](mailto:petonehistories@gmail.com) to book.**
 
 **Location:** Meet at Petone Community House, 6 Britannia Street, Petone
 
