@@ -6,8 +6,8 @@ img: /assets/uploaded/dinner-and-discussion-at-the-green-parrot.png
 event_date: 7pm Wed 27 Oct
 host:
   name: Henry Buckenham
-  blurb: Festival Co-ordinator at Wellington Heritage Week, avid food historian
-    and gourmand.
+  blurb: Festival Coordinator at Wellington Heritage Week, avid food historian and
+    gourmand.
   email: henrybuckenham@wellingtonheritageweek.co.nz
   phone: 021 101 2936
 tag:
