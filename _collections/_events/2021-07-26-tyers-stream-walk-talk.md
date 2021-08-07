@@ -7,7 +7,7 @@ event_date: 11am Mon 25 & Sun 31 Oct
 host:
   blurb: Amanda Barber is the great great grand daughter of Henry Barber. Barber
     estalished an abatoir and leased land to felmonger Alfred Tyer. Amanda leads
-    Guardians of Tyers Stream , with the aim of restoring the purity of the area
+    Guardians of Tyers Stream, with the aim of restoring the purity of the area
     and educating people about the rich history of the site.
   name: Amanda Barber
   email: amanda-barber@hotmail.com
@@ -22,7 +22,7 @@ Due to the hazards in the area, it is not suitable for those who rely on mobilit
 
 <br>
 
-**Booking is required. Email amanda-barber@hotmail.com to book.**
+**Booking is required. Email [amanda-barber@hotmail.com](mailto:amanda-barber@hotmail.com) to book.**
 
 **Location:** National Storage Wellington, 7 Lower Tyers Road, Ngauranga
 
