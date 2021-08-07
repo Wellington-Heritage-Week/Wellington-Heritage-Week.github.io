@@ -15,7 +15,7 @@ tag:
 ---
 **The Heritage Garden at the historic Halfway House in Glenside Reserve is open daily to view. The Heritage Gardeners have created a rural Victorian garden using plants in New Zealand before 1900.** 
 
-The garden features an orchard, flower bank and natural fernery. On Sunday 31st October at 2:00 p.m. there will be a presentation recognising the garden achieving status as a Butterfly Habitat certified garden. 
+The garden features an orchard, flower bank, and natural fernery. On Sunday 31 October at 2:00pm there will be a presentation recognising the garden achieving status as a Butterfly Habitat certified garden. 
 
 The Moths and Butterflies of NZ Trust will have a sales table and the Heritage Gardeners will be selling garden seed from their collection.
 
@@ -29,4 +29,4 @@ Parking is limited in the reserve. There is car parking on Middleton Road south 
 
 **Cost:** Free
 
-**Contact:** info@glenside.org.nz 022 186 5714
+**Contact:** [info@glenside.org.nz](mailto:info@glenside.org.nz) & [022 186 5714](<tel:022 186 5714>)
