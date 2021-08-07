@@ -17,13 +17,13 @@ tag:
 
 The Newtown Adventure Playground was a radical DIY space for unstructured play and exploration for kids in the ‘70s. It was on the corner of Constable and Daniell Streets and was a space of joy that many Newtowners remember vividly – the spirit of fun and excitement is captured in these striking stills. 
 
-Join us for the opening event on Friday 29th October, 6-9pm for kōrero about the playground, a chance to share memories and to enjoy the photographs. The event will be held at Newtown Hall, which is on the site of the old playground. 
+Join us for the opening event on Friday 29 October, 6-9pm for kōrero about the playground, a chance to share memories and to enjoy the photographs. The event will be held at Newtown Hall, which is on the site of the old playground. 
 
 Newtown Hall is decorated with the mural ‘Intersection’ by Newtown artist Kerb1, which also celebrates memories of the playground! 
 
 Copies of John’s new book "Hey Mister Look At Me! Memories of Newtown Adventure Playground 1974" will be available for sale. In addition to the photo collection it includes memoirs from Ann Hunt who started the original playground in 1973 and was a volunteer throughout. 
 
-The exhibition will also be open from 10am-4pm on Saturday 30th to view the photographs.
+The exhibition will also be open from 10am-4pm on Saturday 30 to view the photographs.
 
 <br>
 
