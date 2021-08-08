@@ -24,7 +24,7 @@ Wheelchair accessible. Tea and coffee are provided.
 
 **Booking is required.**
 
-<a href="https://wellingtonheritageweek.co.nz/event/public-art-talk-gordon-crook-banners/" class="button">Book a talk</a>
+<a href="https://www.eventfinda.co.nz/2021/gordon-crook-banners-public-art-talk/wellington" class="button">Book a talk</a>
 
 **Location:** Michael Fowler Centre Foyer, 111 Wakefield Street, Te Aro, Wellington 6011
 
