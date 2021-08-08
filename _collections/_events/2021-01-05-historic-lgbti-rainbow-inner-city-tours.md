@@ -37,7 +37,7 @@ Learn about homosexual law reform, the beginnings of rainbow radio broadcasting,
 
 **Booking is required for both tours. Click the button below to book. Spaces are limited.**
 
-<a href="http://www.taonga.nz/walktours" class="button">Book a tour</a>
+<a href="https://www.taonga.nz/walktours/" class="button">Book a tour</a>
 
 **Duration:** 1.5 hours 
 
