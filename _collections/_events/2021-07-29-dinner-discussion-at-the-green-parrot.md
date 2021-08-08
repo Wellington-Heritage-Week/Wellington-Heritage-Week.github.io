@@ -27,6 +27,6 @@ Located in the historic Green Parrot, couched in history, decorated in paraphern
 
 **Location:** The Green Parrot, 16 Taranaki Street, Wellington
 
-**Duration:** 1h30
+**Duration:** 1h 30min
 
 **Cost:** $15 + Food
