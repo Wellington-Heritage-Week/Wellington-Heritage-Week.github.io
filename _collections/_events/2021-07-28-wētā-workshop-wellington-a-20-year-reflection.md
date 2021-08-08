@@ -31,7 +31,7 @@ Exclusively for Wellington Heritage Week celebrations, journey through one of WÄ
 
 <br>
 
-**Booking is required.** 
+**Booking is required. Email bookings@wetaworkshop.co.nz to book** 
 
 <a href="INSERT" class="button">Book a tour</a>
 
