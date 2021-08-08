@@ -30,7 +30,7 @@ Spaces in the house tours are limited to 10 people per tour. Book your spot toda
 
 <br>
 
-**Booking is required. Email raydeen.cuffe@wcc.govt.nz to book** 
+**Booking is required. Email [raydeen.cuffe@wcc.govt.nz](raydeen.cuffe@wcc.govt.nz) to book** 
 
 **Location:** Truby King Park, 21 Manchester Terrace, Melrose, Wellington.
 
