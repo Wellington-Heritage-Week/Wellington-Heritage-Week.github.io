@@ -27,7 +27,9 @@ Accompanied by a quiz that will test your knowledge of New Zealand history, beer
 
 <br>
 
-**Booking is required. Email [henrybuckenham@wellingtonheritageweek.co.nz](mailto:henrybuckenham@wellingtonheritageweek.co.nz) to book.**
+**Booking is required. Click the button below to book.**
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe0vd9KHPSAJT-6zeO23eEWr563RWzQhUIaNhegshTLliUX_A/viewform" class="button">Book the Quiz</a>
 
 **Location:** 175 Victoria Street, Te Aro, Wellington 6011
 
