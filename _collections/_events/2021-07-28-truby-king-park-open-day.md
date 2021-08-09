@@ -30,7 +30,10 @@ Spaces in the house tours are limited to 10 people per tour. Book your spot toda
 
 <br>
 
-**Booking is required. Email [raydeen.cuffe@wcc.govt.nz](raydeen.cuffe@wcc.govt.nz) to book** 
+**Booking is required. Click the button below to book** 
+
+<a href="https://www.eventfinda.co.nz/2021/truby-king-park-open-day-tours/wellington?_ga=2.26297469.1729836822.1628320956-1693007428.1599683556" class="button">Book a tour</a>
+
 
 **Location:** Truby King Park, 21 Manchester Terrace, Melrose, Wellington.
 
