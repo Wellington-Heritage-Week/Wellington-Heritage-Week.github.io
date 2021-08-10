@@ -20,6 +20,10 @@ This building is widely regarded as the masterwork of its architect, the late Jo
 
 The restoration of his Stations of the Cross frieze after 63 years (completion due by 8th October by Studio Izzo), will be 'unveiled' to the public for the first time. The Chapel is open to be explored and trustees will be on hand to welcome visitors, answer questions, and help reveal the Chapel's secrets and stories.
 
+*The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
+
+![](/assets/uploaded/mcguinness-logo.jpg)
+
 <br>
 
 **No booking is required.** 
