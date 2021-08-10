@@ -18,6 +18,10 @@ tag:
 
 Come and experience the Life of Futuna. Futuna Chapel is a Listed Heritage Building Category 1 building and the masterwork of architect John Scott.
 
+*The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
+
+![](/assets/uploaded/mcguinness-logo.jpg)
+
 <br>
 
 **No booking is required.** 
