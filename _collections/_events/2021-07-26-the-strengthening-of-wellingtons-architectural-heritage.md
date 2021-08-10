@@ -24,6 +24,10 @@ Futuna Chapel is a Listed Heritage Building Category 1 building and the masterwo
 
 NZ registered architects attending this presentation will received 10 CPD points.
 
+*The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
+
+![](/assets/uploaded/mcguinness-logo.jpg)
+
 <br>
 
 **No booking is required**. 
