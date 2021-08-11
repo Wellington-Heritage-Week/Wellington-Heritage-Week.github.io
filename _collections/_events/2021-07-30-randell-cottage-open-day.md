@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Randell Cottage Open Day
+title: "Randell Cottage Open Day: Visit Thorndon's Historic Cottages"
 location: Wellington City
 img: /assets/uploaded/randell-cottage-open-day.jpg
 event_date: 1pm–4pm Sun 31 Oct
