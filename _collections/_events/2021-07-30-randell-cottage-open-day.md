@@ -16,6 +16,8 @@ host:
 tag:
   - Open Day
 ---
+**Randell Cottage Open Day: Visit Thorndon's Historic Cottages**
+
 **This is a once-in-a-year opportunity to visit this wonderfully restored colonial cottage and its exuberant summery garden.** 
 
 Come and marvel at the small rooms that once proudly housed a family of ten children. The cottage has architectural and historical significance as a representative example of a single-detached working-class dwelling built in nineteenth-century New Zealand.  It was built in 1867 by William Randell, a stonemason from Dorset and extended around 1874 to meet the needs of his growing family.
