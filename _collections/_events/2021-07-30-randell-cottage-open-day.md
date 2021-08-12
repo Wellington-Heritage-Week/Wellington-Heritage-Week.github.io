@@ -28,7 +28,7 @@ See how the cottage has been sympathetically preserved to retain its original st
 
 Join the Trustees and Friends of Randell Cottage over a free afternoon tea and listen to a selection of readings from local writers.
 
-*The event is organised as part of a walking tour in collaboration with Lilburn House and Rita Angus Cottage.*
+*The event is organised as part of a walking tour in collaboration with Lilburn House.*
 
 **No booking is required.** 
 
