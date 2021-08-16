@@ -25,6 +25,8 @@ tag:
 
 Visit the RNZPC Memorial Wall, the site commemorating police officers who have been slain on duty since 1886, explore the carved pou representing the 12 police districts, learn about policing in the 19th century through He matapihi o nehe rā: A window into the past, and finish with a visit to the New Zealand Police Museum.
 
+*Note: The terrain at the college has steep areas and steps.*
+
 <br>
 
 **Booking is required. Email [museum@police.govt.nz](mailto:museum@police.govt.nz) or call [04 238 3141](<tel:04 238 3141>) to book.**
