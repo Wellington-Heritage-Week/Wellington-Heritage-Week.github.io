@@ -5,7 +5,7 @@ intro: Queuing comes naturally to New Zealanders. Our love affair with orderly
   lines outside cafes, ticket booths, and at the Bunnings’ sausage sizzle speaks
   to our penchant for fairness. With these lines appearing at our supermarkets
   under lockdown, let’s understand more about this custom and look back on
-  queues throughout Wellington’s history for inspiration to continue with this
+  queues through Wellington’s history for inspiration to continue with this
   patriotic pastime.
 author: David Batchelor
 img: /assets/uploaded/7.png
