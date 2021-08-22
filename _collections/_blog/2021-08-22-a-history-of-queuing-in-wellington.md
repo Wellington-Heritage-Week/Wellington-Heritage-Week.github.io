@@ -20,7 +20,7 @@ In a description of queues at football matches in Australia, Mann (1969) provide
 
 Allon and Hanany (2012) characterise queues as a tool for “economic maximization” as they benefit the customer and the manager by producing procedural efficiencies. Those in the queue are aware of this trait and pitch an internal battle between their rational reasoning and their self-interest to queue-jump, which may risk their position in the line and the whole structure’s operation. 
 
-**Let’s now look at Wellington’s queues through history:** 
+**Let’s now look at Wellington’s queues throughout history:** 
 
 *Women queue for Ballet tickets at Opera House, Wellington. 9 March 1959.* 
 
