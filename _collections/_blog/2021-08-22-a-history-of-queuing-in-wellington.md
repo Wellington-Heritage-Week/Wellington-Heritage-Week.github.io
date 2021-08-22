@@ -16,7 +16,7 @@ Academic minds have spent time researching queues and what drives us to form the
 
 In a description of queues at football matches in Australia, Mann (1969) provides an interesting ‘Profile of the Queuer’ from the mid-20th Century: 
 
-![](/assets/uploaded/a.png)
+> "The typical queuer is male, not yet twenty-five years of age, lives in a working-class suburb, and probably has absented himself from work to wait in line. Together with three friends, he has waited for at least fifteen hours to get tickets to watch his club play in the finals. He cannot explain why he likes football, but he has followed his team faithfully since childhood. He claims he would still be queuing even if his team were not playing, but the scarcity of supporters of nonfinals teams in the queue indicates that this is not likely. He has not counted the number of people ahead of him and has no real idea of the number of tickets for sale to the queue. He is fairly confident that he will get tickets, and he does not seem very unhappy about the queue system."
 
 Allon and Hanany (2012) characterise queues as a tool for “economic maximization” as they benefit the customer and the manager by producing procedural efficiencies. Those in the queue are aware of this trait and pitch an internal battle between their rational reasoning and their self-interest to queue-jump, which may risk their position in the line and the whole structure’s operation. 
 
@@ -45,8 +45,6 @@ Allon and Hanany (2012) characterise queues as a tool for “economic maximizati
 *Crowd waiting in a queue next to each counter to register their motor vehicle. 1957.* 
 
 ![](/assets/uploaded/6.png)
-
-
 
 **References** 
 
