@@ -24,27 +24,27 @@ Allon and Hanany (2012) characterise queues as a tool for “economic maximizati
 
 *Women queue for Ballet tickets at Opera House, Wellington. 9 March 1959.* 
 
-![](/assets/uploaded/1.png)
+<img src="/assets/uploaded/1.png" style="width: 100%;">
 
 *View of unidentified people, in a queue for '20 year' rugby tickets, costing £100, Wellington. 2 May 1960.* 
 
-![](/assets/uploaded/2.png)
+<img src="/assets/uploaded/2.png" style="width: 100%;">
 
 *Queue of people lining up for a fire sale at McKenzie's department store, Wellington. 11 May 1959.* 
 
-![](/assets/uploaded/3.png)
+<img src="/assets/uploaded/3.png" style="width: 100%;">
 
 *Crowd queuing to go inside house that is part of the Tawa 'Parade of Homes', Wellington. 6 April 1959.* 
 
-![](/assets/uploaded/4.png)
+<img src="/assets/uploaded/4.png" style="width: 100%;">
 
 *Cars queued up along Branda Pass waiting for a tsunami, Wellington. 27 May 1960.* 
 
-![](/assets/uploaded/5.png)
+<img src="/assets/uploaded/5.png" style="width: 100%;">
 
 *Crowd waiting in a queue next to each counter to register their motor vehicle. 1957.* 
 
-![](/assets/uploaded/6.png)
+<img src="/assets/uploaded/6.png" style="width: 100%;">
 
 **References** 
 
