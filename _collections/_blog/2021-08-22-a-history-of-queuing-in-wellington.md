@@ -8,7 +8,7 @@ intro: Queuing comes naturally to New Zealanders. Our love affair with orderly
   queues throughout Wellington’s history for inspiration to continue with this
   patriotic pastime.
 author: David Batchelor
-img: /assets/uploaded/1.png
+img: /assets/uploaded/7.png
 tag:
   - Post
 ---
