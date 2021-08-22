@@ -12,7 +12,7 @@ img: /assets/uploaded/7.png
 tag:
   - Post
 ---
-Academic minds have spent time researching queues and what drives us to form them. Milgram et al. (1986) state that the collective act of queuing provides individuals with a recognisable social structure that is distinct from the crowd, which they then apply towards a purpose, such as purchasing tickets at a booth. This social structure includes norms and punitive measures for those who dare to challenge it. They describe that a queue depends on shared knowledge of the acceptable behaviour for that situation to operate and to police challenges. 
+Academic minds have spent time researching queues and what drives us to form them. Milgram et al. (1986) state that the collective act of queuing provides individuals with a recognisable social structure that is distinct from the crowd, which they then apply towards a purpose, such as purchasing tickets at a booth. This social structure includes norms and punitive measures for those who dare to challenge it. They describe that a queue depends on shared knowledge of the acceptable behaviour to operate and to police challenges. 
 
 In a description of queues at football matches in Australia, Mann (1969) provides an interesting ‘Profile of the Queuer’ from the mid-20th Century: 
 
