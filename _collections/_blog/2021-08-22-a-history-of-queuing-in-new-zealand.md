@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: A History of Queuing in New Zealand
+title: A History of Queuing in Wellington
 intro: Queuing comes naturally to New Zealanders. Our love affair with orderly
   lines outside cafes, ticket booths, and at the Bunnings’ sausage sizzle speaks
   to our penchant for fairness. With these lines appearing at our supermarkets
