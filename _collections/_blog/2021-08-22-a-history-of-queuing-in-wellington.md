@@ -7,7 +7,7 @@ intro: Queuing comes naturally to New Zealanders. Our love affair with orderly
   under lockdown, let’s understand more about this custom and look back on
   queues through Wellington’s history for inspiration to continue with this
   patriotic pastime.
-author: David Batchelor
+author: David Batchelor - Director, Wellington Heritage Week
 img: /assets/uploaded/7.png
 tag:
   - Post
