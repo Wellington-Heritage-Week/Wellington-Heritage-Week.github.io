@@ -14,7 +14,7 @@ host:
 tag:
   - Tour
 ---
-**Join Sr Sue Cosgrove and follow the footsteps of Suzanne Aubert Meri Hōhepa, the woman who will become New Zealand's first saint, through Wellington city.** 
+**Join Sr Sue Cosgrove and follow the footsteps of Suzanne Aubert Meri Hōhepa.** 
 
 The tour begins at Suzanne’s Historic Crèche (now the Pukeahu Education Centre) in Buckle Street. This was one of the first successful crèches to operate in New Zealand. Around the corner is the Compassion Soup Kitchen in Tory Street, not far from its original location. The response of the Soup Kitchen to hunger and social isolation has been constant since 1901. 
 
