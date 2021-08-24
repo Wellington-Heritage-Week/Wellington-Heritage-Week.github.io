@@ -31,7 +31,9 @@ Exclusively for Wellington Heritage Week celebrations, journey through one of WÄ
 
 <br>
 
-**Booking is required. Email [bookings@wetaworkshop.co.nz](bookings@wetaworkshop.co.nz) to book** 
+**Booking is required.**
+
+<a href="https://tours.wetaworkshop.com/wellington/packages/20-year-reflection" class="button">Book a tour</a>
 
 **Location:** 1 Weka Street, Miramar, Wellington
 
