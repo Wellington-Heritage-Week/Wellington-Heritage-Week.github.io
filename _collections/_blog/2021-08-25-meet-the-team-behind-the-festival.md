@@ -27,11 +27,9 @@ Clemence is the author of the fortnightly newsletters and our go-to for website 
 
 Alex Hockley is a Wellingtonian through and through and helps us coordinate with community organisations and businesses. He spent his childhood in Lyall Bay and now lives in Newtown. His interest in heritage started when he was a child as his grandad shared stories of scrapping the Wahine after it wrecked in the Wellington Harbour. You may have seen Alex with his company Hiamo in the festival’s previous years. Hiamo creates augmented reality experiences for heritage sites – check them out here <https://www.hiamo.nz/>.
 
-
 **Brittany Jacobsen, Premium Experience Team**
 
 Brittany curates the premium experiences in this year’s festivals, such as the [Brewtown Upper Hutt Brewery Tour](https://wellingtonheritageweek.co.nz/event/brewtown-upper-hutt-brewery-tour/) and [Wellington’s Halloweird and Wonderful Ghost Tour](https://wellingtonheritageweek.co.nz/event/wellingtons-halloweird-and-wonderful-ghost-tour/) hosted by the Fear Factory Wellington. She also runs our Instagram and Facebook pages. Brittany recently moved to Wellington from Auckland and has presented research at conferences on Classical Studies. She is studying for a Master of Museum and Heritage Practice at Victoria University of Wellington.
-
 
 **Millie Burton, Premium Experience Team**
 
@@ -40,3 +38,7 @@ Millie also curates the premium experiences in this year’s festivals and is of
 **David Batchelor, Director** 
 
 David created the festival five years ago to support the heritage sector and reach new audiences. Since then, he created the independent Wellington Heritage Week Trust under which the festival operates. He manages the festival’s strategic direction and relationships with community organisations, local councils, and national organisations like Heritage New Zealand and the Department of Conservation. He is an Urban Planner by trade and is completing his PhD on local government heritage policy at Victoria University of Wellington.
+
+*The Wellington Heritage Week team would like to thank all the event hosts in this year's festival. These community groups, individual heroes, and other organisations tirelessly share the people, places, and stories of the region and we are grateful for your involvement.* 
+
+*Please continue to support your local community organisations by attending their events and registering as members of their organisations.*
