@@ -40,6 +40,6 @@ Millie also curates the premium experiences in this year’s festivals and is of
 
 David created the festival five years ago to support the heritage sector and reach new audiences. Since then, he created the independent Wellington Heritage Week Trust under which the festival operates. He manages the festival’s strategic direction and relationships with community organisations, local councils, and national organisations like Heritage New Zealand and the Department of Conservation. He is an Urban Planner by trade and is completing his PhD on local government heritage policy at Victoria University of Wellington.
 
-*The Wellington Heritage Week team would like to thank all the event hosts in this year's festival. These community groups, individual heroes, and other organisations tirelessly share the people, places, and stories of the region and we are grateful for your involvement.* 
+*The Wellington Heritage Week team would like to thank all the event hosts in this year's festival. These community groups, individual heroes, and other organisations tirelessly share the people, places, and stories of the region and we are grateful for their involvement.* 
 
 *Please continue to support your local community organisations by attending their events and registering as members of their organisations.*
