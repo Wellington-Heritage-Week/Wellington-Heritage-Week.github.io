@@ -22,9 +22,8 @@ Henry joined the festival in early 2021 and has been the force behind the food o
 
 Clemence is the author of the fortnightly newsletters and our go-to for website maintenance. She joined the festival team in early 2021 after chatting about all things heritage in Midnight Espresso on Cuba Street. Through her keen eye for detail, the festival has included more events and streamlined its registration and application processes. She holds a Master in Public Policy from the Paris Institute of Political Studies, commonly called Sciences Po.
 
-[Click here to recieve our fortnightly Heritage News & Events newsletters.](https://mailchi.mp/37383b848d92/wellington-heritage-week-newsletter)
+*[Click here to receive our fortnightly Heritage News & Events newsletters.](https://mailchi.mp/37383b848d92/wellington-heritage-week-newsletter)*
 
-\
 **Alex Hockley, Festival Coordinator** 
 
 Alex Hockley is a Wellingtonian through and through and helps us coordinate with community organisations and businesses. He spent his childhood in Lyall Bay and now lives in Newtown. His interest in heritage started when he was a child as his grandad shared stories of scrapping the Wahine after it wrecked in the Wellington Harbour. You may have seen Alex with his company Hiamo in the festival’s previous years. Hiamo creates augmented reality experiences for heritage sites – check them out here <https://www.hiamo.nz/>.
