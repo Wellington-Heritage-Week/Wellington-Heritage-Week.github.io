@@ -34,7 +34,7 @@ Brittany curates the premium experiences in this year’s festivals, such as the
 
 **Millie Burton, Premium Experience Team**
 
-Millie also curates the premium experiences in this year’s festivals and is often the creative-mind behind our social media posts. Her interest in heritage started early by reading the Horrible Histories book series, which details the gory and odd tales of history through comical stories. She also volunteers at the Katherine Mansfield House & Garden and holds a degree in History, Media Studies, and Philosophy. She is pursuing a Master of Museum and Heritage Practice at Victoria University of Wellington.
+Millie also curates the premium experiences in this year’s festivals and is often the creative-mind behind our social media posts - see her work on our [Facebook ](https://www.facebook.com/WellingtonHeritageWeek)and [Instagram](https://www.instagram.com/wellingtonheritageweek/) pages. Her interest in heritage started early by reading the Horrible Histories book series, which details the gory and odd tales of history through comical stories. She also volunteers at the Katherine Mansfield House & Garden and holds a degree in History, Media Studies, and Philosophy. She is pursuing a Master of Museum and Heritage Practice at Victoria University of Wellington.
 
 **David Batchelor, Director** 
 
