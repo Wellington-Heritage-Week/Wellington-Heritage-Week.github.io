@@ -4,6 +4,7 @@ title: Dinner & Discussion at the Green Parrot
 location: Wellington City
 img: /assets/uploaded/dinner-and-discussion-at-the-green-parrot.png
 event_date: 7pm Wed 27 Oct
+booked_out: true
 host:
   name: Henry Buckenham
   blurb: Festival Coordinator at Wellington Heritage Week, avid food historian and
