@@ -15,7 +15,7 @@ img: /assets/uploaded/kapiti-island-whw21..jpg
 tag:
   - Post
 ---
-#### Monday 25th: 1:30–4pm Upper Hutt's Early Settlers in the Spotlight
+### Monday 25th: 1:30–4pm Upper Hutt's Early Settlers in the Spotlight
 
 *Koha entry. No booking is required.* 
 
