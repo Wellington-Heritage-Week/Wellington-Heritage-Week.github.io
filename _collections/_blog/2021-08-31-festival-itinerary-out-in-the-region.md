@@ -2,7 +2,7 @@
 layout: blog
 title: "Festival Itinerary: Out in the Region"
 intro: >-
-  Grab this *Out in the Region* itinerary for your guide to events beyond
+  Grab this Out in the Region itinerary for your guide to events beyond
   Wellington City for Wellington Heritage Week 2021. It is packed with events
   throughout the week that showcase the flavour of Lower Hutt, Upper Hutt,
   Porirua, and the Kāpiti Coast.  
