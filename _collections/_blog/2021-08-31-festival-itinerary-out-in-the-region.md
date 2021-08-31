@@ -7,6 +7,9 @@ intro: >
 
 
   It is packed with events throughout the week that showcase the flavour of Lower Hutt, Upper Hutt, Porirua, and the Kāpiti Coast.  
+
+
+  Click to read this festival itinerary! 
 author: Millie Burton & Brittany Jacobsen, Premium Experience Team
 img: /assets/uploaded/kapiti-island-whw21..jpg
 tag:
