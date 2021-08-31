@@ -1,20 +1,19 @@
 ---
 layout: blog
 title: "Festival Itinerary: Out in the Region"
-intro: >-
+intro: >
   Grab this Out in the Region itinerary for your guide to events beyond
   Wellington City for Wellington Heritage Week 2021. 
 
 
   It is packed with events throughout the week that showcase the flavour of Lower Hutt, Upper Hutt, Porirua, and the Kāpiti Coast.  
-
-
-  We will be releasing new itineraries in the coming weeks so check back in for new guides!
 author: Millie Burton & Brittany Jacobsen, Premium Experience Team
 img: /assets/uploaded/kapiti-island-whw21..jpg
 tag:
   - Post
 ---
+*We will be releasing new itineraries in the coming weeks so check back in for new guides!*
+
 ### Monday 25th: 1:30–4pm Upper Hutt's Early Settlers in the Spotlight
 
 *Koha entry. No booking is required.* 
