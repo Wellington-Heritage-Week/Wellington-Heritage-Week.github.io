@@ -19,7 +19,7 @@ tag:
 
 *Koha entry. No booking is required.* 
 
-Start Wellington Heritage Week 2021 off by finding out if you’re from the Hutt by stopping in at Golder Cottage. Lynly Yates, a renowned researcher and genealogist will help you investigate whether any of your ancestors were original settlers of Upper Hutt. [See more info.](https://wellingtonheritageweek.co.nz/event/upper-hutts-early-settlers-in-the-spotlight/)
+Start Wellington Heritage Week 2021 off by finding out if you’re from the Hutt by stopping in at Golder Cottage. Lynly Yates, a renowned researcher and genealogist will help you investigate whether any of your ancestors were original settlers of Upper Hutt. This event repeats on Saturday 30 October 1:30–4pm. [See more info.](https://wellingtonheritageweek.co.nz/event/upper-hutts-early-settlers-in-the-spotlight/)
 
 #### Tuesday 26th: 10:30am–3:30pm Wellington Vintage Machinery Tours
 
