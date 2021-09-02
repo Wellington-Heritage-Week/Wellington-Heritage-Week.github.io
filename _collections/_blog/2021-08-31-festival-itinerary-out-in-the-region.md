@@ -35,11 +35,11 @@ On Tuesday, head back out to Upper Hutt and find out if Vintage Machinery is you
 
 Petone is well known for its well-preserved former lockup. This Wednesday you will have the opportunity to experience this lockup first hand and hear stories about the history of policing in Petone. Take some friends with you and see if you can lock them up! *[See more info.](https://wellingtonheritageweek.co.nz/event/the-petone-beat-talk-on-policing-in-petone-since-1840/)*
 
-### Thursday 28th: 6pm Police Heritage Walking Tour
+### Thursday 28th: 6pm New Zealand Police Heritage Walking Tour
 
 *$5 per person entry. Booking is required. Email [museum@police.govt.nz](mailto:museum@police.govt.nz) or call [04 238 3141](tel:042383141) to book.*
 
-Ready to further your knowledge on policing in Wellington? This evening provides you with the opportunity to explore Poirura’s Police Museum and pay your respects at the Royal New Zealand Police College Memorial Wall. This event also runs on Tuesday 26 October at 10am. *[See more info.](https://wellingtonheritageweek.co.nz/event/police-heritage-walking-tour/)*
+Ready to further your knowledge on policing in Wellington? This evening provides you with the opportunity to explore the New Zealand Police Museum and pay your respects at the Royal New Zealand Police College Memorial Wall. This event also runs on Tuesday 26 October at 10am. *[See more info.](https://wellingtonheritageweek.co.nz/event/police-heritage-walking-tour/)*
 
 ### Friday 29th: 8:30am Our Kāpiti Island Heritage- Nature & Culture Guided Tour
 
