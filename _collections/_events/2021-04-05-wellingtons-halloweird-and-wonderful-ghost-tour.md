@@ -4,6 +4,7 @@ title: Wellington's Halloweird and Wonderful Ghost Tour
 location: Wellington City
 img: /assets/uploaded/halloween-ghost-tour-a5-ls.jpg
 event_date: 7:30pm Tues 26 & Wed 27 Oct
+booked_out: true
 host:
   phone: 04-213 4666
   email: wellington@fearfactory.co.nz
