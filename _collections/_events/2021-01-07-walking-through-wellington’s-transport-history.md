@@ -29,9 +29,9 @@ We will discuss how transport infrastructure has moulded the development of the 
 
 <br>
 
-**Booking is required.** 
+**This event is sold out. Click the link below to join the wait list.** 
 
-<a href="https://www.engineeringnz.org/courses-events/event/walking-through-wellingtons-transport-history/" class="button">Book a tour</a>
+<a href="https://www.engineeringnz.org/courses-events/event/walking-through-wellingtons-transport-history/" class="button">Join the wait list</a>
 
 **Location:** Meeting at Wellington Railway Station
 
