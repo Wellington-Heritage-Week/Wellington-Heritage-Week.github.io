@@ -4,6 +4,7 @@ title: Walking through Wellington’s Transport History
 location: Wellington City
 img: /assets/uploaded/walking-through-wellington’s-transport-history.jpg
 event_date: 5:30pm Wed 27 & 3:30pm Sat 30 Oct
+booked_out: true
 host:
   name: Engineering New Zealand in partnership with the Transportation Group
   blurb: Engineering New Zealand is the professional body for engineers. We think
