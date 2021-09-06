@@ -4,6 +4,7 @@ title: "Working Class Early Mt Victoria: A Guided Walk"
 location: Wellington City
 img: /assets/uploaded/working-class-early-mt-victoria-a-guided-walk-whw21.png
 event_date: 2:30pm Sun 31 Oct
+booked_out: true
 host:
   name: Mt Victoria Historical Society
   blurb: Mt Victoria Historical Society was established 25 years ago. Its aims are
@@ -23,7 +24,7 @@ Numbers will be limited to 25.
 
 <br>
 
-**Booking is required. Email [jonewman@xtra.co.nz](mailto:jonewman@xtra.co.nz) to book.** 
+**This event is sold out** 
 
 **Location:** Meet at the end of Moir Street, outside No. 31. It can be reached from Hania Street or Brougham Street.
 
