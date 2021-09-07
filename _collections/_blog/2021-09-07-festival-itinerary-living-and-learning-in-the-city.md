@@ -7,7 +7,7 @@ intro: >-
   on these events throughout the week.
 
 
-  Keep an eye out for the well-timed Halloween Murder & Mayhem on Sunday 31st of October! 
+  Keep an eye out for the well-timed Murder & Mayhem on Halloween Sunday 31st of October! 
 
 
   Some events require booking so check each event listing and get in early!
