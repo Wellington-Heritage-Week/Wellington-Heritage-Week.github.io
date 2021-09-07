@@ -8,6 +8,9 @@ intro: >-
 
 
   Keep an eye out for the well-timed Halloween Murder & Mayhem on Sunday 31st of October! 
+
+
+  Some events require booking so check each event listing and get in early!
 author: Millie Burton & Brittany Jacobsen, Premium Experience Team
 img: /assets/uploaded/newtown-adventure-playground-1974-whw21.jpg
 tag:
