@@ -32,7 +32,7 @@ User research explored ways to make experiences of Futuna's digital twin engagin
 
 #### PRESENTERS:
 
-* Professor Marc Aurel Schnabel - Dean of Architecture and Design Innovation at VUW
+* Professor Marc Aurel Schnabel - Dean of the Wellington Faculty of Architecture and Design Innovation
 * Michael Weir - MArch(Prof) student at VUW
 * Katie Scheid - User Experience designer researching the potentials for extended reality applications Masters Student- VUW
 
