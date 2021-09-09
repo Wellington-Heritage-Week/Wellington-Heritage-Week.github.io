@@ -16,9 +16,19 @@ tag:
 ---
 **Futuna Chapel, one of the jewels of Wellington's built heritage, will be opened to the public over the Wellington Heritage weekend.** 
 
-This building is widely regarded as the masterwork of its architect, the late John Scott of Haumoana and is a synthesis of Māori, European and, NZ Pākehā building traditions. This synthesis is greatly enhanced with the embedded work of eminent NZ sculptor Jim Allen. 
+Futuna Chapel, one of the jewels of Wellington's built heritage, will be open to the public over the Wellington Heritage weekend.  This building is widely regarded as the masterwork of its architect, the late John Scott of Haumoana and is a synthesis of Maori, European and NZ Pakeha building traditions.  This synthesis is greatly enhanced with the embedded work of eminent NZ sculptor Jim Allen. 
 
-The restoration of his Stations of the Cross frieze after 63 years (completion due by 8th October by Studio Izzo), will be 'unveiled' to the public for the first time. The Chapel is open to be explored and trustees will be on hand to welcome visitors, answer questions, and help reveal the Chapel's secrets and stories.
+The Chapel, one of New Zealand’s architectural icons, is open to be explored.  Trustees will be on hand to welcome visitors,  answer questions and help reveal the Chapel's secrets and stories.
+
+#### VIRTUAL FUTUNA – FREE PUBLIC TALK
+
+During the Saturday Chapel’s Open Day on Saturday 30th October there will be an illustrated presentation by Victoria University. This event will examine the photogrammetry documentation of heritage buildings and its potential application in research studies and public dissemination. 
+
+The interior of the Futuna Chapel, was documented using photogrammetry - a process to digitally stitch together 2D images to generate a 3D virtual reality model. 
+
+A widely accessible and replicable process for documenting heritage buildings was developed, using only consumer devices such as smartphones and mobile applications. 
+
+User research explored ways to make experiences of Futuna's digital twin engaging and valuable. This work revealed that site-specific human stories can build connections between visitors and their virtual experiences of a heritage building. The resulting prototype VR model reveals the exciting potential for the development of a virtual visitor experience of the chapel as well as provide a template for other virtual visitor experiences of heritage buildings and sites both in NZ and globally.
 
 *The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
 
