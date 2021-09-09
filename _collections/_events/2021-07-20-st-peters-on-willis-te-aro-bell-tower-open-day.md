@@ -1,6 +1,6 @@
 ---
 layout: post
-title: St Peters Church Te Aro Bell Tower Open Day
+title: St Peter's Church Te Aro Bell Tower Open Day
 location: Wellington City
 img: /assets/uploaded/te-aro-bell-tower-whw21.jpg
 event_date: 10am–2pm Sat 30 Oct
@@ -17,7 +17,7 @@ host:
 tag:
   - Open Day
 ---
-**Te Aro Tower, the official name of the bell tower at St Peters on Willis, will have an open ringing day.** 
+**Te Aro Tower, the official name of the bell tower at St Peter's on Willis, will have an open ringing day.** 
 
 The tower has the oldest Ellacombe frame in New Zealand and one of the few complete sets of Warner Bells. Come along, spend some time in one of the oldest church buildings in Wellington, have a go at ringing the bells.
 
