@@ -30,6 +30,12 @@ A widely accessible and replicable process for documenting heritage buildings wa
 
 User research explored ways to make experiences of Futuna's digital twin engaging and valuable. This work revealed that site-specific human stories can build connections between visitors and their virtual experiences of a heritage building. The resulting prototype VR model reveals the exciting potential for the development of a virtual visitor experience of the chapel as well as provide a template for other virtual visitor experiences of heritage buildings and sites both in NZ and globally.
 
+#### PRESENTERS:
+
+* Professor Marc Aurel Schnabel - Dean of Architecture and Design Innovation at VUW
+* Michael Weir - MArch(Prof) student at VUW
+* Katie Scheid - User Experience designer researching the potentials for extended reality applications Masters Student- VUW
+
 *The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
 
 ![](/assets/uploaded/mcguinness-logo.jpg)
