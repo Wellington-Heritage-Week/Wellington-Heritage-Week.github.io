@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Competition: Build Wellington's heritage... in Lego! "
+title: "Competition: Build Wellington's Heritage... in Lego! "
 location: Wellington City
 img: /assets/uploaded/lego-competition-whw21.jpg
 event_date: Online
