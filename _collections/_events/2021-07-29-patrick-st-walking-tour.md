@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patrick St Walking Tour
+title: Patrick Street Walking Tour
 location: Lower Hutt
 img: /assets/uploaded/patrick-st-walking-tour.jpg
 event_date: 10am Fri 29 & Sat 30 Oct
