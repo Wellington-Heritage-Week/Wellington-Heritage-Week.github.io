@@ -22,11 +22,7 @@ Taranaki and Wellington are both forging ahead with their plans for heritage fes
 
 It's a first for Heritage Taranaki, in collaboration with iwi and hapū, museums, historical societies and similar community groups. Its monthlong programme of activities...
 
-
-
-Click here to read the full article 
-
-
+<a href="https://historicplaceswellington.files.wordpress.com/2021/09/hpa-oculus-sept-2021.pdf" class="button">Click here to read the full article</a>
 
 *Read more about Historic Places Aotearoa by visiting <https://historicplacesaotearoa.org.nz/>*
 
