@@ -12,7 +12,7 @@ intro: >+
   The newsletter also features updates on Historic Places Aotearoa's work around the country advocating for heritage.
 
 
-  Historic Places Aotearoa (HPA) aims to be the lead non-statutory, independent national voice for heritage. It consists of various member organisations across the country. 
+  Historic Places Aotearoa (HPA) aims to be the lead non-statutory, independent national voice for heritage. It consists of various member organisations across the country - Historic Places Wellington is the organisation for the Wellington region. 
 
 author: Historic Places Aotearoa
 img: /assets/uploaded/tours-of-karori-cemetery-are-popular-during-wellington-heritage-week.-image-by-stefanie-mckenna..jpg
