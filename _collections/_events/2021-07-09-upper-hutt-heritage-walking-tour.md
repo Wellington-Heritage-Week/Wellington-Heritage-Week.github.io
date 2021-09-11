@@ -15,7 +15,7 @@ host:
     events, workshops for children, artist talks, education classes for schools,
     and community activities which vary throughout year. "
   phone: 04 5272168
-  name: info@whirinakiarts.org.nz
+  name: Whirinaki Whare Taonga
   email: info@whirinakiarts.org.nz
 tag:
   - Tour
