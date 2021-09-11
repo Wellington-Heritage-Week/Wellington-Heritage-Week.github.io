@@ -48,7 +48,7 @@ Add more to your knowledge about Wellington today, and join a presentation on th
 
 Look no further if you want to learn more about one of the most dynamic suburbs in Wellington. Today, come explore pictures of Newtown’s Adventure Playground that left a lasting impression on those who grew up in Newtown in the 70s. [See more info.](https://wellingtonheritageweek.co.nz/event/memories-of-newtowns-adventure-playground-1974/)
 
-### Saturday 30th 1pm: 30th Historic LGBTI Rainbow Inner City Tours
+### Saturday 30th 1pm: Historic LGBTI Rainbow Inner City Tours
 
 *Free entry. Booking required. [Click here to book.](https://www.taonga.nz/walktours/)*
 
