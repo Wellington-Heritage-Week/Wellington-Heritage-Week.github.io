@@ -12,7 +12,7 @@ host:
   name: Jackson Street Programme Inc.
   email: info@jacksonstreet.co.nz
   phone: 04 939 2811
-  website: www.jacksonstreet.co.nz
+  website: https://jacksonstreet.co.nz/
 tag:
   - Exhibition/Museum
 ---
