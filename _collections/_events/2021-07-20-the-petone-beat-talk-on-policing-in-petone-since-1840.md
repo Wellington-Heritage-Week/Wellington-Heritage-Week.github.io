@@ -12,7 +12,7 @@ host:
     preserve, and enhance Jackson Street as a successful heritage, retail, and
     commercial area.
   name: Jackson Street Programme Inc.
-  website: www.jacksonstreet.co.nz
+  website: https://jacksonstreet.co.nz/
 tag:
   - Talk
 ---
