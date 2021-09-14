@@ -18,7 +18,7 @@ It began quite ordinary on the 25th of January with the Nelson Evening Mail publ
 
 <img src="/assets/uploaded/LH1.png" style="width: 100%;">
 
-However, a Pahiatua Herald columnist quickly found inspiration in ‘Lower Hutt Constituted a City’ on the 27th of January 1941. They said the “city status has been brought about by remarkable industrial and residential development”. This glimmer of nous heralded soon to be published columns in other newspapers around the country.
+However, a Pahiatua Herald columnist quickly found inspiration in ‘Lower Hutt Constituted a City’ on the 27th of January 1941. They said the “city status has been brought about by remarkable industrial and residential development”. This glimmer of nous heralded similar imagination by other journalists around the country.
 
 <img src="/assets/uploaded/LH2.png" style="width: 100%;">
 
