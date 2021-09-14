@@ -26,7 +26,7 @@ However, a Pahiatua Herald columnist quickly found inspiration in ‘Lower Hutt 
 
 <img src="/assets/uploaded/LH2.png" style="width: 100%;">
 
-On the first day as a city, the Evening Post began these literacy jubilations in earnest. Its columnist stated that “Lower Hutt is now in a good position to run a fast race in the second century of New Zealand’s progress”. They even compared Lower Hutt “with an athlete who, having completed the last lap at a rapidly accelerating pace, has gathered himself together for an even greater effort”. However, the author held back from overshadowing Wellington City. They titled the column ‘Two Cities, But One Community’ and mentioned that Lower Hutt is “likely to remain, a component of the collective metropolitan life represented by Wellington and its environs”.
+On the first day as a city, the 1st of Februrary, the Evening Post began these literacy jubilations in earnest. Its columnist stated that “Lower Hutt is now in a good position to run a fast race in the second century of New Zealand’s progress”. They even compared Lower Hutt “with an athlete who, having completed the last lap at a rapidly accelerating pace, has gathered himself together for an even greater effort”. However, the author held back from overshadowing Wellington City. They titled the column ‘Two Cities, But One Community’ and mentioned that Lower Hutt is “likely to remain, a component of the collective metropolitan life represented by Wellington and its environs”.
 
 *3. Two Cities, But One Community Evening Post, Volume Cxxxi, Issue 27, 1 February 1941, Page 10.* 
 
