@@ -7,23 +7,40 @@ intro: "The proclamation of Lower Hutt’s city status on the 1st of February 19
   stereotypical grand fashion of the time. We have dug through Papers Past to
   trace the announcements as the news spread across the country and uncover some
   inspired descriptions about the city’s milestone. "
+author: David Batchelor, Director
 img: /assets/uploaded/evening-post-4-feb.png
 tag:
   - Post
 ---
 It began quite ordinary with the Nelson Evening Mail publishing a column titled ‘Proclamation Signed Lower Hutt City: Official Status from Next Saturday’. It stated that “The Governor-General, Lord Galway, has signed the proclamation declaring the Borough of Lower Hutt a city from Saturday next, February 1”.
 
+<img src="/assets/uploaded/LH1" style="width: 100%;">
+
 However, a Pahiatua Herald columnist quickly found inspiration in ‘Lower Hutt Constituted a City’ on the 27th of January 1941. They said the “city status has been brought about by remarkable industrial and residential development”. This glimmer of nous heralded soon to be published columns in other newspapers around the country.
 
-On the first day as a city, the Evening Post started the literacy jubilations. Its columnist stated that “Lower Hutt is now in a good position to run a fast race in the second century of New Zealand’s progress”. They even compared Lower Hutt “with an athlete who, having completed the last lap at a rapidly accelerating pace, has gathered himself together for an even greater effort”. However, the author held back from over shadowing Wellington City. They titled the column ‘Two Cities, But One Community’ and mentioned that Lower Hutt is “likely to remain, a component of the collective metropolitan life represented by Wellington and its environs”.
+<img src="/assets/uploaded/LH2" style="width: 100%;">
 
-The Ashburton Guardian recorded on that same day that the Prime Minister, the Rt. Hon. P. Fraser, messaged the city’s Mayor, Mr Andrews. The Mayor was presented with a new mayoral chain and officially opened Jubilee Park, including a presentation its “beautiful fernery”. A luncheon for early residents was then held followed by a procession and a pageant. The Northern Advocate republished the article and mentioned the famed luncheon and fernery to its Northland’s readers on the 4th of February, but they were not told about the procession and pageant. 
+On the first day as a city, the Evening Post started the literacy jubilations. Its columnist stated that “Lower Hutt is now in a good position to run a fast race in the second century of New Zealand’s progress”. They even compared Lower Hutt “with an athlete who, having completed the last lap at a rapidly accelerating pace, has gathered himself together for an even greater effort”. However, the author held back from overshadowing Wellington City. They titled the column ‘Two Cities, But One Community’ and mentioned that Lower Hutt is “likely to remain, a component of the collective metropolitan life represented by Wellington and its environs”.
 
-On the 3rd of February, the Manawatu Standard joined the merriments with an article titled ‘City Status: Lower Hutt Celebrates’. It highlighted the city’s achievements in town planning and governance, “the council has been pursuing a clear-cut and far-sighted town planning policy for many years”. It is hard to say whether local government in New Zealand has reached such dizzying heights since.
+<img src="/assets/uploaded/LH3" style="width: 100%;">
+
+The Ashburton Guardian recorded on that same day that the Prime Minister, the Rt. Hon. P. Fraser, messaged the city’s Mayor, Mr Andrews. The Mayor was presented with a new mayoral chain and officially opened Jubilee Park, including a presentation of its “beautiful fernery”. A luncheon for early residents was then held followed by a procession and a pageant. The Northern Advocate republished the article and mentioned the famed luncheon and fernery to its Northland’s readers on the 4th of February, but they were not told about the procession and pageant. 
+
+<img src="/assets/uploaded/LH4" style="width: 100%;">
+
+<img src="/assets/uploaded/LH5" style="width: 100%;">
+
+On the 3rd of February, the Manawatu Standard joined the merriments with an article titled ‘City Status: Lower Hutt Celebrates’. It highlighted the city’s achievements in town planning and governance, “the council has been pursuing a clear-cut and far-sighted town planning policy for many years”. It is hard to say whether that local government in New Zealand has reached such dizzying heights since.
+
+<img src="/assets/uploaded/LH6" style="width: 100%;">
 
 The Leader of the Opposition, Mr S. G. Holland, found their spotlight in Evening Post’s short column printed on the 4th of February. It stated that Mr Holland telegraphed the Mayor, “Please accept my warmest congratulations on the achievement of a great occasion, and my best wishes for continued expansion. Lower Hutt is indeed an inspiration to the rest of New Zealand”. 
 
+<img src="/assets/uploaded/LH7" style="width: 100%;">
+
 Lower Hutt’s city status continued to make the newspapers on the 4th of March, with the Auckland Star publishing praise for the central government’s recent ‘reconstruction’ of local authorities from the Minister of Internal Affairs, Hon. W. E. Parry. The column reported that Hon. Parry “looked forward to the day when the city would not be the present limits of Lower Hutt, but would be a large area embracing the Hutt Valley”. Interestingly, the Minister also stated that this expansion “would no doubt come about in its own way and in its own time and would also without doubt create its own problems for the administration of that period”. This praise was given at the 1941 New Zealand Municipal Conference and its delegates agreed that “the Hutt Valley was a single economic unit quite apart from the local body boundaries then in existence”.
+
+<img src="/assets/uploaded/LH8" style="width: 100%;">
 
 Lower Hutt City is now one of four cities in the Wellington region. Alongside Wellington achieving city status in 1840, Porirua achieved city status on the 2nd of October 1965 and Upper Hutt achieved it on the 28th of May 1966. Lower Hutt City is the sixth most populated urban area in the country.
 
