@@ -4,8 +4,8 @@ title: "'Lower Hutt Becomes a City' Writes New Zealand"
 intro: >-
   The proclamation of Lower Hutt’s city status on the 1st of February 1941 was
   reported with jubilation in newspapers across the country. Eloquent phrasings
-  in these newspapers captured the city’s coming of age in the stereotypical
-  grand fashion of the time. 
+  in newspapers captured the city’s coming of age in the stereotypical grand
+  fashion of the time. 
 
 
   We dug through Papers Past to trace how the news spread across the country and uncovered some inspired descriptions about the city’s milestone. 
