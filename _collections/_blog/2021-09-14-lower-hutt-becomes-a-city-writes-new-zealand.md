@@ -9,7 +9,7 @@ intro: >-
 
 
   We have dug through Papers Past to trace how the news spread across the country and uncover some inspired descriptions about the city’s milestone. 
-author: David Batchelor, Director
+author: David Batchelor - Director, Wellington Heritage Week
 img: /assets/uploaded/lhtitle.png
 tag:
   - Post
