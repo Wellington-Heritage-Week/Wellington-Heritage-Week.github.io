@@ -27,4 +27,19 @@ Lower Hutt’s city status continued to make the newspapers on the 4th of March,
 
 Lower Hutt City is now one of four cities in the Wellington region. Alongside Wellington achieving city status in 1840, Porirua achieved city status on the 2nd of October 1965 and Upper Hutt achieved it on the 28th of May 1966. Lower Hutt City is the sixth most populated urban area in the country.
 
-<!--EndFragment-->
+#### References
+
+1. PROCLAMATION SIGNED NELSON EVENING MAIL, VOLUME LXXIII, 25 JANUARY 1941, PAGE 5
+
+2. LOWER HUTT CONSTITUTED A CITY PAHIATUA HERALD, VOLUME XLX, ISSUE 14648, 27 JANUARY 1941, PAGE 7 
+
+3. TWO CITIES, BUT ONE COMMUNITY EVENING POST, VOLUME CXXXI, ISSUE 27, 1 FEBRUARY 1941, PAGE 10 
+
+4. STATUS OF CITY. ASHBURTON GUARDIAN, VOLUME 61, ISSUE 95, 1 FEBRUARY 1941, PAGE 
+5. Lower Hutt Celebrates City Stalls NORTHERN ADVOCATE, 4 FEBRUARY 1941, PAGE 7 
+
+6. CITY STATUS. MANAWATU STANDARD, VOLUME LXI, ISSUE 55, 3 FEBRUARY 1941, PAGE 9 
+
+7. LOWER HUTT EVENING POST, VOLUME CXXXI, ISSUE 29, 4 FEBRUARY 1941, PAGE 5 
+
+8. PLANNING AHEAD. AUCKLAND STAR, VOLUME LXXII, ISSUE 53, 4 MARCH 1941, PAGE 8
