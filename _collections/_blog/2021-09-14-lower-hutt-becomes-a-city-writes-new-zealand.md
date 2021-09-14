@@ -26,7 +26,7 @@ On the first day as a city, the Evening Post started the literacy jubilations. I
 
 <img src="/assets/uploaded/LH3.png" style="width: 100%;">
 
-The Ashburton Guardian recorded on that same day that the Prime Minister, the Rt. Hon. P. Fraser, messaged the city’s Mayor, Mr Andrews. The Mayor was presented with a new mayoral chain and officially opened Jubilee Park, including a presentation of its “beautiful fernery”. A luncheon for early residents was then held followed by a procession and a pageant. The Northern Advocate republished the article and mentioned the famed luncheon and fernery to its Northland’s readers on the 4th of February, but they were not told about the procession and pageant. 
+The Ashburton Guardian recorded on that same day that the Prime Minister, the Rt. Hon. P. Fraser, messaged the city’s Mayor, Mr Andrews. To mark the occasion, the Mayor was presented with a new mayoral chain and officially opened Jubilee Park, including a presentation of its “beautiful fernery”. A luncheon for early residents was then held followed by a procession and a pageant. The Northern Advocate republished the article and mentioned the famed luncheon and fernery to its Northland’s readers on the 4th of February, but they were not told about the procession and pageant. 
 
 <img src="/assets/uploaded/LH4.png" style="width: 100%;">
 
