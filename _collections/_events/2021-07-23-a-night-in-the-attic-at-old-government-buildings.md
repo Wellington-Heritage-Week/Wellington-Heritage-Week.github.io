@@ -4,7 +4,7 @@ title: A night in the attic at Old Government Buildings
 location: Wellington City
 img: /assets/uploaded/ogb-heritage-week-photo-whw21.png
 event_date: 5pm & 7pm Mon 25 Oct
-booked_out: false
+booked_out: true
 host:
   name: Heritage New Zealand Pouhere Taonga
   blurb: "Heritage New Zealand Pouhere Taonga is New Zealand’s leading heritage
