@@ -27,7 +27,7 @@ We'll visit the site of Carmen's curio shop, stop by the infamous Club Exotic, t
 
 <br>
 
-### **Violet Route (Parliament) - 1pm Sunday 31 Oct**
+### **Violet Route (Parliament) - 1pm Sunday 31 Oct *SOLD OUT***
 
 Learn about homosexual law reform, the beginnings of rainbow radio broadcasting, local LGBTI rainbow personalities, supportive (and not so supportive) churches, a WW1 same-sex love story and imprisonment on Matiu Somes Island.
 
