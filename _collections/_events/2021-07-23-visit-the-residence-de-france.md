@@ -4,6 +4,7 @@ title: Visit the Résidence de France
 location: Wellington City
 img: /assets/uploaded/france-whw21.png
 event_date: 9:30am–3pm Fri 29 Oct
+booked_out: true
 host:
   blurb: The French Embassy in New Zealand represents France in NZ, Samoa, and the
     Cook Islands.
