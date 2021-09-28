@@ -26,7 +26,9 @@ The discussion will be on the growth pressures facing our city and how we manage
 * James Solari - Solari Architects & Urban Development Institute (UDINZ); and 
 * Stuart Niven - Stuart Niven Urban Design.
 
-Following the panel discussion, canapes and refreshments will be served in the City Gallery's foyer and Hancock Gallery. 
+Doors open at 5:45pm and the panel events is 6pm–7:15pm. 
+
+Following the panel discussion, canapes and refreshments will be served in the City Gallery's foyer and Hancock Gallery. Event ends at 8:15pm.  
 
 This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the Wellington City Council's Mayor's Office.
 
