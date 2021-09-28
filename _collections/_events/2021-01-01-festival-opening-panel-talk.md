@@ -18,11 +18,19 @@ At 6pm, a panel discussion will occur in the Adam Auditorium. The panel members 
 
 The discussion will be on the growth pressures facing our city and how we manage heritage. 
 
+**Panel Members are:**
+
+* Marko Garlick - Generation Zero; 
+* Cr Tamatha Paul - Wellington City Council; 
+* Jane O'Loughlin - Live Wellington; 
+* James Solari - Solari Architects & Urban Development Institute (UDINZ); and 
+* Stuart Niven - Stuart Niven Urban Design.
+
 Following the panel discussion, canapes and refreshments will be served in the City Gallery's foyer and Hancock Gallery. 
 
 This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the Wellington City Council's Mayor's Office.
 
-**No booking is required.** 
+**Booking is required. Email info@wellingtonheritageweek.co.nz to book** 
 
 **Location**: City Gallery, Te Ngākau Civic Square, Wellington
 
