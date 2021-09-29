@@ -36,6 +36,6 @@ This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the We
 
 **Location**: City Gallery, Te Ngākau Civic Square, Wellington
 
-**Duration:** 5:45pm–8pm
+**Duration:** 5:45pm–8:15pm
 
 **Cost:** Free
