@@ -4,6 +4,7 @@ title: "Historic LGBTI Rainbow Inner City Tours "
 location: Wellington City
 img: /assets/uploaded/historic-lgbti-rainbow-inner-city-walk-tour-around-te-aro-area-resonance-route-.jpg
 event_date: 1pm Sat 30 & Sun 31 Oct
+booked_out: true
 host:
   blurb: Walk Tours NZ is a volunteer group that offers free, accessible,
     inclusive and community-focused walking tours around Wellington highlighting
@@ -17,7 +18,7 @@ tag:
 ---
 **Join Walk Tours NZ on two historic walking tours that explore the formative years of the LGBTI Rainbow community in Wellington.** 
 
-### **Resonance Route (Te Aro) - 1pm Saturday 30 Oct**
+### **Resonance Route (Te Aro) - 1pm Saturday 30 Oct *SOLD OUT***
 
 This tour gives you an opportunity to be transported back to earlier days to discover stories of rainbow courage and resilience while standing in the locations where it all happened. 
 
