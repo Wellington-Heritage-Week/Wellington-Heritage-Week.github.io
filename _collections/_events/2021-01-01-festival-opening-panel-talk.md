@@ -34,7 +34,8 @@ This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the We
 
 **RSVP is required.** 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfdwS9E0BUvcFfxpstROISIDQygX6J7XnziKYdD95BSv94D1A/viewform" class="button">RSVP for the event</a>
+<a href="https://forms.gle/jij1iGWU7bADxiBs9" class="button">RSVP for the event</a>
+
 
 **Location**: City Gallery, Te Ngākau Civic Square, Wellington
 
