@@ -32,7 +32,9 @@ Following the panel discussion, canapes and refreshments will be served in the C
 
 This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the Wellington City Council's Mayor's Office.
 
-**Booking is required. Email info@wellingtonheritageweek.co.nz to book** 
+**RSVP is required.** 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfdwS9E0BUvcFfxpstROISIDQygX6J7XnziKYdD95BSv94D1A/viewform" class="button">RSVP for the event</a>
 
 **Location**: City Gallery, Te Ngākau Civic Square, Wellington
 
