@@ -4,6 +4,7 @@ title: Public Art Talk - Gordon Crook Banners
 location: Wellington City
 img: /assets/uploaded/public-art-talk-gordon-crook-banners-whw21.jpg
 event_date: 2pm–3pm Sat 30 Oct
+booked_out: true
 host:
   name: Wellington City Council
   blurb: The City Art Collection is managed by the City Arts and Events Team at
