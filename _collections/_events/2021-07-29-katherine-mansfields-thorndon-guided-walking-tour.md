@@ -27,6 +27,8 @@ Kathleen Mansfield Murry (née Beauchamp; 14 October 1888 – 9 January 1923) wa
 
 **Booking is required.** 
 
+*The Tuesday 26 Oct tour is sold out. Tickets remain for the Saturday 30 Oct tour.*
+
 <a href="https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2021" class="button">Book a tour</a>
 
 **Location:** Katherine Mansfield House & Garden, 25 Tinakori Road, Thorndon, Wellington
