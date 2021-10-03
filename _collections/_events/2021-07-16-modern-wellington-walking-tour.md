@@ -4,6 +4,7 @@ title: Modern Wellington Walking Tour
 location: Wellington City
 img: /assets/uploaded/mod-wgtn-tour-whw21.jpg
 event_date: 1pm Sun 31 Oct
+booked_out: true
 host:
   name: Heritage New Zealand Pouhere Taonga
   blurb: "Heritage New Zealand Pouhere Taonga is New Zealand’s leading heritage
