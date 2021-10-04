@@ -7,7 +7,7 @@ intro: >
 
   Wellington Heritage Week celebrates its fifth year during 25–31 October with over 60 events across the Wellington region’s five districts.
 author: "David Batchelor - Director, Wellington Heritage Week "
-img: /assets/uploaded/text-logo.png
+img: /assets/uploaded/whw-text.jpg
 tag:
   - Post
 ---
