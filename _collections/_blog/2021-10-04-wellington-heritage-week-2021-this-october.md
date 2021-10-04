@@ -21,14 +21,12 @@ On the weekend there are plenty more events that explore modern architecture, en
 
 Festival Coordinator Alex Hockley says “our team are incredibly proud and excited about this year's festival. We have a range of new events with unique experiences from many perspectives. It is a great way to showcase the culture and heritage of Pōneke, and we cannot wait to share it with all of you!”.
 
-Visit[www.wellingtonheritageweek.co.nz](http://www.wellingtonheritageweek.co.nz)to see the full programme. Check the event listings for booking information.
+Visit [www.wellingtonheritageweek.co.nz](http://www.wellingtonheritageweek.co.nz) to see the full programme. Check the event listings for booking information.
 
-**Need a Festival Itinerary?**Follow our itineraries ‘Living and Learning in the City’, ‘Out in the Region’, ‘Fun With The Whānau’ and more on our[Heritage Blog](https://wellingtonheritageweek.co.nz/blog).
+**Need a Festival Itinerary?** Follow our itineraries ‘Living and Learning in the City’, ‘Out in the Region’, ‘Fun With The Whānau’ and more on our [Heritage Blog](https://wellingtonheritageweek.co.nz/blog).
 
-The festival will continue at Alert Level 2 as many events are under 100 persons capacity. Event Hosts will require scanning into event locations and provide social distancing guidance. If the Alert Levels increase, we will update our festival’s website and social media and the Event Hosts will be in touch regarding prior bookings.
+The festival will continue at Alert Level 2 as many events are under 100 person capacity. Event Hosts will require scanning into event locations and provide social distancing guidance. If the Alert Levels increase, we will update our festival’s website and social media and the Event Hosts will be in touch regarding prior bookings.
 
 Wellington Heritage Week 2021 is sponsored by Wellington City Council, Hutt City Council, Heritage New Zealand, the Department of Conservation, and Aro Digital.
-
-
 
 **Wellington Heritage Week Trust**
