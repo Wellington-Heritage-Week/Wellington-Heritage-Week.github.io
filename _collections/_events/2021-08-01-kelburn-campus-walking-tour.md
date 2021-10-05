@@ -2,7 +2,7 @@
 layout: post
 title: Kelburn Campus Walking Tour
 location: Wellington City
-img: /assets/uploaded/vuw-whw21.jpg
+img: /assets/uploaded/whw21-kelburn.jpg
 event_date: 2pm Sun 31 Oct
 host:
   name: Robin Skinner
