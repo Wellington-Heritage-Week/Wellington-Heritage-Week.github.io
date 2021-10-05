@@ -27,6 +27,10 @@ Maximum of 12 persons per tour.
 
 **Booking is required. Email [hello@publictrusthall.co.nz](mailto:hello@publictrusthall.co.nz) to book.** 
 
+***A 2pm Tues 26 Oct tour is added! 11am, 12pm & 1pm tours are sold out!*** 
+
+<br>
+
 **Location:** 131 - 135 Lambton Quay, Wellington CBD
 
 **Duration**: Approximately 45 minutes
