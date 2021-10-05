@@ -27,7 +27,7 @@ Maximum of 12 persons per tour.
 
 **Booking is required. Email [hello@publictrusthall.co.nz](mailto:hello@publictrusthall.co.nz) to book.** 
 
-***A 2pm tour is added! 11am, 12pm & 1pm tours are sold out!*** 
+***A 2pm Tues 26 Oct tour is added! 11am, 12pm & 1pm tours are sold out!*** 
 
 <br>
 
