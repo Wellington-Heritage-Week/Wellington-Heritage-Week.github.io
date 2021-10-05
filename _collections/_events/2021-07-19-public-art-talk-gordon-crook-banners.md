@@ -21,6 +21,8 @@ In the decades that followed, his art – textiles, prints, paintings, and colla
 
 Wheelchair accessible. Tea and coffee are provided.
 
+***A 3pm session is added! The 2pm session is sold out!***
+
 <br>
 
 **Booking is required.**
