@@ -27,7 +27,7 @@ The exhibition will also be open from 10am-4pm on Saturday 30 to view the photog
 
 <br>
 
-**No booking is required.** 
+**Due to Alert Level 3, booking is required. Email [info@newtowncommunity.org.nz](mailto:info@newtowncommunity.org.nz) or call 04 389 4786 to book**
 
 **Location:** Newtown Hall, 71 Daniell Street, Newtown, Wellington 6021
 
