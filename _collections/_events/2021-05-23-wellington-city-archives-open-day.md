@@ -26,6 +26,10 @@ If you have a large group that would like to attend a tour, you may need to make
 
 **Booking is required. Email your name and preferred tour time to [archives@wcc.govt.nz](mailto:archives@wcc.govt.nz).** 
 
+***The 10am and 11am tours are sold out! Spaces remain on the 1pm and 2pm tours!*** 
+
+<br>
+
 **Location:** 28 Barker Street (off Cambridge Terrace)
 
 **Duration:** Around an hour, including the talk at the start
