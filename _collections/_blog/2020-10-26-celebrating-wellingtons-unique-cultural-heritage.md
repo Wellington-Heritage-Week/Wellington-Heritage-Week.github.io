@@ -7,7 +7,7 @@ intro: >-
 
 
   The world’s heavyweight boxing champion lifts 2-year-old Jason Tarawhiti to his cheek for a hug and a photograph is taken. Television crews are everywhere. Having won the title five months prior, Ali was in the city simply because Heretaunga-based coach Alan Scaife had invited him.
-author: Dominion Post
+author: The Dominion Post
 img: /assets/uploaded/muhammad-ali-wellington-heritage-week-2020.jpg
 tag:
   - Post
