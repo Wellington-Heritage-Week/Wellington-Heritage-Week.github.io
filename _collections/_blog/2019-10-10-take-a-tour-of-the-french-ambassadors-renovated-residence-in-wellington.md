@@ -7,7 +7,7 @@ intro: >-
 
 
   The 119-year-old villa, in the coveted Wellington suburb, has been French ambassadors' deuxieme chez-soi, their home from home, since 1999, but it had been just been refurbished by her predecessor in a blend of contemporary French style and vintage colonial detailing. 
-author: Dominion Post
+author: The Dominion Post
 img: /assets/uploaded/french-residence-wellington-heritage-week.jpg
 tag:
   - Post
