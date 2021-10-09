@@ -4,6 +4,7 @@ title: "Competition: Build Wellington's Heritage... in Lego! "
 location: Wellington City
 img: /assets/uploaded/lego-competition-whw21.jpg
 event_date: Online
+booked_out: true
 host:
   blurb: The Department of Conservation Te Papa Atawhai is the government agency
     charged with conserving New Zealand’s natural and historic heritage.
