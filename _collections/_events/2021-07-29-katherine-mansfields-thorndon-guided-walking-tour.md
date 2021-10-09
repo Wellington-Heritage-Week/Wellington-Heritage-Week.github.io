@@ -4,6 +4,7 @@ title: "Katherine Mansfield's Thorndon: Guided Walking Tour"
 location: Wellington City
 img: /assets/uploaded/katherine-mansfield-s-thorndon-guided-walking-tour.jpg
 event_date: 10am Tues 26 & Sat 30 Oct
+booked_out: true
 host:
   email: info@katherinemansfield.com
   phone: (04) 473 7268
@@ -26,8 +27,6 @@ Kathleen Mansfield Murry (née Beauchamp; 14 October 1888 – 9 January 1923) wa
 <br>
 
 **Booking is required.** 
-
-*The Tuesday 26 Oct tour is sold out. Tickets remain for the Saturday 30 Oct tour.*
 
 <a href="https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2021" class="button">Book a tour</a>
 
