@@ -2,7 +2,7 @@
 layout: blog
 title: Wellington Heritage Week 2021 this October
 intro: >
-  PRESS RELEASE -
+  PRESS RELEASE:
 
 
   Wellington Heritage Week celebrates its fifth year during 25–31 October with over 60 events across the Wellington region’s five districts.
