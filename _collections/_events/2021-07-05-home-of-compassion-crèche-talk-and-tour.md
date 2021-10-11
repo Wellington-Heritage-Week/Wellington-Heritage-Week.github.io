@@ -4,6 +4,7 @@ title: Home of Compassion Crèche Talk and Tour
 location: Wellington City
 img: /assets/uploaded/20211030-home-of-compassion-creche-talk-and-tour-image.jpg
 event_date: 11:30am & 1:30pm Sat 30 Oct
+booked_out: true
 host:
   name: The Sisters of Compassion Ngā Whaea O Pūaroha & Manatū Taonga / Ministry
     of Culture and Heritage
