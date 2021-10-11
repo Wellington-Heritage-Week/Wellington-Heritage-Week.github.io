@@ -4,6 +4,7 @@ title: "Randell Cottage Open Day: Visit Thorndon's Historic Cottages"
 location: Wellington City
 img: /assets/uploaded/randell-cottage-open-day.jpg
 event_date: 1pm–4pm Sun 31 Oct
+book_promotion: true
 host:
   email: info@www.randellcottage.co.nz
   phone: 021 1554498
