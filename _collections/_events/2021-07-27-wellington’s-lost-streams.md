@@ -4,6 +4,7 @@ title: Wellington’s Lost Streams
 location: Wellington City
 img: /assets/uploaded/lost-streams-tour-image.jpg
 event_date: 1pm Sat 30 Oct
+booked_out: true
 host:
   name: Heritage New Zealand Pouhere Taonga
   blurb: Heritage New Zealand Pouhere Taonga is New Zealand’s leading heritage
