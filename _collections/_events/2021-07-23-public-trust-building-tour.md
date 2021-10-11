@@ -4,6 +4,7 @@ title: Public Trust Building Tour
 location: Wellington City
 img: /assets/uploaded/public-trust-building-tour-whw21.jpg
 event_date: 11am, 12pm & 1pm Tues 26 Oct
+booked_out: true
 host:
   blurb: Kristelle Plimmer, Public Trust Hall Venue Manager, has a Master’s Degree
     in Art History, specialising in the Arts and Crafts Movement in New Zealand.
