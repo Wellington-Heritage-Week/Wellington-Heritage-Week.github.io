@@ -2,7 +2,7 @@
 layout: post
 title: St Christopher's Open Day and Seatoun Arts and Crafts Exhibition
 location: Wellington City
-img: /assets/uploaded/st-christophers-whw21.png
+img: /assets/uploaded/bob-world-through-rose-coloured-glasses-.jpg
 event_date: 10am–4pm Sat 30 & Sun 31 Oct
 host:
   blurb: The Miramar Peninsula Community Trust are a charitable trust who lease
@@ -17,13 +17,21 @@ tag:
 ---
 **St Christopher's doors will be once again be open for you to enjoy the beautiful Romanesque Revival style church designed by William Fielding and built in 1932.** 
 
-The spectacular and unusual stained glass windows are an unexpected delight. 
+The Church is open between 11am and 2pm on Saturday 30 and Sunday 31 October. 
 
-Next door in the Village Hall, the annual Seatoun Arts and Crafts Exhibition will be in full swing. 
+#### 'World through Rose Coloured Glasses': Public Talk
 
-Whilst in Seatoun, enjoy a little more exploring with our self guided tour map.
+On Sunday 31 October at 2pm, third-generation Seatounian Bob Rowell will present a talk titled 'World through Rose Coloured Glasses', which details his team's refurbishment of leadlights and stained glass windows in many well-known Wellington landmarks. 
 
-The Church is open between 11am and 2pm on Saturday 30 and Sunday 31 October. The Arts and Crafts Exhibition is open between 10am and 4pm Saturday 30 and Sunday 31 October.
+Bob grew up in Seatoun in the 1950-60s and his love of stained glass was inspired from an early age from viewing the stained glass windows in St Christopher’s during Sunday School and at his Burnham Street home. In his talk, he will share how he gave up his profession as a Registered Civil Engineer to follow his passion and dreams of working in stained glass.
+
+He has worked on glass at Parliament House and The General Assembly Library, St James Embassy and Bats Theatres, Government Buildings, Government House, Star of the Sea Convent Chapel (Seatoun Heights), many churches and historic homes. Bob and his son built the large mural wall of stained glass in Te Papa Marae.
+
+Come along to the talk to hear more about Bob's work and chat about stained glass. 
+
+<br>
+
+*Due to Alert Level 2 restrictions, the annual Seatoun Arts and Crafts Exhibition is cancelled.* 
 
 <br>
 
