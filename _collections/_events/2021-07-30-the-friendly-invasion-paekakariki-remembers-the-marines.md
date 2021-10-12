@@ -35,7 +35,7 @@ Make a day of it, viewing exhibits, walking the campsites, and enjoying deliciou
 
 * View films recently acquired from American archive.
 * Hear stories about how camps were built and how men lived and trained on our beaches. The talks include ‘My Grandad, the camp commander’, ’Tarawa, then, now and in the future’, ‘Camp construction’  and ’The Friendly invasion’.
-* Saturday Evening: Jazz concert (cover charge of $20), St Peters Hall, Beach Road, Paekākāriki 
+* Saturday Evening: Jazz concert (cover charge of $20), St Peters Hall, Beach Road, Paekākāriki - *Cancelled due to Alert Level 2 restrictions.* 
 
 **Location:** Wellington Road, Paraparaumu
 
