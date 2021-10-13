@@ -20,9 +20,13 @@ tag:
 
 Due to the hazards in the area, it is not suitable for those who rely on mobility aids, or small children. Older children MUST be strictly supervised at all times. No dogs, please.
 
+*New tour times are added!*
+
 <br>
 
-**Booking is required. Email [amanda-barber@hotmail.com](mailto:amanda-barber@hotmail.com) to book.**
+**Booking is required.**
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSd8S5RSQFctpTWxijUSkAGSmwJDplGFSFYkgIjtdHdEtQ7f2g/viewform" class="button">Book the tour</a>
 
 **Location:** National Storage Wellington, 7 Lower Tyers Road, Ngauranga
 
