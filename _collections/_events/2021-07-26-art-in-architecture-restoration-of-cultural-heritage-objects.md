@@ -35,3 +35,5 @@ NZ registered architects attending this presentation will received 10 CPD points
 **Duration:** 1 hour including Q +A
 
 **Cost:** A koha would be appreciated
+
+<img src="/assets/uploaded/WHW21Futuna_Programme-min.jpg" style="width: 100%;">
