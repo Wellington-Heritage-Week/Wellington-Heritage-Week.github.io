@@ -4,6 +4,7 @@ title: Wellington City Archives Open Day
 location: Wellington City
 img: /assets/uploaded/wcc-archives-image-whw21.jpg
 event_date: 10am–2pm Mon 25 Oct
+booked_out: true
 host:
   email: archives@wcc.govt.nz
   name: Wellington City Council Archives
