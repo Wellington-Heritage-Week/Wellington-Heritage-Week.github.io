@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wētā Workshop Wellington: A 20 Year Reflection"
+title: "Wētā Workshop Wellington: A 30 Year Reflection"
 location: Wellington City
 img: /assets/uploaded/weta-whw21.jpg
 event_date: 6pm Thurs 28 Oct
