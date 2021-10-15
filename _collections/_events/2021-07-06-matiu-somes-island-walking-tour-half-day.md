@@ -42,6 +42,8 @@ Passenger space will be reserved for you.
 
 <br>
 
+*The Monday 25 October tours are sold out. Spaces are still avaliable on the Wednesday 27 & Saturday 30 October tours.*
+
 **Booking is required. Email [efrtours@gmail.com](mailto:efrtours@gmail.com) to book.**
 
 **Location:** Matiu/Somes Island Wharf
