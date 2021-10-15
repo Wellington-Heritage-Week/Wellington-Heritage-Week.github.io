@@ -24,7 +24,7 @@ The tour starts and ends at the Wellington Cenotaph on the corner of Bowen Stree
 
 <br>
 
-**Booking is required. Email [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz) to book.** 
+**The event is sold out. Join the wait-list by emailing [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz)** 
 
 **Location:** Meet at the Wellington Cenotaph on the corner of Bowen Street and Lambton Quay.
 
