@@ -4,7 +4,7 @@ title: Historic Thorndon Walking Tour
 location: Wellington City
 img: /assets/uploaded/ww-whw21.png
 event_date: 2pm Sun 31 Oct
-booked_out: false
+booked_out: true
 host:
   email: bookings@walkwellington.org.nz
   blurb: Walk Wellington is a not-for-profit incorporated society with about 25
