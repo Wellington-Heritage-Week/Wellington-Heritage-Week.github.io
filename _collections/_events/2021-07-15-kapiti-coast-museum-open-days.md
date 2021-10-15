@@ -23,6 +23,8 @@ Visitor hosts will be available to answer questions and conduct short tours.
 
 <br>
 
+*Due to a change in scheduling, the Museum will only be open on Saturday 30 and Sunday 31 October.* 
+
 **No booking is required.** 
 
 **Location:** 9 Elizabeth Street, Waikanae
