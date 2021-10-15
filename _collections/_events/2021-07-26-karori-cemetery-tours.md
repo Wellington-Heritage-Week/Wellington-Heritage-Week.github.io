@@ -28,7 +28,9 @@ Established in 1891, Karori Cemetery is New Zealand’s second largest burial gr
 
 ## **Tours**
 
-### Tales from the Vaults – Monday 25 October 10:30am and Saturday 30 October 1:30pm
+### Tales from the Vaults – Monday 25 October 10:30am \*Sold Out\* and Saturday 30 October 1:30pm
+
+*Spaces are still avaliable on the Saturday 30 October 1:30pm tour*
 
 This new tour will be launched to the public for the Heritage Week. Find out who is in and who is out of some of the cemetery’s most substantial dwellings. Note: tours do not enter vaults or try them out for size. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked by emailing [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
@@ -48,7 +50,7 @@ These two tours will cover different parts of the cemetery celebrating those peo
 
 Explore some of the lesser known tracks around the cemetery, with stories from behind the headstones along the way. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked via email [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
-### Murder & Mayhem – Sunday 31 October 1:30pm
+### Murder & Mayhem – Sunday 31 October 1:30pm \*Sold Out\*
 
 This popular tour visits the graves of a number of people associated with murder and its aftermath. $10 per person (children under 12 free), places must be booked via emailing [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
