@@ -5,7 +5,7 @@ intro: Public Art is on display at Wellington Heritage Week 2021, 25–31 Octobe
   with Public Art Talk - Gordon Crook Banners hosted by the Wellington City
   Council’s City Arts and Events Team, and Memories of Newtown's Adventure
   Playground 1974 hosted by the Newtown Community & Cultural Centre.
-author: David Batchelor - Director, Wellington Heritage Week
+author: Public Art Heritage Aotearoa New Zealand
 img: /assets/uploaded/public-art-talk-gordon-crook-banners-whw21.jpg
 tag:
   - Post
