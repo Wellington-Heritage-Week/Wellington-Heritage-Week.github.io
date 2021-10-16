@@ -3,7 +3,7 @@ layout: post
 title: St Christopher's Open Day and Seatoun Arts and Crafts Exhibition
 location: Wellington City
 img: /assets/uploaded/st-chris-whw21.jpg
-event_date: 10am–4pm Sat 30 & Sun 31 Oct
+event_date: 11am–2pm Sat 30 & Sun 31 Oct
 host:
   blurb: The Miramar Peninsula Community Trust are a charitable trust who lease
     the buildings from the owners. They ensure that both venues are accessible
