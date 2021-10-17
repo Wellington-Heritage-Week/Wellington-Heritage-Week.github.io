@@ -26,11 +26,15 @@ The discussion will be on the growth pressures facing our city and how we manage
 * James Solari - Solari Architects & Urban Development Institute (UDINZ); and 
 * Stuart Niven - Stuart Niven Urban Design.
 
-Doors open at 5:45pm and the panel events is 6pm–7:15pm. 
+Doors open at 5:45pm and the panel events is 6pm–7:30pm. 
 
-Following the panel discussion, canapes and refreshments will be served in the City Gallery's foyer and Hancock Gallery. The event ends at 8:15pm.  
+**We encourage the public to submit questions to the panel via our RSVP form linked below.** 
 
-This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the Wellington City Council's Mayor's Office.
+Due to Alert Level restrictions, in-person numbers are limited, however, the event will be live-streamed on the [Wellington Heritage Week Facebook page](https://www.facebook.com/WellingtonHeritageWeek). We will email those we can host in person by Friday 22 October and send a live stream link to all others shortly afterwards. 
+
+Please enter your details in the RSVP form linked below to receive the live stream link.
+
+*This event is kindly sponsored by Heritage New Zealand Pouhere Taonga and the Wellington City Council's Mayor's Office.*
 
 *10 CPD points from Te Kāhui Whaihanga New Zealand Institute of Architects are available for Registered Architects.*
 
