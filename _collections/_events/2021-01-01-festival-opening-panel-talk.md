@@ -43,6 +43,6 @@ Please enter your details in the RSVP form linked below to receive the live stre
 
 **Location**: Live streamed online & at the City Gallery, Te Ngākau Civic Square, Wellington
 
-**Duration:** 5:45pm–8:15pm
+**Duration:** 5:45pm–8pm
 
 **Cost:** Free
