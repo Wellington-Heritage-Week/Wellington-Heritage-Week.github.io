@@ -24,7 +24,7 @@ Maximum tour size: 20 people.
 
 <br>
 
-*The Friday tour is booked out. A few spaces are avaliable for the Sunday tour.*
+*The Friday tour is booked out. A few spaces are available for the Sunday tour.*
 
 **Booking is required. Email [petonehistories@gmail.com](mailto:petonehistories@gmail.com) to book.**
 
