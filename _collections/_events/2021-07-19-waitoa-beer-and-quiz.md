@@ -4,6 +4,7 @@ title: Heritage Beer & Quiz
 location: Wellington City
 img: /assets/uploaded/waitoa-beer-and-quiz-whw21.jpg
 event_date: 6pm Mon 25 Oct
+booked_out: true
 host:
   blurb: Waitoa Beer is a microbrewery with a heart. A strong belief in working
     with the community and giving back through becoming a neighborhood
