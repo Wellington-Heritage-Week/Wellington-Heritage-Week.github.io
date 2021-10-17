@@ -26,7 +26,7 @@ The discussion will be on the growth pressures facing our city and how we manage
 * James Solari - Solari Architects & Urban Development Institute (UDINZ); and 
 * Stuart Niven - Stuart Niven Urban Design.
 
-Doors open at 5:45pm and the panel events is 6pm–7:30pm. 
+Doors open at 5:45pm and the panel event is 6pm–7:30pm. 
 
 **We encourage the public to submit questions to the panel via our RSVP form linked below.** 
 
