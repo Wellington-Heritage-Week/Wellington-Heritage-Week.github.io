@@ -30,7 +30,7 @@ Doors open at 5:45pm and the panel events is 6pm–7:30pm.
 
 **We encourage the public to submit questions to the panel via our RSVP form linked below.** 
 
-Due to Alert Level restrictions, in-person numbers are limited, however, the event will be live-streamed on the [Wellington Heritage Week Facebook page](https://www.facebook.com/WellingtonHeritageWeek). We will email those we can host in person by Friday 22 October and send a live stream link to all others shortly afterwards. 
+Due to Alert Level restrictions, in-person numbers are limited, however, the event will be live-streamed on the [Wellington Heritage Week Facebook page](https://www.facebook.com/WellingtonHeritageWeek). We will email those we can host in-person by Friday 22 October and send a live stream link to all others shortly afterwards. 
 
 Please enter your details in the RSVP form linked below to receive the live stream link.
 
