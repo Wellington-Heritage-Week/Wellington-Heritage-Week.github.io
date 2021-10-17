@@ -41,7 +41,7 @@ Please enter your details in the RSVP form linked below to receive the live stre
 <a href="https://forms.gle/jij1iGWU7bADxiBs9" class="button">RSVP for the event</a>
 
 
-**Location**: City Gallery, Te Ngākau Civic Square, Wellington
+**Location**: Live streamed online & at the City Gallery, Te Ngākau Civic Square, Wellington
 
 **Duration:** 5:45pm–8:15pm
 
