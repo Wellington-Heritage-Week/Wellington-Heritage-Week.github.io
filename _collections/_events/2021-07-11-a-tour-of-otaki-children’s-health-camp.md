@@ -20,6 +20,8 @@ From the 1930s, health camps and their fund-raising health stamps became part of
 
 *Image: The interior of the Rotunda at Ōtaki Children’s Health Camp, a huge tent-like dormitory originally built at Rotorua in 1916 for an army hospital.*
 
+*Disclaimer: this tour may discuss sensitive topics of historical state care, audience discretion is advised.*
+
 <br>
 
 **Booking is required. Email [anthonydreavernz@gmail.com](mailto:anthonydreavernz@gmail.com) to book.**
