@@ -20,7 +20,7 @@ Futuna Chapel, one of the jewels of Wellington's built heritage, will be open to
 
 The Chapel, one of New Zealand’s architectural icons, is open to be explored.  Trustees will be on hand to welcome visitors,  answer questions and help reveal the Chapel's secrets and stories.
 
-#### VIRTUAL FUTUNA – FREE PUBLIC TALK - 2pm Saturday 30 Oct
+#### VIRTUAL FUTUNA – FREE PUBLIC TALK - 2pm Saturday 30 Oct & Livestreamed
 
 During the Saturday Chapel’s Open Day on Saturday 30th October there will be an illustrated presentation by Victoria University of Wellington commencing at 2pm. This event will examine the photogrammetry documentation of heritage buildings and its potential application in research studies and public dissemination. 
 
@@ -38,13 +38,13 @@ User research explored ways to make experiences of Futuna's digital twin engagin
 * Michael Weir - MArch(Prof) student at VUW
 * Katie Scheid - User Experience designer researching the potentials for extended reality applications Masters Student- VUW
 
+<a href="https://www.eventbrite.co.nz/e/virtual-futuna-tickets-190711191307?utm_campaign=post_publish&utm_medium=email&utm_source=eventbrite&utm_content=shortLinkNewEmail" class="button">Register to attend in-person or for the livestream</a>
+
 *The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
 
 ![](/assets/uploaded/mcguinness-logo.jpg)
 
 <br>
-
-**No booking is required.** 
 
 **Location:** Futuna Chapel 67 Futuna Close (off Friend Steet) Karori
 
