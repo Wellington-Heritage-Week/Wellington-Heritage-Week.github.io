@@ -50,6 +50,8 @@ User research explored ways to make experiences of Futuna's digital twin engagin
 
 **Cost:** A koha would be appreciated
 
-<img src="/assets/uploaded/WHW21Futuna_Programme-min.jpg" style="width: 100%;">
+<img src="/assets/uploaded/Futuna_HeritageWeek2021_V2.pdf" style="width: 100%;">
+
+<br>
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFutunaChapel&tabs=timeline&width=340&height=400&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="5" allowfullscreen="false" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
