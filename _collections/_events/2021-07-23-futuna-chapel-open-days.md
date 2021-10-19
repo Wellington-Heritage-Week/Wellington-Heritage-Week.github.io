@@ -40,15 +40,11 @@ User research explored ways to make experiences of Futuna's digital twin engagin
 
 <a href="https://www.eventbrite.co.nz/e/virtual-futuna-tickets-190711191307?utm_campaign=post_publish&utm_medium=email&utm_source=eventbrite&utm_content=shortLinkNewEmail" class="button">Register to attend in-person or for the livestream</a>
 
-
-
 *The Trust would like to acknowledge the generosity of LT McGuinness in supporting this event.*
 
 ![](/assets/uploaded/mcguinness-logo.jpg)
 
 <br>
-
-**No booking is required.** 
 
 **Location:** Futuna Chapel 67 Futuna Close (off Friend Steet) Karori
 
