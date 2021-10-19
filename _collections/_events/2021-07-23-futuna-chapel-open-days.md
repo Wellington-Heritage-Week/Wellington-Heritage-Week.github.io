@@ -50,7 +50,7 @@ User research explored ways to make experiences of Futuna's digital twin engagin
 
 **Cost:** A koha would be appreciated
 
-<img src="/assets/uploaded/Futuna_HeritageWeek2021_V2.pdf" style="width: 100%;">
+<img src="/assets/uploaded/Futuna Poster.jpg" style="width: 100%;">
 
 <br>
 
