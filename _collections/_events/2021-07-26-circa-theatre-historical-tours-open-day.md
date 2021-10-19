@@ -31,6 +31,8 @@ Max 20 people per tour and bookings are essential.
 
 There will be opportunities to join as a ‘Friend of Circa’ at a special reduced rate of $50 for the year (normally $60).
 
+*Due to Alert Level 2 restrictions, the tour will be of the ground level only, which includes our foyer, two theatres, backstage and outside.* 
+
 <br>
 
 **Booking is required. Please book at circa.co.nz or call our friendly Box Office team on [04 801 7992](tel:048017992)**.
