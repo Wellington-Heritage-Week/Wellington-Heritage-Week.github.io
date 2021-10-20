@@ -38,7 +38,7 @@ Please enter your details in the RSVP form linked below to receive the live stre
 
 *10 CPD points from Te Kāhui Whaihanga New Zealand Institute of Architects are available for Registered Architects.*
 
-<a href="https://forms.gle/jij1iGWU7bADxiBs9" class="button">RSVP for the event</a>
+<a href="https://docs.google.com/forms/d/1L68EJbbWOTcb7yMlUUwNMqmOqbmCtc914gpYIqoMKV4/" class="button">Register to receive the live-stream link</a>
 
 
 **Location**: Live streamed online & at the City Gallery, Te Ngākau Civic Square, Wellington
