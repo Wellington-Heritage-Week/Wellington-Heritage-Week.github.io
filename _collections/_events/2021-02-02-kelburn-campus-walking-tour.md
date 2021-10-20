@@ -4,6 +4,7 @@ title: Kelburn Campus Walking Tour
 location: Wellington City
 img: /assets/uploaded/whw21-kelburn.jpg
 event_date: 2pm Sun 31 Oct
+booked_out: true
 host:
   name: Robin Skinner
   blurb: Robin Skinner lectures in the Wellington School of Architecture.
