@@ -19,7 +19,7 @@ tag:
 ---
 **Join us for an hour and a half walk into a hidden gem in Khandallah. Tyers Stream reserve is an 'ecologically significant' (WCC) and historically significant area. Come learn about the history and what a local community group is trying to achieve.** 
 
-Due to the hazards in the area, it is not suitable for those who rely on mobility aids, or small children. Older children MUST be strictly supervised at all times. No dogs, please.
+Due to the hazards in the area, it is not suitable for those who rely on mobility aids, or small children. Older children MUST be strictly supervised at all times. No dogs, please. 
 
 *New tour times are added at 12:45pm and 1:45pm for Monday and Sunday!*
 
