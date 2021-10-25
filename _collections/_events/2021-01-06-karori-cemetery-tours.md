@@ -28,7 +28,7 @@ Established in 1891, Karori Cemetery is New Zealand’s second largest burial gr
 
 ## **Tours**
 
-### Tales from the Vaults – Monday 25 October 10:30am \*Sold Out\* and Saturday 30 October 1:30pm
+### Tales from the Vaults – Monday 25 October 10:30am \*Sold Out\* and Saturday 30 October 1:30pm \*Sold Out\*
 
 *Spaces are still avaliable on the Saturday 30 October 1:30pm tour*
 
@@ -38,7 +38,7 @@ This new tour will be launched to the public for the Heritage Week. Find out who
 
 The Friends will take you on an easy walking, 45mins long introductory tour of the cemetery. This tour is free and does not require booking.
 
-### Heroines & Housewives – Monday 25 October 1:30pm \*Sold Out\* 
+### Heroines & Housewives – Monday 25 October 1:30pm \*Sold Out\*
 
 A selection of suffragists, educationalists, reformers, and artists, as well as a few ordinary women who had extraordinary things happen in their lives. $10 per person (children under 12 free), places must be booked via emailing [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
