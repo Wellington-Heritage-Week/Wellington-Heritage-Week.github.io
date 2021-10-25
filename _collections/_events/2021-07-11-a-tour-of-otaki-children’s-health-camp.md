@@ -4,6 +4,7 @@ title: Tour of Ōtaki Children’s Health Camp
 location: Kapiti Coast
 img: /assets/uploaded/rotunda-western-sweep-of-window-3.jpg
 event_date: 1:30pm Sat 30 Oct
+booked_out: true
 host:
   email: anthonydreavernz@gmail.com
   name: Friends of Ōtaki Rotunda
