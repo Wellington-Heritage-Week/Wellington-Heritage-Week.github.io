@@ -4,6 +4,7 @@ title: Tyers Stream Walk & Talk
 location: Wellington City
 img: /assets/uploaded/tyers-stream-walk-talk.jpg
 event_date: 11am Mon 25 & Sun 31 Oct
+booked_out: true
 host:
   blurb: Amanda Barber is the great great grand daughter of Henry Barber. Barber
     estalished an abatoir and leased land to felmonger Alfred Tyer. Amanda leads
