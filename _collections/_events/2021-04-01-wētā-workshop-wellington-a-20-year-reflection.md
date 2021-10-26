@@ -4,6 +4,7 @@ title: "Wētā Workshop Wellington: A 30 Year Reflection"
 location: Wellington City
 img: /assets/uploaded/weta-whw21.jpg
 event_date: 6pm Thurs 28 Oct
+booked_out: true
 host:
   name: Wētā Workshop
   blurb: Wētā Workshop is a five-time Academy Award-winning creative design and
