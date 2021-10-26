@@ -14,6 +14,8 @@ tag:
 ---
 **Join us to celebrate the opening of Wellington Heritage Week 2021.** 
 
+<a href="https://vimeo.com/637745596/96662a85f7" class="button">Watch the live-stream</a>
+
 At 6pm, a panel discussion will occur in the Adam Auditorium. The panel members will represent a diverse mix of local residents, local heritage experts, Māori, and youth.
 
 The discussion will be on the growth pressures facing our city and how we manage heritage. 
@@ -38,7 +40,7 @@ Please enter your details in the RSVP form linked below to receive the live stre
 
 *10 CPD points from Te Kāhui Whaihanga New Zealand Institute of Architects are available for Registered Architects.*
 
-<a href="https://docs.google.com/forms/d/1L68EJbbWOTcb7yMlUUwNMqmOqbmCtc914gpYIqoMKV4/" class="button">Register to receive the live-stream link</a>
+<a href="https://vimeo.com/637745596/96662a85f7" class="button">Watch the live-stream</a>
 
 
 **Location**: Live streamed online & at the City Gallery, Te Ngākau Civic Square, Wellington
