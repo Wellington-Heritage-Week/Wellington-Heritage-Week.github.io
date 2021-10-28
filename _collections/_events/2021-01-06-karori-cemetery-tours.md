@@ -4,6 +4,7 @@ title: Karori Cemetery Tours
 location: Wellington City
 img: /assets/uploaded/karori-cemetery-tours-whw21.jpg
 event_date: Various times Mon 25–Sun 31 Oct
+booked_out: true
 host:
   blurb: "The Friends of Karori Cemetery Inc was formed in early 2020. The
     organisation has its genesis in the guided tours researched and provided by
@@ -46,7 +47,7 @@ A selection of suffragists, educationalists, reformers, and artists, as well as 
 
 These two tours will cover different parts of the cemetery celebrating those people who helped build Wellington. You can do one or both! $10 per person (children under 12 free), places must be booked via emailing [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
-### Off the Beaten Track – Sunday 31 October 10:30am
+### Off the Beaten Track – Sunday 31 October 10:30am \*Sold Out\*
 
 Explore some of the lesser known tracks around the cemetery, with stories from behind the headstones along the way. Suitable for people with moderate fitness. $10 per person (children under 12 free), places must be booked via email [friendsofkaroricemeterytours@gmail.com](mailto:friendsofkaroricemeterytours@gmail.com).
 
