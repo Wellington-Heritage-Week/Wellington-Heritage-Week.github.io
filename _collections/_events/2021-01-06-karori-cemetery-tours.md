@@ -4,6 +4,7 @@ title: Karori Cemetery Tours
 location: Wellington City
 img: /assets/uploaded/karori-cemetery-tours-whw21.jpg
 event_date: Various times Mon 25–Sun 31 Oct
+booked_out: true
 host:
   blurb: "The Friends of Karori Cemetery Inc was formed in early 2020. The
     organisation has its genesis in the guided tours researched and provided by
