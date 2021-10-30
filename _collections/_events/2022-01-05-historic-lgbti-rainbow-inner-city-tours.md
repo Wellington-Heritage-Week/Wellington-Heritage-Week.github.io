@@ -4,7 +4,7 @@ title: "Historic LGBTI Rainbow Inner City Tours "
 location: Wellington City
 img: /assets/uploaded/historic-lgbti-rainbow-inner-city-walk-tour-around-te-aro-area-resonance-route-.jpg
 event_date: 1pm Sat 30 & Sun 31 Oct
-booked_out: true
+booked_out: false
 host:
   blurb: Walk Tours NZ is a volunteer group that offers free, accessible,
     inclusive and community-focused walking tours around Wellington highlighting
@@ -28,7 +28,7 @@ We'll visit the site of Carmen's curio shop, stop by the infamous Club Exotic, t
 
 <br>
 
-### **Violet Route (Parliament) - 1pm Sunday 31 Oct *SOLD OUT***
+### **Violet Route (Parliament) - 1pm Sunday 31 Oct**
 
 Learn about homosexual law reform, the beginnings of rainbow radio broadcasting, local LGBTI rainbow personalities, supportive (and not so supportive) churches, a WW1 same-sex love story and imprisonment on Matiu Somes Island.
 
