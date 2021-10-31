@@ -4,7 +4,8 @@ title: Truby King Park Open Day
 location: Wellington City
 img: /assets/uploaded/truby-king-house.jpg
 event_date: 10am–12:30pm Sat 30 Oct
-booked_out: true
+booked_out: false
+book_promotion: true
 host:
   name: Ngā Māra o Poneke – Wellington Gardens
   blurb: Wellington Gardens care for 4 garden sites across the city, including
