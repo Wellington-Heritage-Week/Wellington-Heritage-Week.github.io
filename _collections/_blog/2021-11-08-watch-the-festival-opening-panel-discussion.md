@@ -2,8 +2,10 @@
 layout: blog
 title: Watch the Festival Opening & Panel Discussion
 intro: >
-  Wellington Heritage Week 2021 opened on Tuesday 26 October with a diverse
-  panel discussion on the challenges facing the heritage in Wellington City. 
+  Diversity and positivity were the aims of the Festival Opening & Panel
+  Discussion for Wellington Heritage Week 2021, 25–31 Oct. The panel event took
+  place in the Adam Auditorium at the City Gallery Wellington on Tuesday 26th of
+  October 2021. 
 
 
   Watch the high-quality live stream of the panel by clicking the link in this blog post. 
@@ -12,3 +14,14 @@ img: /assets/uploaded/whw21-holding-slide-1-.png
 tag:
   - Post
 ---
+The panel brought together those from the recently completed Spatial Plan consultation that saw the community entrench along either pro-heritage or pro-densification lines in the media. However, in reality, these two positioned were more nuanced and open to discussion, so the panel created the space to find common ground. 
+
+The panel featured Wellington City Councillor Tamatha Paul who descends from Ngāti Awa and Waikato Tainui, Generation Zero spokesperson Mark Garlick, Jane O’Loughlin from the community organisation Live Wellington, James Solari from Solari Architects and the Urban Development Institute, and Mount Victoria-based urban designer Stuart Niven. 
+
+Wellington Mayor Andy Foster opened the event and discussed the Draft District Plan consultation that started the following week. 
+
+Urban designer Stuart Niven pointedly noted that heritage “is a difficult subject and contentious. It is much about exclusions as it is about inclusions and you have to ask serious questions about why things are included and some things are not…so with suspicion and questioning is the right way to approach heritage”. 
+
+Throughout the discussion, the panel members appeared to expand the heritage discussion from historic buildings to social and cultural stories – from this position they could all see themselves represented in the heritage discussion.
+
+The panel was recorded and is available to watch here:
