@@ -25,3 +25,5 @@ Urban designer Stuart Niven pointedly noted that heritage “is a difficult subj
 Throughout the discussion, the panel members appeared to expand the heritage discussion from historic buildings to social and cultural stories – from this position they could all see themselves represented in the heritage discussion.
 
 The panel was recorded and is available to watch here:
+
+<a href="https://vimeo.com/637745596/96662a85f7" class="button">Watch the live-stream</a>
