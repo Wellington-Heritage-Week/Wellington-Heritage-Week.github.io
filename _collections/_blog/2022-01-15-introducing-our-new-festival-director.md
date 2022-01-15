@@ -18,7 +18,7 @@ The festival started in 2017 with 24 events in Wellington City and was establish
 
 “At the heart of the festival has been community organisations and individuals who have buoyed the festival through its growing pains”, David says. “I would like to acknowledge the support of Cr Nicola Young who encouraged and provided guidance to the festival from the start, and the support of Wellington City Council Mayor Andy Foster and the council’s funding and communication teams”.
 
-“In Lower Hutt, Deputy Mayor Tui Lewis, Pam Hanna from Petone Historical Society, and Petone Library’s Liz Castle were critical to the festival’s first expansion beyond Wellington City and for brainstorming event ideas, building a network, and hosting events”.
+“In Lower Hutt, Deputy Mayor Tui Lewis, Pam Hanna from Petone Historical Society, and Petone Library’s Liz Castle were critical to the festival’s first expansion beyond Wellington City and for their ongoing work brainstorming event ideas, building a network, and hosting events for Lower Hutt”.
 
 “I also owe a debt of gratitude to Reid Perkins from the Upper Hutt Library. Reid hosted the popular screening of local archival footage in 2019 and put me in touch with the wonderful Yvonne Airey from Golder Cottage, who has been involved since 2018”.
 
