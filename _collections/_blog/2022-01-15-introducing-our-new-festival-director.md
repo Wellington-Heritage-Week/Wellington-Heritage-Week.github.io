@@ -8,8 +8,6 @@ img: /assets/uploaded/introducing-our-new-festival-director.jpg
 tag:
   - Post
 ---
-Alex Hockley is the new Festival Director for Wellington Heritage Week and will take the reins for the 2022 festival.
-
 Alex has a background in heritage, technology, and Pōneke’s start-up scene. His company, Hiamo, previously hosted Augmented Reality tours of the Wahine Disaster in the festival and he was a Festival Coordinator in the 2021 festival team. Born in Wellington and now living in Newtown, he is interested in community, innovation, and how the region can carry its stories forward.
 
 “My interest in heritage started when I was a child, as my grandad shared stories of scrapping the Wahine after it wrecked in the Wellington Harbour”, he highlights. “We are currently planning the next installment of the festival and will announce how event hosts and volunteers can get involved soon”.
