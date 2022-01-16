@@ -16,7 +16,9 @@ David Batchelor, the festival’s founder and director since 2017, says that “
 
 The festival started in 2017 with 24 events in Wellington City and was established as the independent Wellington Heritage Week Trust the following year. Since then, it has gradually expanded its engagement across the region to incorporate the Hutt Valley, Porirua, and Kapiti Coast.
 
-“At the heart of the festival has been community organisations and individuals who have buoyed the festival through its growing pains”, David says. “I would like to acknowledge the support of Cr Nicola Young who encouraged and provided guidance to the festival from the start, and the support of Wellington City Council Mayor Andy Foster and the council’s funding and communication teams”.
+“At the heart of the festival has been community organisations and individuals who have buoyed the festival through its growth", David says. 
+
+“I would also like to acknowledge the support of Cr Nicola Young who encouraged and provided guidance to the festival from the start, and the support of Wellington City Council Mayor Andy Foster and the council’s funding and communication teams”.
 
 “In Lower Hutt, Deputy Mayor Tui Lewis, Pam Hanna from Petone Historical Society, and Petone Library’s Liz Castle were critical to the festival’s first expansion beyond Wellington City and for their ongoing work brainstorming event ideas, building a network, and hosting events for Lower Hutt”.
 
@@ -24,6 +26,6 @@ The festival started in 2017 with 24 events in Wellington City and was establish
 
 “Karen Astwood from Heritage New Zealand Pouhere Taonga and Robyn Cockburn from Victoria University of Wellington’s Museum and Heritage Studies course went above and beyond to support the festival each year”, he acknowledges.
 
-“Lastly, the team of Wellington Heritage Week 2022 were a god-send. Henry Buckenham, Clemence Galot, Brittany Jacobsen, Millie Burton, and Alex Hockley enabled the festival to offer new events and reach new audiences, create a popular newsletter and blog, and refine the event application systems to improve the experience for event hosts”.
+“Lastly, the team of Wellington Heritage Week 2022 were indispensable to the festival's recent successes. Henry Buckenham, Clemence Galot, Brittany Jacobsen, Millie Burton, and Alex Hockley enabled the festival to offer new events and reach new audiences, create a popular newsletter and blog, and refine the event application systems to improve the experience for event hosts”.
 
 In 2022, David plans to move away from Wellington to pursue a career in the heritage sector.
