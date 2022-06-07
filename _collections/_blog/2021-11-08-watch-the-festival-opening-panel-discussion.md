@@ -14,9 +14,11 @@ img: /assets/uploaded/whw21-holding-slide-1-.png
 tag:
   - Post
 ---
-The panel brought together those from the recently completed Spatial Plan consultation that saw the community entrench along either pro-heritage or pro-densification lines in the media. However, in reality, these two positioned were more nuanced and open to discussion, so the panel created the space to find common ground. 
+The panel brought together those from the recently completed Spatial Plan consultation that saw the community entrench along either pro-heritage or pro-densification lines in the media. However, in reality, these two positions were more nuanced and open to discussion, so the panel created the space to find common ground.\
+\
+This discussion was moderated by Heritage New Zealand Pouhere Taonga's Kerryn Pollock, who did a fantastic job keeping the conversation constructive and provided a set of strong and enticing questions to the panel. Heritage New Zealand Pouhere Taonga also provided co-funding for the event, along with the Mayor's Office, which we are deeply grateful for.
 
-The panel featured Wellington City Councillor Tamatha Paul who descends from Ngāti Awa and Waikato Tainui, Generation Zero spokesperson Mark Garlick, Jane O’Loughlin from the community organisation Live Wellington, James Solari from Solari Architects and the Urban Development Institute, and Mount Victoria-based urban designer Stuart Niven. 
+The panel itself featured Wellington City Councillor Tamatha Paul who descends from Ngāti Awa and Waikato Tainui, Generation Zero spokesperson Mark Garlick, Jane O’Loughlin from the community organisation Live Wellington, James Solari from Solari Architects and the Urban Development Institute, and Mount Victoria-based urban designer Stuart Niven. 
 
 Wellington Mayor Andy Foster opened the event and discussed the Draft District Plan consultation that started the following week. 
 
