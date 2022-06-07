@@ -45,7 +45,7 @@ layout: default
       <div class="recent_list">
         {% for blog in site.blog offset:0 limit:6 %}
           {% if blog.title %}
-            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ blog.img | prepend: site.baseurl}} )"><span>{{ blog.title }}</span></a>
+            <a href="{{ root_url }}{{ blog.url }}" class="recent_item" style="background-image: url( {{ blog.img | prepend: site.baseurl}} )"><span>{{ blog.title }}</span></a>
           {% endif %}
         {% endfor %}
       </div>
