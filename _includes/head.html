@@ -1,14 +1,14 @@
 <head>
 	<title>{% if page.title %}{{page.title}} - {{site.data.settings.title}}{% else %}{{site.data.settings.title}}{% endif %}</title>
 	<meta charset="utf-8">
-	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
+	<meta name="description" content="{% if if page.description != null and page.description != "" %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
 
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<meta property="og:image" content="{{ site.baseurl }}{% if page.img %}{{page.img}}{% else %}{{site.data.settings.banner}}{% endif %}">
-	<meta property="og:title" content="{% if page.title %}{{page.title}} - {{site.data.settings.title}}{% else %}{{site.data.settings.title}}{% endif %}" />
-	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
+	<meta property="og:image" content="{{ site.baseurl }}{% if page.img != null and page.img != "" %}{{page.img}}{% else %}{{site.data.settings.banner}}{% endif %}">
+	<meta property="og:title" content="{% if page.title != null and page.title != "" %}{{page.title}} - {{site.data.settings.title}}{% else %}{{site.data.settings.title}}{% endif %}" />
+	<meta property="og:description" content="{% if page.description != null and page.description != "" %}{{ page.description }}{% else %}{{ site.data.settings.description }}{% endif %}">
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ page.url }}" />
 
