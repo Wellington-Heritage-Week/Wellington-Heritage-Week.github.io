@@ -164,7 +164,7 @@ collections:
       - {required: false, label: "Body", name: "body", widget: "markdown"}
       - {required: false, label: "Submissions Open", name: "submissions_open", widget: "boolean", default: true }
       - {required: false, label: "Submissions Closed Message", name: "closed_message", widget: "markdown"}
-      - {required: false, label: "Form", name: "form", widget: "code", default_language: "html", output_code_only: true }
+      - {required: false, label: "Form", name: "form", widget: "code", default_language: "html", output_code_only: true, keys: {} }
       - {required: false, label: "Short description (for Facebook)", name: "description", widget: "text"}
       - {required: false, label: "Image", name: "img", widget: "image"}
       - label: "Tags"
