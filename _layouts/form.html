@@ -11,7 +11,7 @@ layout: default
         <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
         {% unless page.submissions_open %}
           <div class="ribbon large2"><span>Submissions Closed</span></div>
-        {% endif %}
+        {% endunless %}
       </div>
       <div class="post_description">
         <h1 class="post_title">{{page.title}}</h1>
