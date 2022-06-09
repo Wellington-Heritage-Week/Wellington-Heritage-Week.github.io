@@ -1,0 +1,19 @@
+<div class="section-title">
+    <h1>Testing forms</h1>
+    <br />
+</div>
+{% for form in site.forms reversed %}
+        <a href="{{form.url | prepend: site.baseurl}}" class="hotel-link">
+            <div class="hotel-card">
+                <div class="hotel-img">
+                    <img src="{{site.baseurl}}{{ form.img }}" alt="{{form.title}}">
+                </div>
+                <div class="hotel-details">
+                    <h2>{{form.title}}</h2>
+                    <div class="hotel-text">{{ form.intro | markdownify}}</div>
+                    <hr />
+                </div>
+            </div>
+        </a>
+{% endfor %}
+ 
