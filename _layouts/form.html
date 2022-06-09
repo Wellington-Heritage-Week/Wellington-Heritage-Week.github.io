@@ -25,7 +25,7 @@ layout: default
       <p><strong>{{page.intro}}</strong></p>
       {{page.content | markdownify}}
       {% if page.submissions_open %}
-        <div>{{ page.form }}</div>
+        <div class="embed_content">{{ page.form }}</div>
       {% else %}
         <div>{{ page.closed_message }}</div>
       {% endif %}
