@@ -22,6 +22,9 @@ collections:
   blog:
     permalink: /blog/:title/
     output: true
+  forms:
+    permalink: /form/:title/
+    output: true
 
 exclude: [".idea/", ".gitignore", "LICENSE.txt"]
 include: [_pages]
