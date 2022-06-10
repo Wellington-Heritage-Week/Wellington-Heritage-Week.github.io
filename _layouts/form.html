@@ -2,28 +2,36 @@
 layout: default
 ---
 
+{% comment %} Use this to track if we have an image or not {% endcomment %}
+{% assign has_image = post.img != null and post.img != "" %}
+
 {% include header.html %}
-<!--Header-->
+
 <main class="post_content">
-  <article class="post">
+    <!--Header-->
     <header>
-      {% if post.img != null and post.img != "" %}
+      {% if has_image %}
       <div class="post_image">
         <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
         {% unless page.submissions_open %}
           <div class="ribbon large2"><span>Submissions Closed</span></div>
         {% endunless %}
       </div>
-      {% endif %}
+        {% comment %} Use "banner" style header if there is an image, otherwise include it below in main content {% endcomment %}
       <div class="post_description">
         <h1 class="post_title">{{page.title}}</h1>
       </div>
-    </header> <!-- End Header -->
+      {% endif %}
+    </header>
 
 <!-- Section Post -->
     <div class="entry_content">
+
+      <!-- Page content -->
       <p><strong>{{page.intro}}</strong></p>
       {{page.content | markdownify}}
+
+      <!-- Embedded forms OR forms closed message -->
       {% if page.submissions_open %}
         <div class="embed_content">{{ page.form }}</div>
       {% else %}
@@ -31,7 +39,7 @@ layout: default
       {% endif %}
     </div>
 
-
+    <!-- Share buttons & tags -->
     <div class="post_wrapper">
       <footer class="post_footer cf">
         <div class="post_share">
@@ -47,8 +55,8 @@ layout: default
         </div>
       </footer>
     </div>
-  </article> <!-- End Section Post -->
+  </article>
 
-</main> <!-- End Section Post Content -->
+</main>
 
 {% include footer.html %}
