@@ -13,6 +13,8 @@
 .post
   background-color: $white
   margin-bottom: 1.5rem
+  border-radius: $post-border-radius
+  overflow: hidden
   header
     position: relative
     //overflow: hidden
@@ -60,6 +62,7 @@
     background-color: $white_gray
     display: inline-block
     transition: all .35s ease-in-out
+    border-radius: 5px
     &:hover
       background-color: $highlight_lighten
       color: $white
@@ -119,6 +122,7 @@
   background-color: $white
   padding: 2rem 0
   margin-bottom: 1.5rem
+  border-radius: $post-border-radius
   .recent_title
     font-size: 1.5rem
     text-align: center
@@ -134,6 +138,8 @@
       background-position: center
       background-size: cover
       background-repeat: no-repeat
+      border-radius: $card-border-radius
+      box-shadow: 0 0 8px rgba(0, 0, 0, .3)
       &:hover
         opacity: .9
       span
