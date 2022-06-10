@@ -1,0 +1,27 @@
+// - - - - - - - - - - Form Post Styles - - - - - - - - - - //
+/* 
+ * "Forms" are a collection type like blogs. They have some added fields to manage
+ * embedded forms in their body content. They have a few overriding styles due to
+ * their mildly different behaviour
+
+.form_post
+  // Form pages can have empty headers when there are no images. Stop them collapsing.
+  header
+    display: flex
+
+  .entry_content
+    h1
+      font-size: 3em
+      text-align: center
+
+    .form_closed_notice
+      font-weight: bold
+      color: #c32a2c
+      text-align: center
+      font-size: 1.2em
+      text-transform: uppercase
+
+  .embed_content
+    display: flex
+    width: auto
+    justify-content: space-around
