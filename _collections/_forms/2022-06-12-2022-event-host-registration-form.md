@@ -21,7 +21,7 @@ description: Register your interest in becoming an Event Host for WHW 2022.
 tag:
   - Form
 ---
-This form is recommended if you are not yet ready to submit a full [Event Application](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/). Registering early allows us to help you in planning your event.
+The form below is recommended if you are not yet ready to submit a full [Event Application](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/). Registering early allows us to help you in planning your event.
 
 By registering early, we can advise you if your event is being planned for a busy day of the festival, has extra health & safety concerns, and more. Addressing these issues early increases your chances of being included in the festival, and is appreciated by our team too!
 
