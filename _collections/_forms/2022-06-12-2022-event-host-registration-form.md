@@ -34,3 +34,8 @@ Once you are ready to submit your full Event Host Application, please head to th
 Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:
 
 Event Host Information PDF
+
+*Wellington Heritage Week is volunteer-run and cannot guarantee funding to event hosts to support their events. Event hosts are solely responsible for the running and organising of their events.*
+
+*We endeavour to include all suitable events within the capacity of the festival. The submission of an
+application to become an event host does not guarantee inclusion in Wellington Heritage Week.*
