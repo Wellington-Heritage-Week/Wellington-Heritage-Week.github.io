@@ -27,15 +27,12 @@ By registering early, we can advise you if your event is being planned for a bus
 
 Event Application forms **must be filled out separately** and are due at 10pm, August 31st, 2022.
 
-Once you are ready to submit your full Event Host Application, please head to this link:
-
+Once you are ready to submit your full Event Host Application, please head to this link:\
 [Event Host Application Form (Online)](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/)
 
-Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:
-
-Event Host Information PDF
+Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
+[Event Host Information PDF](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf)
 
 *Wellington Heritage Week is volunteer-run and cannot guarantee funding to event hosts to support their events. Event hosts are solely responsible for the running and organising of their events.*
 
-*We endeavour to include all suitable events within the capacity of the festival. The submission of an
-application to become an event host does not guarantee inclusion in Wellington Heritage Week.*
+*We endeavour to include all suitable events within the capacity of the festival. The submission of an application to become an event host does not guarantee inclusion in Wellington Heritage Week.*
