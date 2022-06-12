@@ -38,19 +38,19 @@ You don't need to undestand how Ruby works or what it is - just follow the above
 ### Some useful commands from the above
 All of the install ~should~ be covered by the guide above, but if stuff is playing up, or you just want to copy paste commands from here instead of there, here are some extra commands, pointers, and fixes for common errors.
 
-If your Ruby bundler is complaining about a lack of a Gemfile, run this first:
+If your Ruby bundler is complaining about a lack of a Gemfile, run this first:\
 `bundle init`
 
-To install gems in general:
-`bundle add \[gem_name\]` adds a specified module to your Gemfile
+To install gems in general:\
+`bundle add [gem_name]` adds a specified module to your Gemfile\
 `bundle install` installs any gems in your Gemfile
 
-You may need to add a couple of extra things that Jekyll seemed to struggle with, as below:
-`bundle add webrick`
-`bundle add jekyll-sitemap`
+You may need to add a couple of extra things that Jekyll seemed to struggle with, as below:\
+`bundle add webrick`\
+`bundle add jekyll-sitemap`\
 `bundle install`
 
-Once those are all working, you should be able to run:
-`bundle exec jekyll serve`
+Once those are all working, you should be able to run:\
+`bundle exec jekyll serve`\
 and the website should appear at [http://localhost:4000](http://localhost:4000)
 
