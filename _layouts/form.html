@@ -3,7 +3,10 @@ layout: default
 ---
 
 {% comment %} Use this to track if we have an image or not {% endcomment %}
-{% assign has_image = post.img != null and post.img != "" %}
+{% assign has_image = false %}
+{% if post.img != null and post.img != "" %}
+  {% assign has_image = true %}
+{% endif %}
 
 {% include header.html %}
 
