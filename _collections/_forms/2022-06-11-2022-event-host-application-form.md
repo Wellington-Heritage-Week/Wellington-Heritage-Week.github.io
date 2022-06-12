@@ -31,7 +31,7 @@ If you are not yet ready to submit your full Event Host Application, but would l
 [Event Host Registration Form (Online)](https://wellingtonheritageweek.co.nz/form/2022-event-host-registration-form/)
 
 Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
-Event Host Information PDF
+[Event Host Information PDF](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf)
 
 *Wellington Heritage Week is volunteer-run and cannot guarantee funding to event hosts to support their events. Event hosts are solely responsible for the running and organising of their events.*
 
