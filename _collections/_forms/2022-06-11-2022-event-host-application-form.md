@@ -23,7 +23,7 @@ description: Apply to become an Event Host for WHW 2022. Applications close 10pm
 tag:
   - Form
 ---
-This form is required if you wish to be an Event Host for the Wellington Heritage Week 2022 festival. It must be completed before the deadline.
+The form below is **required** if you wish to be an Event Host for the Wellington Heritage Week 2022 festival. It must be completed before the deadline.
 
 Acceptance into the festival is at the provision of all the requested information to a satisfactory standard and subject to the capacity of the festival.
 
