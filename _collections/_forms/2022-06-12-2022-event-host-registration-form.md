@@ -1,12 +1,9 @@
 ---
 layout: form
-title: 2022 - Event Host Registration Form
-intro: >-
-  Register your interest in being an Event Host for Wellington Heritage Week
-  2022, running 24 Oct - 6 Nov.
-
-
-  We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
+title: 2022 - Event Host Registration of Interest Form
+intro: Register your interest in being an Event Host for Wellington Heritage
+  Week 2022, running 24 Oct - 6 Nov. Event Host Applications are required to be
+  submitted separately.
 submissions_open: true
 closed_message: >-
   Event Host registrations are now **closed** for Wellington Heritage Week 2022,
@@ -21,6 +18,8 @@ description: Register your interest in becoming an Event Host for WHW 2022.
 tag:
   - Form
 ---
+We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
+
 The form below is recommended if you are not yet ready to submit a full [Event Application](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/). Registering early allows us to help you in planning your event.
 
 By registering early, we can advise you if your event is being planned for a busy day of the festival, has extra health & safety concerns, and more. Addressing these issues early increases your chances of being included in the festival, and is appreciated by our team too!
