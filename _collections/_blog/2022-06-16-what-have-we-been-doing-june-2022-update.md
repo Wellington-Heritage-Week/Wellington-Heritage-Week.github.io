@@ -20,7 +20,7 @@ This deadline is a month later than previous years, providing us and the communi
 
 **Registrations of Interest for event hosts are no longer required** but are available until August 17th if you are not yet ready to submit a full event application but wish to be on our radar. We recommend registering your interest to host an event so we can plan for your inclusion in the festival and avoid schedule clashes.
 
-You can find Event Applications [here](file://form/2022-event-host-application-form/), and Event Registrations of Interest [here](file://form/2022-event-host-registration-form/). If you prefer to submit over email, download the instructional PDF [here](file://assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf).
+You can find Event Applications [here](/form/2022-event-host-application-form/), and Event Registrations of Interest [here](/form/2022-event-host-registration-form/). If you prefer to submit over email, download the instructional PDF [here](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf).
 
 We are also on the lookout for volunteers to join our 2022 team and help with coordinating event hosts, running our social media platforms, and preparing our newsletters. If you are a whizz with technology and social media, please get in touch at [info@wellingtonheritageweek.co.nz](mailto:info@wellingtonheritageweek.co.nz).
 
