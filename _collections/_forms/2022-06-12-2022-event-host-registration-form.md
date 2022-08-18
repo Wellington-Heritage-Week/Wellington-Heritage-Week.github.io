@@ -4,7 +4,7 @@ title: 2022 - Event Host Registration of Interest Form
 intro: Register your interest in being an Event Host for Wellington Heritage
   Week 2022, running 24 Oct - 6 Nov. Event Host Applications are required to be
   submitted separately.
-submissions_open: true
+submissions_open: false
 closed_message: >-
   Event Host registrations are now **closed** for Wellington Heritage Week 2022,
   but you can still submit an application to be an event host before 10pm August
@@ -20,16 +20,12 @@ tag:
 ---
 We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
 
-The form below is recommended if you are not yet ready to submit a full [Event Application](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/). Registering early allows us to help you in planning your event.
-
-By registering early, we can advise you if your event is being planned for a busy day of the festival, has extra health & safety concerns, and more. Addressing these issues early increases your chances of being included in the festival, and is appreciated by our team too!
-
-Event Application forms **must be filled out separately** and are due at 10pm, August 31st, 2022.
+Event Application forms **must be filled out separately**, even if you filled out a Registration of Interest form earlier, and are due at 10pm, August 31st, 2022.
 
 Once you are ready to submit your full Event Host Application, please head to this link:\
 [Event Host Application Form (Online)](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/)
 
-Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
+Event Host Applications can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
 [Event Host Information PDF](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf)
 
 *Wellington Heritage Week is volunteer-run and cannot guarantee funding to event hosts to support their events. Event hosts are solely responsible for the running and organising of their events.*
