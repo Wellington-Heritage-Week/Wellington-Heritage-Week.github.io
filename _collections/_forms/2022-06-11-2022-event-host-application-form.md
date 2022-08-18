@@ -23,10 +23,9 @@ The form below is **required** if you wish to be an Event Host for the Wellingto
 
 We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
 
-If you are not yet ready to submit your full Event Host Application, but would like to register your interest, please head to this link:\
-[Event Host Registration of Interest Form (Online)](https://wellingtonheritageweek.co.nz/form/2022-event-host-registration-form/)
+If you have previously filled out a Registration of Interest form, please note that you are still required to fill out an Application form as well.
 
-Event Host Application and Registration can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
+Event Host Applications can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
 [Event Host Information PDF](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf)
 
 *Acceptance into the festival is at the provision of all the requested information to a satisfactory standard and subject to the capacity of the festival.*
