@@ -20,7 +20,7 @@ tag:
 ---
 We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
 
-Event Application forms **must be filled out separately** and are due at 10pm, August 31st, 2022.
+Event Application forms **must be filled out separately**, even if you filled out a Registration of Interest form earlier, and are due at 10pm, August 31st, 2022.
 
 Once you are ready to submit your full Event Host Application, please head to this link:\
 [Event Host Application Form (Online)](https://wellingtonheritageweek.co.nz/form/2022-event-host-application-form/)
