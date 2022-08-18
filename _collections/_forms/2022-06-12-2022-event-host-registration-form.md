@@ -4,7 +4,7 @@ title: 2022 - Event Host Registration of Interest Form
 intro: Register your interest in being an Event Host for Wellington Heritage
   Week 2022, running 24 Oct - 6 Nov. Event Host Applications are required to be
   submitted separately.
-submissions_open: true
+submissions_open: false
 closed_message: >-
   Event Host registrations are now **closed** for Wellington Heritage Week 2022,
   but you can still submit an application to be an event host before 10pm August
