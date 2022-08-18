@@ -40,13 +40,15 @@ layout: default
 
       <!-- Page content -->
       <p><strong>{{page.intro}}</strong></p>
-      {{page.content | markdownify}}
+      {{ page.content | markdownify }}
 
       <!-- Embedded forms OR forms closed message -->
       {% if page.submissions_open %}
         <div class="embed_content">{{ page.form }}</div>
       {% else %}
-        <div>{{ page.closed_message }}</div>
+        <div class="form_closed_description">
+          {{ page.closed_message | markdownify }}
+        </div>
       {% endif %}
     </div>
 
