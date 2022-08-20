@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Historic Halfway House Heritage Garden
-location: Wellington City
+location: Johnsonville
 description: Enjoy a walk around a large country garden planted in the Victorian
   style on a historic reserve.
 img: /assets/uploaded/glenside_reserve_event.jpg
