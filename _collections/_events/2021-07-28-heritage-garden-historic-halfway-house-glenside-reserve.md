@@ -20,9 +20,9 @@ tag:
 
 Enjoy a walk around a large country garden planted in the Victorian style on a historic reserve. The garden features an orchard, outdoor seating, and spacious lawns. The garden is also Moth and Butterfly NZ Trust accredited.
 
-Situated halfway between Wellington and Porirua, an earlier house at this site provided accommodation for travellers from around 1841 to 1880. The current house is private and not open for viewing.
+Situated halfway between Wellington and Porirua, an earlier house at this site provided accommodation for travellers from around 1841 to 1880. The current house (built c1880) is occupied by tenants.
 
-Parking is limited in the reserve.  Please drive slowly and be aware of pedestrians. There is car parking on Middleton Road south of Twiglands Garden Centre.
+Parking is limited in the reserve.  Please drive slowly and be aware of pedestrians.
 
 <br>
 
