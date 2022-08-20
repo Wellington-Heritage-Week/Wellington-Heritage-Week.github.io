@@ -69,9 +69,10 @@ layout: default
     </div>
   </section> <!-- End Section Author -->
 
+  {% comment %}
   <section class="recent_box">
     <div class="post_wrapper">
-      <h2 class="recent_title">Recent post</h2>
+      <h2 class="recent_title">Other events</h2>
       <div class="recent_list">
         {% for event in site.events offset:0 limit:6 %}
           {% if event.title %}
@@ -81,6 +82,7 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Recent Box -->
+ {% endcomment %}
   
 </main> <!-- End Section Post Content -->
 
