@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Heritage Garden, Historic Halfway House, Glenside Reserve
+title: Historic Halfway House Heritage Garden
 location: Wellington City
-img: /assets/uploaded/glenside-whw21-min.png
-event_date: 9am–5pm Mon 25–Sun 31 Oct
+description: Enjoy a walk around a large country garden planted in the Victorian
+  style on a historic reserve.
+img: /assets/uploaded/glenside_reserve_event.jpg
+event_date: 8am–8pm Mon 26 Oct – Sun 6 Nov
 host:
   name: Heritage Gardeners
-  blurb: The Heritage Gardeners are volunteers who tend the garden at the historic
-    Halfway House.
+  blurb: The Heritage Gardeners are community volunteers planting the garden of
+    the historic Halfway House as a Victorian country garden. We use plants that
+    were in New Zealand before 1900.
   email: info@glenside.org.nz
   phone: 022 186 5714
 tag:
@@ -15,17 +18,17 @@ tag:
 ---
 **The Heritage Garden at the historic Halfway House in Glenside Reserve is open daily to view. The Heritage Gardeners have created a rural Victorian garden using plants in New Zealand before 1900.** 
 
-The garden features an orchard, flower bank, and natural fernery. On Sunday 31 October at 2:00pm there will be a presentation recognising the garden achieving status as a Butterfly Habitat certified garden. 
+Enjoy a walk around a large country garden planted in the Victorian style on a historic reserve. The garden features an orchard, outdoor seating, and spacious lawns. The garden is also Moth and Butterfly NZ Trust accredited.
 
-The Moths and Butterflies of NZ Trust will have a sales table and the Heritage Gardeners will be selling garden seed from their collection.
+Situated halfway between Wellington and Porirua, an earlier house at this site provided accommodation for travellers from around 1841 to 1880. The current house is private and not open for viewing.
 
-Parking is limited in the reserve. There is car parking on Middleton Road south of Twiglands Garden Centre.
+Parking is limited in the reserve.  Please drive slowly and be aware of pedestrians. There is car parking on Middleton Road south of Twiglands Garden Centre.
 
 <br>
 
 **No booking is required.** 
 
-**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Road Glenside. Next to Twiglands Garden Centre and Thyme Café.
+**Location:** Historic Halfway House, Glenside Reserve, 246 Middleton Road Glenside. Up the lane on the north side of Twiglands Garden Centre.
 
 **Cost:** Free
 
