@@ -3,10 +3,10 @@ layout: form
 title: 2022 - Event Host Application Form
 intro: Apply to become an Event Host for Wellington Heritage Week 2022, running
   24 Oct - 6 Nov. Applications close 10pm, August 31st, 2022.
-submissions_open: true
+submissions_open: false
 closed_message: >-
   Event Host applications are now **closed** for Wellington Heritage Week 2022,
-  as of 10pm August 31st.
+  as of 10pm, August 31st.
 
 
   Thank you to everyone who submitted. We will be finalising decisions on what events are included in the festival, as well as updating the website with the applied events, in the next few weeks.
@@ -24,9 +24,6 @@ The form below is **required** if you wish to be an Event Host for the Wellingto
 We encourage event hosts to showcase a unique and interesting story, person, or place from the Wellington region. It is free to be an event host.
 
 If you have previously filled out a Registration of Interest form, please note that you are still required to fill out an Application form as well.
-
-Event Host Applications can be submitted by email if preferred. To do so, please follow the instructions in this PDF:\
-[Event Host Information PDF](/assets/uploaded/wellington-heritage-week-event-host-information-2022.pdf)
 
 *Acceptance into the festival is at the provision of all the requested information to a satisfactory standard and subject to the capacity of the festival.*
 
