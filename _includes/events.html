@@ -1,26 +1,27 @@
 <div class="section-title">
-<!--    <h1>Heritage Stays:</h1>
-    <br />
+  <h1>Heritage Stays:</h1>
+  <br />
 </div>
 {% for event in site.events %}
-    {% if event.hotel == true %}
-        <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
-            <div class="hotel-card">
-                <div class="hotel-img">
-                    <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
-                </div>
-                <div class="hotel-details">
-                    <h2>{{event.title}}</h2>
-                    <div class="hotel-text">{{ event.hotel_text | markdownify}}</div>
-                    <hr />
-                    <div class="hotel-price">
-                        {{ event.availability_text | markdownify}}
-                    </div>
-                </div>
-            </div>
-        </a>
-    {% endif %}
-{% endfor %}-->
+  {% if event.hotel == true %}
+    <a href="{{event.url | prepend: site.baseurl}}" class="hotel-link">
+      <div class="hotel-card">
+        <div class="hotel-img">
+          <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+        </div>
+        <div class="hotel-details">
+          <h2>{{event.title}}</h2>
+          <div class="hotel-text">{{ event.hotel_text | markdownify}}</div>
+          <hr />
+          <div class="hotel-price">
+            {{ event.availability_text | markdownify}}
+          </div>
+        </div>
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
+{% endcomment %}
 
 
 <div class="section-title">
@@ -33,107 +34,108 @@
     </div>
 </div>
 {% for event in site.events %}
-    <!--{% if event.hotel == Nil or event.hotel == false %}-->
-    <div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}"
-         data-location="{{ event.location }}">
-        <a href="{{event.url | prepend: site.baseurl}}">
-            {% if event.img %}
-            <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
-            {% endif %}
-            <div class="chapter_inner">
-                <h3 class="chapter_title">{{event.title}}</h3>
-                <p class="chapter_number">{{event.event_date}}</p>
-            </div>
-            {% if event.booked_out %}
-            <div class="ribbon"><span>Sold Out</span></div>
-            {% endif %}
-            {% if event.book_promotion %}
-            <div class="ribbon2"><span>Cancelled</span></div>
-            {% endif %}
-        </a>
+<!--{% if event.hotel == Nil or event.hotel == false %}-->
+<div class="chapter event-card" data-tags="{% for t in event.tag %}{{t}},{% endfor %}"
+  data-location="{{ event.location }}">
+  <a href="{{event.url | prepend: site.baseurl}}">
+    {% if event.img %}
+        <img src="{{site.baseurl}}{{ event.img }}" alt="{{event.title}}">
+    {% endif %}
+    <div class="chapter_inner">
+      <h3 class="chapter_title">{{event.title}}</h3>
+      <p class="chapter_number">{{event.event_date}}</p>
     </div>
-    <!--{% endif %}-->
+    {% if event.booked_out %}
+        <div class="ribbon"><span>Sold Out</span></div>
+    {% endif %}
+    {% if event.book_promotion %}
+        <div class="ribbon2"><span>Cancelled</span></div>
+    {% endif %}
+  </a>
+</div>
+<!--{% endif %}-->
 {% endfor %}
+
 <script>
-    let eventCards = document.getElementsByClassName('event-card');
-    let tagMap = {
-        'Event Type': Array.from(eventCards)
-    }, locationMap = {
-        'All Locations': Array.from(eventCards)
-    };
-    for (let a = 0; a < eventCards.length; a++) {
-        let location = eventCards[a].getAttribute('data-location') || 'Unknown Location';
-        let tags = eventCards[a].getAttribute('data-tags');
+  let eventCards = document.getElementsByClassName('event-card');
+  let tagMap = {
+    'All Event Types': Array.from(eventCards)
+  }, locationMap = {
+    'All Locations': Array.from(eventCards)
+  };
+  for (let a = 0; a < eventCards.length; a++) {
+    let location = eventCards[a].getAttribute('data-location') || 'Unknown Location';
+    let tags = eventCards[a].getAttribute('data-tags');
 
-        if (!locationMap[location]) {
-            locationMap[location] = [];
-        }
-        locationMap[location].push(eventCards[a]);
-
-        if (!tags) {
-            continue;
-        }
-        tags = tags.split(',');
-        for (let b = 0; b < tags.length; b++) {
-            if (tags[b]) {
-                if (!tagMap[tags[b]]) {
-                    tagMap[tags[b]] = [];
-                }
-                tagMap[tags[b]].push(eventCards[a]);
-            }
-        }
+    if (!locationMap[location]) {
+      locationMap[location] = [];
     }
+    locationMap[location].push(eventCards[a]);
 
-    let locationSelector = document.querySelector('select.location');
-    let tagSelector = document.querySelector('select.tag');
-
-    for (let tag in tagMap) {
-        if (!tagMap.hasOwnProperty(tag)) {
-            continue;
-        }
-        let option = document.createElement('option');
-        option.text = tag;
-        option.value = tag;
-        tagSelector.add(option);
+    if (!tags) {
+      continue;
     }
-
-    for (let location in locationMap) {
-        if (!locationMap.hasOwnProperty(location)) {
-            continue;
+    tags = tags.split(',');
+    for (let b = 0; b < tags.length; b++) {
+      if (tags[b]) {
+        if (!tagMap[tags[b]]) {
+          tagMap[tags[b]] = [];
         }
-        let option = document.createElement('option');
-        option.text = location;
-        option.value = location;
-        locationSelector.add(option);
+        tagMap[tags[b]].push(eventCards[a]);
+      }
     }
+  }
 
-    tagSelector.selectedIndex = localStorage.getItem('selectedTagIndex') || 0;
-    locationSelector.selectedIndex = localStorage.getItem('selectedLocationIndex') || 0;
+  let locationSelector = document.querySelector('select.location');
+  let tagSelector = document.querySelector('select.tag');
 
-    let selectedTag = tagSelector.selectedOptions[0].text;
-    let selectedLocation = locationSelector.selectedOptions[0].text;
+  for (let tag in tagMap) {
+    if (!tagMap.hasOwnProperty(tag)) {
+      continue;
+    }
+    let option = document.createElement('option');
+    option.text = tag;
+    option.value = tag;
+    tagSelector.add(option);
+  }
 
+  for (let location in locationMap) {
+    if (!locationMap.hasOwnProperty(location)) {
+      continue;
+    }
+    let option = document.createElement('option');
+    option.text = location;
+    option.value = location;
+    locationSelector.add(option);
+  }
+
+  tagSelector.selectedIndex = localStorage.getItem('selectedTagIndex') || 0;
+  locationSelector.selectedIndex = localStorage.getItem('selectedLocationIndex') || 0;
+
+  let selectedTag = tagSelector.selectedOptions[0].text;
+  let selectedLocation = locationSelector.selectedOptions[0].text;
+
+  updateEvents();
+
+  tagSelector.addEventListener('change', function () {
+    localStorage.setItem('selectedTagIndex', tagSelector.selectedIndex);
+    selectedTag = tagSelector.selectedOptions[0].text;
     updateEvents();
+  });
 
-    tagSelector.addEventListener('change', function () {
-        localStorage.setItem('selectedTagIndex', tagSelector.selectedIndex);
-        selectedTag = tagSelector.selectedOptions[0].text;
-        updateEvents();
-    });
+  locationSelector.addEventListener('change', function () {
+    localStorage.setItem('selectedLocationIndex', locationSelector.selectedIndex);
+    selectedLocation = locationSelector.selectedOptions[0].text;
+    updateEvents();
+  });
 
-    locationSelector.addEventListener('change', function () {
-        localStorage.setItem('selectedLocationIndex', locationSelector.selectedIndex);
-        selectedLocation = locationSelector.selectedOptions[0].text;
-        updateEvents();
-    });
-
-    function updateEvents() {
-        for (let a = 0; a < eventCards.length; a++) {
-            if (tagMap[selectedTag].indexOf(eventCards[a]) !== -1 && locationMap[selectedLocation].indexOf(eventCards[a]) !== -1) {
-                eventCards[a].style.display = '';
-            } else {
-                eventCards[a].style.display = 'none';
-            }
-        }
+  function updateEvents() {
+    for (let a = 0; a < eventCards.length; a++) {
+      if (tagMap[selectedTag].indexOf(eventCards[a]) !== -1 && locationMap[selectedLocation].indexOf(eventCards[a]) !== -1) {
+        eventCards[a].style.display = '';
+      } else {
+        eventCards[a].style.display = 'none';
+      }
     }
+  }
 </script>
