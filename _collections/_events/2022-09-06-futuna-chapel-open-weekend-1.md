@@ -29,6 +29,8 @@ This is an opportunity to see and experience the unique result of the collaborat
 
 The Chapel is open to be explored and trustees will be on hand to welcome visitors, answer questions and help reveal the Chapel's secrets and stories.
 
+The chapel will also be open on the 5th and 6th of November. Details can be found <a href="/event/futuna-chapel-open-weekend-1/">here.</a>
+
 *Wheelchair access is available.*
 
 *Koha would be appreciated.*
