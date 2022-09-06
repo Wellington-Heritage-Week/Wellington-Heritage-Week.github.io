@@ -6,7 +6,7 @@ description: Hear from architectural historian Elizabeth Cox, and architects
   Chessa Stevens and Lianne Cox, about their work in the conservation and
   preservation of heritage buildings.
 img: /assets/uploaded/22-futuna_conservation_talk.jpg
-event_date: 2:00pm Sun 6 Nov
+event_date: 2pm Sun 6 Nov
 host:
   name: Friends of Futuna Charitable Trust
   blurb: "The Friends of Futuna Charitable Trust are the current guardians and
