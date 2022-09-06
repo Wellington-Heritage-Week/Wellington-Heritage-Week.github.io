@@ -5,7 +5,7 @@ location: Johnsonville
 description: Enjoy a walk around a large country garden planted in the Victorian
   style on a historic reserve.
 img: /assets/uploaded/glenside_reserve_event.jpg
-event_date: 8am–8pm Mon 26 Oct – Sun 6 Nov
+event_date: 8am–8pm, Mon 26 Oct – Sun 6 Nov
 host:
   name: Heritage Gardeners
   blurb: The Heritage Gardeners are community volunteers planting the garden of
