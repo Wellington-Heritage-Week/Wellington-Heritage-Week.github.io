@@ -4,6 +4,7 @@ title: Pukerua Through Brush and Lens
 location: Pukerua Bay
 description: An annotated display of art works and photographs of Pukerua Bay
   from the 1840s.
+img: /assets/uploaded/22-pukerua.jpg
 event_date: 9:30am-5pm Sat 5 Nov
 host:
   name: He Ara Pukerua
