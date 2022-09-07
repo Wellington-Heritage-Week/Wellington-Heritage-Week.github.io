@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Wellington - A Guided "CBD South Walk
+title: Wellington - A Guided "CBD South" Walk
 location: Wellington City
+description: An easy discussion stroll from Post Office Square to Old Bank
+  Arcade, Willis Street, up to Boulcott Street, Antrim House, St Mary of the
+  Angels, Manners and Cuba Street to the waterfront to finish at Chaffers
+  Marina.
 img: /assets/uploaded/hd-ww-feet-logo-1-.jpg
 event_date: 2pm Sat 29 Oct
 host:
