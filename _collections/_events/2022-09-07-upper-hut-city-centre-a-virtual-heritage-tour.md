@@ -2,6 +2,7 @@
 layout: post
 title: "Upper Hut City Centre: A Virtual Heritage Tour"
 location: Wellington City
+img: /assets/uploaded/upper-hutt-main-street-c1910.jpg
 event_date: 1pm Sat 29 Oct
 host:
   name: Upper Hutt Libraries / Ngā Puna Mātauranga o Te Awa Kairangi ki Uta
