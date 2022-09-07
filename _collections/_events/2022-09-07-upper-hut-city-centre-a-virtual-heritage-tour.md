@@ -11,7 +11,7 @@ host:
     Upper Hutt Heritage Collections and Upper Hutt Recollect, our local history
     website.
   email: heritage@uhcc.govt.nz
-  phone: "21864957"
+  phone: "021864957"
 tag:
   - Talk
   - Walking Tour
