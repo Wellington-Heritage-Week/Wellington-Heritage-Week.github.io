@@ -4,6 +4,7 @@ title: Onslow Historical Society - Labour Day Walk with Chris Horne
 location: Wellington City
 description: '"Four Streams and Three Ridges" - an urban walk from Boulcott
   Street to the Botanical Gardens Rose Garden, lead by Chris Horne.'
+img: /assets/uploaded/onslow-historical-society-centre-exhibition-wellington-heritage-week.png
 event_date: 10:30am-2:30pm Mon 24 Oct
 host:
   phone: 027 345 0374
@@ -25,7 +26,7 @@ Make sure to wear good walking shoes and clothes for all weathers. There will be
 
 **Booking is required.**
 
-Please email (siersjudy@gmail.com)[mailto:siersjudy@gmail.com] to book for this event.
+Please email [siersjudy@gmail.com](mailto:siersjudy@gmail.com) to book for this event.
 
 **Location:** Meeting at O'Reilly Avenue, lower Boulcott Street. Ending at the Rose Garden, Botanical Gardens.
 
