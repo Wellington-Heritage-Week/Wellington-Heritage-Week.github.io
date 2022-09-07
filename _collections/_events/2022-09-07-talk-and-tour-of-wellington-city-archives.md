@@ -26,7 +26,7 @@ Established in 1994, the Council archives were housed in a single purpose-built 
 
 **Booking is required.**
 
-<a href="LINK" class="button">Book the tour</a>
+To book this tour, please contact Wellington City Archives at [archives@wcc.govt.nz](mailto:archives@wcc.govt.nz) or [04 801 2096](tel:+6448012096).
 
 **Location:** 28 Barker Street, Te Aro
 
