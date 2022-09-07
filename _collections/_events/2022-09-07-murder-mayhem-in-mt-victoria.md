@@ -2,6 +2,7 @@
 layout: post
 title: Murder & Mayhem in Mt Victoria
 location: Wellington City
+img: /assets/uploaded/tram-crash-2.jpg
 event_date: 2pm Sun 30 Oct
 host:
   name: Mt Victoria Historical Society
@@ -30,4 +31,4 @@ The guided walk is hosted by Alan Olliver, a foundation member and current membe
 
 **Cost:** Free
 
-**Health & Safety:** HEALTH
+**Health & Safety:** Pedestrian safety crossing roads.
