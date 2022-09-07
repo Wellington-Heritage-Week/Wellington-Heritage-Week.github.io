@@ -5,7 +5,7 @@ location: Wellington City
 img: /assets/uploaded/see-the-old-through-new-eyes.jpg
 event_date: Mon 24 Oct
 host:
-  phone: "44991400"
+  phone: "044991400"
   email: treehouse@wcc.govt.nz
   blurb: A community group of volunteers supporting the work of Wellington Botanic
     Garden
