@@ -25,7 +25,7 @@ Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Histroic 
 
 **Booking is required.**
 
-<a href="LINK" class="button">Book the tour</a>
+To book this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
 
 **Location:** Meet on the corner of Patrick St and Jackson St, Petone
 
