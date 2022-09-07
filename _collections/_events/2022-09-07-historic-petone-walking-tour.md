@@ -26,7 +26,7 @@ Come and ecplore the fascinating history of this special place with people who a
 
 **Booking is required.**
 
-<a href="LINK" class="button">Book the tour</a>
+To book this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
 
 **Location:** Petone Community House, 6 Britannia Street, Petone
 
