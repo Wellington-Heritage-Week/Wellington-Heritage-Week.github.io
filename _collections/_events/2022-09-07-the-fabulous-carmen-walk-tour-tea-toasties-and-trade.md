@@ -13,7 +13,7 @@ host:
     highlighting the city’s rich LGBTI rainbow heritage.
   email: walks@taonga.nz
 tag:
-  - Event
+  - Walking Tour
 ---
 **Entrepreneur, entertainer, madam, and mayoral candidate Carmen Rupe was based in Wellington for less than 15-years but has left us a rich legacy of memories and inspiring moments.**
  
