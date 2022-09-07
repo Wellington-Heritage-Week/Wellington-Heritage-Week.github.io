@@ -4,6 +4,7 @@ title: "Home for Compassion Open Day: Suzanne Aubert Meri Hōhepa's Plants and G
 location: Wellington City
 description: An Open Day at the Home of Compassion featuring talks and tours on
   Suzanne Aubert Meri Hōhepa's plants and gardens.
+img: /assets/uploaded/home-of-compassion-open-day.jpg
 event_date: 10am-2pm Sat 5 Nov
 host:
   name: Suzanne Aubert Heritage Centre To Pouhere Taonga o Meri Hōhepa, Our Lady's
@@ -12,7 +13,7 @@ host:
     the resting place of Suzanne Aubert Meri Hōhepa
   email: heritagecentre@compassion.org.nz
   phone: 04 282 1953
-  image: /assets/uploaded/home-of-compassion-open-day.jpg
+  image: ""
 tag:
   - Open Day
 ---
