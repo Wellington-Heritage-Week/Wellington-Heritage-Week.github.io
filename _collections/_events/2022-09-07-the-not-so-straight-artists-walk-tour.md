@@ -14,7 +14,7 @@ host:
     highlighting the city’s rich LGBTI rainbow heritage.
   email: walks@taonga.nz
 tag:
-  - Event
+  - Walking Tour
 ---
 **Join us on this 90-minute walk tour of inner Wellington (Bowen/Bolton Street area) as we explore some of the locations and stories associated with artists, writers, musicians who are in some way related to Rainbow LGBTI+ communities.**
 
