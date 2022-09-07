@@ -11,13 +11,8 @@ host:
     Garden
   name: Friends of Wellington Botanic Garden
 tag:
-  - Event
+  - Walking Tour
 ---
-Come along to the Wellington Botanic Garden for a downhill stroll through the old, and regenerating, vegetation on the Pukatea Bush walk.\
-You'll get to see what the very early botanists from Europe saw and described as “new to science.” A fascinating snapshot into past lives.\
-Meet at the Cable Car Entrance Lookout, Upland Road, Kelburn.\
-$5 per person - cash only please.
-
 **Come along to the Wellington Botanic Gardin for a downhill stroll through the old, and regenerating, vegetation on the Pukatea Bush walk.**
 
 *You'll get to see what the very early botanists from Europe saw and described as "new science". A fascinating snapshot into past lives.*
