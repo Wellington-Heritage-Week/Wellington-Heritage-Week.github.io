@@ -2,6 +2,8 @@
 layout: post
 title: Murder & Mayhem in Mt Victoria
 location: Wellington City
+description: A guided walk of historic Mt Victoria, to hear the stories and see
+  the sites of vicious murders, raging fires, a tram tragedy, and much more
 img: /assets/uploaded/tram-crash-2.jpg
 event_date: 2pm Sun 30 Oct
 host:
@@ -11,7 +13,6 @@ host:
   phone: "0211229875"
 tag:
   - Walking Tour
-  - Talk
 ---
 **A guided walk of historic Mt Victoria, to hear the stories and see the sites of vicious murders, raging fires, a tram tragedy, and much more**
 
@@ -23,7 +24,7 @@ The guided walk is hosted by Alan Olliver, a foundation member and current membe
 
 **Booking is required.**
 
-<a href="LINK" class="button">Book the tour</a>
+To book this tour, please contact Alan Olliver at \[021 1229 875](tel:+64211229875).
 
 **Location:** St Gerard's Monastery carpark, Hawker Street.
 
