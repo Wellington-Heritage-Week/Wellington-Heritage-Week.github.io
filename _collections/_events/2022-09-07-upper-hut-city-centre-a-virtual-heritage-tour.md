@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Upper Hut City Centre: A Virtual Heritage Tour"
+title: "Upper Hutt City Centre: A Virtual Heritage Tour"
 location: Wellington City
+description: An illustrated presentation about the history of Upper Hutt's city
+  centre by Reid Perkins, the City Council's Heritage Advisor.
 img: /assets/uploaded/upper-hutt-main-street-c1910.jpg
 event_date: 1pm Sat 29 Oct
 host:
@@ -31,5 +33,3 @@ The talk will take the form of a virtual walking tour of the CBD, with location-
 **Duration:** 1 Hour
 
 **Cost:** Free
-
-**Health & Safety:** Health and safety information will be provided onsite.
