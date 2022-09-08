@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celebraing Queen Elizabeth II's 70 Year Reign
+title: Celebrating Queen Elizabeth II's 70 Year Reign
 location: Upper Hutt
 description: Golder Cottage has mounted a display of memoriabilia from Upper
   Hutt residents to mark the 70 year reign of HM Queen Elizabeth II.
@@ -18,7 +18,7 @@ tag:
   - Open Day
   - Exhibition/Museum
 ---
-**Golder Cottage has mounted a display of memoriabilia from Upper Hutt residents to mark the 70 year reign of HM Queen Elizabeth II.**
+**Golder Cottage has mounted a display of memorabilia from Upper Hutt residents to mark the 70 year reign of HM Queen Elizabeth II.**
 
 Included are a 70 year old model of the Golden Coronation Coach, a souvenir programme of all the proceedings from the Coronation, souvenir mugs, NZ stamps to mark the occasion of the Coronation and brooches, plus a jig saw from the era.
 
