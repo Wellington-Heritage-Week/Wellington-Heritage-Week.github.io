@@ -3,7 +3,7 @@ layout: post
 title: Seeing the Old Through New Eyes
 location: Wellington City
 img: /assets/uploaded/see-the-old-through-new-eyes.jpg
-event_date: Mon 24 Oct
+event_date: 11am Mon 24 Oct
 host:
   phone: "044991400"
   email: treehouse@wcc.govt.nz
