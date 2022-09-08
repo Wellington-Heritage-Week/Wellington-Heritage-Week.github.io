@@ -20,6 +20,7 @@ host:
   website: https://experiencewellington.org.nz/
 tag:
   - Talk
+  - Tour
 ---
 **Join us for a special Heritage Week event. Victoria University PhD candidate Eva Forster-Garbutt will discuss the changes in the interior layout and design of our early homes, between 1840 and 1914.**
 
