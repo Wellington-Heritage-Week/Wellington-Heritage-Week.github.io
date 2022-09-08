@@ -5,6 +5,7 @@ location: Wellington City
 description: Join us to hear Victoria University PhD candidate Eva
   Forster-Garbutt discuss the changes in the interior layout and design of our
   early homes, between 1840 and 1914.
+img: /assets/uploaded/22_nairn_st.jpg
 event_date: 1pm Sat 5 Nov
 host:
   email: "museumtours@experiencewellington.org.nz "
