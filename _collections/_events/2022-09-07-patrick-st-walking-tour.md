@@ -2,6 +2,9 @@
 layout: post
 title: Patrick St Walking Tour
 location: Wellington City
+description: Join local residents for a walk down Petone's historic Patrick St,
+  the only remaining street largely developed under the 1906 Worker's Dwelling
+  Act, and a protected heritage area.
 img: /assets/uploaded/patrick-st-walking-tour.jpg
 event_date: 10am Sat 29 Oct & Sat 5 Nov
 host:
@@ -21,6 +24,8 @@ Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Histroic 
 
 *Numbers are limited so book quickly to get a spot.*
 
+*Please dress to the weather and have appropriate footwear.*
+
 <br>
 
 **Booking is required.**
@@ -32,5 +37,3 @@ To book this tour, please contact Petone Historical Society at [petonehistories@
 **Duration:** 1-1.5 Hours
 
 **Cost:** Free
-
-**Health & Safety:** Please dress to the weather and have appropriate footwear. This is an outdoor walk, and will involve street crossings. A safety briefing will be given at the beginning of the event.
