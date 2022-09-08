@@ -12,7 +12,8 @@ host:
   email: bookings@walkwellington.org.nz
   phone: "021434500"
 tag:
-  - Event
+  - Walking Tour
+  - Talk
 ---
 **An easy discussion stroll from Post Office Square, along the waterfront to the Railway Station, Parliament area, Supreme Court, Lambton Quay and finishing at Cable Car Lane.** 
 
