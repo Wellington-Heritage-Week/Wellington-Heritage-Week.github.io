@@ -4,6 +4,7 @@ title: Christ Church Taitā Open Afternoon
 location: Wellington City
 description: The historic 1854 Christ Church will be open, without charge, from
   1 to 4pm on Sunday 30 October 2022, with guided tours of the graveyard.
+img: /assets/uploaded/22_taita.jpg
 event_date: 1-4pm Sun 30 Oct
 host:
   phone: 04 4766247
