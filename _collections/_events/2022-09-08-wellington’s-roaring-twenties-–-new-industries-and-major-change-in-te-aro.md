@@ -6,7 +6,7 @@ description: Dr Richard Norman, formerly with the School of Business and
   Government at Victoria University of Wellington will use a new model of Te Aro
   from the 1920s and photographs to show stages of change in Te Aro.
 img: /assets/uploaded/22_te_aro.jpg
-event_date: 1:30pm Sun 25 Oct
+event_date: 1:30pm Sun 30 Oct
 host:
   name: St Peter’s Church
   blurb: St Peter’s church is a Wellington landmark, and was opened in 1879.
