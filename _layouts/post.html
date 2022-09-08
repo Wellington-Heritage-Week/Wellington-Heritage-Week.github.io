@@ -78,7 +78,9 @@ layout: default
       <div class="recent_list">
         {% for event in site.events offset:0 limit:6 %}
           {% if event.title %}
-            <a href="{{ root_url }}{{ event.url }}" class="recent_item" style="background-image: url( {{ event.img | prepend: site.baseurl}} )"><span>{{ event.title }}</span></a>
+            <a href="{{ root_url }}{{ event.url }}" class="recent_item" style="background-image: url( {{ event.img | prepend: site.baseurl}} )">
+              <span class="recent_item_darkened">{{ event.title }}</span>
+            </a>
           {% endif %}
         {% endfor %}
       </div>
