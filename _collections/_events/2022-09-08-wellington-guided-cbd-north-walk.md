@@ -2,6 +2,9 @@
 layout: post
 title: Wellington - Guided "CBD North" Walk
 location: Wellington City
+description: An easy discussion stroll from Post Office Square, along the
+  waterfront to the Railway Station, Parliament area, Supreme Court, Lambton
+  Quay and finishing at Cable Car Lane.
 img: /assets/uploaded/hd-ww-feet-logo-2-.jpg
 event_date: 10:30am Wed 26 Oct
 host:
@@ -19,6 +22,8 @@ tag:
 
 *Please arrive by 10:20am for a 10:30am start.*
 
+*This walk is wheelchair friendly except for steps to enter the Old Government Building.*
+
 <br>
 
 **Booking is required.**
@@ -30,5 +35,3 @@ To book this tour, please contact Walk Wellington Inc at [bookings@walkwellingto
 **Duration:** 90 Minutes
 
 **Cost:** Koha
-
-**Health & Safety:** The walk is on refular inner city footpaths using controlled pedestrian corssing. This walk is wheelchair friendly except for steps to enter Old Government Building.
