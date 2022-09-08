@@ -24,12 +24,10 @@ The guided walk is hosted by Alan Olliver, a foundation member and current membe
 
 **Booking is required.**
 
-To book this tour, please contact Alan Olliver at \[021 1229 875](tel:+64211229875).
+To book this tour, please contact Alan Olliver at [021 1229 875](tel:+64211229875).
 
 **Location:** St Gerard's Monastery carpark, Hawker Street.
 
 **Duration:** 1.5-2 Hours
 
 **Cost:** Free
-
-**Health & Safety:** Pedestrian safety crossing roads.
