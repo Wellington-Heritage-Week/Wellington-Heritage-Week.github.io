@@ -4,6 +4,7 @@ title: "Katherine Mansfield's Thorndon: Guided Walking Tour"
 location: Wellington City
 description: Explore the Thorndon that Katherine Mansfield knew and the traces
   of her legacy that remain in the landscape today.
+img: /assets/uploaded/22_katherine.jpg
 event_date: 10am Tue 25 Oct & Sat 29 Oct
 host:
   name: Katherine Mansfield House & Garden and the National Library
