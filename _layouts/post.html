@@ -75,7 +75,12 @@ layout: default
     <div class="post_wrapper">
       <h2 class="recent_title">Other events</h2>
       <div class="recent_list">
-        {% for event in site.events offset:0 limit:6 %}
+        {% assign range = site.events.size | minus: 7 %}
+        {% assign randomOffset = "now" | date: "%N" | modulo: range %}
+        {% if randomOffset < 0 %}
+          {% assign randomOffset = 0 %}
+        {% endif %}
+        {% for event in site.events offset:randomOffset limit:6 %}
           {% if event.title %}
             <a href="{{ root_url }}{{ event.url }}" class="recent_item" style="background-image: url( {{ event.img | prepend: site.baseurl}} )">
               <span class="recent_item_darkened">{{ event.title }}</span>
