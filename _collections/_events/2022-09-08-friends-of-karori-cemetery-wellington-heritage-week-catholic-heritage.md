@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friends of Karori Cemetery - Wellington Heritage Week: Catholic Heritage"
+title: "Friends of Karori Cemetery: Catholic Heritage"
 location: Karori
 description: Our City, Our Country, Our Heritage - Catholic Heritage Tour. Join
   this tour to learn more about them all, and explore the fascinating Karori
