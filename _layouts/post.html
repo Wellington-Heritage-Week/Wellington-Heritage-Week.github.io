@@ -7,7 +7,9 @@ layout: default
   <article class="post">
     <header>
       <div class="post_image">
-        <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
+        <div class="image-wrapper">
+          <img src={{ page.img | prepend: site.baseurl}} alt="{{page.title}}">
+        </div>
         {% if page.booked_out %}
         <div class="ribbon large"><span>Sold Out</span></div>
         {% endif %}
