@@ -22,16 +22,16 @@ tag:
 
 *Please arrive by 1:50pm for a 2pm start.*
 
+*This walk is not recommended for people in wheelchairs or with mobility issues.*
+
 <br>
 
 **Booking is required.**
 
-<a href="bookings@walkwellington.org.nz" class="button">Book the tour</a>
+To book this tour, please contact Walk Wellington Inc at [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz)
 
 **Location:** Start from the historic 'Red Phone Box' in Post Office Square opposite Queen's Wharf
 
 **Duration:** 90 Minutes
 
 **Cost:** Koha
-
-**Health & Safety:** The walk is on regular inner-city footpaths using controlled pedestrian crossing wherever possible. There are some steps and sloping areas. This walk is not recommended for people in wheelchairs or with mobility issues.
