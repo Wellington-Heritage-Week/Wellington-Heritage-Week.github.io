@@ -2,6 +2,8 @@
 layout: post
 title: Talk and Tour of Wellington City Archives
 location: Wellington City
+description: Come along to Wellington City Archives for an insightful talk about
+  our collections followed by a behind the scenes tour.
 img: /assets/uploaded/stacks-landscape.jpg
 event_date: 10am, 11am, 12pm Mon 24 Oct & Sat 5 Nov
 host:
@@ -12,9 +14,8 @@ host:
   email: archives@wcc.govt.nz
   phone: 04 801 2096
 tag:
-  - Walking Tour
+  - Tour
   - Talk
-  - ""
 ---
 **Come along to Wellington City Archives for an insightful talk about our collections followed by a behind the scenes tour.**
 
