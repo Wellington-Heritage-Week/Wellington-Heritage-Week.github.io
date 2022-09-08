@@ -2,6 +2,8 @@
 layout: post
 title: Historic Petone Walking Tour
 location: Wellington City
+description: The session will cover themes of Petone's early settlement,
+  industrialisation, and the history and development of Jackson Street.
 img: /assets/uploaded/petone-walking-tour.jpg
 event_date: 1pm Fri 28 & Sun 30 Oct
 host:
@@ -22,6 +24,8 @@ Come and ecplore the fascinating history of this special place with people who a
 
 *Numbers are limited so please book in advance to secure a spot.*
 
+*Please dress for the weather and suitable footwear.*
+
 <br>
 
 **Booking is required.**
@@ -33,5 +37,3 @@ To book this tour, please contact Petone Historical Society at [petonehistories@
 **Duration:** 1-2 Hours
 
 **Cost:** Free
-
-**Health & Safety:** Street crossings in busy commercial areas will be involved in the tour. Please dress for the weather and suitable footwar. Safety briefing will be made on the day.
