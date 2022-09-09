@@ -21,6 +21,8 @@ This includes scenes of the north- west region of the city from today's suburb o
 
 The exhibition will be available for private viewings and tours via bookings throughout the festival. It will be open to the public between 1-4pm on Sunday 30th October and Sunday 6th November without a booking.
 
+If you want to see some similar works and read more about them ahead of time, please check out this PDF article, provided by The Onslow Historian, [here](/assets/uploaded/OHS_Artists_med-res.pdf).
+
 *Wheelchair access is available. Parking on Khandallah Road is available.*
 
 <br>
