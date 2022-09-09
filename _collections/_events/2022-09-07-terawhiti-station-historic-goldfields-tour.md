@@ -35,7 +35,7 @@ To join this tour, you must have access to a 4WD vehicle, as it will involve dri
 
 To book this tour, please contact David Watt at [dwatt@heritage.org.nz](mailto:dwatt@heritage.org.nz) or [027 2466 339](tel:+64272466339).
 
-**Location:** Terawhiti Station 900 South Makara Rd, Wellington
+**Location:** Terawhiti Station 220 South Makara Rd, Wellington
 
 **Duration:** 5 hours
 
