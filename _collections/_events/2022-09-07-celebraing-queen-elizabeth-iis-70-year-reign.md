@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A tribute to Queen Elizabeth II's 70 Year Reign
+title: A Tribute to Queen Elizabeth II's 70 Year Reign
 location: Upper Hutt
 description: Golder Cottage has mounted a display of memoriabilia from Upper
   Hutt residents to pay tribute to the 70 year reign of HM Queen Elizabeth II.
