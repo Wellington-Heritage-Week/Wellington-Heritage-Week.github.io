@@ -2,6 +2,8 @@
 layout: post
 title: Memorial Trees of Pukeahu National War Memorial Park
 location: Wellington City
+description: What makes a good memorial tree? Why do some trees survive and
+  others fail? And why are there so many pōhutukawa in Wellington?
 img: /assets/uploaded/memorial-trees.jpg
 event_date: 10am & 5:30pm Tues 1 Nov
 host:
@@ -29,10 +31,10 @@ The Pukeahu National War Memorial Park has many trees planted as memorials or as
 
 **No booking required.**
 
-**Location:** Carllon, Pukeahu National War Memorial Park, Old Buckle Street.
+**Location:** Carillon, Pukeahu National War Memorial Park, Old Buckle Street.
 
 **Duration:** 1 Hour
 
 **Cost:** Free
 
-**Health & Safety:** Pukeahu can have unpredictable weather, please wear comfortable shoes, as well asa wind and sun protection. The walking tour includes crossing busy streets, please be aware of the hazards around you.
+**Health & Safety:** The weather at Pukeahu can be unpredictable, and the ground is uneven in places. Wear wind and sun protection, and comfortable shoes. We will be crossing a busy street, please be aware of hazards around you.  
