@@ -2,7 +2,7 @@
 layout: post
 title: Seeing the Old Through New Eyes
 location: Wellington City
-description: Come along to the Wellington Botanic Gardin for a downhill stroll
+description: Come along to the Wellington Botanic Garden for a downhill stroll
   through the old, and regenerating, vegetation on the Pukatea Bush walk.
 img: /assets/uploaded/see-the-old-through-new-eyes.jpg
 event_date: 11am Mon 24 Oct
@@ -15,9 +15,9 @@ host:
 tag:
   - Walking Tour
 ---
-**Come along to the Wellington Botanic Gardin for a downhill stroll through the old, and regenerating, vegetation on the Pukatea Bush walk.**
+**Come along to the Wellington Botanic Garden for a downhill stroll through the old, and regenerating, vegetation on the Pukatea Bush walk.**
 
-*You'll get to see what the very early botanists from Europe saw and described as "new science". A fascinating snapshot into past lives.*
+You'll get to see what the very early botanists from Europe saw and described as "new science". A fascinating snapshot into past lives.
 
 <br>
 
