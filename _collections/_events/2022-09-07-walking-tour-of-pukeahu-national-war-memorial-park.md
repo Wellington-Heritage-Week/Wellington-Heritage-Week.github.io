@@ -2,6 +2,7 @@
 layout: post
 title: Walking Tour of Pukeahu National War Memorial Park
 location: Wellington City
+description: Hear about the layers of history of Pukeahu, also known as Mt Cook.
 img: /assets/uploaded/20220616-dawn-over-the-tomb-1-.jpg
 event_date: 10am Wed 2 Nov & Fri 4 Nov
 host:
@@ -21,7 +22,7 @@ tag:
 ---
 **Hear about the layers of history of Pukeahu, also known as Mt Cook.**
 
-Visit sites of historic importance and learn about the early settlement by mana whenua. Explore the military presence of the 1930s with the opening of the National War Memorial and the Dominon Museum Building, all future developments to the NWM and the opening of Pukeahu in 2015.
+Visit sites of historic importance and learn about the early settlement by mana whenua. Explore the military presence of the 1930s with the opening of the National War Memorial and the Dominion Museum Building, all future developments to the NWM and the opening of Pukeahu in 2015.
 
 *Parking available in the lane behind the Australian Memorial or in Tory Street.*
 
@@ -35,4 +36,4 @@ Visit sites of historic importance and learn about the early settlement by mana 
 
 **Cost:** Free
 
-**Health & Safety:** Tours held outside, wear appropriate clothing a footwear. All sites are wheelchar accessible.
+**Health & Safety:** Tours held outside, wear appropriate clothing and footwear. All sites are wheelchair accessible.
