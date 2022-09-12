@@ -33,7 +33,7 @@ A smartphone will be required for this event.
 
 **Booking is required. Remember to use the code "WHW2022" at checkout for a discount!**
 
-<a href="urbantics.co.nz/bookings" class="button">Book the event</a>
+<a href="https://urbantics.co.nz/bookings/" class="button">Book the event</a>
 
 **Location:** Wellington Central. A specific location will be given to you ahead of your mission.
 
