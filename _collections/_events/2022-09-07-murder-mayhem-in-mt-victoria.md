@@ -14,9 +14,9 @@ host:
 tag:
   - Walking Tour
 ---
-**A guided walk of historic Mt Victoria, to hear the stories and see the sites of vicious murders, raging fires, a tram tragedy, and much more**
+**A guided walk of historic Mt Victoria, to hear the stories and see the sites of vicious murders, raging fires, a tram tragedy, and much more.**
 
-The guided walk is hosted by Alan Olliver, a foundation member and current member of the committee. He has given many talks and run guided walks.
+The guided walk is hosted by Alan Olliver of the Mt. Victoria Historical Society. He is a foundation member and current member of the committee. He has given many talks and run guided walks.
 
 *Meet at St Gerard's Monastery carpark, Hawker Street. The walk will conclude at Paterson St near the Mt Victoria road tunnel*
 
