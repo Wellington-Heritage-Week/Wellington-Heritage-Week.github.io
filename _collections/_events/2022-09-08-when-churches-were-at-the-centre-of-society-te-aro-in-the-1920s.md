@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Churches Were at the Centre of Society. Te Aro in the 1920s
+title: "Slums, the Sacred, and a Gospel of the Helping Hand: Te Aro in the 1920s"
 location: Wellington City
 description: Associate Professor Geoff Troughton, programme director of
   religious studies at Victoria University of Wellington will discuss how church
