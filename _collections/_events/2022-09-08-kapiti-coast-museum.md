@@ -9,8 +9,8 @@ event_date: 1pm-4pm Fri 28 - Sun 30 Oct & Fri 4 - Sun 6 Nov
 host:
   name: Kapiti Coast Museum
   blurb: Kapiti Coast's own museum is the listed historic place building that
-    housed the Waikanae Post Office from 1908. We have a braod collection of
-    socila history items, photos and books, as well as a large collection of old
+    housed the Waikanae Post Office from 1908. We have a board collection of
+    social history items, photos and books, as well as a large collection of old
     telecommunications equipment and radios, including ex-military equipment.
   email: manager@kapiticoastmuseum.org.nz
   website: https://www.kapiticoastmuseum.org.nz
