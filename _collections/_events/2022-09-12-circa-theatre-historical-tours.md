@@ -39,7 +39,7 @@ The one-hour tours will run at 1pm daily from Mon 24 – Fri 28 October and ther
 
 **Booking is required.**
 
-Please book [on our website](www.circa.co.nz), or call our friendly Box Office team on [04 801 7992](tel:048017992).
+Please book [on our website](https://www.circa.co.nz/), or call our friendly Box Office team on [04 801 7992](tel:048017992).
 
 **Location:** 1 Taranaki St, Te Aro, Wellington 6011
 
