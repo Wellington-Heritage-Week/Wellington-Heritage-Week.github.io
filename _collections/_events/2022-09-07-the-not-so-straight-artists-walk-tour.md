@@ -20,6 +20,8 @@ tag:
 
 We’ll feature writers Katherine Mansfield and Frank Sargeson, artists Dorothy Richmond and Francis Hodgkins, musicians Douglas Lilburn and the Glamaphones choir, international visitors Rupert Brooke and Somerset Maugham, and visit what is widely considered the most homoerotic sculpture in Wellington.
 
+*This tour includes walking from Lambton Quay up to the top of the Bolton Street cemetery and down again, which covers a moderate to steep incline. Moderate fitness is recommended.*
+
 <br>
 
 **Booking is required.**
