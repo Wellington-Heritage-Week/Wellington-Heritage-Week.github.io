@@ -5,7 +5,7 @@ location: Wellington City
 description: Join this walk tour of inner Wellington as we explore some of the
   locations and stories associated with artists, writers, musicians who are in
   some way related to Rainbow LGBTI+ communities.
-img: /assets/uploaded/22_not_so_straight.jpg
+img: /assets/uploaded/22_not-so-straight-2.jpg
 event_date: 1pm Sun 6 Nov
 host:
   name: Walk Tours NZ
