@@ -4,7 +4,7 @@ title: Onslow Historical Society's "Colonial Artists of the North Road"
 location: Khandallah
 description: An art exhibition, the work of early painters of Wellington
   landscapes, 1840 - 1860.
-img: /assets/uploaded/22_onslow_north_road.jpg
+img: /assets/uploaded/onslow-historical-society-centre-exhibition-wellington-heritage-week.png
 event_date: 1-4pm Mon 24 Oct - Sun 6 Nov
 host:
   phone: 027 3450 374
@@ -17,23 +17,29 @@ tag:
 ---
 **An art exhibition, the work of early painters of Wellington landscapes, 1840 - 1860.**
 
-This includes scenes of the north- west region of the city from today's suburb of Ngaio, through Johnsonville, Tawa, Pukerua Bay and Porirua to the Kapiti coast.
+This includes scenes of the north-west region of the city from today's suburb of Ngaio, through Johnsonville, Tawa, Pukerua Bay, and Porirua to the Kapiti coast.
 
-The exhibition will be available for private viewings and tours via bookings throughout the festival. It will be open to the public between 1-4pm on Sunday 30th October and Sunday 6th November without a booking.
+
+The Sunday visits (30th October and 6th November) are open to the public and do not require a booking. Private tours can be arranged, ref: see email address below.
+
+The exhibition will be available for private tours throughout the festival. These can be arranged through the email below.
+
+Sunday visits, between 1-4pm on the 30th October and the 6th November, are open to the public and do not require a booking.
 
 If you want to see some similar works and read more about them ahead of time, please check out this PDF article, provided by The Onslow Historian, [here](/assets/uploaded/OHS_Artists_med-res.pdf).
 
-*Wheelchair access is available. Parking on Khandallah Road is available.*
+*Wheelchair access is provided. Parking on Khandallah Road is available.*
+
+*Bonus fact: The Onslow Historical Society Centre is known as "KATE" because its original purpose was to serve as the Khandallah Automatic Telephone Exchange.*
 
 <br>
 
-**Booking is required, unless visiting on Sunday 30 Oct or Sunday 6 Nov.**
+**Booking not is required on Sunday 30 Oct or Sunday 6 Nov.**
 
-If you wish to visit outside of the Sunday public hours, please email [siersjudy@gmail.com](mailto:siersjudy@gmail.com) to book a private viewing.
+If you wish to visit **outside of the Sunday** public hours, please email [siersjudy@gmail.com](mailto:siersjudy@gmail.com) to book a private viewing.
 
 **Location:** The Onslow Historical Society Centre, 86 Khandallah Road.
-*Fun fact: The building is known as "KATE" because its original purpose was to serve as the Khandallah Automatic Telephone Exchange.*
 
 **Cost:** Donation
 
-**Health & Safety:** Facemasks are optional. OHS will provide hand sanitiser and more for visitors. Toilet facilities are provided.
+**Health & Safety:** Facemasks are optional. OHS will provide hand sanitiser for visitors. Toilet facilities are provided.
