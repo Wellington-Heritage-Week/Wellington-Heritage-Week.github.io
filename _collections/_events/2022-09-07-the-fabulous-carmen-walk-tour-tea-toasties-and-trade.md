@@ -4,7 +4,7 @@ title: "The Fabulous Carmen Walk Tour: Tea, Toasties and Trade"
 location: Wellington City
 description: Join us on this free 90-minute community walk-tour as we trace
   Carmen's Wellington years (1967-1980)
-img: /assets/uploaded/22_carmen.jpg
+img: /assets/uploaded/22_carmen-2.jpg
 event_date: 3pm Sun 30 Oct
 host:
   name: Walk Tours NZ
