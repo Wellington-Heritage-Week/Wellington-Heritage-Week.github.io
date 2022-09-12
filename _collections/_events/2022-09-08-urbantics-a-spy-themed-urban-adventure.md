@@ -5,7 +5,7 @@ location: Wellington City
 description: Urbantics is part escape room, part treasure hunt. Explore
   Wellington and discover some hidden historic and artistic secrets while
   solving puzzles and challenges.
-img: /assets/uploaded/22_urbantics.jpg
+img: /assets/uploaded/22_urbantics-2.jpg
 event_date: Mon 24 Oct - Sun 6 Nov
 host:
   name: Urbantics
@@ -23,9 +23,11 @@ tag:
 
 When booking, use the promo code WHW2022 for a 10% discount. Get your squad together now!
 
+The tour incorporates two licenced hospo venues where you can get refreshments and/or a bite to eat. Consequently, participants need to be 18+ or accompanied by a parent or guardian.
+
 A smartphone will be required for this event.
 
-*This event is primarily self-guided, with assistance given at the start of the tour. You will then complete your adventure using your smartphone as a guide.*
+*This event is primarily self-guided, with assistance given at the start of the tour. You will then complete your adventure using an interactive app on your smartphone.*
 
 <br>
 
@@ -39,4 +41,4 @@ A smartphone will be required for this event.
 
 **Cost:** $19 - $31 per person, depending on squad size
 
-**Health & Safety:** This event does not need to be done in a rush, so go at a pace which is comfortable for you. You will not be required to climb or enter physically risky situations.
+**Health & Safety:** This event does not need to be done in a rush, so go at a pace which is comfortable for you.
