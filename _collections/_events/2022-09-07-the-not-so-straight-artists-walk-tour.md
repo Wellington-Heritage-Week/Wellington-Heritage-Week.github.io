@@ -33,5 +33,3 @@ We’ll feature writers Katherine Mansfield and Frank Sargeson, artists Dorothy 
 **Duration:** 90 minutes
 
 **Cost:** Free
-
-**Health & Safety:** Groups are limited to 20 walkers to allow for social distancing. Hosts will not wear face masks while presenting, but will have taken a Covid test before the tour.
