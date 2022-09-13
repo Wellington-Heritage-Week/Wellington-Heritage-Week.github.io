@@ -20,7 +20,7 @@ host:
 tag:
   - Tour
 ---
-**Trust Chair and co-editor with Gregory O'Brien of the 2016 book "Futuna - Life of a Building", Nick Bevin, will conduct a detailed and personal tour of Futuna Chapel telling the story of Futuna.**
+**Futuna Trust Chair, Nick Bevin, co-editor with Gregory O’Brien of the 2016 book “Futuna - Life of a Building” will conduct a detailed and personal tour of Futuna Chapel and will tell its story.**
 
 This story starts in France in 1816 and has been added to significantly over the intervening 206 years. Come and experience the Life of Futuna.
 
