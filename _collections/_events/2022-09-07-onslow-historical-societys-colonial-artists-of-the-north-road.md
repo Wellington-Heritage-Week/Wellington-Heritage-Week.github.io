@@ -19,9 +19,6 @@ tag:
 
 This includes scenes of the north-west region of the city from today's suburb of Ngaio, through Johnsonville, Tawa, Pukerua Bay, and Porirua to the Kapiti coast.
 
-
-The Sunday visits (30th October and 6th November) are open to the public and do not require a booking. Private tours can be arranged, ref: see email address below.
-
 The exhibition will be available for private tours throughout the festival. These can be arranged through the email below.
 
 Sunday visits, between 1-4pm on the 30th October and the 6th November, are open to the public and do not require a booking.
