@@ -32,5 +32,3 @@ Learn about Carmen's landmark 1966 court case, her race to become Mayor of Welli
 **Duration:** 90 Minutes
 
 **Cost:** Free
-
-**Health & Safety:** Groups are limited to 20 walkers to allow for social distancing. Hosts will not wear face masks while presenting, but will have taken a Covid test before the tour.
