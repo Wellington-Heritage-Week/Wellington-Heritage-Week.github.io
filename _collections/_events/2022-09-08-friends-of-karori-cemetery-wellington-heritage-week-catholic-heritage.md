@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Friends of Karori Cemetery: Catholic Heritage"
+title: "Friends of Karori Cemetery: Catholic Tales"
 location: Karori
-description: Our City, Our Country, Our Heritage - Catholic Heritage Tour. Join
-  this tour to learn more about them all, and explore the fascinating Karori
-  Cemetery.
+description: Catholic Tales Tour. Join this tour to learn more about them all,
+  and explore the fascinating Karori Cemetery.
 img: /assets/uploaded/22_karori_cemetery.jpg
 event_date: 1:30pm Sun 6 Nov
 host:
@@ -19,9 +18,9 @@ tag:
   - Walking Tour
   - Tour
 ---
-**Our City, Our Country, Our Heritage - Catholic Heritage Tour.**
+**Come and explore an early part of the cemetery where we encounter a very diverse lot of people.**
 
-Amongst the earliest burials in the Catholics area are an adventurer who served in the American Civil War; a contractor who built much of Wellington’s infrastructure; a champion boxer; a choirmaster, organist, & musician; one of Wellington’s foremost architects; a monumental mason; members of three Catholic Orders; as well as many members of one of Wellington’s wealthiest Catholic families who occupy several large plots.
+Hear about one of Wellington's richest and distinguished families; a champion boxer; a choirmaster, organist and musician and a man who fought in the US wild west.
 
 Join this tour to learn more about them all, and explore the fascinating Karori Cemetery.
 
