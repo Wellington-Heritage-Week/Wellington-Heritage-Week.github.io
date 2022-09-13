@@ -10,7 +10,7 @@ img: /assets/uploaded/hd-ww-feet-logo-1-.jpg
 event_date: 2pm Sat 29 Oct
 host:
   name: Walk Wellington Inc
-  blurb: Walk Wellington In is a group of volunteers who enjoy showing their city
+  blurb: Walk Wellington Inc is a group of volunteers who enjoy showing their city
     to both visitors and locals.
   website: http://www.walkwellington.org.nz
   email: bookings@walkwellington.org.nz
@@ -18,7 +18,7 @@ host:
 tag:
   - Walking Tour
 ---
-**An easy discussion stroll from Post Office Square to Old Bank Arcade, Willis Street, up to Boulcott Street, Antrim House, St Mary of the Angels, Manners and Cuba Street to the waterfront to finish at Chaffers Marina.**
+**An easy discussion stroll from Post Office Square to Old Bank Arcade, Willis Street, up to Boulcott Street, Antrim House, St Mary of the Angels, Manners and Cuba Streets to the waterfront to finish at Chaffers Marina.**
 
 *Please arrive by 1:50pm for a 2pm start.*
 
