@@ -4,7 +4,7 @@ title: Wellington City’s Heritage – Risks and Opportunities
 location: Wellington City
 description: Cr Helen Craig from Whanganui will present the economic benefits of
   investing in heritage and David McGuiness, Managing Director of Willis Bond
-  and Co talk about developer experience of building renewal.
+  and Co will talk about developer experience of building renewal.
 img: /assets/uploaded/22_richard.jpg
 event_date: 5:30pm Thu 27 Oct
 host:
@@ -19,7 +19,9 @@ tag:
 ---
 **Historic buildings face increasing costs for earthquake strengthening and the city council’s draft district plan proposes to significantly reduce protection for heritage in the oldest suburbs.**
 
-Cr Helen Craig from Whanganui will present the economic benefits for that city from investing in heritage and David McGuiness, Managing Director of Willis Bond and Co talk about developer experience of building renewal such as in Cuba Mall.
+Cr Helen Craig from Whanganui will present the economic benefits for that city from investing in heritage and David McGuiness, Managing Director of Willis Bond and Co, will talk about developer experience of building renewal such as in Cuba Mall.
+
+Jamie Jacobs, Central Region manager of Heritage New Zealand Pouhere Taonga, will talk about the role of the government agency in managing specific buildings and processes for protecting heritage.
 
 *Early registration is advised.*
 
