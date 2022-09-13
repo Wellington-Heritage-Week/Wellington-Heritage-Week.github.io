@@ -6,7 +6,7 @@ description: An easy discussion stroll from Post Office Square to Old Bank
   Arcade, Willis Street, up to Boulcott Street, Antrim House, St Mary of the
   Angels, Manners and Cuba Street to the waterfront to finish at Chaffers
   Marina.
-img: /assets/uploaded/hd-ww-feet-logo-1-.jpg
+img: /assets/uploaded/22_walks_wide.jpg
 event_date: 2pm Sat 29 Oct
 host:
   name: Walk Wellington Inc
