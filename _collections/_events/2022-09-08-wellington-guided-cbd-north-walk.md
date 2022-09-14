@@ -5,7 +5,7 @@ location: Wellington City
 description: An easy discussion stroll from Post Office Square, along the
   waterfront to the Railway Station, Parliament area, Supreme Court, Lambton
   Quay and finishing at Cable Car Lane.
-img: /assets/uploaded/hd-ww-feet-logo-2-.jpg
+img: /assets/uploaded/22_walks_wide.jpg
 event_date: 10:30am Wed 26 Oct
 host:
   name: Walk Wellington Inc
