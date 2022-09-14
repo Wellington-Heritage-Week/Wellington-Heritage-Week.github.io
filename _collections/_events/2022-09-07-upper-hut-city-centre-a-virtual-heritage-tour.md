@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Upper Hutt City Centre: A Virtual Heritage Tour"
-location: Wellington City
+location: Upper Hutt
 description: An illustrated presentation about the history of Upper Hutt's city
   centre by Reid Perkins, the City Council's Heritage Advisor.
 img: /assets/uploaded/upper-hutt-main-street-c1910.jpg
