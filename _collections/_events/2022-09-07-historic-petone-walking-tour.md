@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Historic Petone Walking Tour
-location: Wellington City
+location: Petone
 description: The session will cover themes of Petone's early settlement,
   industrialisation, and the history and development of Jackson Street.
 img: /assets/uploaded/petone-walking-tour.jpg
