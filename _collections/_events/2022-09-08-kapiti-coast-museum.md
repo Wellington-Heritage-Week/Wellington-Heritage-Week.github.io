@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kapiti Coast Museum
-location: Wellington City
+location: Kapiti
 description: "Visitors are welcome to view the permanent exhibits from the last
   century, with emphasis on items associated with the Kapiti Coast. "
 img: /assets/uploaded/kapiti-coast-museum.jpg
