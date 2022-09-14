@@ -30,7 +30,10 @@ The crafts in action include embroidery, lacemaking, tatting, spinning and weavi
 
 At the same time in the Village Hall there will be stalls selling a wide variety of good quality vintage and retro clothing, homewares and curios.
 
-Looking forward to seeing you.
+For more detailed information about the various crafts and demonstrations please visit our Facebook page [@seatounevents](https://www.facebook.com/seatounmarkets) or our [website](https://www.seatounvillage.co.nz/blog/).
+
+
+We look forward to seeing you.
 
 <br>
 
