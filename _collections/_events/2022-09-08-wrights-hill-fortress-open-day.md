@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wrights Hill Fortress Open Day
-location: Wellington City
+location: Karori
 description: Visit the historic World War II Fortress in Karori and spend an
   hour or so inspecting the inside, and out...
 img: /assets/uploaded/wrights_hill_15.jpg
