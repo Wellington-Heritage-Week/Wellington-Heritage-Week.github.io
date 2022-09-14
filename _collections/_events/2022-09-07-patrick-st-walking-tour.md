@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patrick St Walking Tour
-location: Wellington City
+location: Petone
 description: Join local residents for a walk down Petone's historic Patrick St,
   the only remaining street largely developed under the 1906 Worker's Dwelling
   Act, and a protected heritage area.
