@@ -7,6 +7,11 @@ description: On Sunday the 30th October, three historic houses will be hosting
   afternoon stroll.
 img: /assets/uploaded/22_thorndon_walk_borderless.jpg
 event_date: 11am-4pm Sun 30 Oct
+host:
+  name: Randell Cottage Writers Trust, Lilburn Residence Trust, & Rita Angus
+    Cottage Trust
+  blurb: These three trusts manage and care for the individual houses. To find out
+    more, visit the events for each house.
 tag:
   - Open Day
   - Activity
@@ -28,9 +33,9 @@ For more information about the individual homes and activities, please visit the
 **No booking required.**
 
 **Location:** There are 3 locations for this event, and you are welcome to walk between them at your own pace.
-* Randell Cottage: 14 St Mary Street, Thorndon
-* Lilburn House: 22 Ascot St, Thorndon
-* Rita Angus Cottage: 194a Sydney Street West, Thorndon
+* **Randell Cottage:** 14 St Mary Street, Thorndon
+* **Lilburn House:** 22 Ascot St, Thorndon
+* **Rita Angus Cottage:** 194a Sydney Street West, Thorndon
 
 **Duration:** Rita Angus Cottage opens at 11am, while Lilburn House and Randell Cottage open at 1pm. All locations are open until 4pm.
 
