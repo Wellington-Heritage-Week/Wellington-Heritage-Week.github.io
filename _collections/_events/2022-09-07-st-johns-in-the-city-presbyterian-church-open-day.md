@@ -18,11 +18,11 @@ tag:
 ---
 **Members of the public are warmly invited to the St John’s Open Day. This free event, staffed by volunteers from the St John’s congregation, is an opportunity to:**
 
-• Learn about the history of St John’s in the City, a spiritual presence and Wellington city landmark since 1853
-• Explore the present St John’s Church, a Heritage Category 1 building designed by well-known architect Thomas Turnbull and built from kauri and other native timbers
-• View the World War memorials on the walls of St John’s and learn about the Church’s ANZAC history
-• Find out about the seismic strengthening recently undertaken at St John’s, and how the steeple was re-built
-• Enjoy musical performances by the church’s musicians
+• Learn about the history of St John’s in the City, a spiritual presence and Wellington city landmark since 1853\
+• Explore the present St John’s Church, a Heritage Category 1 building designed by well-known architect Thomas Turnbull and built from kauri and other native timbers\
+• View the World War memorials on the walls of St John’s and learn about the Church’s ANZAC history\
+• Find out about the seismic strengthening recently undertaken at St John’s, and how the steeple was re-built\
+• Enjoy musical performances by the church’s musicians\
 • Hear about St John’s current activities to connect with our neighborhood and community.
 
 <br>
