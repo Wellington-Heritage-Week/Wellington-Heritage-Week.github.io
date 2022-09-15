@@ -33,6 +33,8 @@ The chapel will also be open on the 29th and 30th of October. Details can be fou
 
 On Sunday 6th November, a talk on the Conservation and Restoration of Heritage will be starting at 2pm, so the open day will be closing. If you wish to attend the talk, you can find out more and book <a href="/event/conservation-and-restoration-of-heritage/">here.</a>
 
+A brochure with all the events happening at Futuna Chapel this year can also be found, in PDF form, <a href="/assets/uploaded/Futuna_HW2022_Web_04.pdf">here.</a>
+
 *Wheelchair access is available.*
 
 *Koha would be appreciated.*
