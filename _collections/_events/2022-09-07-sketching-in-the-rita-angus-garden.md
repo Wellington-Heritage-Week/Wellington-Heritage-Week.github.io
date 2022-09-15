@@ -23,6 +23,9 @@ Rita Angus Cottage Trustees and volunteer gardeners will be on hand, with drawin
 
 The house continues as a studio for an artist-in-residence programme and is a part of the legacy that Rita Angus has left to contemporary New Zealand Art.
 
+*Lilburn House and Randell Cottage will also be hosting open days in the area at this time. If you would like to walk between the three, you can find out more at this event:*
+[Thorndon Historic Houses Walk](https://wellingtonheritageweek.co.nz/event/thorndon-historic-houses-walk/)
+
 <br>
 
 **No booking required.**
