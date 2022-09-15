@@ -24,6 +24,8 @@ tag:
 
 This story starts in France in 1816 and has been added to significantly over the intervening 206 years. Come and experience the Life of Futuna.
 
+A brochure with all the events happening at Futuna Chapel this year can also be found, in PDF form, <a href="/assets/uploaded/Futuna_HW2022_Web_04.pdf">here.</a>
+
 Copies of the book 'Futuna - Life of a Building' will be on sale at the Chapel for a discounted price of $20. Cash only.
 
 *Wheelchair access is available.*
