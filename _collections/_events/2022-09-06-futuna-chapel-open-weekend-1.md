@@ -31,6 +31,8 @@ The Chapel is open to be explored and trustees will be on hand to welcome visito
 
 The chapel will also be open on the 5th and 6th of November. Details can be found <a href="/event/futuna-chapel-open-weekend-2/">here.</a>
 
+A brochure with all the events happening at Futuna Chapel this year can also be found, in PDF form, <a href="/assets/uploaded/Futuna_HW2022_Web_04.pdf">here.</a>.
+
 *Wheelchair access is available.*
 
 *Koha would be appreciated.*
