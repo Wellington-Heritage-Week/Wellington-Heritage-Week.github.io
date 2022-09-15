@@ -21,16 +21,16 @@ tag:
   - Talk
 ---
 **Elizabeth Cox, architectural historian and editor of the very recently published book "Making Space – A History of New Zealand Women in Architecture", will introduce two architects, Chessa Stevens and Lianne Cox, who will talk about their work in the expanding realm of the conservation and restoration of heritage buildings and sites in NZ.**
- 
+
 Chessa Stevens, a contributor to the book, is a conservation architect and works as an independent heritage consultant in private practice based in Wellington. Her talk will be about assessment and conservation of heritage.
-
-
 
 Lianne Cox, one of the architects included in the book Making Space practices as a Heritage Architect and is a principal of Studio Pacific Architecture in Wellington. Her presentation, entitled Heritage Stories, will include a number of interesting projects she has been involved in recent years.
 
 Her presentation, entitled Heritage Stories, will include a number of interesting projects she has been involved in.
 
 *Doors Open at 2:00pm. The talk will start at 2:15pm.*
+
+A brochure with all the events happening at Futuna Chapel this year can also be found, in PDF form, <a href="/assets/uploaded/Futuna_HW2022_Web_04.pdf">here.</a>
 
 <br>
 
