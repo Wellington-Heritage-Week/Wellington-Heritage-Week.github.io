@@ -5,7 +5,7 @@ location: Wellington City
 description: Join Sr Sue Cosgrove and follow the footsteps of Suzanne Aubert
   Meri Hōhepa through Wellington city.
 img: /assets/uploaded/22_suzanne_walking.jpg
-event_date: TIME Sat 29 Oct & Tue 1 Nov
+event_date: 10am Sat 29 Oct & Tue 1 Nov
 host:
   phone: 04 282 1953
   email: heritagecentre@compassion.org.nz
@@ -35,12 +35,12 @@ Bring your own lunch; a cup of tea will be available at the Soup Kitchen.
 
 **Booking is required.**
 
-Bookings will be available on Eventfinda, or by contacting us at [heritagecentre@compassion.org.nz](mailto:heritagecentre@compassion.org.nz) or [(04) 383 7769](tel:043837769).
+To make a booking, please contact us at [heritagecentre@compassion.org.nz](mailto:heritagecentre@compassion.org.nz) or [(04) 383 7769](tel:043837769).
 
 **Location:** Begins at Pukeahu Education Centre, 191 Tory Street, Te Aro, Wellington 6011
 
-**Duration:** 5 hours
+**Duration:** 10am-3pm; 5 hours
 
-**Cost:** Free / Koha
+**Cost:** Free / Koha for the Compassion Soup Kitchen appreciated.
 
 **Health & Safety:** Please bring suitable walking shoes, water, sunscreen, lunch. Dress for the weather. The walk will go ahead in most conditions.
