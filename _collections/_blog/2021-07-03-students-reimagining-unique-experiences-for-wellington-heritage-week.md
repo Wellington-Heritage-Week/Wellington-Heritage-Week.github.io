@@ -9,7 +9,7 @@ intro: >-
 
   They are pursuing a Master of Museum and Heritage Practice at Victoria University of Wellington and found their placement with Wellington Heritage Week this month. As part of their placement, Brittany and Millie surveyed the region for event hosts who offer unique experiences.
 author: David Batchelor - Director, Wellington Heritage Week
-img: /assets/uploaded/image-sir-robert-muldoon-speaking-to-an-election-meeting-in-upper-hutt..jpg
+img: /assets/uploaded/image-sir-robert-muldoon-speaking-to-an-election-meeting-in-upper-hutt.jpg
 tag:
   - Post
 ---
