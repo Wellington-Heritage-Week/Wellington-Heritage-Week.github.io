@@ -23,6 +23,9 @@ During Wellington Heritage Week we open the house and garden to visitors. There 
 
 Our Open Day is offered in conjunction with similar events hosted by the Randell Cottage Trust and the Rita Angus Cottage Trust. Visitors (provided with a map to facilitate) can walk from one artist's cottage to another in the course of the afternoon.
 
+*Randell Cottage and Rita Angus Cottage will also be hosting open days in the area at this time. If you would like to walk between the three, you can find out more at this event:*
+[Thorndon Historic Houses Walk](https://wellingtonheritageweek.co.nz/event/thorndon-historic-houses-walk/)
+
 <br>
 
 **No booking required.**
