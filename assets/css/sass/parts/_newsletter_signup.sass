@@ -1,0 +1,57 @@
+// - - - - - - - - - - Newsletter Signup Styles - - - - - - - - - - //
+.newsletter-signup
+  background-color: white
+  color: black
+  padding: 2em 0
+
+  .wrapper
+    display: flex
+    justify-content: space-between
+
+    .newsletter-left
+      text-align: left
+      width: 50%
+
+      .newsletter-header
+        font-size: 3.25em
+        color: $secondary
+
+      .newsletter-description 
+        font-weight: 500
+        font-size: 1.6em
+        line-height: 1.6
+        margin: 0
+
+    .newsletter-right
+      width: 50%
+      display: flex
+      justify-content: end
+      
+      #mc_embed_signup
+        max-width: 100%
+
+
+@media (max-width: 768px)
+  .newsletter-signup
+    padding: 1em 0
+
+    .wrapper
+      display: block
+
+      .newsletter-left
+        width: 90%
+        margin: 0 auto
+
+        .newsletter-header
+          font-size: 2.5em
+
+        .newsletter-description
+          font-size: 1.25em
+          margin: 0
+
+      .newsletter-right
+        width: 100%
+        justify-content: center
+
+        form
+          width: auto
