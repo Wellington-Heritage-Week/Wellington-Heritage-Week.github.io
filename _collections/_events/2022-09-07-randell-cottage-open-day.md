@@ -18,13 +18,16 @@ host:
   website: https://www.randellcottage.co.nz/
   name: Randell Cottage Writers Trust (Chair, Christine Hurley)
 tag:
-  - Event
+  - Open Day
 ---
 **This annual Open Day invites visitors to see the interior and garden of a rare and well-preserved example of Wellington's colonial domestic architecture and to share in the Randell Cottage Writers Trust's 20th anniversary celebrations.**
 
 The Cottage is normally closed to the public while it serves as a residency for selected writers from New Zealand and France. The event will include readings by past residents in the garden setting.
 
 Afternoon tea is provided and guests are encouraged to bring cash for raffles and koha.
+
+*Lilburn House and Rita Angus Cottage will also be hosting open days in the area at this time. If you would like to walk between the three, you can find out more at this event:*
+[Thorndon Historic Houses Walk](https://wellingtonheritageweek.co.nz/event/thorndon-historic-houses-walk/)
 
 <br>
 
