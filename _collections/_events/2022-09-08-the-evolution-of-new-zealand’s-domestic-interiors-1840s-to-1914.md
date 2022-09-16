@@ -32,7 +32,7 @@ The talk will be followed by a guided tour of Nairn St Cottage.
 
 **Booking is required.**
 
-Bookings will be required via Museums Wellington website, but the booking form will be releasing closer to the event. Check back here a month before the event to book your tickets.
+<a href="https://nz.patronbase.com/_MuseumsWellington/Performances/List?prod_id=HW01&pb_promotion_code=CODE&utm_source=Facebook&utm_medium=Listing&utm_campaign=HW" class="button">Book your spot</a>
 
 **Location:** Nairn Street Cottage,  68 Nairn Street, Mount Cook, Wellington 6011
 
