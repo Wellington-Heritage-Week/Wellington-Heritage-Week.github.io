@@ -5,7 +5,7 @@ location: Wellington City
 description: Urbantics is part escape room, part treasure hunt. Explore
   Wellington and discover some hidden historic and artistic secrets while
   solving puzzles and challenges.
-img: /assets/uploaded/22_urbantics-2.jpg
+img: /assets/uploaded/22_urbantics-3.jpg
 event_date: Mon 24 Oct - Sun 6 Nov
 host:
   name: Urbantics
@@ -27,7 +27,7 @@ The tour incorporates two licenced hospo venues where you can get refreshments a
 
 A smartphone will be required for this event.
 
-*This event is primarily self-guided, with assistance given at the start of the tour. You will then complete your adventure using an interactive app on your smartphone.*
+*This event is primarily self-guided, with assistance given at the start of the tour. You will then complete your adventure using an interactive app on your smartphone. For more information, visit [urbantics.co.nz](https://urbantics.co.nz/)*
 
 <br>
 
