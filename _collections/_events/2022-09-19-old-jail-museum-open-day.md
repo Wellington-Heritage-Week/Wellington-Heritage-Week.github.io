@@ -34,6 +34,6 @@ Built in 1908 on Elizabeth Street, it was once the most senior station in the Hu
 
 **Location:** 274B Jackson Street, Petone 5012
 
-*﻿*Duration:** 11am-3pm
+**Duration:** 11am-3pm
 
 **Cost:** Free
