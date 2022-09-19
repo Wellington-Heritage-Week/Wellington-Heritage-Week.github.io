@@ -1,0 +1,14 @@
+---
+layout: blog_landing
+title: Events
+permalink: /events.html
+sitemap: true
+---
+
+{% if site.data.settings.show_hotel %}
+  {% include hotels.html %}
+{% endif %}
+
+{% if site.data.settings.show_events %}
+  {% include events.html events_title="2022 Events" header_intro="Kia ora e hoa! Browse our events here, and make sure to book early for events with limited spaces." %}
+{% endif %}
