@@ -6,7 +6,7 @@ description: This is a special opportunity to learn about Bolton Street
   Cemetery, Wellington's first cemetery, and to explore the new displays in the
   museum.
 img: /assets/uploaded/22_bolton_st_cemetery.jpg
-event_date: 2pm Sat 28 Oct & Sat 5 Nov
+event_date: 2pm Sat 29 Oct & Sat 5 Nov
 host:
   name: The Friends of Bolton Street Cemetery & Trestle Creative
   blurb: The cemetery tour will be hosted by the Friends of Bolton Street
