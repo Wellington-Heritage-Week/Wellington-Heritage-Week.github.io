@@ -12,11 +12,8 @@ intro: Wellington's Lambton Quay is home to an eclectic assortment of art,
   lights flickering through the snippets of text laser cut into the statue’s
   skin.
 author: Bethany
-description: Woman of Words watches over pedestrians and shoppers passing by on
-  Lambton Quay with an inscrutable expressing, artificial lights flickering
-  through the snippets of text laser cut into the statue's skin. The statute of
-  Katherine Mansfield is an ode to the extraordinary writer and the history and
-  culture that built our capital city.
+description: The statue of Katherine Mansfield on Lambton Quay is an ode to the
+  extraordinary writer. Read more about it here.
 img: /assets/uploaded/303963741_480358863689903_790576686243118041_n.jpg
 tag:
   - Post
