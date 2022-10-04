@@ -19,7 +19,7 @@ tag:
 ---
 **Come along to Wellington City Archives for an insightful talk about our collections followed by a behind the scenes tour.**
 
-Established in 1994, the Council archives were housed in a single purpose-built facility in 1995, opened to the pubilc in 1996, and made available online since 2007.
+Established in 1994, the Council archives were housed in a single purpose-built facility in 1995, opened to the public in 1996, and made available online since 2007.
 
 *Numbers are limited so book early to secure your place.* 
 
