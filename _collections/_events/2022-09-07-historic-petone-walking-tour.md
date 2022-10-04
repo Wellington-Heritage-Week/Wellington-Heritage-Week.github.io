@@ -20,7 +20,7 @@ tag:
 
 The session will cover themes of Petone's early settlement, industrialisation, and the history and development of Jackson Street. You will see some of Petone's remaining important early buildings and learn about their past and present uses.
 
-Come and ecplore the fascinating history of this special place with people who are passionate about it.
+Come and explore the fascinating history of this special place with people who are passionate about it.
 
 *Numbers are limited so please book in advance to secure a spot.*
 
