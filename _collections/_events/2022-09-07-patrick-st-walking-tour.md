@@ -20,7 +20,7 @@ tag:
 
 Find out about the street's early development, its architects and its social history, as well as some of the current challenges facing those trying to ensure its protection.
 
-Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Histroic Area, which is a recognised area on the New Zealand Heritage List. It consists of an imaginative mix of architectural styles that make up New Zealand's first state house experiment, and possibly, the world's first state housing scheme.
+Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Historic Area, which is a recognised area on the New Zealand Heritage List. It consists of an imaginative mix of architectural styles that make up New Zealand's first state house experiment, and possibly, the world's first state housing scheme.
 
 *Numbers are limited so book quickly to get a spot.*
 
