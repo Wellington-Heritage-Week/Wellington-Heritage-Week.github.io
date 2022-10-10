@@ -6,6 +6,7 @@ description: Join us on this free 90-minute community walk-tour as we trace
   Carmen's Wellington years (1967-1980)
 img: /assets/uploaded/22_carmen-2.jpg
 event_date: 3pm Sun 30 Oct
+booked_out: true
 host:
   name: Walk Tours NZ
   blurb: Walk Tours NZ is a volunteer group that offers free, accessible,
@@ -23,9 +24,7 @@ Learn about Carmen's landmark 1966 court case, her race to become Mayor of Welli
 
 <br>
 
-**Booking is required.**
-
-<a href="https://taonga.nz/walktours/" class="button">Book the tour</a>
+**This event is fully booked.**
 
 **Location:** Start location will be given in your registration email.
 
