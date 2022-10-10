@@ -30,6 +30,8 @@ Come and explore the fascinating history of this special place with people who a
 
 **Booking is required.**
 
+*﻿*The Friday tour is fully booked, but spaces remain on the Sunday walk. Get in quick!**
+
 To book this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
 
 **Location:** Petone Community House, 6 Britannia Street, Petone
