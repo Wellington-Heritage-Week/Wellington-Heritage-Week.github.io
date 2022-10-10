@@ -2,8 +2,11 @@
 layout: post
 title: Embroidery Guild Demonstration
 location: Wellington City
+description: The Wellington Embroidery Guild will be demonstrating embroidery
+  techniques and encouraging spectator participation in stitching a new
+  colourful project at Old St Pauls.
 img: /assets/uploaded/embroidery-guild.jpeg
-event_date: 11am-3pm Sat 5 - Sun 6 Nov
+event_date: 11am-3pm Sat 5 & Sun 6 Nov
 host:
   name: Wellington Embroidery Guild in partnership with Old St Pauls
   blurb: "The Wellington Embroidery Guild is a society founded just over 55 years
