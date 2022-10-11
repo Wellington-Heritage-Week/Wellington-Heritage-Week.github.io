@@ -29,7 +29,7 @@ As an ode to one of Wellington’s most renowned writers, *Woman of Words* is an
 \
 **The Katherine Mansfield House & Garden are hosting a guided walking tour at this years festival! Explore the Thorndon the Mansfield knew and the traces of her legacy that remain in the landscape today. Book the tour [here](https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2022) or visit our events page to see more!** 
 
-![Katherine Mansfield statue](/assets/uploaded/303963741_480358863689903_790576686243118041_n.jpg)
+
 
 *SOURCES:*
 
