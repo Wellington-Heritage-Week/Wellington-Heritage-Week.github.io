@@ -27,3 +27,5 @@ Wellington Heritage Week thanks the many event hosts and other supporters who he
 “The festival is this community; we only exist because of the contributions of the people, groups, and agencies of Wellington” says Hockley. “Thank you to everyone for your patience as we navigated covid, schedule changes, and a change of team members.”
 
 For full details of events and bookings go to the Wellington Heritage Week website.
+
+*A﻿lso posted on [Scoop.co.nz](https://wellington.scoop.co.nz/?p=148051)*
