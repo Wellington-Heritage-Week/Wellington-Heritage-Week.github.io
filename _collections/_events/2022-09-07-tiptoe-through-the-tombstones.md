@@ -28,14 +28,14 @@ The cemetery tour will be followed by an exhibition tour of the new displays in 
 
 <br>
 
-**This event is full booked.**
+**This event is fully booked.**
 
 <a style="display: none" href="https://www.eventfinda.co.nz/2022/tiptoe-through-the-tombstones2/wellington" class="button">Book the tour</a>
 
 While this event is now sold out, you can email [katfor17@gmail.com](mailto:katfor17@gmail.com) with your preferred time & date to be put on a waiting list.
 
 
-A self-guided Memorial Trail walk is also available. Download the map/guide [here](https://boltoncemetery.org.nz/tours-and-maps/) and you’re ready to be roll.
+A self-guided Memorial Trail walk is also available. Download the map/guide [here](https://boltoncemetery.org.nz/tours-and-maps/) and you’ll be ready to roll.
 
 **Location:** Bolton street Cemetery, Kinross St entrance. Tour ends at the Bolton Street Cemetery Museum.
 
