@@ -7,6 +7,7 @@ description: This is a special opportunity to learn about Bolton Street
   museum.
 img: /assets/uploaded/22_bolton_st_cemetery.jpg
 event_date: 2pm Sat 29 Oct & Sat 5 Nov
+booked_out: true
 host:
   name: The Friends of Bolton Street Cemetery & Trestle Creative
   blurb: The cemetery tour will be hosted by the Friends of Bolton Street
@@ -27,9 +28,14 @@ The cemetery tour will be followed by an exhibition tour of the new displays in 
 
 <br>
 
-**Booking is required.**
+**This event is full booked.**
 
-<a href="https://www.eventfinda.co.nz/2022/tiptoe-through-the-tombstones2/wellington" class="button">Book the tour</a>
+<a style="display: none" href="https://www.eventfinda.co.nz/2022/tiptoe-through-the-tombstones2/wellington" class="button">Book the tour</a>
+
+While this event is now sold out, you can email (katfor17@gmail.com)[mailto:katfor17@gmail.com] with your preferred time & date to be put on a waiting list.
+
+
+A self-guided Memorial Trail walk is also available. Download the map/guide from  (https://boltoncemetery.org.nz/tours-and-maps/)[https://boltoncemetery.org.nz/tours-and-maps/] and you’re ready to be roll.
 
 **Location:** Bolton street Cemetery, Kinross St entrance. Tour ends at the Bolton Street Cemetery Museum.
 
