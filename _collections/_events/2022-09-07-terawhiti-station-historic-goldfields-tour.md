@@ -34,7 +34,7 @@ To join this tour, you must have access to a 4WD vehicle, as it will involve dri
 
 **This tour is fully booked.**
 
-While this event is fully booked, you can join an interest list for next a 2023 repeat by contacting David Watt at [dwatt@heritage.org.nz](mailto:dwatt@heritage.org.nz) or [027 2466 339](tel:+64272466339).
+While this event is fully booked, you can join an interest list for a 2023 repeat by contacting David Watt at [dwatt@heritage.org.nz](mailto:dwatt@heritage.org.nz) or [027 2466 339](tel:+64272466339).
 
 **Location:** Terawhiti Station 220 South Makara Rd, Wellington
 
