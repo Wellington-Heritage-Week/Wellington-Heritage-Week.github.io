@@ -2,11 +2,12 @@
 layout: post
 title: The Evolution of New Zealand’s Domestic Interiors (1840s to 1914)
 location: Wellington City
-description: Join us to hear Victoria University PhD candidate Eva
+description: SOLD OUT. Join us to hear Victoria University PhD candidate Eva
   Forster-Garbutt discuss the changes in the interior layout and design of our
   early homes, between 1840 and 1914.
 img: /assets/uploaded/22_nairn_st.jpg
 event_date: 1pm Sat 5 Nov
+booked_out: true
 host:
   email: "museumtours@experiencewellington.org.nz "
   name: Experience Wellington
@@ -30,9 +31,10 @@ The talk will be followed by a guided tour of Nairn St Cottage.
 
 <br>
 
-**Booking is required.**
+**This event is fully booked.
 
-<a href="https://nz.patronbase.com/_MuseumsWellington/Performances/List?prod_id=HW01&pb_promotion_code=CODE&utm_source=Facebook&utm_medium=Listing&utm_campaign=HW" class="button">Book your spot</a>
+<a style="display: none;" href="https://nz.patronbase.com/_MuseumsWellington/Performances/List?prod_id=HW01&pb_promotion_code=CODE&utm_source=Facebook&utm_medium=Listing&utm_campaign=HW" class="button">Book your spot</a>
+I﻿f you are interested in joining a waitlist for this event, please email [museumtours@experiencewellington.org.nz](museumtours@experiencewellington.org.nz), or call Wellington Museum. This talk may be run again in future.
 
 **Location:** Nairn Street Cottage,  68 Nairn Street, Mount Cook, Wellington 6011
 
