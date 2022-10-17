@@ -2,10 +2,11 @@
 layout: post
 title: "Katherine Mansfield's Thorndon: Guided Walking Tour"
 location: Wellington City
-description: Explore the Thorndon that Katherine Mansfield knew and the traces
-  of her legacy that remain in the landscape today.
+description: SOLD OUT. Explore the Thorndon that Katherine Mansfield knew and
+  the traces of her legacy that remain in the landscape today.
 img: /assets/uploaded/22_katherine.jpg
 event_date: 10am Tue 25 Oct & Sat 29 Oct
+booked_out: true
 host:
   name: Katherine Mansfield House & Garden and the National Library
   blurb: Katherine Mansfield House & Garden is a Category 1 Historic Place that
@@ -29,9 +30,9 @@ Please note: This is a guided walking tour which will involve approx. 30 minutes
 
 <br>
 
-**Booking is required.**
+**This event is fully booked.**
 
-<a href="https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2022" class="button">Book the tour</a>
+<a style="display: none;" href="https://www.katherinemansfield.com/event/katherine-mansfields-thorndon-guided-walking-tour-2022" class="button">Book the tour</a>
 
 **Location:** Katherine Mansfield House & Garden, 25 Tinakori Road, Thorndon, Wellington
 
