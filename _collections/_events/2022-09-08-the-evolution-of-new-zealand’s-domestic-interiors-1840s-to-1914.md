@@ -34,7 +34,7 @@ The talk will be followed by a guided tour of Nairn St Cottage.
 **This event is fully booked.**
 
 <a style="display: none;" href="https://nz.patronbase.com/_MuseumsWellington/Performances/List?prod_id=HW01&pb_promotion_code=CODE&utm_source=Facebook&utm_medium=Listing&utm_campaign=HW" class="button">Book your spot</a>
-I﻿f you are interested in joining a waitlist for this event, please email [museumtours@experiencewellington.org.nz](museumtours@experiencewellington.org.nz), or call Wellington Museum. This talk may be run again in future.
+I﻿f you are interested in joining a waitlist for this event, please email [museumtours@experiencewellington.org.nz](mailto:museumtours@experiencewellington.org.nz), or call Wellington Museum. This talk may be run again in future.
 
 **Location:** Nairn Street Cottage,  68 Nairn Street, Mount Cook, Wellington 6011
 
