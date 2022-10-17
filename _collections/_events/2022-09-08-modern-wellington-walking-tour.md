@@ -2,11 +2,12 @@
 layout: post
 title: Modern Wellington Walking Tour
 location: Wellington City
-description: Hear the stories of Wellington’s important mid- to late-twentieth
-  century buildings, structures and places on the Modern Wellington Walking
-  Tour.
+description: SOLD OUT. Hear the stories of Wellington’s important mid- to
+  late-twentieth century buildings, structures and places on the Modern
+  Wellington Walking Tour.
 img: /assets/uploaded/22_modern_wellington.jpg
 event_date: 1pm Sun 30 Oct
+booked_out: true
 host:
   name: Heritage New Zealand Pouhere Taonga
   blurb: Heritage New Zealand Pouhere Taonga is New Zealand’s leading heritage
@@ -29,9 +30,9 @@ The tour will take approximately 1.5 hours, so comfortable walking shoes and wea
 
 <br>
 
-**Booking is required.**
+**This event is fully booked.**
 
-Please email [information@heritage.org.nz](mailto:information@heritage.org.nz) to book this tour. Places are strictly limited and please be sure to specify you want to attend the Modern Wellington Walking Tour when you contact us at Heritage New Zealand Pouhere Taonga.
+W﻿hile this tour is fully booked, you can still email [information@heritage.org.nz](mailto:information@heritage.org.nz) to join the waitlist for this event. Please be sure to specify you want to attend the Modern Wellington Walking Tour when you contact us at Heritage New Zealand Pouhere Taonga.
 
 **Location:** Public Trust Building, 131 Lambton Quay, Wellington
 
