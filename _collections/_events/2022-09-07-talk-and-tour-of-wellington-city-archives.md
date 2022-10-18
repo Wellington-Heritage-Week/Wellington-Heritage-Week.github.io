@@ -5,7 +5,7 @@ location: Wellington City
 description: Come along to Wellington City Archives for an insightful talk about
   our collections followed by a behind the scenes tour.
 img: /assets/uploaded/stacks-landscape.jpg
-event_date: 10am, 11am, 12pm Mon 24 Oct & Sat 5 Nov
+event_date: Various times, Mon 24 Oct & Sat 5 Nov
 host:
   name: Wellington City Archives
   blurb: The Wellington City Archives preserves records of the Wellington City
@@ -23,6 +23,8 @@ Established in 1994, the Council archives were housed in a single purpose-built 
 
 *Numbers are limited so book early to secure your place.* 
 
+***UPDATE:** The Monday 24th October 12pm tour has been cancelled, and anyone booked on it will be moved in to the 11am tour instead. There are still spaces available on other tour times, so get in quick!*
+
 <br>
 
 **Booking is required.**
@@ -30,6 +32,8 @@ Established in 1994, the Council archives were housed in a single purpose-built 
 To book this tour, please contact Wellington City Archives at [archives@wcc.govt.nz](mailto:archives@wcc.govt.nz) or [04 801 2096](tel:+6448012096).
 
 **Location:** 28 Barker Street, Te Aro
+
+**Times:** 1﻿0am & 11am Monday 24th October. 10am, 11am, 12pm Saturday 5th November.
 
 **Duration:** 1 Hour
 
