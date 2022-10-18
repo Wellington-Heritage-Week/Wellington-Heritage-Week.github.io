@@ -2,10 +2,11 @@
 layout: post
 title: Stansborough Historic Mill Tour – Past, Present and Future in Action
 location: Petone
-description: Experience Stansborough’s historic looms in action in this tour of
-  Stansborough’s Petone based mill.
+description: SOLD OUT. Experience Stansborough’s historic looms in action in
+  this tour of Stansborough’s Petone based mill.
 img: /assets/uploaded/22_petone_settlers.jpg
 event_date: 1pm Thu 27 Oct
+booked_out: true
 host:
   name: Petone Settlers Museum & Stansborough
   blurb: Located on the shores of Wellington harbour, the Petone Settlers Museum
@@ -32,9 +33,9 @@ This tour is held in connection with 'History Repeats: Petone Woollen Blankets' 
 
 <br>
 
-**Booking is required.**
+**This event is sold out.**
 
-<a href="https://www.eventbrite.co.nz/e/stansborough-historic-mill-tour-past-present-and-future-in-action-tickets-419309815947" class="button">Book the tour</a>
+<a style="display: none" href="https://www.eventbrite.co.nz/e/stansborough-historic-mill-tour-past-present-and-future-in-action-tickets-419309815947" class="button">Book the tour</a>
 
 **Location:** 68 Fitzherbert Street, Petone, Lower Hutt
 
