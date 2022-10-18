@@ -33,7 +33,7 @@ This tour is held in connection with 'History Repeats: Petone Woollen Blankets' 
 
 <br>
 
-**This event is sold out.**
+**This event is fully booked.**
 
 <a style="display: none" href="https://www.eventbrite.co.nz/e/stansborough-historic-mill-tour-past-present-and-future-in-action-tickets-419309815947" class="button">Book the tour</a>
 
