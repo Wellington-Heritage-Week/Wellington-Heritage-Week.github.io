@@ -2,10 +2,11 @@
 layout: post
 title: Scandalous Stories Walking Tour
 location: Wellington City
-description: Discover stories of scandal and scurrilousness from Wellington’s
-  past with Heritage New Zealand Pouhere Taonga.
+description: SOLD OUT. Discover stories of scandal and scurrilousness from
+  Wellington’s past with Heritage New Zealand Pouhere Taonga.
 img: /assets/uploaded/22_scandal.jpg
 event_date: 12:30pm Thu 3 & Fri 4 Nov
+booked_out: true
 host:
   name: Heritage New Zealand Pouhere Taonga
   blurb: Heritage New Zealand Pouhere Taonga is New Zealand’s leading heritage
@@ -26,9 +27,9 @@ The tour will take approximately 1 hour and includes stairs and hilly terrain. C
 
 <br>
 
-**Booking is required.**
+**This event is now fully booked.**
 
-<a href="https://www.eventbrite.co.nz/e/400537928727" class="button">Book the tour</a>
+<a style="display: none" href="https://www.eventbrite.co.nz/e/400537928727" class="button">Book the tour</a>
 
 **Location:** Turnbull House, 25 Bowen St, Wellington Central
 
