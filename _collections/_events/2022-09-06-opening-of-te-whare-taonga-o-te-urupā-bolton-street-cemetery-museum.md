@@ -2,8 +2,8 @@
 layout: post
 title: Opening of Te Whare Taonga o te Urupā - Bolton Street Cemetery Museum
 location: Wellington City
-description: Come check out the newly renovated Te Whare Taonga o te Urupā -
-  Bolton Street Cemetery Museum.
+description: CANCELLED. Come check out the newly renovated Te Whare Taonga o te
+  Urupā - Bolton Street Cemetery Museum.
 img: /assets/uploaded/22-bolton-street-cemetery-museum.jpg
 event_date: 10am-4pm Sat 29 Oct - Sun 6 Nov
 book_promotion: true
@@ -16,19 +16,8 @@ host:
 tag:
   - Exhibition/Museum
 ---
-**Come check out the newly renovated Te Whare Taonga o te Urupā - Bolton Street Cemetery Museum.**
+**Unfortunately, this event has been postponed, and will not be occuring during Wellington Heritage Week.**
 
-The new self guided display is open from 10am-4pm between the 29th October until 6th November.
+K﻿eep an eye out on Wellington Garden's social media channels, or on their website, to find out when the exhibit will open!
 
-<br>
-
-**No booking required.**
-
-
-<a href="https://wellingtongardens.nz/events" class="button">Wellington Gardens Events</a>
-
-**Location:** Te Whare Taonga o te Urupā - Bolton Street Cemetery Museum, Bolton Street Entrance
-
-**Cost:** Free
-
-**Health & Safety:** Be aware of the slight step at the entrance.
+I﻿f you would like to see more events hosted by Wellington Gardens, check out their website [here](https://wellingtongardens.nz/events).
