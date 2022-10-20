@@ -6,6 +6,7 @@ description: Come check out the newly renovated Te Whare Taonga o te Urupā -
   Bolton Street Cemetery Museum.
 img: /assets/uploaded/22-bolton-street-cemetery-museum.jpg
 event_date: 10am-4pm Sat 29 Oct - Sun 6 Nov
+book_promotion: true
 host:
   name: Wellington Gardens
   blurb: Protectors of heritage, cultivators of experiences, and sowers of
