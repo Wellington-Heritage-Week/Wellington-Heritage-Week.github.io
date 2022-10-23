@@ -7,6 +7,7 @@ description: An easy discussion stroll from Post Office Square, along the
   Quay and finishing at Cable Car Lane.
 img: /assets/uploaded/22_walks_wide.jpg
 event_date: 10:30am Wed 26 Oct
+booked_out: true
 host:
   name: Walk Wellington Inc
   blurb: Walk Wellington Inc is a group of volunteers who enjoy showing their city
@@ -26,9 +27,7 @@ tag:
 
 <br>
 
-**Booking is required.**
-
-To book this tour, please contact Walk Wellington Inc at [bookings@walkwellington.org.nz](mailto:bookings@walkwellington.org.nz) 
+**This event is fully booked.**
 
 **Location:** Starting from the historic "Red Phone Box" in Post Office Square opposite Queen's Wharf. 
 
