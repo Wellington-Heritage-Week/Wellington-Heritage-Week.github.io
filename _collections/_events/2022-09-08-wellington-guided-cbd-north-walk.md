@@ -2,8 +2,8 @@
 layout: post
 title: Wellington - Guided "CBD North" Walk
 location: Wellington City
-description: An easy discussion stroll from Post Office Square, along the
-  waterfront to the Railway Station, Parliament area, Supreme Court, Lambton
+description: SOLD OUT. An easy discussion stroll from Post Office Square, along
+  the waterfront to the Railway Station, Parliament area, Supreme Court, Lambton
   Quay and finishing at Cable Car Lane.
 img: /assets/uploaded/22_walks_wide.jpg
 event_date: 10:30am Wed 26 Oct
