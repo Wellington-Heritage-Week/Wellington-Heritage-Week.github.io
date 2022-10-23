@@ -2,10 +2,12 @@
 layout: post
 title: Historic Petone Walking Tour
 location: Petone
-description: The session will cover themes of Petone's early settlement,
-  industrialisation, and the history and development of Jackson Street.
+description: SOLD OUT. The session will cover themes of Petone's early
+  settlement, industrialisation, and the history and development of Jackson
+  Street.
 img: /assets/uploaded/petone-walking-tour.jpg
 event_date: 1pm Fri 28 & Sun 30 Oct
+booked_out: true
 host:
   name: Petone Historical Society
   blurb: Petone Historical Society Inc has been active since the late 1980s. Its
@@ -28,11 +30,9 @@ Come and explore the fascinating history of this special place with people who a
 
 <br>
 
-**Booking is required.**
+**This event is fully booked.**
 
-*﻿*The Friday tour is fully booked, but spaces remain on the Sunday walk. Get in quick!**
-
-To book this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
+If you wish to join a waitlist for this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com).
 
 **Location:** Petone Community House, 6 Britannia Street, Petone
 
