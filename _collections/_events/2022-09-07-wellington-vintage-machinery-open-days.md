@@ -32,7 +32,9 @@ The building is one of the few remaining dairy factories designed by architects 
 
 <br>
 
-**No booking required.**
+*﻿*Bookings preferred.**
+
+T﻿o book a tour, please get in touch with the team by emailing [peteblackler64@gmail.com](mailto:peteblackler64@gmail.com) or [allan.the.labrat@gmail.com](mailto:allan.the.labrat@gmail.com).
 
 **Location:** 155a Mangaroa Hill Rd, Upper Hutt
 
