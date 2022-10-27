@@ -35,7 +35,9 @@ Bring your own lunch; a cup of tea will be available at the Soup Kitchen.
 
 **Booking is required.**
 
-To make a booking, please contact us at [heritagecentre@compassion.org.nz](mailto:heritagecentre@compassion.org.nz) or [(04) 383 7769](tel:043837769).
+T﻿he Saturday 29th Oct tour is currently sold out, but places remain on the Tuesday 1st Nov tour.
+
+To make a booking, or join a waitlist, please contact us at [heritagecentre@compassion.org.nz](mailto:heritagecentre@compassion.org.nz) or [(04) 383 7769](tel:043837769).
 
 **Location:** Begins at Pukeahu Education Centre, 191 Tory Street, Te Aro, Wellington 6011
 
