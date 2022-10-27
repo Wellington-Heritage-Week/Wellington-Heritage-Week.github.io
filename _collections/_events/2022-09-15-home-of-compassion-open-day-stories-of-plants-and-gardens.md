@@ -23,31 +23,18 @@ tag:
 ---
 **Stories of plants and gardens weave through the history of Suzanne Aubert Meri Hōhepa and the Sisters of Compassion. Join us for an Open Day celebrating this rich heritage at the Home of Compassion in Island Bay, featuring:**
 
-**11am—12pm The Ecological and Human History of Manawa Karioi**
-
+**11am—12pm The Ecological and Human History of Manawa Karioi**\
 Talk and Q&A with Chris Livesey from Manawa Karioi on the history of the slopes behind the Home of Compassion, including stories of Suzanne Aubert Meri Hōhepa and the Sisters of Compassion.
 
- 
-
-**1pm—2pm Narrative Hīkoi**
-
+**1pm—2pm Narrative Hīkoi**\
 Walk around the grounds of the Home of Compassion with Sr Sue Cosgrove, tracing the steps of a future landscaped Hīkoi with stations to reflect on the life and legacy of Suzanne Aubert Meri Hōhepa
 
- 
-
-**1pm-1:30pm The plants of Suzanne Aubert Meri Hōhepa**
-
+**1pm-1:30pm The plants of Suzanne Aubert Meri Hōhepa**\
 Interactive session for children discovering some of the plants that Suzanne Aubert Meri Hōhepa knew about and used to help people.
 
- 
-
-**All Day (10am-2pm)**
-
-Explore displays featuring over 100 years of gardening stories of the Sisters of Compassion and discover the tranquil gardens and grounds with a self-guided trail.
-
+**All Day (10am-2pm)**\
+Explore displays featuring over 100 years of gardening stories of the Sisters of Compassion and discover the tranquil gardens and grounds with a self-guided trail.\
 Entertain the family with a treasure garden trail for children and craft activities.
-
- 
 
 You are welcome to bring a picnic to enjoy on the grounds.
 
@@ -60,5 +47,3 @@ You are welcome to bring a picnic to enjoy on the grounds.
 **Duration:** 10am-2pm
 
 **Cost:** Free / Koha
-
-
