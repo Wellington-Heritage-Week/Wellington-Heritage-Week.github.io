@@ -23,8 +23,6 @@ Established in 1994, the Council archives were housed in a single purpose-built 
 
 *Numbers are limited so book early to secure your place.* 
 
-***UPDATE:** The Monday 24th October 12pm tour has been cancelled, and anyone booked on it will be moved in to the 11am tour instead. There are still spaces available on other tour times, so get in quick!*
-
 <br>
 
 **Booking is required.**
@@ -33,10 +31,10 @@ To book this tour, please contact Wellington City Archives at [archives@wcc.govt
 
 **Location:** 28 Barker Street, Te Aro
 
-**Times:** 1﻿0am (fully booked) & 11am Monday 24th October. 10am, 11am, 12pm Saturday 5th November.
+**Times:** 10am (fully booked), 11am, 12pm Saturday 5th November.
 
 **Duration:** 1 Hour
 
 **Cost:** Free
 
-**Health & Safety:** Masks required. No open toed or high heeled shoes. Further information will be provided to visitors on the day.
+**Health & Safety:** Masks encouraged. No open toed or high heeled shoes. Further information will be provided to visitors on the day.
