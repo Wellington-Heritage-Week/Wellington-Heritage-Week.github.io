@@ -2,11 +2,12 @@
 layout: post
 title: "Friends of Karori Cemetery: Off the Beaten Track Tour"
 location: Karori
-description: Off the Beaten Track Tour. Stretch your legs on this tour! Off the
-  Beaten Track takes you off the main road, exploring a bit further into the
-  older sections of Karori Cemetery.
+description: SOLD OUT. Off the Beaten Track Tour. Stretch your legs on this
+  tour! Off the Beaten Track takes you off the main road, exploring a bit
+  further into the older sections of Karori Cemetery.
 img: /assets/uploaded/22_karori_cemetery.jpg
 event_date: 10:30am Sun 30 Oct
+booked_out: true
 host:
   name: Friends of Karori Cemetery
   blurb: We are a group of volunteers who seek to promote public interest in the
@@ -27,9 +28,9 @@ Moderate fitness and surefootedness is required, and this tour is not suitable f
 
 <br>
 
-**Booking is required.**
+*﻿*This event is fully booked.**
 
-<a href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-off-the-beaten-track-tour" class="button">Book the tour</a>
+<a style="display: none;" href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-off-the-beaten-track-tour" class="button">Book the tour</a>
 
 **Location:** The Shelter, Karori Cemetery, 79 Old Karori Road, Karori
 
