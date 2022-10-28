@@ -18,7 +18,7 @@ tag:
 ---
 **Come check out the newly renovated Te Whare Taonga o te Urupā - Bolton Street Cemetery Museum.**
 
-The new self guided display is open from 10am-4pm between the 29th October until 6th November.
+The new self guided display is open from 10am-4pm between the 29th October until 6th November. The display will also remain open after Wellington Heritage Week has concluded.
 
 <br>
 
