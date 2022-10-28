@@ -2,9 +2,9 @@
 layout: post
 title: "Friends of Karori Cemetery: Murder and Mayhem Tour"
 location: Karori
-description: Murder and Mayhem Tour. Karori Cemetery is the final resting place
-  for people whose lives ended tragically – from drowning, from murder, and from
-  accidents of all kinds.
+description: SOLD OUT. Murder and Mayhem Tour. Karori Cemetery is the final
+  resting place for people whose lives ended tragically – from drowning, from
+  murder, and from accidents of all kinds.
 img: /assets/uploaded/22_karori_cemetery.jpg
 event_date: 1:30pm Sun 30 Oct
 host:
@@ -25,9 +25,9 @@ The Murder and Mayhem Tour includes the story of three militia men killed in a g
 
 <br>
 
-**Booking is required.**
+*﻿*This event is fully booked.**
 
-<a href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-murder-and-mayhem-tour" class="button">Book the tour</a>
+<a style="display: none;" href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-murder-and-mayhem-tour" class="button">Book the tour</a>
 
 **Location:** The Shelter, Karori Cemetery, 79 Old Karori Road, Karori
 
