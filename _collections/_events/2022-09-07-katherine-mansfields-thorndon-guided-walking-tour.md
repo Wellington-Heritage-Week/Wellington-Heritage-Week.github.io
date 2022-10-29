@@ -5,7 +5,7 @@ location: Wellington City
 description: SOLD OUT. Explore the Thorndon that Katherine Mansfield knew and
   the traces of her legacy that remain in the landscape today.
 img: /assets/uploaded/22_katherine.jpg
-event_date: 10am Tue 25 Oct & Sat 29 Oct
+event_date: 10am Tue 25 Oct & Sat 5 Nov
 booked_out: true
 host:
   name: Katherine Mansfield House & Garden and the National Library
@@ -27,6 +27,8 @@ Explore the Thorndon that Katherine Mansfield knew and the traces of her legacy 
 A collaboration between Katherine Mansfield House & Garden and the National Library Te Puna Mātauranga o Aotearoa. With thanks to Old St Paul’s.
 
 Please note: This is a guided walking tour which will involve approx. 30 minutes of walking on flat ground with frequents stops. Participants are encouraged to wear comfortable shoes and bring appropriate protection from sun and rain. If you have accessibility requirements, please contact Katherine Mansfield House & Garden to discuss.
+
+*﻿NOTE: This event was originally running on Saturday 29th October, but has been postponed to Saturday 5th November due to weather. Everyone booked on the Saturday 29th tour is now booked on the Saturday 5th tour.*
 
 <br>
 
