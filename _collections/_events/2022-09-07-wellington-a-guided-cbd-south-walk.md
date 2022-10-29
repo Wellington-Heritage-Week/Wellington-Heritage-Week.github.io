@@ -7,7 +7,7 @@ description: An easy discussion stroll from Post Office Square to Old Bank
   Angels, Manners and Cuba Street to the waterfront to finish at Chaffers
   Marina.
 img: /assets/uploaded/22_walks_wide.jpg
-event_date: 2pm Sat 29 Oct
+event_date: 2pm Sat 5 Nov
 host:
   name: Walk Wellington Inc
   blurb: Walk Wellington Inc is a group of volunteers who enjoy showing their city
@@ -23,6 +23,8 @@ tag:
 *Please arrive by 1:50pm for a 2pm start.*
 
 *This walk is not recommended for people in wheelchairs or with mobility issues.*
+
+*﻿This tour has been postponed from 29th Oct to 5th Nov.*
 
 <br>
 
