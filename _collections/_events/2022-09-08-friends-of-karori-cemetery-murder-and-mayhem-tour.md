@@ -7,6 +7,7 @@ description: SOLD OUT. Murder and Mayhem Tour. Karori Cemetery is the final
   murder, and from accidents of all kinds.
 img: /assets/uploaded/22_karori_cemetery.jpg
 event_date: 1:30pm Sun 30 Oct
+booked_out: true
 host:
   name: Friends of Karori Cemetery
   blurb: We are a group of volunteers who seek to promote public interest in the
