@@ -28,7 +28,7 @@ Moderate fitness and surefootedness is required, and this tour is not suitable f
 
 <br>
 
-*﻿*This event is fully booked.**
+**This event is fully booked.**
 
 <a style="display: none;" href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-off-the-beaten-track-tour" class="button">Book the tour</a>
 
