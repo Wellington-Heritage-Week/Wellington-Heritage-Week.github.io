@@ -26,7 +26,7 @@ The Murder and Mayhem Tour includes the story of three militia men killed in a g
 
 <br>
 
-*﻿*This event is fully booked.**
+**This event is fully booked.**
 
 <a style="display: none;" href="https://events.humanitix.com/friends-of-karori-cemetery-wellington-heritage-week-murder-and-mayhem-tour" class="button">Book the tour</a>
 
