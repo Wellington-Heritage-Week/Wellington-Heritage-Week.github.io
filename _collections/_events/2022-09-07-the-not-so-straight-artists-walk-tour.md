@@ -7,6 +7,7 @@ description: SOLD OUT. Join this walk tour of inner Wellington as we explore
   who are in some way related to Rainbow LGBTI+ communities.
 img: /assets/uploaded/22_not-so-straight-2.jpg
 event_date: 1pm Sun 6 Nov
+booked_out: true
 host:
   name: Walk Tours NZ
   blurb: Walk Tours NZ is a volunteer group that offers free, accessible,
