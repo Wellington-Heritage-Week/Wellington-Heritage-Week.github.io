@@ -2,9 +2,9 @@
 layout: post
 title: The Not-So-Straight Artists Walk Tour
 location: Wellington City
-description: Join this walk tour of inner Wellington as we explore some of the
-  locations and stories associated with artists, writers, musicians who are in
-  some way related to Rainbow LGBTI+ communities.
+description: SOLD OUT. Join this walk tour of inner Wellington as we explore
+  some of the locations and stories associated with artists, writers, musicians
+  who are in some way related to Rainbow LGBTI+ communities.
 img: /assets/uploaded/22_not-so-straight-2.jpg
 event_date: 1pm Sun 6 Nov
 host:
@@ -24,9 +24,9 @@ We’ll feature writers Katherine Mansfield and Frank Sargeson, artists Dorothy 
 
 <br>
 
-**Booking is required.**
+**This event is fully booked.**
 
-<a href="https://taonga.nz/walktours/" class="button">Book the tour</a>
+<a style="display: none;" href="https://taonga.nz/walktours/" class="button">Book the tour</a>
 
 **Location:** Start location will be given in your registration email.
 
