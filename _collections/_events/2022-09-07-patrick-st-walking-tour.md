@@ -7,6 +7,7 @@ description: Join local residents for a walk down Petone's historic Patrick St,
   Act, and a protected heritage area.
 img: /assets/uploaded/patrick-st-walking-tour.jpg
 event_date: 10am Sat 29 Oct & Sat 5 Nov
+booked_out: true
 host:
   name: Petone Historical Society
   blurb: "Petone Historical Society Inc has been active since the late 1980s. Its
@@ -28,9 +29,9 @@ Patrick Street is part of the Heretaunga Settlement Workers' Dwellings Historic 
 
 <br>
 
-**Booking is required.**
+**T﻿his event is fully booked.**
 
-To book this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
+To join a waitlist for this tour, please contact Petone Historical Society at [petonehistories@gmail.com](mailto:petonehistories@gmail.com)
 
 **Location:** Meet on the corner of Patrick St and Jackson St, Petone
 
