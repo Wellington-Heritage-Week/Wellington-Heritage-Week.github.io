@@ -31,7 +31,7 @@ To book this tour, please contact Wellington City Archives at [archives@wcc.govt
 
 **Location:** 28 Barker Street, Te Aro
 
-**Times:** 10am (fully booked), 11am (fully booked), 12pm Saturday 5th November.
+**Times:** 1﻿0am (1 spot left), 11am (1 spot left), 12pm (5 spots left) Saturday 5th November.
 
 **Duration:** 1 Hour
 
