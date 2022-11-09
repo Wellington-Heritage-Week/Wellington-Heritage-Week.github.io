@@ -8,4 +8,11 @@ sitemap: false
 {% comment %}{% include hotels.html %}{% endcomment %}
 {% comment %} NOTE: This top input is for when earlybird is the only event list on the site {% endcomment %}
 {% comment %}{% include events.html events_title="You've got early access to our events!" header_intro="Kia ora e hoa! Take a sneak peek at our exciting 2022 lineup, and book early for events with limited spaces. Thank you for subscribing to our newsletter." %}{% endcomment %}
-{% include events.html events_title="2022 Events" header_intro="Kia ora e hoa! Browse our events here, and make sure to book early for events with limited spaces." %}
+{% if site.data.settings.show_events %}
+  {% include events.html events_title="2022 Events" header_intro="Kia ora e hoa! Browse our events here, and make sure to book early for events with limited spaces." %}
+{% else %}
+  <div class="section-title">
+    <h1>There are no events to show right now</h1>
+    <p>Keep an eye out on our website and social media to find out when they will be available.</p>
+  </div>
+{% endif %}

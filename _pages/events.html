@@ -2,7 +2,7 @@
 layout: blog_landing
 title: Events
 permalink: /events.html
-sitemap: true
+sitemap: false
 ---
 
 {% if site.data.settings.show_hotel %}
@@ -11,4 +11,9 @@ sitemap: true
 
 {% if site.data.settings.show_events %}
   {% include events.html events_title="2022 Events" header_intro="Kia ora e hoa! Browse our events here, and make sure to book early for events with limited spaces." %}
+{% else %}
+  <div class="section-title">
+    <h1>There are no events to show right now</h1>
+    <p>Keep an eye out on our website and social media to find out when they will be available.</p>
+  </div>
 {% endif %}
