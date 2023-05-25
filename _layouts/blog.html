@@ -40,9 +40,10 @@ layout: default
   </article> <!-- End Section Post -->
   <section class="recent_box">
     <div class="post_wrapper">
-      <h2 class="recent_title">Recent posts</h2>
+      <h2 class="recent_title">Other posts</h2>
       <div class="recent_list">
-        {% for blog in site.blog offset:0 limit:6 %}
+        {% assign random_posts = site.blog | sample: 6 %}
+        {% for blog in random_posts %}
           {% if blog.title %}
             <a href="{{ root_url }}{{ blog.url }}" class="recent_item" style="background-image: url( {{ blog.img | prepend: site.baseurl}} )"><span>{{ blog.title }}</span></a>
           {% endif %}
