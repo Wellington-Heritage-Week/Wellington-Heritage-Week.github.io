@@ -3,7 +3,7 @@ layout: form
 title: 2023 - Event Host Registration of Interest Form
 intro: Register your interest in being an Event Host for Wellington Heritage
   Week 2023, running 23 Oct - 5 Nov. Event Host Applications must be submitted separately.
-submissions_open: true
+submissions_open: false
 closed_message: >-
   Event Host registrations are now **closed** for Wellington Heritage Week 2023,
   but you can still submit an application to be an event host before 10pm July
