@@ -3,7 +3,7 @@ layout: form
 title: 2023 - Event Host Application Form
 intro: Apply to become an Event Host for Wellington Heritage Week 2023, running
   23 Oct - 5 Nov. Applications close 10pm, July 31st, 2023.
-submissions_open: true
+submissions_open: false
 closed_message: >-
   Event Host applications are now **closed** for Wellington Heritage Week 2023,
   as of 10pm, July 31st.
@@ -13,6 +13,9 @@ closed_message: >-
 
 
   We appreciate your patience; you will hear from us soon!
+
+
+  If you were unable to submit this form before the due date, let our team know. We may be able to offer an extension in some circumstances.
 form: <script type="text/javascript" src="https://form.jotform.com/jsform/231419489682872"></script>
 description: Apply to become an Event Host for WHW 2023. Applications close 10pm, Jul 31st.
 tag:
