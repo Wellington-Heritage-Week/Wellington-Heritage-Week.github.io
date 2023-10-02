@@ -25,9 +25,14 @@
 	<link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/assets/css/sass/main.css" | prepend: site.baseurl }}">
 
-	{% if page.redirect_url %}
-		<meta http-equiv="refresh" content="{{ "0; url=https://wellingtonheritagefestival.co.nz" | append: page.redirect_url }}">
-		<link rel="canonical" href="{{ "https://wellingtonheritagefestival.co.nz" | append: page.redirect_url }}" />
+	{% assign redirect_path = page.redirect_url %}
+	{% if redirect_path == null or redirect_path == '' or redirect_path == 'MAINTAIN' %}
+		{% assign redirect_path = page.url %}
 	{% endif %}
+
+	{% unless page.do_not_redirect %}
+		<meta http-equiv="refresh" content="{{ "0; url=https://wellingtonheritagefestival.co.nz" | append: redirect_path }}">
+		<link rel="canonical" href="{{ "https://wellingtonheritagefestival.co.nz" | append: redirect_path }}" />
+	{% endunless %}
 </head>
  
