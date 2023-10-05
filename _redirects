@@ -1,24 +1,24 @@
 # FOR NETLIFY: Redirect pages from what the browser requests to what we serve
 # Using this to 301 redirect anyone to our new website. Some pages excluded.
-/home                https://wellingtonheritagefestival.co.nz/
-/                    https://wellingtonheritagefestival.co.nz/
-/about               https://wellingtonheritagefestival.co.nz/about/
-/index               https://wellingtonheritagefestival.co.nz/
-/index.html          https://wellingtonheritagefestival.co.nz/
-/test                https://wellingtonheritagefestival.co.nz/
+/home                https://www.wellingtonheritagefestival.co.nz/
+/                    https://www.wellingtonheritagefestival.co.nz/
+/about               https://www.wellingtonheritagefestival.co.nz/about/
+/index               https://www.wellingtonheritagefestival.co.nz/
+/index.html          https://www.wellingtonheritagefestival.co.nz/
+/test                https://www.wellingtonheritagefestival.co.nz/
 
 # Redirect all landing pages
-/blog                https://wellingtonheritagefestival.co.nz/blog/
-/forms               https://wellingtonheritagefestival.co.nz/forms/
-/events              https://wellingtonheritagefestival.co.nz/events/
-/working-events      https://wellingtonheritagefestival.co.nz/working-events/
-/earlybird           https://wellingtonheritagefestival.co.nz/early-bird/
-/early-bird          https://wellingtonheritagefestival.co.nz/early-bird/
+/blog                https://www.wellingtonheritagefestival.co.nz/blog/
+/forms               https://www.wellingtonheritagefestival.co.nz/forms/
+/events              https://www.wellingtonheritagefestival.co.nz/events/
+/working-events      https://www.wellingtonheritagefestival.co.nz/working-events/
+/earlybird           https://www.wellingtonheritagefestival.co.nz/early-bird/
+/early-bird          https://www.wellingtonheritagefestival.co.nz/early-bird/
 
 # Link all blog posts, events, and forms to their relevant pages (assume they exist)
-/blog/*                https://wellingtonheritagefestival.co.nz/blog/:splat
-/event/*               https://wellingtonheritagefestival.co.nz/event/:splat
-/form/*                https://wellingtonheritagefestival.co.nz/form/:splat
+/blog/*              https://www.wellingtonheritagefestival.co.nz/blog/:splat
+/event/*             https://www.wellingtonheritagefestival.co.nz/event/:splat
+/form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat
 
 # Direct any remaining traffic
-/*                https://wellingtonheritagefestival.co.nz/:splat
+/*                   https://www.wellingtonheritagefestival.co.nz/:splat
