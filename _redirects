@@ -21,4 +21,5 @@
 /form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat
 
 # Direct any remaining traffic
+*                    https://www.wellingtonheritagefestival.co.nz/
 /*                   https://www.wellingtonheritagefestival.co.nz/:splat
