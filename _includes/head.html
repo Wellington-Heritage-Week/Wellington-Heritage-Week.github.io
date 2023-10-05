@@ -30,9 +30,11 @@
 		{% assign redirect_path = page.url %}
 	{% endif %}
 
+{% comment %}
 	{% unless page.do_not_redirect %}
-		<meta http-equiv="refresh" content="{{ "0; url=https://wellingtonheritagefestival.co.nz" | append: redirect_path }}">
-		<link rel="canonical" href="{{ "https://wellingtonheritagefestival.co.nz" | append: redirect_path }}" />
+		<meta http-equiv="refresh" content="{{ "0; url=https://www.wellingtonheritagefestival.co.nz" | append: redirect_path }}">
+		<link rel="canonical" href="{{ "https://www.wellingtonheritagefestival.co.nz" | append: redirect_path }}" />
 	{% endunless %}
+{% endcomment %}
 </head>
  
