@@ -1,10 +1,18 @@
 # FOR NETLIFY: Redirect pages from what the browser requests to what we serve
 # Using this to 301 redirect anyone to our new website. Some pages excluded.
+
+# Redirect all home type pages
+https://wellingtonheritageweek.co.nz/        https://www.wellingtonheritagefestival.co.nz/    301
+https://www.wellingtonheritageweek.co.nz/    https://www.wellingtonheritagefestival.co.nz/    301
+http://wellingtonheritageweek.co.nz/         https://www.wellingtonheritagefestival.co.nz/    301
+http://www.wellingtonheritageweek.co.nz/     https://www.wellingtonheritagefestival.co.nz/    301
 /home                https://www.wellingtonheritagefestival.co.nz/                 301
 /                    https://www.wellingtonheritagefestival.co.nz/                 301
-/about               https://www.wellingtonheritagefestival.co.nz/about/           301
 /index               https://www.wellingtonheritagefestival.co.nz/                 301
 /index.html          https://www.wellingtonheritagefestival.co.nz/                 301
+
+# Redirect other specific pages
+/about               https://www.wellingtonheritagefestival.co.nz/about/           301
 /test                https://www.wellingtonheritagefestival.co.nz/                 301
 
 # Redirect all landing pages
