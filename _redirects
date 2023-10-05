@@ -1,25 +1,24 @@
 # FOR NETLIFY: Redirect pages from what the browser requests to what we serve
 # Using this to 301 redirect anyone to our new website. Some pages excluded.
-/home                https://www.wellingtonheritagefestival.co.nz/
-/                    https://www.wellingtonheritagefestival.co.nz/
-/about               https://www.wellingtonheritagefestival.co.nz/about/
-/index               https://www.wellingtonheritagefestival.co.nz/
-/index.html          https://www.wellingtonheritagefestival.co.nz/
-/test                https://www.wellingtonheritagefestival.co.nz/
+/home                https://www.wellingtonheritagefestival.co.nz/                 301
+/                    https://www.wellingtonheritagefestival.co.nz/                 301
+/about               https://www.wellingtonheritagefestival.co.nz/about/           301
+/index               https://www.wellingtonheritagefestival.co.nz/                 301
+/index.html          https://www.wellingtonheritagefestival.co.nz/                 301
+/test                https://www.wellingtonheritagefestival.co.nz/                 301
 
 # Redirect all landing pages
-/blog                https://www.wellingtonheritagefestival.co.nz/blog/
-/forms               https://www.wellingtonheritagefestival.co.nz/forms/
-/events              https://www.wellingtonheritagefestival.co.nz/events/
-/working-events      https://www.wellingtonheritagefestival.co.nz/working-events/
-/earlybird           https://www.wellingtonheritagefestival.co.nz/early-bird/
-/early-bird          https://www.wellingtonheritagefestival.co.nz/early-bird/
+/blog                https://www.wellingtonheritagefestival.co.nz/blog/            301
+/forms               https://www.wellingtonheritagefestival.co.nz/forms/           301
+/events              https://www.wellingtonheritagefestival.co.nz/events/          301
+/working-events      https://www.wellingtonheritagefestival.co.nz/working-events/  301
+/earlybird           https://www.wellingtonheritagefestival.co.nz/early-bird/      301
+/early-bird          https://www.wellingtonheritagefestival.co.nz/early-bird/      301
 
 # Link all blog posts, events, and forms to their relevant pages (assume they exist)
-/blog/*              https://www.wellingtonheritagefestival.co.nz/blog/:splat
-/event/*             https://www.wellingtonheritagefestival.co.nz/event/:splat
-/form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat
+/blog/*              https://www.wellingtonheritagefestival.co.nz/blog/:splat      301
+/event/*             https://www.wellingtonheritagefestival.co.nz/event/:splat     301
+/form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat      301
 
 # Direct any remaining traffic
-*                    https://www.wellingtonheritagefestival.co.nz/
-/*                   https://www.wellingtonheritagefestival.co.nz/:splat
+/*                   https://www.wellingtonheritagefestival.co.nz/:splat           301
