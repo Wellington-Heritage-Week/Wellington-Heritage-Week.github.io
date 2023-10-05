@@ -2,31 +2,31 @@
 # Using this to 301 redirect anyone to our new website. Some pages excluded.
 
 # Redirect all home type pages
-https://wellingtonheritageweek.co.nz/        https://www.wellingtonheritagefestival.co.nz/    301
-https://www.wellingtonheritageweek.co.nz/    https://www.wellingtonheritagefestival.co.nz/    301
-http://wellingtonheritageweek.co.nz/         https://www.wellingtonheritagefestival.co.nz/    301
-http://www.wellingtonheritageweek.co.nz/     https://www.wellingtonheritagefestival.co.nz/    301
-/home                https://www.wellingtonheritagefestival.co.nz/                 301
-/                    https://www.wellingtonheritagefestival.co.nz/                 301
-/index               https://www.wellingtonheritagefestival.co.nz/                 301
-/index.html          https://www.wellingtonheritagefestival.co.nz/                 301
+https://wellingtonheritageweek.co.nz/        https://www.wellingtonheritagefestival.co.nz/    301!
+https://www.wellingtonheritageweek.co.nz/    https://www.wellingtonheritagefestival.co.nz/    301!
+http://wellingtonheritageweek.co.nz/         https://www.wellingtonheritagefestival.co.nz/    301!
+http://www.wellingtonheritageweek.co.nz/     https://www.wellingtonheritagefestival.co.nz/    301!
+/home                https://www.wellingtonheritagefestival.co.nz/                 301!
+/                    https://www.wellingtonheritagefestival.co.nz/                 301!
+/index               https://www.wellingtonheritagefestival.co.nz/                 301!
+/index.html          https://www.wellingtonheritagefestival.co.nz/                 301!
 
 # Redirect other specific pages
-/about               https://www.wellingtonheritagefestival.co.nz/about/           301
-/test                https://www.wellingtonheritagefestival.co.nz/                 301
+/about               https://www.wellingtonheritagefestival.co.nz/about/           301!
+/test                https://www.wellingtonheritagefestival.co.nz/                 301!
 
 # Redirect all landing pages
-/blog                https://www.wellingtonheritagefestival.co.nz/blog/            301
-/forms               https://www.wellingtonheritagefestival.co.nz/forms/           301
-/events              https://www.wellingtonheritagefestival.co.nz/events/          301
-/working-events      https://www.wellingtonheritagefestival.co.nz/working-events/  301
-/earlybird           https://www.wellingtonheritagefestival.co.nz/early-bird/      301
-/early-bird          https://www.wellingtonheritagefestival.co.nz/early-bird/      301
+/blog                https://www.wellingtonheritagefestival.co.nz/blog/            301!
+/forms               https://www.wellingtonheritagefestival.co.nz/forms/           301!
+/events              https://www.wellingtonheritagefestival.co.nz/events/          301!
+/working-events      https://www.wellingtonheritagefestival.co.nz/working-events/  301!
+/earlybird           https://www.wellingtonheritagefestival.co.nz/early-bird/      301!
+/early-bird          https://www.wellingtonheritagefestival.co.nz/early-bird/      301!
 
 # Link all blog posts, events, and forms to their relevant pages (assume they exist)
-/blog/*              https://www.wellingtonheritagefestival.co.nz/blog/:splat      301
-/event/*             https://www.wellingtonheritagefestival.co.nz/event/:splat     301
-/form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat      301
+/blog/*              https://www.wellingtonheritagefestival.co.nz/blog/:splat      301!
+/event/*             https://www.wellingtonheritagefestival.co.nz/event/:splat     301!
+/form/*              https://www.wellingtonheritagefestival.co.nz/form/:splat      301!
 
 # Direct any remaining traffic
-/*                   https://www.wellingtonheritagefestival.co.nz/:splat           301
+/*                   https://www.wellingtonheritagefestival.co.nz/:splat           301!
