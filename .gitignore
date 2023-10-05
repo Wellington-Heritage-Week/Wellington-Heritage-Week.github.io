@@ -1,4 +1,5 @@
-_site
+# Ignore these files
+_site/*
 .sass-cache
 .jekyll-metadata
 node_modules/
@@ -7,3 +8,6 @@ yarn.lock
 .*/
 Gemfile
 Gemfile.lock
+
+# Do not ignore these files
+!_site/_redirects
